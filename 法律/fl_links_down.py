@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 
 # 设置ChromeDriver路径和下载目录
 chrome_driver_path = "C:/Program Files/Google/Chrome/Application/chromedriver.exe"
-download_dir = "C:/Users/f1TZOF-/Downloads/Documents/fl"
+download_dir = "C:/Users/f1TZOF-/Downloads/China_Law_Database/法律"
 processed_links_file = os.path.join(download_dir, 'fl_processed_links.json')
 
 INVALID_TEXTS = ["Please enable JavaScript and refresh the page", "JavaScript is not enabled"]

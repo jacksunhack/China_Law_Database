@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 
 # 设置ChromeDriver路径和下载目录
 chrome_driver_path = "C:/Program Files/Google/Chrome/Application/chromedriver.exe"
-download_dir = "C:/Users/f1TZOF-/Downloads/Documents/xzfg"
+download_dir = "C:/Users/f1TZOF-/Downloads/China_Law_Database/行政法规"
 processed_links_file = os.path.join(download_dir, 'xzfg_processed_links.json')
 
 INVALID_TEXTS = ["Please enable JavaScript and refresh the page", "JavaScript is not enabled"]
@@ -226,7 +226,7 @@ def process_link(link):
             filename = os.path.join(download_dir, f"{title}.txt")
             fetch_and_save_iframe_content(iframe_link, filename, original_link)
         else:
-            save_download_link(title, download_link, 'fl_down.json', original_link)
+            save_download_link(title, download_link, 'xzfg_down.json', original_link)
             save_processed_link(original_link)
     except Exception as e:
         print(f"处理链接时发生异常: {str(e)}")
