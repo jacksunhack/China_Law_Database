@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 
 # 设置ChromeDriver路径和下载目录
 chrome_driver_path = "C:/Program Files/Google/Chrome/Application/chromedriver.exe"
-download_dir = "C:/Users/f1TZOF-/Downloads/China_Law_Database/行政法规"
+download_dir = "C:/Users/f1TZOF-/Downloads/China_Law_Database/xzfg"
 processed_links_file = os.path.join(download_dir, 'xzfg_processed_links.json')
 
 INVALID_TEXTS = ["Please enable JavaScript and refresh the page", "JavaScript is not enabled"]
@@ -55,6 +55,8 @@ def is_javascript_disabled(driver):
 
 def capture_screenshot(driver, save_path):
     try:
+        if not os.path.exists(os.path.dirname(save_path)):
+            os.makedirs(os.path.dirname(save_path))  # 如果目录不存在，创建目录
         driver.save_screenshot(save_path)
         return save_path
     except Exception as e:
@@ -62,12 +64,20 @@ def capture_screenshot(driver, save_path):
         return None
 
 def decode_qr_code(image_path):
+    if not os.path.exists(image_path):
+        print(f"文件路径不存在: {image_path}")
+        return None
+    
     try:
         img = cv2.imread(image_path)
+        if img is None:
+            print(f"无法读取图片文件: {image_path}")
+            return None
         decoded_objects = decode(img)
         for obj in decoded_objects:
             qr_data = obj.data.decode('utf-8')
             return qr_data
+        print("未检测到二维码。")
     except Exception as e:
         print(f"二维码识别失败: {str(e)}")
     return None
