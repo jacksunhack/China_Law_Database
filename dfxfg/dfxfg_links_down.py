@@ -10,11 +10,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from pyzbar.pyzbar import decode
 from tqdm import tqdm
-import asyncio
-from aiohttp import ClientSession
-from aiohttp_socks import ProxyConnector
-from bs4 import BeautifulSoup
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from filelock import FileLock
+import requests
+from bs4 import BeautifulSoup
 from contextlib import contextmanager
 
 # 设置ChromeDriver路径和下载目录
@@ -24,15 +23,10 @@ processed_links_file = os.path.join(download_dir, 'dfxfg_processed_links.json')
 
 INVALID_TEXTS = ["Please enable JavaScript and refresh the page", "JavaScript is not enabled"]
 
-# 隧道代理IP和认证信息
-proxy_host = "l293.kdltps.com"  # 主隧道域名
-proxy_port = 15818  # HTTP端口
-
 @contextmanager
 def managed_driver():
     service = Service(chrome_driver_path)
     options = webdriver.ChromeOptions()
-    options.add_argument(f'--proxy-server=http://{proxy_host}:{proxy_port}')  # 设置代理服务器
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--no-sandbox")
@@ -107,6 +101,35 @@ def extract_iframe_link(driver, retries=3):
     print("多次尝试后仍未能成功提取 iframe 链接。")
     return None
 
+def fetch_and_save_iframe_content(iframe_link, filename, original_link):
+    with managed_driver() as driver:
+        try:
+            print(f"请求 iframe 链接内容：{iframe_link}")
+            driver.get(iframe_link)
+            wait_for_page_load(driver)  # 确保页面完全加载
+
+            WebDriverWait(driver, 20).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
+
+            page_source = driver.page_source
+            soup = BeautifulSoup(page_source, 'html.parser')
+            text_content = soup.get_text(separator="\n", strip=True)
+
+            # 检查提取的文本是否无效
+            for invalid_text in INVALID_TEXTS:
+                if invalid_text in text_content:
+                    print(f"提取到无效的文本内容: {invalid_text}")
+                    return False
+
+            save_text_to_file(text_content, filename)
+            # 保存成功处理的链接
+            save_processed_link(original_link)
+            return True
+        except Exception as e:
+            print(f"请求 iframe 链接内容失败: {str(e)}")
+            return False
+
 def save_text_to_file(text, filename):
     try:
         with open(filename, 'w', encoding='utf-8') as file:
@@ -114,31 +137,6 @@ def save_text_to_file(text, filename):
         print(f"文本内容已保存到文件：{filename}")
     except Exception as e:
         print(f"保存文本内容到文件失败：{str(e)}")
-
-async def fetch_iframe_content(iframe_link, filename, original_link, semaphore):
-    async with semaphore:
-        connector = ProxyConnector.from_url(f'socks5://{proxy_host}:{proxy_port}')
-        async with ClientSession(connector=connector) as session:
-            try:
-                print(f"请求 iframe 链接内容：{iframe_link}")
-                async with session.get(iframe_link) as response:
-                    page_source = await response.text()
-                    soup = BeautifulSoup(page_source, 'html.parser')
-                    text_content = soup.get_text(separator="\n", strip=True)
-
-                    # 检查提取的文本是否无效
-                    for invalid_text in INVALID_TEXTS:
-                        if invalid_text in text_content:
-                            print(f"提取到无效的文本内容: {invalid_text}")
-                            return False
-
-                    save_text_to_file(text_content, filename)
-                    # 保存成功处理的链接
-                    save_processed_link(original_link)
-                    return True
-            except Exception as e:
-                print(f"请求 iframe 链接内容失败: {str(e)}")
-                return False
 
 def get_qr_code_link(url, retries=3):
     with managed_driver() as driver:
@@ -231,7 +229,7 @@ def save_processed_link(link):
         with open(processed_links_file, 'w', encoding='utf-8') as file:
             json.dump(list(processed_links), file, ensure_ascii=False, indent=4)
 
-async def process_link_async(link, semaphore):
+def process_link(link):
     try:
         title = link['title']
         original_link = link['link']
@@ -239,7 +237,7 @@ async def process_link_async(link, semaphore):
         if download_link == "无二维码" and iframe_link:
             # 请求 iframe 链接中的内容并保存
             filename = os.path.join(download_dir, f"{title}.txt")
-            await fetch_iframe_content(iframe_link, filename, original_link, semaphore)
+            fetch_and_save_iframe_content(iframe_link, filename, original_link)
         else:
             save_download_link(title, download_link, 'dfxfg_down.json', original_link)
             save_processed_link(original_link)
@@ -248,8 +246,7 @@ async def process_link_async(link, semaphore):
     finally:
         gc.collect()  # 手动触发垃圾回收
 
-async def main_async():
-    semaphore = asyncio.Semaphore(10)  # 控制并发量
+def main():
     with open(os.path.join(download_dir, 'dfxfg_links.json'), 'r', encoding='utf-8') as file:
         links = json.load(file)
 
@@ -260,15 +257,30 @@ async def main_async():
         print("所有链接已处理完毕。")
         return
 
-    tasks = [process_link_async(link, semaphore) for link in links_to_process]
-    progress_bar = tqdm(total=len(tasks), desc="总进度", unit="链接")
+    max_workers = int(input("请输入要使用的最大进程数："))
+    progress_bar = tqdm(total=len(links_to_process), desc="总进度", unit="链接")
 
-    for task in asyncio.as_completed(tasks):
-        await task
-        progress_bar.update(1)
+    completed_task_count = 0  # 计数器
+
+    with ProcessPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(process_link, link) for link in links_to_process]
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                print(f"处理链接时发生异常: {str(e)}")
+            finally:
+                progress_bar.update(1)
+                completed_task_count += 1
+
+                # 每完成4个任务，触发一次垃圾回收
+                if completed_task_count % 4 == 0:
+                    gc.collect()
+
+        executor.shutdown(wait=True)
 
     progress_bar.close()
     gc.collect()  # 结束时再次触发垃圾回收，确保资源释放
 
 if __name__ == "__main__":
-    asyncio.run(main_async())
+    main()
