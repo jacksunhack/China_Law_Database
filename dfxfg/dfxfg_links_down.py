@@ -14,6 +14,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from filelock import FileLock
 import requests
 from bs4 import BeautifulSoup
+from contextlib import contextmanager
 
 # 设置ChromeDriver路径和下载目录
 chrome_driver_path = "C:/Program Files/Google/Chrome/Application/chromedriver.exe"
@@ -22,9 +23,15 @@ processed_links_file = os.path.join(download_dir, 'dfxfg_processed_links.json')
 
 INVALID_TEXTS = ["Please enable JavaScript and refresh the page", "JavaScript is not enabled"]
 
-def setup_driver():
+# 隧道代理IP和认证信息
+proxy_host = "l293.kdltps.com"  # 主隧道域名
+proxy_port = 15818  # HTTP端口
+
+@contextmanager
+def managed_driver():
     service = Service(chrome_driver_path)
     options = webdriver.ChromeOptions()
+    options.add_argument(f'--proxy-server=http://{proxy_host}:{proxy_port}')  # 设置代理服务器
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--no-sandbox")
@@ -32,7 +39,11 @@ def setup_driver():
     options.add_argument("--enable-javascript")  # 确保 JavaScript 启用
     # options.add_argument("--headless")  # 无头模式，避免显示浏览器界面
     driver = webdriver.Chrome(service=service, options=options)
-    return driver
+    try:
+        yield driver
+    finally:
+        driver.quit()
+        gc.collect()  # 触发垃圾回收
 
 def wait_for_page_load(driver, timeout=30):
     print("加载页面中...")
@@ -96,36 +107,33 @@ def extract_iframe_link(driver, retries=3):
     return None
 
 def fetch_and_save_iframe_content(iframe_link, filename, original_link):
-    driver = setup_driver()
-    try:
-        print(f"请求 iframe 链接内容：{iframe_link}")
-        driver.get(iframe_link)
-        wait_for_page_load(driver)  # 确保页面完全加载
+    with managed_driver() as driver:
+        try:
+            print(f"请求 iframe 链接内容：{iframe_link}")
+            driver.get(iframe_link)
+            wait_for_page_load(driver)  # 确保页面完全加载
 
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
+            WebDriverWait(driver, 20).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
 
-        page_source = driver.page_source
-        soup = BeautifulSoup(page_source, 'html.parser')
-        text_content = soup.get_text(separator="\n", strip=True)
+            page_source = driver.page_source
+            soup = BeautifulSoup(page_source, 'html.parser')
+            text_content = soup.get_text(separator="\n", strip=True)
 
-        # 检查提取的文本是否无效
-        for invalid_text in INVALID_TEXTS:
-            if invalid_text in text_content:
-                print(f"提取到无效的文本内容: {invalid_text}")
-                return False
+            # 检查提取的文本是否无效
+            for invalid_text in INVALID_TEXTS:
+                if invalid_text in text_content:
+                    print(f"提取到无效的文本内容: {invalid_text}")
+                    return False
 
-        save_text_to_file(text_content, filename)
-        # 保存成功处理的链接
-        save_processed_link(original_link)
-        return True
-    except Exception as e:
-        print(f"请求 iframe 链接内容失败: {str(e)}")
-        return False
-    finally:
-        driver.quit()  # 确保 WebDriver 进程被关闭
-        gc.collect()  # 触发垃圾回收
+            save_text_to_file(text_content, filename)
+            # 保存成功处理的链接
+            save_processed_link(original_link)
+            return True
+        except Exception as e:
+            print(f"请求 iframe 链接内容失败: {str(e)}")
+            return False
 
 def save_text_to_file(text, filename):
     try:
@@ -136,43 +144,43 @@ def save_text_to_file(text, filename):
         print(f"保存文本内容到文件失败：{str(e)}")
 
 def get_qr_code_link(url, retries=3):
-    driver = setup_driver()
-    try:
-        for attempt in range(retries):
-            try:
-                print(f"正在处理链接: {url}")
-                driver.get(url)
-                wait_for_page_load(driver)  # 确保页面完全加载
+    with managed_driver() as driver:
+        try:
+            for attempt in range(retries):
+                try:
+                    print(f"正在处理链接: {url}")
+                    driver.get(url)
+                    wait_for_page_load(driver)  # 确保页面完全加载
 
-                if is_javascript_disabled(driver):
-                    print("页面加载失败，正在重试...")
-                    time.sleep(5)
-                    continue  # 如果检测到 JavaScript 未启用，则重试
+                    if is_javascript_disabled(driver):
+                        print("页面加载失败，正在重试...")
+                        time.sleep(5)
+                        continue  # 如果检测到 JavaScript 未启用，则重试
 
-                WebDriverWait(driver, 20).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "body"))
-                )
+                    WebDriverWait(driver, 20).until(
+                        EC.presence_of_element_located((By.TAG_NAME, "body"))
+                    )
 
-                screenshot_path = os.path.join(download_dir, "screenshot.png")
-                capture_screenshot(driver, screenshot_path)
-                qr_link = decode_qr_code(screenshot_path)
-                if qr_link:
-                    return qr_link, None
-                else:
-                    print("二维码未显示，重试中...")
-                    time.sleep(15)
-            except Exception as e:
-                print(f"获取二维码链接时发生错误: {str(e)}")
+                    screenshot_path = os.path.join(download_dir, "screenshot.png")
+                    capture_screenshot(driver, screenshot_path)
+                    qr_link = decode_qr_code(screenshot_path)
+                    if qr_link:
+                        return qr_link, None
+                    else:
+                        print("二维码未显示，重试中...")
+                        time.sleep(15)
+                except Exception as e:
+                    print(f"获取二维码链接时发生错误: {str(e)}")
 
-        # 如果仍然没有检测到二维码，尝试提取 iframe 中的链接并抓取内容
-        iframe_link = extract_iframe_link(driver)
-        if iframe_link:
-            return "无二维码", iframe_link
-    except Exception as e:
-        print(f"初始化 WebDriver 时发生错误: {str(e)}")
-    finally:
-        driver.quit()  # 确保 WebDriver 进程被关闭
-        gc.collect()  # 触发垃圾回收
+            # 如果仍然没有检测到二维码，尝试提取 iframe 中的链接并抓取内容
+            iframe_link = extract_iframe_link(driver)
+            if iframe_link:
+                return "无二维码", iframe_link
+        except Exception as e:
+            print(f"初始化 WebDriver 时发生错误: {str(e)}")
+        finally:
+            driver.quit()  # 确保 WebDriver 进程被关闭
+            gc.collect()  # 触发垃圾回收
 
     print("未能检测到二维码，也未能提取到 iframe 信息。")
     return "无二维码", None
