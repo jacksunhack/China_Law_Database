@@ -4,7 +4,6 @@ import time
 import cv2
 import gc
 import psutil
-import random
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -14,9 +13,10 @@ from pyzbar.pyzbar import decode
 from tqdm import tqdm
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from filelock import FileLock
-import requests
 from bs4 import BeautifulSoup
 from contextlib import contextmanager
+import asyncio
+from aiohttp import ClientSession
 
 # 设置ChromeDriver路径和下载目录
 chrome_driver_path = "C:/Program Files/Google/Chrome/Application/chromedriver.exe"
@@ -34,7 +34,7 @@ def managed_driver():
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--enable-javascript")  # 确保 JavaScript 启用
-    # options.add_argument("--headless")  # 无头模式，避免显示浏览器界面
+    options.add_argument("--headless")  # 无头模式，避免显示浏览器界面
     driver = webdriver.Chrome(service=service, options=options)
     try:
         yield driver
@@ -42,24 +42,12 @@ def managed_driver():
         driver.quit()
         gc.collect()  # 触发垃圾回收
 
-def wait_for_page_load(driver, timeout=30):
+def wait_for_page_load(driver, timeout=20):
     print("加载页面中...")
     WebDriverWait(driver, timeout).until(
         lambda d: d.execute_script('return document.readyState') == 'complete'
     )
     print("页面已加载完毕")
-
-def is_javascript_disabled(driver):
-    try:
-        body_text = driver.find_element(By.TAG_NAME, "body").text
-        for invalid_text in INVALID_TEXTS:
-            if invalid_text in body_text:
-                print("检测到JavaScript未启用或页面无法正确加载。")
-                return True
-        return False
-    except Exception as e:
-        print(f"检查JavaScript启用状态时出错: {str(e)}")
-        return False
 
 def capture_screenshot(driver, save_path):
     try:
@@ -99,7 +87,7 @@ def extract_iframe_link(driver, retries=3):
             return iframe_src
         except Exception as e:
             print(f"提取 iframe 链接失败: {str(e)}，正在重试...")
-            time.sleep(5)  # 重试前等待
+            time.sleep(3)  # 重试前等待
     print("多次尝试后仍未能成功提取 iframe 链接。")
     return None
 
@@ -110,7 +98,7 @@ def fetch_and_save_iframe_content(iframe_link, filename, original_link):
             driver.get(iframe_link)
             wait_for_page_load(driver)  # 确保页面完全加载
 
-            WebDriverWait(driver, 20).until(
+            WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.TAG_NAME, "body"))
             )
 
@@ -149,12 +137,7 @@ def get_qr_code_link(url, retries=3):
                     driver.get(url)
                     wait_for_page_load(driver)  # 确保页面完全加载
 
-                    if is_javascript_disabled(driver):
-                        print("页面加载失败，正在重试...")
-                        time.sleep(5)
-                        continue  # 如果检测到 JavaScript 未启用，则重试
-
-                    WebDriverWait(driver, 20).until(
+                    WebDriverWait(driver, 15).until(
                         EC.presence_of_element_located((By.TAG_NAME, "body"))
                     )
 
@@ -165,7 +148,7 @@ def get_qr_code_link(url, retries=3):
                         return qr_link, None
                     else:
                         print("二维码未显示，重试中...")
-                        time.sleep(15)
+                        time.sleep(10)
                 except Exception as e:
                     print(f"获取二维码链接时发生错误: {str(e)}")
 
@@ -231,7 +214,19 @@ def save_processed_link(link):
         with open(processed_links_file, 'w', encoding='utf-8') as file:
             json.dump(list(processed_links), file, ensure_ascii=False, indent=4)
 
-def monitor_and_cleanup():
+async def process_link_async(link):
+    title = link['title']
+    original_link = link['link']
+    download_link, iframe_link = get_qr_code_link(original_link)
+    if download_link == "无二维码" and iframe_link:
+        # 请求 iframe 链接中的内容并保存
+        filename = os.path.join(download_dir, f"{title}.txt")
+        fetch_and_save_iframe_content(iframe_link, filename, original_link)
+    else:
+        save_download_link(title, download_link, 'dfxfg_down.json', original_link)
+        save_processed_link(original_link)
+
+async def monitor_and_cleanup():
     """监控和清理无效的子进程"""
     for proc in psutil.process_iter(['pid', 'name', 'status']):
         if proc.info['name'] == 'chromedriver' and proc.info['status'] == psutil.STATUS_ZOMBIE:
@@ -241,24 +236,7 @@ def monitor_and_cleanup():
             except psutil.NoSuchProcess:
                 pass
 
-def process_link(link):
-    try:
-        title = link['title']
-        original_link = link['link']
-        download_link, iframe_link = get_qr_code_link(original_link)
-        if download_link == "无二维码" and iframe_link:
-            # 请求 iframe 链接中的内容并保存
-            filename = os.path.join(download_dir, f"{title}.txt")
-            fetch_and_save_iframe_content(iframe_link, filename, original_link)
-        else:
-            save_download_link(title, download_link, 'dfxfg_down.json', original_link)
-            save_processed_link(original_link)
-    except Exception as e:
-        print(f"处理链接时发生异常: {str(e)}")
-    finally:
-        gc.collect()  # 手动触发垃圾回收
-
-def main():
+async def main_async(max_workers):
     with open(os.path.join(download_dir, 'dfxfg_links.json'), 'r', encoding='utf-8') as file:
         links = json.load(file)
 
@@ -269,34 +247,21 @@ def main():
         print("所有链接已处理完毕。")
         return
 
-    max_workers = int(input("请输入要使用的最大进程数："))
     progress_bar = tqdm(total=len(links_to_process), desc="总进度", unit="链接")
+    semaphore = asyncio.Semaphore(max_workers)  # 控制最大并发量
 
-    completed_task_count = 0  # 计数器
+    async def process_with_semaphore(link):
+        async with semaphore:
+            await process_link_async(link)
+            progress_bar.update(1)
+            await monitor_and_cleanup()
 
-    with ProcessPoolExecutor(max_workers=max_workers) as executor:
-        futures = [executor.submit(process_link, link) for link in links_to_process]
-        for future in as_completed(futures):
-            try:
-                future.result()
-            except Exception as e:
-                print(f"处理链接时发生异常: {str(e)}")
-            finally:
-                progress_bar.update(1)
-                completed_task_count += 1
-
-                # 每完成4个任务，触发一次垃圾回收
-                if completed_task_count % 4 == 0:
-                    gc.collect()
-
-                # 每完成8个任务，清理一次无效子进程
-                if completed_task_count % 8 == 0:
-                    monitor_and_cleanup()
-
-        executor.shutdown(wait=True)
+    tasks = [process_with_semaphore(link) for link in links_to_process]
+    await asyncio.gather(*tasks)
 
     progress_bar.close()
     gc.collect()  # 结束时再次触发垃圾回收，确保资源释放
 
 if __name__ == "__main__":
-    main()
+    max_workers = int(input("请输入要使用的最大并发数："))
+    asyncio.run(main_async(max_workers))
