@@ -3,6 +3,8 @@ import os
 import time
 import cv2
 import gc
+import psutil
+import random
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -229,6 +231,16 @@ def save_processed_link(link):
         with open(processed_links_file, 'w', encoding='utf-8') as file:
             json.dump(list(processed_links), file, ensure_ascii=False, indent=4)
 
+def monitor_and_cleanup():
+    """监控和清理无效的子进程"""
+    for proc in psutil.process_iter(['pid', 'name', 'status']):
+        if proc.info['name'] == 'chromedriver' and proc.info['status'] == psutil.STATUS_ZOMBIE:
+            try:
+                proc.terminate()
+                print(f"清理僵尸进程: PID {proc.info['pid']}")
+            except psutil.NoSuchProcess:
+                pass
+
 def process_link(link):
     try:
         title = link['title']
@@ -276,6 +288,10 @@ def main():
                 # 每完成4个任务，触发一次垃圾回收
                 if completed_task_count % 4 == 0:
                     gc.collect()
+
+                # 每完成8个任务，清理一次无效子进程
+                if completed_task_count % 8 == 0:
+                    monitor_and_cleanup()
 
         executor.shutdown(wait=True)
 
