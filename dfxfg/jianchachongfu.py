@@ -2,7 +2,7 @@ import json
 from collections import defaultdict
 
 # 加载 JSON 文件
-with open('dfxfg\dfxfg_links.json', 'r', encoding='utf-8') as file:
+with open('dfxfg\dfxfg_links_temp.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 创建一个字典来跟踪每个title出现的次数

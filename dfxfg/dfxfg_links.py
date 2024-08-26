@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, WebDriverException
+from tqdm import tqdm
 
 # 全局变量定义
 all_links = []
@@ -44,7 +45,7 @@ def jump_to_page(driver, page_number, retries=5):
     for attempt in range(retries):
         try:
             print(f"尝试跳转到第 {page_number} 页...")
-            page_input = WebDriverWait(driver, 30).until(
+            page_input = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'span.layui-laypage-skip input'))
             )
             page_input.clear()
@@ -53,7 +54,7 @@ def jump_to_page(driver, page_number, retries=5):
             submit_button = driver.find_element(By.CSS_SELECTOR, 'span.layui-laypage-skip button')
             driver.execute_script("arguments[0].click();", submit_button)
             
-            current_page_element = WebDriverWait(driver, 30).until(
+            current_page_element = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'span.layui-laypage-curr em:nth-child(2)'))
             )
             current_page = int(current_page_element.text)
@@ -66,7 +67,7 @@ def jump_to_page(driver, page_number, retries=5):
                 print(f"警告: 目标页数是 {page_number}，但实际跳转到第 {current_page} 页，重试 {attempt + 1}/{retries}")
         except (TimeoutException, WebDriverException) as e:
             print(f"跳转到第 {page_number} 页失败，重试 {attempt + 1}/{retries}: {e}")
-            time.sleep(15)
+            time.sleep(5)
     
     print(f"跳转到第 {page_number} 页超时")
     return False
@@ -159,36 +160,38 @@ def main():
     all_links.extend(load_saved_links())  # 加载已保存的链接
 
     try:
-        while current_page <= total_pages:
-            if check_for_stall(driver):
-                driver = restart_browser(driver, start_url, current_page)
+        with tqdm(total=total_pages - current_page + 1, desc="总进度", unit="页") as pbar:
+            while current_page <= total_pages:
+                if check_for_stall(driver):
+                    driver = restart_browser(driver, start_url, current_page)
 
-            print(f"正在检查第 {current_page} 页的数据...")
+                print(f"正在检查第 {current_page} 页的数据...")
 
-            scrape_page(driver)
+                scrape_page(driver)
 
-            # 保存爬取到的链接到临时文件中，以防程序中断导致数据丢失
-            save_links_to_file("dfxfg/dfxfg_links_temp.json", all_links)
+                # 保存爬取到的链接到临时文件中，以防程序中断导致数据丢失
+                save_links_to_file("dfxfg/dfxfg_links_temp.json", all_links)
 
-            # 每爬取25页后重启浏览器以释放资源
-            if current_page % 25 == 0:
-                save_current_page(current_page)  # 保存当前页码
-                driver = restart_browser(driver, start_url, current_page + 1)
+                # 每爬取50页后重启浏览器以释放资源
+                if current_page % 50 == 0:
+                    save_current_page(current_page)  # 保存当前页码
+                    driver = restart_browser(driver, start_url, current_page + 1)
 
-            # 点击下一页并获取实际页码
-            next_page = jump_to_page(driver, current_page + 1)
-            if not next_page:
-                print(f"翻页失败，重新加载当前页...")
-                driver.refresh()
-                time.sleep(5)  # 等待页面加载
+                # 点击下一页并获取实际页码
                 next_page = jump_to_page(driver, current_page + 1)
-                if not next_page:  # 重试一次
-                    print("重试翻页失败，跳出循环")
-                    break  # 如果仍然翻页失败，跳出循环
+                if not next_page:
+                    print(f"翻页失败，重新加载当前页...")
+                    driver.refresh()
+                    time.sleep(5)  # 等待页面加载
+                    next_page = jump_to_page(driver, current_page + 1)
+                    if not next_page:  # 重试一次
+                        print("重试翻页失败，跳出循环")
+                        break  # 如果仍然翻页失败，跳出循环
 
-            # 更新当前页码
-            current_page += 1
-            save_current_page(current_page)  # 保存已经完成的页码
+                # 更新当前页码
+                current_page += 1
+                save_current_page(current_page)  # 保存已经完成的页码
+                pbar.update(1)  # 更新进度条
 
     except WebDriverException as e:
         print(f"浏览器异常: {e}")
