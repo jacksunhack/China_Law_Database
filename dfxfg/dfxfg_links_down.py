@@ -8,10 +8,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import WebDriverException, TimeoutException
 from pyzbar.pyzbar import decode
 from alive_progress import alive_bar
-from concurrent.futures import ThreadPoolExecutor
-from multiprocessing import Manager
 from filelock import FileLock
 from bs4 import BeautifulSoup
 
@@ -34,9 +33,12 @@ def create_driver():
     return webdriver.Chrome(service=service, options=options)
 
 def wait_for_page_load(driver, timeout=20):
-    WebDriverWait(driver, timeout).until(
-        lambda d: d.execute_script('return document.readyState') == 'complete'
-    )
+    try:
+        WebDriverWait(driver, timeout).until(
+            lambda d: d.execute_script('return document.readyState') == 'complete'
+        )
+    except TimeoutException:
+        print("页面加载超时")
 
 def capture_screenshot(driver, save_path):
     try:
@@ -113,35 +115,32 @@ def save_text_to_file(text, filename):
         print(f"保存文本内容到文件失败：{str(e)}")
 
 def get_qr_code_link(driver, url, retries=3):
-    try:
-        for attempt in range(retries):
-            try:
-                driver.get(url)
-                wait_for_page_load(driver)
+    for attempt in range(retries):
+        try:
+            driver.get(url)
+            wait_for_page_load(driver)
 
-                WebDriverWait(driver, 15).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "body"))
-                )
+            WebDriverWait(driver, 15).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
 
-                screenshot_path = os.path.join(download_dir, "screenshot.png")
-                capture_screenshot(driver, screenshot_path)
-                qr_link = decode_qr_code(screenshot_path)
-                if qr_link:
-                    return qr_link, None
-                else:
-                    print("二维码未显示，重试中...")
-                    time.sleep(10)
-            except Exception as e:
-                print(f"获取二维码链接时发生错误: {str(e)}")
+            screenshot_path = os.path.join(download_dir, "screenshot.png")
+            capture_screenshot(driver, screenshot_path)
+            qr_link = decode_qr_code(screenshot_path)
+            if qr_link:
+                return qr_link, None
+            else:
+                print("二维码未显示，重试中...")
+                time.sleep(10)
+        except Exception as e:
+            print(f"获取二维码链接时发生错误: {str(e)}")
 
-        iframe_link = extract_iframe_link(driver)
-        if iframe_link:
-            return "无二维码", iframe_link
-    except Exception as e:
-        print(f"初始化 WebDriver 时发生错误: {str(e)}")
+    iframe_link = extract_iframe_link(driver)
+    if iframe_link:
+        return "无二维码", iframe_link
 
     print("未能检测到二维码，也未能提取到 iframe 信息。")
-    return "无二维码", None
+    return None, None
 
 def save_download_link(title, download_link, filename, original_link=None):
     filepath = os.path.join(download_dir, filename)
@@ -193,46 +192,71 @@ def save_processed_link(link):
         except Exception as e:
             print(f"保存已处理链接时发生错误：{str(e)}")
 
-def process_links_in_driver(driver, links, progress_bar):
-    for link in links:
-        title = link['title']
-        original_link = link['link']
-        try:
-            download_link, iframe_link = get_qr_code_link(driver, original_link)
-            if download_link == "无二维码" and iframe_link:
-                filename = os.path.join(download_dir, f"{title}.txt")
-                success = fetch_and_save_iframe_content(driver, iframe_link, filename, original_link)
-            else:
-                save_download_link(title, download_link, 'dfxfg_down.json', original_link)
-                save_processed_link(original_link)
-                success = True
+def process_single_link(driver, link, progress_bar):
+    title = link['title']
+    original_link = link['link']
+    try:
+        download_link, iframe_link = get_qr_code_link(driver, original_link)
+        if download_link == "无二维码" and iframe_link:
+            filename = os.path.join(download_dir, f"{title}.txt")
+            success = fetch_and_save_iframe_content(driver, iframe_link, filename, original_link)
+        elif download_link:
+            save_download_link(title, download_link, 'dfxfg_down.json', original_link)
+            save_processed_link(original_link)
+            success = True
+        else:
+            print(f"无法获取下载链接或iframe链接: {original_link}")
+            success = False
 
-            if success:
-                progress_bar()
-            else:
-                print(f"处理失败: {original_link}")
-
-        except Exception as e:
-            print(f"处理链接时发生错误: {str(e)}")
+        if success:
+            progress_bar()
+        else:
             print(f"处理失败: {original_link}")
 
-        if len(driver.window_handles) > 1:
-            driver.switch_to.window(driver.window_handles[0])
-            for handle in driver.window_handles[1:]:
-                driver.switch_to.window(handle)
-                driver.close()
-            driver.switch_to.window(driver.window_handles[0])
+        return success
+    except Exception as e:
+        print(f"处理链接时发生错误: {str(e)}")
+        print(f"处理失败: {original_link}")
+        return False
+
+def process_links_in_driver(driver, links, progress_bar):
+    for link in links:
+        success = process_single_link(driver, link, progress_bar)
+        if not success:
+            return False
+        
+        try:
+            if len(driver.window_handles) > 1:
+                driver.switch_to.window(driver.window_handles[0])
+                for handle in driver.window_handles[1:]:
+                    driver.switch_to.window(handle)
+                    driver.close()
+                driver.switch_to.window(driver.window_handles[0])
+        except WebDriverException:
+            print("浏览器连接已断开，正在重新初始化...")
+            return False
 
         gc.collect()
+    return True
 
 def process_link_batches(links, progress_bar):
-    driver = create_driver()
-    try:
-        for i in range(0, len(links), 10):
-            batch = links[i:i+10]
-            process_links_in_driver(driver, batch, progress_bar)
-    finally:
-        driver.quit()
+    while links:
+        driver = None
+        try:
+            driver = create_driver()
+            batch = links[:1000]
+            if not process_links_in_driver(driver, batch, progress_bar):
+                continue  # 如果处理失败，重新开始这个批次
+            links = links[1000:]  # 移除已处理的链接
+        except Exception as e:
+            print(f"批次处理发生错误: {str(e)}")
+        finally:
+            if driver:
+                try:
+                    driver.quit()
+                except:
+                    pass  # 忽略关闭driver时的错误
+        time.sleep(5)  # 每个批次之间稍作暂停
 
 def main():
     with open(os.path.join(download_dir, 'dfxfg_links.json'), 'r', encoding='utf-8') as file:
