@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省国家建设项目审计条例
@@ -100,3 +102,4 @@
 
 第三十三条　本条例自2009年5月1日起施行。省人民政府1996年12月10日公布的《河北省建设项目审计暂行办法》同时废止。
 
+　— 1 —　

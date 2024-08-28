@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省传统村落保护条例
@@ -97,3 +98,4 @@
 第四十三条 本条例所称传统建筑，是指列入传统建筑保护名录的民宅、礼堂、庙宇、牌坊、书院、名人故居等建（构）筑物。
 第四十四条 本条例自2022年3月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省国家工作人员宪法宣誓组织办法

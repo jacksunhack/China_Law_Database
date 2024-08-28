@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区民族团结进步模范区
@@ -167,3 +168,5 @@
 第八章  附  则
 
 第六十三条  本条例自2021年3月1日起施行。
+#
+

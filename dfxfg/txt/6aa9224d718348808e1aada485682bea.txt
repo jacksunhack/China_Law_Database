@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福州市消防管理若干规定
@@ -55,3 +57,4 @@
 
 
 
+—1—

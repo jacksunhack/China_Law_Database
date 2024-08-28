@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 孟村回族自治县发展牛羊业条例
@@ -69,3 +71,4 @@
 第三十三条　自治县人民政府可根据本条例制定实施细则。
 第三十四条　本条例自公布之日起施行。
 
+　— 1 —　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 峨边彝族自治县人民代表大会
@@ -7,4 +8,3 @@
 
 峨边彝族自治县第十届人民代表大会第二次会议决定：废止《峨边彝族自治县实施〈四川省人口与计划生育条例〉的变通规定》。
 本决定自公布之日起施行。
-

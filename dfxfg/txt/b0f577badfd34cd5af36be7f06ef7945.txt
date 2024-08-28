@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区邮政条例
 
@@ -140,3 +142,4 @@
 第五十八条  本条例自2012年1月1日起施行。2002年8月23日经自治区人民政府第九次常务会议审议通过的《内蒙古自治区邮政管理办法》同时废止。
 
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 绵阳市历史建筑和历史文化街区保护条例
@@ -161,3 +162,4 @@
 第四十六条  本条例所称市辖区，是指涪城区、游仙区、安州区。
 第四十七条  本条例自2020年6月1日起施行。
 
+— 17 —  

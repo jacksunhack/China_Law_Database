@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省农业机械化促进条例
@@ -107,3 +108,4 @@
 
 第四十五条  本条例中的“道路”是指公路、城市道路和虽在单位管辖范围但允许社会机动车通行的地方，包括广场、公共停车场等用于公众通行的场所。
 第四十六条  本条例自2006年3月1日起施行。
+1

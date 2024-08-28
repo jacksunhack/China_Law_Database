@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡水市文物保护条例
@@ -78,6 +79,5 @@
 第六章 附  则
 第三十五条  本条例关于县（市、区）人民政府的规定，适用于衡水市高新技术开发区管委会和滨湖新区管委会。
 第三十六条  本条例自2022年1月1日起施行。
-
 
 

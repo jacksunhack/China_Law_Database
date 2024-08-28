@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省罚没和扣押财物管理条例
@@ -97,3 +98,4 @@
 　　第三十四条  应当上缴财政的无主财物和执法机关依法收缴的赃款赃物的管理，参照本条例执行。 
 　　第三十五条  本条例自2006年2月1日起施行。 
 
+1

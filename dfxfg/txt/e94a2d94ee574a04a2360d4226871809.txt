@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省行政执法条例
 （2019年7月26日福建省第十三届人民代表大会
 常务委员会第十一次会议通过）

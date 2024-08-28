@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市学校校园和周边环境保护条例
 
@@ -102,3 +103,4 @@
 第六章　附  则
 
 第三十八条　本条例自2003年１月１日起施行。
+—#—

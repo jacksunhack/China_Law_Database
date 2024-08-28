@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市殡葬管理条例
@@ -104,3 +105,4 @@
 
 第四十条　本条例自1996年2月1日起施行。1989年11月9日杭州市人民政府发布的《杭州市殡葬管理办法》同时废止。
 
+— 11—

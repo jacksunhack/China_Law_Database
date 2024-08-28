@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区公路条例
@@ -168,3 +169,4 @@
 第九章  附则
 
 第七十二条  本条例自2007年3月1日起施行。
+#

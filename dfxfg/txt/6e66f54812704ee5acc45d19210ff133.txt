@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳经济特区人才工作条例
@@ -130,3 +131,4 @@
 ​
 第六十六条　中国（广东）自由贸易试验区深圳前海蛇口片区可以开展人才创新政策先行先试，探索建立与国际接轨的人才管理体制机制。
 第六十七条　本条例自2017年11月1日起施行。
+－1－　

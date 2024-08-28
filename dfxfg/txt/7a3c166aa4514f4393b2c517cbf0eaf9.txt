@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国矿山安全法》
@@ -71,3 +72,4 @@
 第二十九条  本办法自1994年7月1日起施行。
 
 
+－1－  

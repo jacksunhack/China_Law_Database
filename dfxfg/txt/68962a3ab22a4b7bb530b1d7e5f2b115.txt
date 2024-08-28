@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市残疾人保障条例
@@ -148,3 +149,4 @@
 第四十二条  本条例自2014年1月1日起施行。2003年3月1日施行的《本溪市实施〈中华人民共和国残疾人保障法〉若干规定》同时废止。
 
 
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市电梯安全管理条例
@@ -187,3 +189,4 @@
 
 第六十五条  本条例自2022年2月1日起施行。  
 
+─ # ─  

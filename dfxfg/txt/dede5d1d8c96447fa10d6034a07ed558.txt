@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 三亚市人民代表大会常务委员会
 关于设立三亚市投资促进局的决定
 
@@ -21,3 +22,4 @@
 
 
 
+- 1 -

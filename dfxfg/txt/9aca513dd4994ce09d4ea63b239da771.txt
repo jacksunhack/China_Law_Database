@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 天津市学前教育条例
 
@@ -100,3 +101,4 @@
 
 第七章  附  则
 　　第四十六条　本条例自2016年9月1日起施行。
+#

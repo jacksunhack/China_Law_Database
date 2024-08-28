@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市人民代表大会常务委员会
@@ -63,3 +64,4 @@
 本决定自公布之日起施行。
 上述地方性法规根据本决定作相应修改并对条文顺序作相应调整后，重新公布。
 
+— # —

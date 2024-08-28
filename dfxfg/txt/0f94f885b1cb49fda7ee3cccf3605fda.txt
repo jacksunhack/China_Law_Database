@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省科学技术进步条例
@@ -139,3 +141,4 @@
 第六十一条　本条例自2011年6月1日起施行。1993年11月9日河北省第八届人民代表大会常务委员会第四次会议通过的《河北省科学技术进步条例》同时废止。
 
 
+　— 1 —　

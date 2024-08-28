@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市秦岭生态环境保护条例
@@ -261,3 +262,4 @@
 第九十八条  本条例有关秦岭分区保护的规定与生态保护红线的有关规定不一致的，按照从严管理的原则执行。
 第九十九条  本条例自2020年7月1日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省司法鉴定管理条例
@@ -249,3 +250,4 @@
  第五十一条  本条例自 2016年3月1日起施行。  
 
 
+1

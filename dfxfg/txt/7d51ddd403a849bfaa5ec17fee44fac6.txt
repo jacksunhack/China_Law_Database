@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州农田防护林建设保护条例
@@ -32,3 +34,4 @@
 第十六条  违反本条例规定，应当给予处罚的其他行为，依照有关法律法规执行。
 第十七条  本条例自2023年4月19日起施行。
 
+#

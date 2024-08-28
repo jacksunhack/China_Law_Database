@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广西壮族自治区生态文明建设促进条例
@@ -167,3 +168,4 @@
 第八章　附　　则
 ​
 第七十条　本条例自2024年6月1日起施行。
+－1－　

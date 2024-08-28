@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市流动人口服务管理规定
@@ -72,3 +73,4 @@
 第二十九条  各县（市）的流动人口服务管理，可以参照本规定执行。
 第三十条  本规定自2018年7月1日起施行。《杭州市流动人口服务管理条例》同时废止。
 
+— 1—

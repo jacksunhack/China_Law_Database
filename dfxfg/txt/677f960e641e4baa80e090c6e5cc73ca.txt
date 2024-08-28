@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省工业企业技术进步条例
@@ -71,3 +72,4 @@
 
 第三十三条  工业企业以外的其他企业技术进步，参照本条例执行。
 第三十四条  本条例自2010年1月1日起施行。
+- 28 -

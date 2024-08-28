@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 佛山市工业固体废物污染环境防治条例
@@ -72,3 +73,4 @@
 （三）未保证设备正常运行的。
 第二十九条　违反本条例规定的有关行为，法律法规已有处罚规定的，从其规定。
 第三十条　本条例自2024年7月1日起施行。
+－1－　

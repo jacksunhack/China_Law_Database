@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省农民教育培训条例
@@ -87,3 +89,4 @@
 第六章  附则
 
 第四十条  本条例自2011年6月1日起施行。
+      — 1 —    

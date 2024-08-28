@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省文山壮族苗族自治州
@@ -79,3 +81,4 @@
 第二十六条  本条例由自治州人民代表大会常务委员会负责解释。
 
 
+—— 1 ——

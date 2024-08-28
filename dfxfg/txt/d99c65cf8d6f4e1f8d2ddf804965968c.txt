@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省实施《中华人民共和国未成年人
@@ -138,3 +139,4 @@
 第五十条  违反本办法规定的其他行为，有关法律、行政法规有处罚规定的，从其规定。
 第五十一条  本办法自2022年10月1日起施行。
 
+—— # ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市消防条例
@@ -133,3 +134,4 @@
 
 第五十四条  本条例自2010年11月9日起施行。
 
+— 13 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海北藏族自治州
@@ -99,3 +100,4 @@
 
     第三十八条  本条例应用中的具体问题由海北藏族自治州人民政府负责解释。
 第三十九条  本条例自2003年5月1日起施行。
+1  

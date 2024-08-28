@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家口市城市市容和环境卫生管理条例
@@ -95,3 +96,4 @@
 第四十七条 察北管理区、塞北管理区和张家口经济开发区按照本条例执行。
 第四十八条 本条例自2021年1月1日起施行。
 
+5

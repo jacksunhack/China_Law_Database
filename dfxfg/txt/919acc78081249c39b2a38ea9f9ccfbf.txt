@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乳源瑶族自治县城镇规划条例
@@ -103,3 +104,4 @@
 第三十七条  本条例由自治县人民代表大会常务委员会负责解释。
 第三十八条  本条例自公布之日起施行。
 
+  - 1 -

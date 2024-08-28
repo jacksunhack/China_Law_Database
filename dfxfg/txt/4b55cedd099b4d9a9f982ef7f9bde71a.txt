@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省企业职工基本养老保险条例
@@ -86,3 +88,4 @@
 
 第三十条　省人民政府根据本条例制定实施办法。
 第三十一条　本条例自1999年1月1日起施行。
+—— 1 ——

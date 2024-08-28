@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省海洋渔业安全管理条例
@@ -109,4 +110,6 @@
 第三十七条  内陆水域的渔业安全管理参照本条例执行。
 第三十八条  本条例自2003年12月1日起施行。
 
+
+— 1 —
 

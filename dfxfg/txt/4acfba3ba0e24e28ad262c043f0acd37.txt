@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 吉林省统计管理条例
@@ -140,3 +141,4 @@
 第七章  附则
 
 第四十五条  本条例自2002年9月1日起施行。
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 合肥市非机动车安全管理条例
 
@@ -133,3 +134,4 @@
 第三十四条  本条例自2022年11月1日起施行。
 
 
+— # —

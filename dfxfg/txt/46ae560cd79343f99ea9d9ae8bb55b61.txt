@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省沱江流域水环境保护条例
@@ -199,3 +200,4 @@
 第七章  附 则
 
 第六十五条  本条例自2019年9月1日起施行。
+— 1 —  

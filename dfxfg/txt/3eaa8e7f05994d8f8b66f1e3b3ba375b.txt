@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省防震减灾条例
@@ -109,4 +110,6 @@
 第八章  附    则
 第四十条  本条例自2011年6月1日起施行。
 
+
+— 1 —
 

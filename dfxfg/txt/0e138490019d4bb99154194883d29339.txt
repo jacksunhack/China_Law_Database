@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 金昌市城市市容和环境卫生管理条例
@@ -149,3 +151,4 @@
 
 第五十五条  本市行政区域内的经济开发区、工业园区、科技园区等，以及未设镇建制的城市型居民区可以参照本条例执行。
 第五十六条  本条例自2022年5月1日起施行。
+      — 1 —    

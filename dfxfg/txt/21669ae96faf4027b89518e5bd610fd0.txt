@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 烟台市城市供水条例
@@ -134,3 +135,4 @@
 第八章　附　　则
 
 第四十四条　本条例自2018年5月1日起施行。
+－1－　

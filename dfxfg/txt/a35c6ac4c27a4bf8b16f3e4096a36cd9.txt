@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 山西省农产品质量安全条例
@@ -134,3 +135,4 @@
 第七章　附　　则
 ​
 第四十六条　本条例自2024年1月1日起施行。
+－1－　

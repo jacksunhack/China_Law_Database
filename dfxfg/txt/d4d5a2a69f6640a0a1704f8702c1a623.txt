@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 滁州市餐厨垃圾管理条例
 
@@ -62,3 +63,4 @@
 第二十三条  市人民政府应当制定餐厨垃圾管理和利用的具体实施办法。
 第二十四条  农贸市场、农产品批发市场产生的其他厨余垃圾，参照本条例执行。
 第二十五条  本条例自2023年5月1日起施行。
+— 1 —

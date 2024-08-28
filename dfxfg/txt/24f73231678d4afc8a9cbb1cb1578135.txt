@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 白银市烟花爆竹燃放管理办法
@@ -69,3 +71,4 @@
 
 
 
+      — 1 —    

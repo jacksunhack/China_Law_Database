@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四平市河道管理条例
@@ -59,4 +60,3 @@
 第五章 附则
 
 第十九条 本条例自2021年11月1日起施行。
-

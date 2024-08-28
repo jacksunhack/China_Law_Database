@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省气候资源开发利用和保护条例
@@ -49,3 +50,4 @@
 （四）对违法行为不查处或者查处不力，造成严重后果的；
 （五）不履行其他职责的。
 第二十六条　本条例自2013年1月1日起施行。
+— 1 —

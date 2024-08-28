@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省节约能源条例
@@ -110,3 +111,4 @@
 第六章  附  则
 
 第四十四条   本条例自2006年7月1日起施行。
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 扬州市生活垃圾分类管理条例
@@ -175,3 +177,4 @@
 第五十一条  居民家庭生活以外的食品加工、餐饮服务、集体供餐等活动中产生的厨余垃圾，按照国家和省有关餐厨废弃物的规定管理。
 第五十二条  本条例自2022年9月1日起施行。
 
+─ # ─  

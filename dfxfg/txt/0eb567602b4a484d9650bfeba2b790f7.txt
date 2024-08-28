@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省建设工程质量和建设工程
@@ -200,3 +202,4 @@
 
 第五十三条  本条例自2021年10月1日起施行。
 
+      — 1 —    

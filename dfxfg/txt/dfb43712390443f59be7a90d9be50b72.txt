@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市体育经营活动管理条例
@@ -75,3 +77,4 @@
 第三十一条  江阴市、宜兴市可以根据本条例制定实施办法。
 第三十二条  本条例自2009年1月1日起施行。
 
+─ # ─

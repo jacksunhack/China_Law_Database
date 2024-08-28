@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 玉树藏族自治州传统村落保护条例
@@ -168,3 +169,4 @@
 第七章　附　　则
 ​
 第四十九条　本条例自2023年11月1日起施行。
+－1－　

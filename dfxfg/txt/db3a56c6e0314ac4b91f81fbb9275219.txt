@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海东市城市管理条例
@@ -229,3 +230,4 @@
 第八十七条  本条例应用中的具体问题，由市人民政府负责解释。
 第八十八条  本条例自2018年9月1日起施行。
 
+1  

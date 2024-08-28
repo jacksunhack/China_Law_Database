@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省地方铁路条例
@@ -87,3 +89,4 @@
 
 第四十五条　本条例自2007年7月1日起施行。1993年12月28日省人民政府公布的《河北省地方铁路管理规定》同时废止。
 
+　— 1 —　

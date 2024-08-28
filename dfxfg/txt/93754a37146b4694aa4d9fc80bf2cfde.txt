@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市防灾减灾救灾条例
@@ -157,3 +159,4 @@
 第五十条　单位或者个人违反本条例规定，导致自然灾害影响扩大，给他人人身、财产造成损害的，应当依法承担民事责任。
 第七章　附  则
 第五十一条　本条例自2021年7月1日起施行。
+  — # —  

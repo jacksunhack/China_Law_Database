@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 海南省城镇园林绿化条例
@@ -134,3 +135,4 @@
 违反本条例的行为，本条例未设定处罚，相关法律、法规另有处罚规定的，从其规定。
 第四十九条　本条例具体应用问题由省人民政府负责解释。
 第五十条　本条例自2009年1月1日起施行。
+－1－　

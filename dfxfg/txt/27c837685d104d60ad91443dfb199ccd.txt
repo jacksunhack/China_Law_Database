@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 庆阳市禁牧条例
@@ -44,3 +46,4 @@
 第十六条  违反本条例规定的行为，法律、法规已有处罚规定的，依照其规定执行。
 第十七条  本条例自2021年10月1日起施行。
 
+      — 1 —    

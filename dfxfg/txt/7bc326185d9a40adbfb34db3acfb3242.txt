@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
  四川省促进科技成果转化条例
@@ -174,3 +175,4 @@
 利用本省财政资金设立的医学科研机构开展科技成果转化活动参照本条例有关规定执行。
 第八十条  本条例自2019年1月1日起施行。
 
+— 23 —  

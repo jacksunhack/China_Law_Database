@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省人民代表大会常务委员会
@@ -12,6 +13,10 @@
 
 
 
+— 3 —
+
+
 
 四川省人大常委会办公厅                                              2019年7月25日印
-（共印15份）
+（共印15份）— 3 —
+

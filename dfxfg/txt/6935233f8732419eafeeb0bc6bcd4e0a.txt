@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 清远市住宅小区物业管理条例
 
@@ -344,3 +346,4 @@
 第六十八条  本条例自2023年2月1日起施行。
 
 
+	— 51 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省人民代表大会常务委员会
@@ -21,3 +23,4 @@
 第十四条  常委会组成人员违反本守则的，应当根据常委会主任会议的要求，向常委会主任会议或者常委会会议作出说明。
 第十五条　本守则自公布之日起施行。
 
+1

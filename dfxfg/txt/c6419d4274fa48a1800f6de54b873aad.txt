@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市旅游景区管理条例
@@ -76,3 +77,5 @@
 第二十七条  本条例自2003 年10 月1 日起施行。
 
 
+—#—      
+  

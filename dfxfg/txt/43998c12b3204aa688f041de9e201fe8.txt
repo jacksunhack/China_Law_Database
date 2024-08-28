@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省水产苗种管理条例
@@ -62,4 +63,6 @@
 （五）非法干预、侵害水产苗种生产经营者自主权和利益的；
 （六）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第二十七条  本条例自2006年1月1日起施行。
+
+— 1 —
 

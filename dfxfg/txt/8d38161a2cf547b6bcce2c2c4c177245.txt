@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 铜陵市人民代表大会常务委员会关于修改
@@ -14,3 +15,4 @@
 此外，对条例的部分文字进行了修改。
 本决定自公布之日起施行。
 《铜陵市生活垃圾分类管理条例》根据本决定作相应修改，重新公布。
+－1－　

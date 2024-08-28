@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 嘉兴市生活垃圾分类管理条例
@@ -102,3 +103,4 @@
 
 第三十二条   本条例自2020年9月1日起施行。
 
+— 1—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 清东陵保护管理办法（修订）
@@ -78,5 +79,4 @@
 （五）贪污、挪用专项资金的；
 （六）玩忽职守、滥用职权、徇私舞弊等其他行为。
 第十九条  本办法自2018年1月1日起施行。2012年1月1日起施行的《清东陵保护管理办法》同时废止。
-
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 乌鲁木齐市城乡规划管理条例
@@ -167,3 +168,4 @@
 第六章　附　　则
 ​
 第五十五条　本条例自2013年5月1日起施行。
+－1－　

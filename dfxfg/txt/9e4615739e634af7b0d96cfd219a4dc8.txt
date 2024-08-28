@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 哈尔滨市人民代表大会常务委员会
 关于哈尔滨市亚布力滑雪旅游度假区
@@ -18,3 +20,4 @@
 五、本决定自公布之日起施行。
 
 
+1

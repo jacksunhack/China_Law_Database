@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市实施《中华人民共和国
@@ -172,3 +173,4 @@
 第五十九条  残疾军人除享受国家给予的特别保障外，同时享受社会残疾人的相关待遇。
 第六十条  本办法自2014年4月1日起施行。
 
+- 5 -

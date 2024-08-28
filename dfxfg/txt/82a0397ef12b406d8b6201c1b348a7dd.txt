@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区高速公路条例
 
 （2015年3月27日内蒙古自治区第十二届
@@ -142,3 +144,4 @@
 第五十八条  本条例自2015年6月1日起施行。
 
 
+#

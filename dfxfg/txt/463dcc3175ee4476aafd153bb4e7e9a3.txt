@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌兰察布市岱海、黄旗海保护条例
@@ -93,3 +94,4 @@
 第五章  附  则
 第四十二条  本条例自2018年7月1日起施行。
 
+#

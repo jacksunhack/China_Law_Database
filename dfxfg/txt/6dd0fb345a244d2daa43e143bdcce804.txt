@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区革命文物保护利用条例
 
@@ -133,3 +135,4 @@
 
 
 
+#

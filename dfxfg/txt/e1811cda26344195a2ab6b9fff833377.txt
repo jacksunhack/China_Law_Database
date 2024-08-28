@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 黑龙江省社会矛盾纠纷多元化解条例
 
 （2017年10月13日黑龙江省第十二届人民代表大会
@@ -140,3 +141,5 @@
 第九章  附　则
 
 第六十五条  本条例自2018年1月1日起施行。
+- 7 -
+

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省封山育林条例
@@ -57,3 +59,4 @@
 第二十五条　本条例自2004年12月1日起施行。
 
 
+　— 1 —　

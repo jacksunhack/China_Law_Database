@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 喀喇沁左翼蒙古族自治县县城市容和
@@ -49,3 +50,4 @@
 第十六条  本《条例》自发布之日起施行。
 
 
+— 1 —

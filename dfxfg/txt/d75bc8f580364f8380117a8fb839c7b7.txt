@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省职工劳动权益保障条例
@@ -109,4 +110,6 @@
 
 第四十九条  本条例自2013年8月1日起施行。
 
+
+— 1 —
 

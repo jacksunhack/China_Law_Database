@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省邮政条例
@@ -158,5 +159,4 @@
 
 第五十三条  本条例对快递企业的规定，适用于经营快递业务的邮政企业。
 第五十四条  本条例自2015年7月1日起施行。
-
 

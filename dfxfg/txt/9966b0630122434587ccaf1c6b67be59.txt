@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳市制定法规条例
@@ -194,3 +195,4 @@
 ​
 第八十八条　市人民代表大会及其常务委员会作出有关法规问题的决定，适用本条例的有关规定。
 第八十九条　本条例自2016年7月1日起施行。
+－1－　

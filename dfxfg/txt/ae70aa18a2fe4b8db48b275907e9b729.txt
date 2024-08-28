@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省环境保护条例
@@ -115,3 +116,4 @@
 
 第五十五条　本条例由省环境保护行政主管部门负责应用解释。
 　　第五十六条　本条例自1995年4月1日起施行。
+1

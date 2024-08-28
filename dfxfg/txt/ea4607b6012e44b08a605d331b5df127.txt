@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市汉魏故城保护条例
@@ -60,3 +62,5 @@
 　　第十八条　本条例自2006年12月1日起施行。市人民政府2001年7月16日公布的《洛阳市汉魏故城保护管理办法》同时废止。
 
 
+  — 1 —    
+     

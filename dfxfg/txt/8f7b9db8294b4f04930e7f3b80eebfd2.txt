@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市红十字会条例
@@ -106,3 +107,4 @@
 
 第四十二条  本条例自2022年7月1日起施行。
 
+- 1 -

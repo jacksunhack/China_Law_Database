@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省征兵工作条例
@@ -129,3 +130,4 @@
 县（市、区）人民政府依照有关法律、法规和本条例实施的强制措施或者行政处罚，由县（市、区）人民政府兵役机关具体办理。
 第四十四条  本条例自公布之日起施行。
 
+1

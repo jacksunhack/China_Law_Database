@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉林市城市绿化条例
@@ -111,4 +112,3 @@
 
 第三十二条  本市各县（市、区）、建制镇规划区范围内的城市绿化规划、建设、保护和管理，参照本条例执行。
 第三十三条  本条例自2022年11月1日起施行。
-

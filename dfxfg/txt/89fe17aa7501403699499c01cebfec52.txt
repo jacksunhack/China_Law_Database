@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省人民代表大会常务委员会
@@ -67,3 +69,4 @@
 第十七条  常务委员会讨论、决定重大事项的有关情况，应当向省人大代表通报，通过网络、报刊等媒体向社会公布。
 第十八条  本规定自2017年9月1日起施行。
 
+─ 7 ─  

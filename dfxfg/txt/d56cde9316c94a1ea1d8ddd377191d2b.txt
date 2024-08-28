@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市人民代表大会常务委员会
@@ -94,3 +95,4 @@
 
 第三十一条  本条例的具体应用问题，由市人大常委会人事任免工作委员会负责解释。
 第三十二条  本条例自市人大常委会公布之日起施行，市人大常委会以前作出有关人事任免方面的规定，即行废止。
+- 1 -

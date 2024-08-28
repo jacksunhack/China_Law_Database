@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 西宁市大气污染防治条例
@@ -207,3 +208,4 @@
 （三）煤炭及其制品，石油焦、油页岩、原油、重油、渣油、煤焦油以及非专用锅炉或未配置高效除尘设施的专用锅炉燃用的生物质成型燃料。 
 第八十条  本条例自2016年3月1日起施行。
 
+#  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省林地保护管理条例
@@ -65,3 +66,4 @@
     第二十五条  本条例自1998年10月18日起施行。
 
 
+- 1 - 

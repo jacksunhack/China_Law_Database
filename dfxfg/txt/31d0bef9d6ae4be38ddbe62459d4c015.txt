@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市人民代表大会常务委员会
@@ -75,3 +76,4 @@
 本决定自公布之日起施行。
 《邯郸市城市供水用水管理条例》根据本决定作相应修改
 后，重新公布。
+1

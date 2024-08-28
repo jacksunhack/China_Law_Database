@@ -1,4 +1,8 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
+
                 
+
 三明市城市养犬管理条例
 
 （2022年12月27日三明市第十四届人民代表大会常务委员会第七次会议通过  2023年3月31日福建省第十四届人民代表大会常务委员会第三次会议批准）

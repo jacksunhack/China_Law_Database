@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 苏州市供水条例
@@ -145,3 +147,4 @@
 本条例所称管道直饮水，是指以公共供水为原料，经深度净化处理，通过管网供给用户直接饮用的优质水。
 第四十四条  本条例自2021年3月22日起施行。 
 
+─ # ─  

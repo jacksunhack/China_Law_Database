@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 黑龙江省宗教事务条例
@@ -124,3 +125,4 @@
 第七章　附　　则
 ​
 第四十六条　本条例自2024年1月1日起施行。2012年6月14日黑龙江省第十一届人民代表大会常务委员会第三十三次会议通过的《黑龙江省宗教事务条例》同时废止。
+－1－　

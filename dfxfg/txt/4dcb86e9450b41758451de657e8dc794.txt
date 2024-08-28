@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国红十字会法》办法
@@ -52,3 +53,4 @@
 第二十七条　本办法自公布之日起施行。
  
 
+1

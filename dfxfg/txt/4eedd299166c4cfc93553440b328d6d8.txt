@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市建设工程监理条例
@@ -63,3 +64,4 @@
 第三十条  本条例自2002年3月15日起施行。
 
 
+—8 —

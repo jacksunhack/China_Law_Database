@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区两岸新兴产业和现代服务业合作示范区条例
@@ -155,3 +156,4 @@
 
 
 
+#

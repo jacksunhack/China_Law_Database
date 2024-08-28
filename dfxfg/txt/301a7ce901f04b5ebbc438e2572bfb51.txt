@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省自然保护区管理条例
@@ -84,3 +85,4 @@
    
 第三十二条  本条例自2000年1月1日起施行。
 
+— 5 —  

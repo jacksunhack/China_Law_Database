@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市人民代表大会常务委员会议事规则
@@ -131,3 +132,4 @@
 
 第五十三条  本规则的解释权和修改权属于常务委员会，执行中的问题，由主任会议进行解释。
 第五十四条  本规则自通过之日起施行。
+- 1 -

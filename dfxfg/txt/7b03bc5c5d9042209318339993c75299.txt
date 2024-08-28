@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 漳州市政务服务条例
@@ -51,4 +52,3 @@
 供水、电力、燃气、通信等公用企事业单位、中介服务机构等开展与政务服务相关联的活动，参照本条例执行。
 第二十一条  市人民政府根据本条例制定实施细则。
 第二十二条  本条例自2023年1月1日起施行。
-

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长治市漳河流域生态修复与保护条例
@@ -124,3 +125,4 @@
 第六章　附 则
 第五十一条  市人民政府应当根据本条例制定实施细则。
 第五十二条　本条例自2023年3月1日起施行。
+#

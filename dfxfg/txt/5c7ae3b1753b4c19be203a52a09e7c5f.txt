@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -68,4 +69,6 @@
 （八）扣留或者擅自更改农村土地承包合同、土地承包经营权证或者林权证的；
 （九）其他侵害承包方土地承包经营权的行为。
 第二十五条  本办法自2005年4月1日起施行。
+
+— # —
 

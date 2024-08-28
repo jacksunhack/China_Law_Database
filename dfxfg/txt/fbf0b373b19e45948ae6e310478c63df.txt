@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江牡丹峰国家级自然保护区管理条例
@@ -65,3 +66,4 @@
 （四）违反本条例的其他行为。
 第三十三条  本条例自2011年3月1日起施行。
 
+1

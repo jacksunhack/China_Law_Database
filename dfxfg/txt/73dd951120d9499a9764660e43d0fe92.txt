@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 龙胜各族自治县自治条例
@@ -152,3 +154,4 @@
 第五十三条　本条例的解释权属于自治县人民代表大会常务委员会。
 第五十四条　自治县人民政府根据本条例的规定，可制定属于政府职权范围内的实施办法。
 
+- 1 -

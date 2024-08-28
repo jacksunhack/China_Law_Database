@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德州市养犬管理条例
@@ -174,3 +175,4 @@
 第四十三条  本条例所称养犬人包括饲养、管理犬只的单位和个人。
 第四十四条　本条例自2021年1月1日起施行。
 
+1

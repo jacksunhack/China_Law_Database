@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 淮安市餐厨垃圾管理条例
@@ -90,3 +91,4 @@
 第五章　附　　则
 ​
 第二十四条　本条例自2023年6月1日起施行。
+－1－　

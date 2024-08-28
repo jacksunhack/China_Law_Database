@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省地方立法条例
@@ -226,3 +228,4 @@
 
 　　第七十六条  本条例自2020年7月1日起施行。
 
+      — 1 —    

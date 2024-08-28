@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市科学技术进步条例
@@ -109,3 +111,4 @@
 
     第五十四条  市人民政府应当制定和完善保证本条例有效实施的相关配套制度。
     第五十五条  本条例自2016年1月1日起施行。
+      — 1 —      

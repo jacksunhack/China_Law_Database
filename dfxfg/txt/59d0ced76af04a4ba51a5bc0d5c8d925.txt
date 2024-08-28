@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省拆迁城镇华侨房屋规定
@@ -30,3 +31,4 @@
 第十四条  拆迁香港、澳门特别行政区居民、台湾同胞和外籍华人在本省的私有房屋，参照本规定执行。
 　　第十五条  本规定自2005年1月1日起施行。
 
+- 1 - 

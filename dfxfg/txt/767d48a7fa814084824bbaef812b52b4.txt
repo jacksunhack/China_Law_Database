@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 防城港市城市建筑垃圾管理条例
@@ -161,4 +162,3 @@
 第七章  附则
 
 　　第四十二条  本条例自2021年6月1日起施行。
-

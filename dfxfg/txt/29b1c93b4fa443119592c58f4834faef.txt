@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省土地管理条例
@@ -175,3 +176,4 @@
 第八章  附则
 
 第六十三条  本条例自2023年2月1日起施行。
+— # —

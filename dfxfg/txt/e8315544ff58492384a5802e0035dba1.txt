@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区实施
@@ -137,3 +138,4 @@
 第八章  附  则
 
 第四十三条  本办法自2004年8月1日起施行。
+#

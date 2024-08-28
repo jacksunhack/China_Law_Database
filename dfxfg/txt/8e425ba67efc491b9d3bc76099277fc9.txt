@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海北藏族自治州畜牧业基础设施管护条例
@@ -32,3 +33,4 @@
 
 
 
+1  

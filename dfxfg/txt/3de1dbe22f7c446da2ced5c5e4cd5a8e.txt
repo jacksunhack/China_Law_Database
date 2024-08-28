@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市城市轨道交通管理条例
@@ -160,3 +162,4 @@
 
 第五十三条　本条例自2016年2月1日起施行。
 
+#

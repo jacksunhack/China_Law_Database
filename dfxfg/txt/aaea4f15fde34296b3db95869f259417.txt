@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 三都水族自治县都柳江渔业条例
@@ -47,3 +48,4 @@
 第二十五条　自治县境内其它河流的渔业管理参照本条例执行。
 第二十六条　自治县人民政府可以根据本条例制定实施细则。
 第二十七条　本条例自2011年8月1日起施行。
+－1－　

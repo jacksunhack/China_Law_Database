@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 金秀瑶族自治县旅游发展条例
@@ -135,3 +136,4 @@
 ​
 第四十三条　自治县人民政府应当根据本条例制定实施办法。
 第四十四条　本条例自2024年6月1日起施行。
+－1－　

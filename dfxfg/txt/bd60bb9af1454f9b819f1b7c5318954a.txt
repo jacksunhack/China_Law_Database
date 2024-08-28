@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市城市供水节水条例
@@ -115,3 +117,4 @@
 第四十条  市辖县城市供水节水管理工作参照本条例执行。
 第四十一条  本条例自2015年1月1日起施行，《南宁市城市供水条例》和《南宁市城市节约用水管理条例》同时废止。
 
+#

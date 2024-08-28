@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市道路交通安全条例
@@ -320,3 +321,4 @@
 第九十三条  拖拉机登记和检验、拖拉机驾驶证申领和使用按照国家有关规定办理。
 第九十四条  本条例自2006年9月1日起施行。
 
+— 3 —

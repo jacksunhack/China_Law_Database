@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城市供水管理办法
@@ -125,3 +126,4 @@
 第七章　附　　则
 
 第五十一条　本办法自公布之日起施行。
+－1－　

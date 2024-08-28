@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 拉萨市制定地方性法规条例
@@ -143,3 +144,4 @@
 
 第六十七条  市人民代表大会及其常务委员会通过的具有法规性质的决议、决定，参照本条例的有关规定执行。
 第六十八条  本条例自2001年6月1日起施行。
+#

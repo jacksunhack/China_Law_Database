@@ -1,8 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市审计条例
 
-（上海市第十三届人民代表大会
+（2012年9月26日上海市第十三届人民代表大会
 常务委员会第三十六次会议通过）
 
 目    录
@@ -175,3 +176,4 @@
 第七章  附则
 
 第四十四条  本条例自2013年1月1日起施行。
+- 1 -

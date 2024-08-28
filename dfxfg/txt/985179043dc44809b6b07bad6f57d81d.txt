@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 咸宁市城市管理条例
@@ -149,3 +151,4 @@
 第五章  附  则
 
 第五十四条  本条例自2022年10月1日起施行。
+*  15 —

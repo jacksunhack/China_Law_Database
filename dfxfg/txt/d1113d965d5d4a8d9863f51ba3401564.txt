@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
  山西省警务辅助人员条例
@@ -101,3 +102,4 @@
 
 第三十二条 本条例自2020年1月1日起施行。
 
+#

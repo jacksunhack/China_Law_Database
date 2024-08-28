@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -113,3 +114,4 @@
 第七章　附　　则
 
 第四十九条　本办法自公布之日起施行。
+— 1 —

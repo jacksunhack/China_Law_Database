@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省水污染防治条例
@@ -195,3 +197,4 @@
 （七）其他不依法履行职责的行为。
 第八十九条  违反本条例规定的其他行为，法律、法规有处罚规定的，从其规定。
 
+—1—

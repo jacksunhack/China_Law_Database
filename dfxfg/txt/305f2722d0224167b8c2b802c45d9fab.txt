@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 朝阳市城市机动车停车管理条例
@@ -116,3 +117,4 @@
 第六章　附　　则
 ​
 第三十九条　本条例自2022年6月15日起施行。
+－1－　

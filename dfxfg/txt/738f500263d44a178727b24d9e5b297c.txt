@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广西壮族自治区电信设施建设与保护条例
 
@@ -140,3 +141,5 @@
 第五章  附  则
 
 第四十七条  本条例自2018年6月1日起施行。
+- 1 -
+

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌兰察布市水资源保护条例
@@ -167,3 +168,4 @@
 节水设施，包括节水器具、工艺、设备、计量设施、再生水回用系统和雨水收集利用系统。
 第五十七条  本条例自2017年6月1日起施行。
 
+#

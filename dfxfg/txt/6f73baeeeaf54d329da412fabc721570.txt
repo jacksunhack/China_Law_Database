@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北海市矿产资源保护条例
@@ -76,5 +77,4 @@
 第五章  附则
 
 　　第二十六条  本条例自2020年5月1日开始实施。
-
 

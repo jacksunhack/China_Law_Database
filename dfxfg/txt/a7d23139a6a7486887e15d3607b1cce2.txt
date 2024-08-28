@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市市政设施条例
@@ -134,4 +135,3 @@
 第七章  附  　则
 
 第五十二条  本条例自2018年1月1日起施行。《邯郸市市政设施管理条例》同时废止。
-

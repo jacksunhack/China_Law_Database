@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 西藏自治区实施《中华人民共和国科学
 技术进步法》办法
@@ -142,3 +143,4 @@
 第九章  附则
 
 第六十七条  本办法自2011年12月1日起施行。
+#

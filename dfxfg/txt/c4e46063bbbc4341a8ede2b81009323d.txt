@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 浙江省人民代表大会常务委员会
 关于修改《浙江省县、乡两级人民代表大会
 代表选举实施细则》的决定
@@ -25,3 +26,4 @@
 本决定自公布之日起施行。
 《浙江省县、乡两级人民代表大会代表选举实施细则》根据本决定作相应修改，重新公布。
 
+— 1—

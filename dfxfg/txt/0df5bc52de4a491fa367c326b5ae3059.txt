@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市历史风貌区和优秀历史建筑保护条例
@@ -157,3 +158,4 @@
 第五十条  本市历史文化名镇名村的保护，按照国家和本市有关规定执行。
 第五十一条  本条例自2003年1月1日起施行。
 
+- 17 -

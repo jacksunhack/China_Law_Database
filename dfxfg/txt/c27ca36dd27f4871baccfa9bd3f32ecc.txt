@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市城市房地产开发经营管理若干规定
@@ -73,3 +74,4 @@
 　　第三十条　本规定自2015年10月1日起施行。本规定施行前已签订国有建设用地使用权出让合同的房地产开发项目需要预售的，预售条件仍按照原规定执行。
 
 
+— 9—

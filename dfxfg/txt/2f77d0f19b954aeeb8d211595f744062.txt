@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省环境噪声污染防治条例
@@ -138,3 +140,4 @@
 
 第四十六条　本条例中城市居住区、居住小区、居住组团的含义，从国家城市居住区规划设计规范的规定。
 第四十七条　本条例自2006年3月1日起施行。
+─ 1 ─  

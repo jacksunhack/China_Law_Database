@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽创新型省份建设促进条例
@@ -141,3 +142,4 @@
 第九章　附　　则
 ​
 第四十六条　本条例自2021年7月1日起施行。
+－1－　

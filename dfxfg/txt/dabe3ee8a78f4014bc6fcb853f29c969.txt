@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区科学技术协会条例
 
 （１９９７年４月４日内蒙古自治区第八届
@@ -51,3 +52,4 @@
 违反本条前款规定的，有关部门应当依法对其直接负责人和直接责任者给予行政处分；对构成犯罪的依法追究刑事责任。
 第二十四条  本条例自公布之日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省劳动力市场管理条例
@@ -93,3 +94,4 @@
 
 　　第二十五条　外国人以及香港、澳门特别行政区和台湾地区人员来我省就业的，按照国家有关规定办理。
 　　第二十六条　本条例自2001年8月1日起施行。
+1

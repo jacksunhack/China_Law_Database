@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省村务公开条例
@@ -97,3 +98,4 @@
 第六章  附则
 
 第二十五条  本条例自2006年6月1日起施行。
+- 7 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市水利工程管理条例
@@ -83,3 +84,4 @@
 第二十七条  本条例自2015年1月1日起施行。《本溪市农村水利工程管理条例》同时废止。
 
 
+— 1 —

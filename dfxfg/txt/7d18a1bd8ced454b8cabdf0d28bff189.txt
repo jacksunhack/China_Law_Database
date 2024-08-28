@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
   吉林省安全生产条例
 （2017年12月1日吉林省第十二届人民代表大会
 常务委员会第三十八次会议通过）
@@ -172,3 +173,4 @@
  
 第六章  附  则
 第六十一条  本条例自2018年3月1日起施行。
+#

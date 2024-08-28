@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 商丘市城市供水条例
@@ -165,3 +166,5 @@
 第四十七条  本条例自2021年6月1日起施行。
 
 
+－ 1 －
+  

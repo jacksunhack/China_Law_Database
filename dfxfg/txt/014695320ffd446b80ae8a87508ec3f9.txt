@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 株洲市人民代表大会及其常务委员会立法条例
@@ -101,3 +102,4 @@
 第六章  附则
 
 第四十二条  本条例经省人民代表大会常务委员会批准，由市人民代表大会常务委员会公布施行。
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -148,3 +150,4 @@
 第四十七条  本办法自2008年12月1日起施行。
 
 
+— # —

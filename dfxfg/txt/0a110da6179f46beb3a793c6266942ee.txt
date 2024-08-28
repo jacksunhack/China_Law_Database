@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市供热条例
@@ -81,3 +83,4 @@
 第三十八条  本条例自2022年5月1日起施行。
 
 
+#

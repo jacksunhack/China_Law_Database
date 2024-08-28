@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省民兵预备役工作条例
@@ -131,3 +133,4 @@
 第四十二条　本条例所称基层单位是指乡人民政府、街道办事处和企业事业单位。
 第四十三条　本条例具体应用中的问题由河北省军区负责解释。
 第四十四条　本条例自公布之日起施行。
+　— 1 —　

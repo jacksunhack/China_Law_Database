@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市文明行为促进条例
@@ -114,3 +115,4 @@
 
 　　第三十八条  本条例自2017年1月1日起施行。
 
+- 1 -

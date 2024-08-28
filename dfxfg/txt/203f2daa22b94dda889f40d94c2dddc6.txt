@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省水利工程管理条例
@@ -117,3 +119,4 @@
 第五十五条　省人民政府可以根据本条例规定实施办法。
 第五十六条　本条例自1991年1月1日起施行。
 
+　— 1 —　

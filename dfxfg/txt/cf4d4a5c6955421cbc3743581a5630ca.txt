@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市中小学生体质健康促进条例
@@ -109,3 +111,4 @@
 第六章  附则
 
 第三十九条  本条例自2011年12月1日起施行。
+—— 9 ——

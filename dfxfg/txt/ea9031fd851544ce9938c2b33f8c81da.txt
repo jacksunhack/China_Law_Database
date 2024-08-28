@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 青岛市人民代表大会常务委员会关于
@@ -7,3 +8,4 @@
 ​
 青岛市第十七届人民代表大会常务委员会第十一次会议决定，废止《青岛市授予荣誉市民称号办法》。
 本决定自公布之日起施行。
+－1－　

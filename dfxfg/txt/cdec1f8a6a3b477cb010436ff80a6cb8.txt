@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广西壮族自治区实施《中华人民共和国
 未成年人保护法》办法
@@ -162,4 +163,6 @@
 第五十七条  本办法自2017年12月1日起施行。
 
 
+
+- 1 -
 

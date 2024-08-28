@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -152,6 +153,7 @@
    （七）丧失行为能力的。
     代表资格终止，由代表资格审查委员会报请本级人民代表大会常务委员会或者乡级人民代表大会予以公告。
 
- 附    则
+第六章   附    则
 
     第四十七条  本办法自公布之日起施行。
+1

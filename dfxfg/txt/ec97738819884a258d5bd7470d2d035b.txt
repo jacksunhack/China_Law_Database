@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -100,3 +101,4 @@
 第七章　附则
 
 　　第四十条　本办法自2009年12月1日起施行。
+#　

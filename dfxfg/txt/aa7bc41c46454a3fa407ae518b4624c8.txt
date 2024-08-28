@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市志愿服务条例
@@ -121,3 +122,4 @@
 
 第四十五条  本条例自2017年12月1日起施行。2007年12月19日天津市第十四届人民代表大会常务委员会第四十一次会议通过的《天津市青年志愿服务条例》同时废止。
 
+#

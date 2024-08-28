@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郴州市历史文化名城名镇名村保护条例
@@ -140,3 +141,4 @@
 第六章  附  则
 
 第三十九条   本条例自2019年3月1日起施行。
+— 1—

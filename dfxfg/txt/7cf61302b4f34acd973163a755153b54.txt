@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施《中华人民共和国村民委员会
@@ -153,3 +154,4 @@
 　　第四十五条　本办法自2017年12月1日起施行。
 
 
+1

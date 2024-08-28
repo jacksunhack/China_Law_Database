@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省实施《中华人民共和国
@@ -92,3 +93,4 @@
 （四）违反规定登记、颁发、变更、注销不动产权属证书的；
 （五）其他滥用职权、玩忽职守、徇私舞弊的侵害土地承包经营权的行为。
 第三十一条　本办法自2024年4月1日起施行。
+－1－　

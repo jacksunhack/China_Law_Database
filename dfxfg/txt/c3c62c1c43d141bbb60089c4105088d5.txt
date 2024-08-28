@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 廊坊市养犬管理条例
@@ -145,3 +146,4 @@
 ​
 第三十三条　本条例所称养犬人，是指饲养犬只的个人或者单位。
 第三十四条　本条例自2021年8月1日起施行。
+－1－　

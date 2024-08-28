@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市城市供水节水条例
@@ -174,3 +175,5 @@
     第六十二条  本条例自2015年1月1日起施行。2003年5月10日起施行的《银川市城市供水节水管理条例》同时废止。
 
 	
+#
+

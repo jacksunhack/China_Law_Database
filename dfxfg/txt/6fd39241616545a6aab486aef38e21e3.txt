@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长白朝鲜族自治县自治条例
@@ -177,3 +178,4 @@
 第七十一条 本条例自吉林省人民代表大会常务委员会批准之日起生效，自公布之日起施行。
 第七十二条 本条例的解释权属于自治县人民代表大会常务委员会。
 
+#

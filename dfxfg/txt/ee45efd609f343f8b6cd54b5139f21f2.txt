@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 彭水苗族土家族自治县自治条例
@@ -189,3 +190,4 @@
 第七十一条  本条例的解释权属自治县人民代表大会常务委员会。本条例的解释报重庆市人民代表大会常务委员会备案。
 
 
+- 1 -

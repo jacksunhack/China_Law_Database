@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省农村公路条例
@@ -91,3 +92,4 @@
 第六章　附则
 
 　　第三十九条　本条例自2007年6月1日起施行。
+1

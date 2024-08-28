@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市病媒生物预防控制管理办法
@@ -107,3 +108,4 @@
 第三十九条  本办法具体应用的问题由市人民政府负责解释。
 第四十条  本办法自2012年3月1日起施行。
 
+#

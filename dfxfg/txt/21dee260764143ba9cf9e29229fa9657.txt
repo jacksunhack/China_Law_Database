@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 怒江傈僳族自治州城乡环境卫生管理条例
@@ -93,3 +95,4 @@
 
 第三十七条  本条例自2020年1月1日起施行。
 
+—— 6 ——

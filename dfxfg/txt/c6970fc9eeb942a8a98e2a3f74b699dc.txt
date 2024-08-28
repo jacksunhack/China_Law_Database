@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区城乡规划条例
@@ -225,3 +226,4 @@
 第八十六条  市人民政府应当根据本条例制定《城市规划技术标准与准则》等实施性规定。
 第八十七条  本条例自2013年10月1日起施行。
 
+- 1 -

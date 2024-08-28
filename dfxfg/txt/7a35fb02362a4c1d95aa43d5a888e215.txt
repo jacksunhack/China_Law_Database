@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省松花江三湖保护区管理条例
@@ -124,3 +125,4 @@
 
 第三十八条　过去省内有关规定与本条例相抵触的，按本条例规定执行。
 第三十九条　本条例自公布之日起施行。
+— 11 —

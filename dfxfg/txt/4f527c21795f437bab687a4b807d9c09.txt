@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳综合保税区管理条例
@@ -95,3 +97,4 @@
 
 第三十二条 本条例规定的相关制度，除需要根据建设发展实际逐步配套外，市人民政府及其管委会应当在本条例施行之日起3个月内制定并且公布。
 第三十三条 本条例自2015年9月14日起施行。
+— 1 —

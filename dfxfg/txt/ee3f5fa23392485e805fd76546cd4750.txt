@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州樟江流域保护条例
@@ -126,3 +128,4 @@
 第四十一条  本条例自2017年1月1日施行。
 
 
+— 1 —

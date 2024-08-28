@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市风景名胜区条例
@@ -79,3 +80,4 @@
 第三十条  本条例自2011年9月1日起施行。
 
 
+— 1 —

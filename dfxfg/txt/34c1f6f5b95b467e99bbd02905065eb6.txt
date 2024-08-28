@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区村务公开条例
@@ -97,3 +98,4 @@
 特区范围内具有独立集体经济的村（居）民小组，参照本条例实行组务公开。
 第二十七条　本条例自2014年7月1日起施行。
 
+1

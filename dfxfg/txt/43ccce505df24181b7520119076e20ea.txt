@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区政府采购条例
@@ -327,4 +328,6 @@
 　　第六十三条　本条例自2012年3月1日起施行。
 
 　
+
+#
 

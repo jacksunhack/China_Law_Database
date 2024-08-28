@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省志愿服务条例
@@ -105,3 +106,4 @@
 
 第三十四条  志愿服务活动组织者招募境外志愿者以及安排志愿者到省外、境外从事志愿服务活动，按照国家和本条例的有关规定执行。
 第三十五条  本条例自2012年12月1日起施行。 
+1

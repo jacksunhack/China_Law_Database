@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 甘肃省公众参与制定地方性法规办法
 
 (2013年7月26日甘肃省第十二届人民代表大会常务委员会第四次会议通过）

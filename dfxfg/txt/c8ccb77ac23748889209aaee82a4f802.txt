@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省煤矿安全生产监督管理条例
@@ -140,4 +141,6 @@
 
 第三十八条  本条例自2012年2月1日起施行。
 
+
+— 1 —
 

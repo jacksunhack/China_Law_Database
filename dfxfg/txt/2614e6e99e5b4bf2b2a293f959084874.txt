@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区实施
@@ -105,3 +106,5 @@
 　　第三十条　本办法具体应用中的问题由自治区人民政府解释。
 　　第三十一条　本办法自公布之日起施行。
 
+- 1 -
+ 

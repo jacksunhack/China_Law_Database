@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省土地管理条例
@@ -179,3 +181,4 @@
 
 第五十八条  本条例自2001年1月1日起施行。《江苏省实施〈中华人民共和国土地管理法〉办法》同时废止。
 
+─ 1 ─  

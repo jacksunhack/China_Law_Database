@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省土地管理条例
@@ -175,3 +176,4 @@
 第六十二条  本条例自2022年7月1日起施行。1999年10月22日福建省第九届人民代表大会常务委员会第十四次会议通过的《福建省实施〈中华人民共和国土地管理法〉办法》同时废止。
 
 
+— 19 —

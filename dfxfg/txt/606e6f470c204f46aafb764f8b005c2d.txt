@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 务川仡佬族苗族自治县农村公路养护
@@ -82,3 +83,4 @@
 第三十九条  违反本条例规定的其他行为，法律、法规有处罚规定的，从其规定。
 第七章  附  则
 第四十条  本条例自2021年1月1日起施行。
+— 1 —

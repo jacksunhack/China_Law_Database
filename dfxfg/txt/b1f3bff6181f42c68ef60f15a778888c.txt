@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施
@@ -97,3 +98,4 @@
 第六章　附则
 
 　　第四十二条　本办法自公布之日起施行。1987年12月19日湖北省第六届人民代表大会常务委员会第30次会议通过的《湖北省保护老年人合法权益的规定》同时废止。
+1

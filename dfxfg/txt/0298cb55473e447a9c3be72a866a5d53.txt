@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省矿产资源管理条例
@@ -254,3 +255,4 @@
 第八十三条  本条例具体应用的问题由省人民政府负责解释。
 第八十四条  本条例自2010年3月1日起施行。
 
+#

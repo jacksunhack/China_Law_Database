@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省大气污染防治条例
@@ -223,3 +224,4 @@
 第六十七条  本条例自2017年8月1日起施行。
 
 
+#

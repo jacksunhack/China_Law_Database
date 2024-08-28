@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区城镇基本医疗保险条例
 
 （2015年11月25日内蒙古自治区第十二届
@@ -146,3 +147,4 @@
 第九章　附　则
 第五十八条　本条例自2016年1月1日起施行。
 
+#

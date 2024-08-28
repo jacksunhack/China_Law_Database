@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福州市地下热水(温泉)管理办法
@@ -84,3 +85,4 @@
 第三十条  本办法由福州市人民政府解释。
 第三十一条  本办法自公布之日起施行。
 
+—1—

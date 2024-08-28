@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市无障碍环境建设条例
@@ -224,3 +225,4 @@
 第八章  附    则
 
 第八十条  本条例自2023年3月1日起施行。
+- 1 -

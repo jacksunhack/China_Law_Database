@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔西南布依族苗族自治州民族医药
@@ -69,3 +70,4 @@
 第六章  附  则
 第三十六条  自治州人民政府应当依据本条例制定实施办法。
 第三十七条  本条例自2021年1月1日起施行。
+— 1 —

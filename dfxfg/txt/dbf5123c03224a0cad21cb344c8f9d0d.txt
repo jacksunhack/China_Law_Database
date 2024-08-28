@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 定西市元明汪氏家族墓地保护条例
@@ -59,3 +61,4 @@
 第二十二条  法律、法规对文物保护事项已有处罚规定的，依照其规定执行。
 第二十三条  本条例自2021年11月1日起施行。
 
+1

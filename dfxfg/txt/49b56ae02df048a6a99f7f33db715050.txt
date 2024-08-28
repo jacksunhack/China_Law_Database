@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省村民委员会选举办法
@@ -118,3 +120,4 @@
 第三十三条  本办法自2000年9月1日起施行。1992年10月27日江苏省第七届人民代表大会常务委员会第三十次会议通过的《关于村民委员会选举工作的若干规定》同时废止。
 
 
+─ 1 ─  

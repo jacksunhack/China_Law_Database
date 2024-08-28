@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省地震安全性评价管理条例
@@ -66,3 +68,4 @@
 
 
 
+      — 1 —    

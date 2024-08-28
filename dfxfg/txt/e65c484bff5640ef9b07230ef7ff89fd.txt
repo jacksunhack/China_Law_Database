@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 珠海经济特区乡村风貌提升条例
@@ -180,3 +181,4 @@
 第九章　附　　则
 ​
 第七十二条　本条例自2024年6月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽阳市烟花爆竹销售燃放管理条例
@@ -64,3 +65,4 @@
 第二十一条　本条例未作规定的，依照相关法律法规执行。  
 第二十二条　本条例自2017年12月20日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市人工影响天气管理条例
@@ -72,3 +73,4 @@
     
 第二十六条  本条例自2017年9 月1日起施行。
 
+#

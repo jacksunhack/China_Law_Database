@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市城市道路管理条例
@@ -135,3 +136,4 @@
 第四十五条  本条例自2009年3月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省预防未成年人犯罪条例
@@ -89,3 +90,4 @@
 第三十一条  本条例自2021年12月1日起施行。
 
 
+— 1 —

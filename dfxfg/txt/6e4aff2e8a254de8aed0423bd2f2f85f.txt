@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔西南布依族苗族自治州科学技术进步条例
@@ -135,3 +137,4 @@
 第五十九条　本条例自2011年10月1日起施行。
 
 
+— 1 —

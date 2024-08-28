@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省少数民族文化保护与开发条例
@@ -88,3 +89,4 @@
 第三十五条   本条例具体应用问题由省人民政府解释。
 第三十六条   本条例自2012年12月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省人民代表大会常务委员会人事任免办法
@@ -113,3 +114,4 @@
 第七章  附则
 
     第五十条  本办法自2010年7月1日起施行。
+- 1 -

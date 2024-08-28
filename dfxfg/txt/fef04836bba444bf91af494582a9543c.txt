@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省花卉产业发展条例
@@ -121,3 +123,4 @@
 第四十三条  省人民政府根据本条例，制定实施办法。
 第四十四条  本条例自2009年9月1日起施行。
 
+—— 4 ——

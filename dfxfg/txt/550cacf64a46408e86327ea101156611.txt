@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内江市违法建设治理条例
@@ -102,3 +103,4 @@
 第三十条 市人民政府授权内江经济技术开发区管理委员会、内江高新技术产业园区管理委员会在辖区内行使违法建设治理权的，按授权决定执行。
 第三十一条 本条例自2021年1月1日起施行。
 
+— 3 —  

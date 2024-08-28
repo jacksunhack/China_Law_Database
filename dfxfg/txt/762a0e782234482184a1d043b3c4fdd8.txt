@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省城市市政设施管理条例
@@ -149,3 +151,4 @@
 第五十六条　本条例自发布之日起施行。1995年6月7日省人民政府发布的《海南省城市市政设施管理规定》同时废止。
 
 
+- 11 -

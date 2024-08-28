@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市实施《中华人民共和国
@@ -73,3 +74,4 @@
     第二十七条　本规定自2005年7月1日起施行。
 
 
+- 1 -

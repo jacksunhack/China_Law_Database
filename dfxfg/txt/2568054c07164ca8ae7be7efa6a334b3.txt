@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市健康医疗大数据应用发展条例
@@ -74,3 +75,4 @@
 第三十一条  本条例自2019年1月1日起施行。
  
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -82,3 +83,4 @@
 逾期不改正的，按照省人民代表大会常务委员会监督程序依法追究有关负责人的责任。
 第十七条　本省设区的市、县（市、区）人民代表大会常务委员会讨论、决定重大事项，可参照本规定执行。
 第十八条　本规定自公布之日起施行。
+- 9 -

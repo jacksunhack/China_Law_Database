@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市实施《中华人民共和国
@@ -465,3 +466,4 @@
 
 第一百零八条  本办法自2005年1月1日起施行。
 
+—1—  

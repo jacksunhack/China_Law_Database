@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区河道管理规定
@@ -104,3 +106,4 @@
 
     第四十二条　本规定自2001年1月1日起施行。
 
+#

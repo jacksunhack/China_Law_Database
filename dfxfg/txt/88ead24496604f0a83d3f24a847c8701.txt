@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省全民健身条例
@@ -94,3 +96,4 @@
 第六章  附则
 
 第四十五条  本条例自2011年8月1日起施行。
+      — 1 —    

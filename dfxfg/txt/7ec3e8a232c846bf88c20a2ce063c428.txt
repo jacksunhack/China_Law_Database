@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 彭水苗族土家族自治县市容和环境卫生
 管理条例
 
@@ -111,3 +112,4 @@
 
 第三十九条  乡人民政府所在地和大型居民区参照本条例执行，大型居民区的具体范围由自治县人民政府划定并公布。
 第四十条　本条例自2023年5月1日起施行。
+— 1 —  

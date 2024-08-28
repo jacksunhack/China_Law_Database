@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省社会治安综合治理条例
@@ -125,3 +126,4 @@
 第六章　附则
 
 　　第五十七条　本条例自2006年7月1日起施行。
+#　

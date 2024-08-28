@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 阳江市漠阳江流域水质保护条例
 
@@ -107,3 +108,4 @@
 第四十六条  本条例自2018年12月30日起施行。
 
 
+	— 1 —  

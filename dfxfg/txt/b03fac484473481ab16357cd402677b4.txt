@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市煤矿安全生产监督管理条例
@@ -214,3 +215,4 @@
 第六十九条  本条例自2006 年6月1日起施行。
 
 
+#

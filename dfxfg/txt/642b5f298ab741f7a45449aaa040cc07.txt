@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黑龙江省实施《中华人民共和国
 归侨侨眷权益保护法》办法
@@ -64,3 +65,4 @@
 （三）其他应当给予行政处分的行为。
     第二十八条 本办法自发布之日起施行。
 
+#

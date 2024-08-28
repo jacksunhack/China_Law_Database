@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 晋城市农村自建房管理条例
@@ -127,4 +128,3 @@
 第四十四条  农村集体建设用于办公室、警务室、卫生室、便民服务点、农产品加工作坊等低层房屋建筑的，参照本条例执行。
 第四十五条  本条例自2022年5月1日起施行。
  
-

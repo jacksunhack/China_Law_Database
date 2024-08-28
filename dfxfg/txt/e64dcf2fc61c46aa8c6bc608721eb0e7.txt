@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郴州市城市市容环境卫生管理条例
@@ -134,3 +135,4 @@
 第五章　附则
  
 第三十六条　本条例自2021年1月1日起施行。
+－1－  

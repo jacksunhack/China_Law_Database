@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市制定地方性法规条例
@@ -121,3 +122,4 @@
 1995年4月20日抚顺市第十一届人民代表大会常务委员会第十六次会议通过的《抚顺市人民代表大会常务委员会制定地方性法规条例》同时废止。
 
 
+— 1 —

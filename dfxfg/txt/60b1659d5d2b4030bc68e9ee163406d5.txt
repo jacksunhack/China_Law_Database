@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 山西省建设工程抗震设防条例
 
@@ -108,3 +109,4 @@
 
 第四十条 本条例自2015年1月1日起施行。
 
+1

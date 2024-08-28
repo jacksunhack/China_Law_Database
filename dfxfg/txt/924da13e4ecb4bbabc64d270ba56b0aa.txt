@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄南藏族自治州
@@ -88,3 +89,4 @@
 　　第三十五条　本条例所称的主要街道和公共广场由各县人民政府界定并公布。
 　　第三十六条　本条例应用中的具体问题由黄南藏族自治州人民政府负责解释。
 　　第三十七条　本条例自2004年7月1日起施行。
+- 1 -　

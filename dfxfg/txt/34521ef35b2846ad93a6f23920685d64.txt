@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市防震减灾条例（修订）
@@ -194,3 +196,5 @@
 
 
 
+　— 1 —　
+　

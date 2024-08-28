@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国
@@ -132,3 +134,4 @@
 
 第三十七条  本办法自1999年6月1日起施行。
 
+- 1 -

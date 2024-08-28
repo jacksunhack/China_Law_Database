@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 温州经济技术开发区条例
@@ -53,3 +54,4 @@
 　　第二十条　华侨和香港、澳门、台湾同胞的企业、其他经济组织或个人在开发区投资兴办企业，参照本条例执行。
 　　第二十一条　本条例自公布之日起施行。
 
+— 1—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市大气污染防治条例
@@ -125,3 +126,4 @@
 （二）林格曼黑度是对烟气黑度进行评价的一种方法，共分为六级，分别是：零、一、二、三、四、五级。
 第六十一条  本条例自2014年5月1日起实施。
 
+— 13 —

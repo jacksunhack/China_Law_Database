@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 南宁市饮用水水源保护条例
 
@@ -126,3 +127,4 @@
 第六章  附  则
 
     第四十一条  本条例自2009年4月1日起施行。
+- 1 -

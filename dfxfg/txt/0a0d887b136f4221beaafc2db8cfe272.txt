@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 汉中市机动车停车场管理条例
@@ -134,3 +135,4 @@
 第五章　附　　则
 ​
 第四十四条　本条例自2024年3月1日起施行。
+－1－　

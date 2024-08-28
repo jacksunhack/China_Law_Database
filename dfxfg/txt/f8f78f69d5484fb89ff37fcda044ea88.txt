@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州草原防火条例
@@ -61,3 +63,4 @@
     第二十二条  本条例执行中的具体应用问题由甘南藏族自治州畜牧行政部门负责解释。
     第二十三条  本条例自发布之日起施行。《甘南藏族自治州加强草原防火工作的规定》即行废止。
 
+      — 1 —      

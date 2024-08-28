@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省国防教育条例
@@ -59,3 +61,4 @@
 （三）寻衅滋事、扰乱国防教育工作和活动秩序的，或者盗用国防教育名义骗取钱财的；
 （四）负责国防教育的国家工作人员玩忽职守、滥用职权、徇私舞弊的。
 第二十五条　本条例自公布之日起施行。
+　— 1 —　

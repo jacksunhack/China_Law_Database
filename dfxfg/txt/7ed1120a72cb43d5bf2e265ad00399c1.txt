@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桓仁满族自治县人民代表大会关于修改《桓仁满族自治县封山育林管理条例》《桓仁满族自治县冰葡萄酒管理条例》和废止《桓仁满族自治县水库渔业资源保护管理条例》的决定
@@ -30,3 +31,5 @@
 本决定自公布之日起施行。
 
 
+  — # —
+	

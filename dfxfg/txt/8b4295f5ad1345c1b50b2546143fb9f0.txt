@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省迪庆藏族自治州民族团结进步条例
@@ -53,3 +55,4 @@
 自治州人民政府可以根据本条例制定实施办法。
 
 
+—— 1 ——

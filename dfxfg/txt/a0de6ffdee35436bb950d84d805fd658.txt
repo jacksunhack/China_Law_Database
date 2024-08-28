@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省汉江丹江流域水污染防治条例
@@ -91,3 +92,4 @@
 第五章　附　　则
 
 第三十七条　本条例自2006年3月1日起施行。
+— 1 —

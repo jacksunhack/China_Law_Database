@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市城市建设档案管理条例
@@ -71,3 +72,4 @@
 
 　　第二十六条　本条例应用中的具体问题，由西宁市人民政府负责解释。
 　　第二十七条　本条例自2001年11月1日施行。
+#　

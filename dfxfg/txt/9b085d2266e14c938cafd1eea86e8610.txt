@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 湖北省平安建设条例
@@ -149,3 +150,4 @@
 第七章　附　　则
 ​
 第五十三条　本条例自2024年7月1日起施行。《湖北省社会治安综合治理条例》同时废止。
+－1－　

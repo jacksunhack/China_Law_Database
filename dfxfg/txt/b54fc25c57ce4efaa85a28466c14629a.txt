@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阳泉市黑热病防治规定
@@ -41,3 +42,4 @@
 第十九条  国家机关及其工作人员在黑热病防治工作中滥用职权、玩忽职守、徇私舞弊的，依法给予行政处分。构成犯罪的，依法追究刑事责任。
 第二十条  本规定自公布之日起施行。
 
+1

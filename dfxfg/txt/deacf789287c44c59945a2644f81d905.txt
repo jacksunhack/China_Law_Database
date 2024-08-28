@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -108,3 +109,4 @@
 第三十条  本办法自2010年3月1日起施行。1990年8月
 19日湖南省第七届人民代表大会常务委员会第十八次会议通过的《湖南省国防教育条例》同时废止。
 
+1

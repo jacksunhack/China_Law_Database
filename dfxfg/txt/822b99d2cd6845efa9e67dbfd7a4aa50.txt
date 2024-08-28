@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省电力设施建设与保护条例
@@ -179,3 +180,4 @@
 
 　　第五十七条　核电设施的规划、建设与保护按照国家有关规定执行。
 　　第五十八条　本条例自2011年12月1日起施行。
+1

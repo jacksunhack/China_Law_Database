@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省高新技术产业开发区条例
@@ -84,3 +86,4 @@
 
 第四十二条　本条例所称孵化器，是指为培育初创阶段中小企业的研究、开发、试制、生产等提供必要条件的服务机构。
 第四十三条　本条例自2002年6月1日起施行。
+　— 1 —　

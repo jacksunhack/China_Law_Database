@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 西藏自治区实施《中华人民共和国就业
 促进法》办法
 
@@ -165,4 +166,3 @@
 第九章  附  则
 第七十七条  本办法所称公共就业服务机构，是指由政府设立的，向用人单位和劳动者提供免费就业服务的公益性机构。
 第七十八条  本办法自2010年5月1日起施行。
-

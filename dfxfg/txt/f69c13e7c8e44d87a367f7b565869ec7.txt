@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省实施《中华人民共和国
@@ -100,3 +101,4 @@
 第三十九条　对依照本办法规定所作处理、处罚决定不服的，当事人可依法申请行政复议或者提起诉讼。
 第四十条　本办法自2000年11月1日起施行。
 
+－ 11 －

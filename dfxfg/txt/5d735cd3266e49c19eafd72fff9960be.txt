@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 通化市人民代表大会常务委员会
 关于修改《通化市燃放烟花爆竹安全
 管理条例》的决定
@@ -17,3 +18,4 @@
 （三）正月十五八时至二十三时。”
 本决定自公布之日起施行。
 《通化市燃放烟花爆竹安全管理条例》根据本决定作相应的修改，重新公布。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 达州市传统村落保护与利用条例
@@ -143,3 +144,4 @@
 
 
 
+— 1 — 

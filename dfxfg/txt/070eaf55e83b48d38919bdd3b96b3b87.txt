@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 拉萨市老城区保护条例
@@ -110,3 +111,4 @@
 第四十二条  本条例自2013年10月1日起施行。
 
 
+—#—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广东省建设工程质量管理条例
@@ -209,3 +210,4 @@
 ​
 第五十六条　抢险救灾工程、临时性建设工程、军事建设工程、农民自建低层房屋建筑工程，不适用本条例。
 第五十七条　本条例自2014年3月1日起施行。
+－1－　

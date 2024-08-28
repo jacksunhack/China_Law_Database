@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 甘南藏族自治州城乡饮用水安全管理条例
 
@@ -137,3 +139,4 @@
 
 第四十条  本条例自公布之日起施行。
 
+      — # —    

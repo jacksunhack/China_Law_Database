@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省城乡规划条例
@@ -248,3 +249,4 @@
 第七章　附则
 
 第七十五条　本条例自2012年3月1日起施行。《吉林省城市规划条例》同时废止。
+— 2 —

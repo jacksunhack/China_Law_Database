@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省城市和镇控制性详细规划管理条例
@@ -108,3 +110,4 @@
 
     第三十一条  本条例自2008年3月1日起施行。
 
+- 7 -

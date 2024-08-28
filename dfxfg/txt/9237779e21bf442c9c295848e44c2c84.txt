@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省企业工资集体协商条例
@@ -149,3 +150,4 @@
 第四十二条  实行企业化管理的事业单位、民办非企业单位、个体经济组织开展工资集体协商，参照本条例执行。
 第四十三条  本条例自2013年11月1日起施行。
 
+- 1 -

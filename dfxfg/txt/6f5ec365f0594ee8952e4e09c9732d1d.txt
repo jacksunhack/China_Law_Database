@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省人民代表大会常务委员会关于
@@ -85,3 +86,4 @@
 十六、废止《湖北省实施<中华人民共和国农业技术推广法>办法》
 本决定自公布之日起施行。
 相关法规根据本决定作相应修改，条款顺序作相应调整，并重新公布。
+— # —

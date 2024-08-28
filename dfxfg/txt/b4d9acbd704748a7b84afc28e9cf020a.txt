@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州施秉喀斯特
@@ -84,3 +85,4 @@
 第五章  附  则
 第三十六条  自然遗产保护范围内宗教活动场所的建设与管理，除依照国家、省有关宗教事务管理的规定执行外，适用本条例。
 第三十七条  本条例自2018年10月1日起实施。
+— 1 —

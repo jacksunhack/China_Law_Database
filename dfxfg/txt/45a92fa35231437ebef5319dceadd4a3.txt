@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省温州生态园保护管理条例
@@ -82,3 +83,4 @@
 
 
 
+— 7—

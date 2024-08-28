@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省集体合同条例
@@ -150,3 +152,4 @@
 第四十七条  本条例自2005年3月1日起施行。
 
  
+─ 1 ─  

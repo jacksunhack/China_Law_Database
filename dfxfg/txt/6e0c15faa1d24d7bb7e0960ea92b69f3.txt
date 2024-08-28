@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省湿地保护条例
@@ -147,3 +149,4 @@
 第七章 附 则
 
 第五十六条 本条例自2023年6月1日起施行。
+#

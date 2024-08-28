@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市殡葬管理条例
@@ -93,3 +94,4 @@
 第三十八条  本条例应用中的具体问题由市人民政府负责解释。
 第三十九条  本条例自公布之日起施行。
 
+— 1 —

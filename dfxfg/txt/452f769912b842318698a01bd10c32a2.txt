@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 清原满族自治县自治条例
@@ -99,3 +100,4 @@
 第六十条  本条例自颁布之日起施行。
 
 
+— 1 —

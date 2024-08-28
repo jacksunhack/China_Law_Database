@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省未成年人保护条例
@@ -250,3 +251,4 @@
 第九章  附  则
 
 第八十四条  本条例自2012年1月1日起施行。
+— 25 —  

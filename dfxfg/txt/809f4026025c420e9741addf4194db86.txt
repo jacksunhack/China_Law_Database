@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区学习、使用和发展藏语文的规定
@@ -34,3 +35,4 @@
 第十八条　违反本规定其他条款的，由县级以上人民政府藏语文工作部门给予批评教育或者由所在单位给予行政处分。
 第十九条  自治区人民政府根据本规定制定实施细则。
 
+- 3 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 深圳经济特区生态环境公益诉讼规定
 （2020年8月26日深圳市第六届人民代表大会
 常务委员会第四十四次会议通过）
@@ -93,3 +94,4 @@
 （六）生态环境保护公益活动支出。
 第三十二条  本规定自2020年10月1日起施行。
 
+2

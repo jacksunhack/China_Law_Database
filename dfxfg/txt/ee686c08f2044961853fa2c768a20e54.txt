@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市促进天开高教科创园发展条例
@@ -140,3 +141,4 @@
 第七章　附　　则
 
 第五十三条　本条例自公布之日起施行。
+－1－　

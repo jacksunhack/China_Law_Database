@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国土地管理法》
@@ -229,3 +230,4 @@
 第八十条  本实施办法自2023年3月1日起施行。
 
 
+— 29 —

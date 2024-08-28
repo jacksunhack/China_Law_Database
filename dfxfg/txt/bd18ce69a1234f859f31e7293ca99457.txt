@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 中国(河南)自由贸易试验区条例
@@ -178,3 +179,4 @@
     第六十一条  郑州航空港经济综合实验区、经省政府确定的自贸试验区开放创新联动区可以参照适用本条例的有关规定。
 第六十二条  本条例自2021年7月1日起施行。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市全民义务植树条例
@@ -57,3 +58,4 @@
 第二十二条　市人民政府可以根据本条例制定实施细则。
 第二十三条　本条例自2004年3月1日起施行。
 
+#

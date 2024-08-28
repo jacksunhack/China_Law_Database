@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市粮食流通监督管理条例
@@ -115,3 +117,4 @@
 军粮、转基因粮食的管理，依照国家和省政府的相关规定执行。
 第四十七条  本条例自2009年1月1日起施行。
 
+      — 1 —      

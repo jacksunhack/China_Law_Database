@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市人民代表大会常务委员会
 关于区、乡镇人民代表大会换届选举
@@ -61,4 +62,6 @@
 静 海 区    35名
 宁 河 区    35名
 蓟 州 区    35名
+
+#
 

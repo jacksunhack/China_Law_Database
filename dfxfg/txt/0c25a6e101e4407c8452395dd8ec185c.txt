@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔西南布依族苗族自治州自治条例
@@ -147,3 +148,4 @@
 第七十二条  自治州人民政府依据本条例制定实施办法。
 第七十三条  本条例自2022年1月1日起施行。
 
+— 1 —

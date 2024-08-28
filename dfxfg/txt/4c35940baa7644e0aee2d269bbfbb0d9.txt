@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省农村水利条例
@@ -138,3 +140,4 @@
 农村供水工程是指为解决农村居民饮用水而兴建的各类供水工程，包括取水工程、水厂、输配水管网系统、入户设施及其相关附属设施。
 第六十二条　本条例自2021年2月1日起施行。
 
+─ # ─  

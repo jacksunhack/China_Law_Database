@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省爱国卫生工作条例
@@ -74,3 +76,4 @@
 
 第二十六条　本条例所称城市是指县级以上人民政府所在地的城镇。对城市爱国卫生工作的要求适用于旅游区。
 第二十七条　本条例自公布之日起施行。
+— 1 —

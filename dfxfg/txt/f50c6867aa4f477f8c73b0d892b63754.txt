@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 道真仡佬族苗族自治县民族民间
@@ -132,3 +133,4 @@
 第三十四条  本条例自2021年7月1日起施行。
 
 
+— 1 —

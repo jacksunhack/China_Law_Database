@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省大气污染防治条例
@@ -95,3 +96,5 @@
 第七章　附则
 
 　　第三十八条　本条例自公布之日起施行。
+1
+	

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安顺市城镇绿化条例
@@ -155,3 +156,4 @@
 （四）四荒地，是指荒山、荒坡、荒沟、荒地。
 （五）山体绿化是指对本市列入保护名录的山体及山体公园进行的山体绿化生态修复和修补。
 第五十条  本条例自2020年1月1日起施行。
+— 1 —

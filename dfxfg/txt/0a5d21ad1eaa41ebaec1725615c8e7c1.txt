@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省水利工程管理条例（修订）
@@ -141,3 +142,4 @@
 第六十条  本条例自2017年8月1日起施行。
 
 
+— 15 —

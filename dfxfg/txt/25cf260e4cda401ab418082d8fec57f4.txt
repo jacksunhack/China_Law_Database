@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省预防职务犯罪条例
@@ -107,3 +109,4 @@
 
 第三十三条  非国有公司、企业、事业单位可以参照本条例开展与职务有关的犯罪预防工作。
 第三十四条  本条例自2006年6月1日起施行。
+─ 1 ─  

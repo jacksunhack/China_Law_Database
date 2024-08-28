@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市智慧城市促进条例
 
@@ -87,3 +88,4 @@
 第七章 附  则
  
 第四十五条  本条例自2018年5月1日起施行。
+—#—

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 防城港市防城江流域水环境保护条例
@@ -138,3 +140,4 @@
     第四十五条  本条例自2021年12月1日起施行。
 
 
+#

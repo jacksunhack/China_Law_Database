@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省森林公园管理条例
@@ -106,3 +107,4 @@
 第六章  附  则
  
 第四十八条  本条例自2007年3 月1 日起施行。
+1

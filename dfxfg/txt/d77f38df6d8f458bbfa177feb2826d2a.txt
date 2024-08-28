@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省工程建设项目招标投标条例
@@ -105,3 +106,4 @@
 第六章　附则
 
 第三十八条  本条例自2006年1月1日起施行。          
+#　

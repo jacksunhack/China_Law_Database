@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -23,5 +24,4 @@
 “对国家提倡一对夫妻生育一个子女期间的独生子女家庭和农村计划生育纯女户，继续依照有关规定实行相关的奖励和扶助。”
 本决定自公布之日起施行。
 《白沙黎族自治县自治条例》根据本决定作相应修改，重新公布。
-
 

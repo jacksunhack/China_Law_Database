@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 天津市职业教育条例
@@ -150,3 +151,4 @@
 第九章　附　　则
 ​
 第六十条　本条例自2024年1月1日起施行。
+－1－　

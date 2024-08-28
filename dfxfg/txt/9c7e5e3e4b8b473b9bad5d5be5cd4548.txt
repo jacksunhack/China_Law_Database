@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省南涧彝族自治县自治条例
@@ -145,3 +146,4 @@
 自治县人民政府应当按照本条例制定实施办法。
 本条例由自治县人民代表大会常务委员会负责解释。
 第五十五条　本条例自公布之日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市非税收入管理条例 
@@ -103,3 +104,4 @@
 　　
 第三十二条  本条例自2009年3月1日起施行。《本溪市预算外资金管理办法》和《本溪市行政事业性收费管理条例》同时废止。
 
+#

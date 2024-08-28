@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 朝阳市矿山生态修复条例
@@ -95,3 +96,4 @@
 第六章　附　　则
 ​
 第三十二条　本条例自2024年3月1日起施行，2017年6月16日朝阳市第十届人民代表大会常务委员会第三十八次会议通过的《朝阳市矿山生态环境恢复治理条例》同时废止。
+－1－　

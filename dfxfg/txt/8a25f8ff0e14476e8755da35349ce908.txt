@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州自治条例
@@ -142,3 +143,4 @@
 自治州成立纪念日、苗年或者侗年如果适逢星期六、星期日，应当在工作日补假。
 第七章  附  则
 第六十九条  本条例自2020年10月1日起施行。
+— 1 —

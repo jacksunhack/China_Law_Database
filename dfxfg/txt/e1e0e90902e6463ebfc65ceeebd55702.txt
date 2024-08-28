@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 成都市《中华人民共和国渔业法》实施办法
 
 1989年8月18日成都市第十一届人民代表大会常务委员会第六次会议通过；1990年1月16日四川省第七届人民代表大会常务委员会第十三次会议批准；
@@ -70,3 +71,4 @@
 
 
 
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市城乡规划条例
@@ -250,3 +252,4 @@
 
 第八十三条　本条例自2012年5月1日起施行。《邯郸市城市规划管理条例》同时废止。
 
+　— 1 —　

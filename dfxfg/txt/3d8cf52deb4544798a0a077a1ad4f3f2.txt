@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 长春市人民代表大会常务委员会关于修改和废止部分地方性法规的决定
 
@@ -77,4 +78,3 @@
 十三、废止《长春市妇女儿童健康保护条例》
 十四、废止《长春市机动车维修管理条例》
 十五、废止《长春市人才市场管理条例》
-

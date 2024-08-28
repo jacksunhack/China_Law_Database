@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省信息基础设施条例
@@ -98,3 +99,4 @@
 
 第五十四条  本条例所称信息基础设施经营者，是指依法取得信息基础设施经营许可，获准建设信息基础设施，并向社会公众提供信息服务的单位。
 第五十五条  本条例自2014年5月1日起施行。
+— 11 —

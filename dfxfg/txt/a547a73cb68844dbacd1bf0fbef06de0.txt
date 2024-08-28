@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 江门市人民代表大会常务委员会
@@ -20,3 +21,4 @@
 此外，对个别文字予以修改，对条款序号作相应调整。
 本决定自公布之日起施行。
 《江门市城市市容和环境卫生管理条例》根据本决定作相应修改，重新公布。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 周口市城市市容和环境卫生管理条例
@@ -190,3 +191,4 @@
 
 第六十六条  本条例自2018年1月1日起施行。
 
+― 1 ―

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市燃气管理条例
@@ -143,3 +145,4 @@
 第八章  附  则
 
 第四十二条  本条例自2021年1月1日起施行。
+— # —  

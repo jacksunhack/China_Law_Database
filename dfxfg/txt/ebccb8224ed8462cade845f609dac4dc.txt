@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省促进中小企业发展条例
@@ -110,3 +111,5 @@
 第八章  附则
 
 第四十四条  本条例自2008年1月1日起施行。
+2
+

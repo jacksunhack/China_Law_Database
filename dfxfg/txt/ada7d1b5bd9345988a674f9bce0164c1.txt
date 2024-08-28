@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省中医药条例
@@ -174,3 +175,4 @@
 
 第六十四条  本条例自2022年10月1日起施行。1997年11月21日河南省第八届人民代表大会常务委员会第二十九次会议通过的《河南省中医条例》同时废止。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省经纪人条例
@@ -110,3 +111,4 @@
 
 第三十六条　本条例自1996年3月1日起施行。
 
+－ 9 －

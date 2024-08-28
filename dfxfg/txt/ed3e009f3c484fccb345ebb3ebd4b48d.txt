@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 山西省地方病防治条例
@@ -56,3 +57,4 @@
 第四章　附　　则
 ​
 第二十六条　本条例自2023年12月1日起施行。
+－1－　

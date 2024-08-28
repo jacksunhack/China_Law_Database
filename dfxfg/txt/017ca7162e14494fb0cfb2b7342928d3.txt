@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市水利工程管理办法
@@ -94,3 +96,5 @@
 第三十一条　唐山市人民政府可以根据本办法制定实施细则。
 第三十二条　本办法自公布之日起施行。
 
+　— 1 —　
+　

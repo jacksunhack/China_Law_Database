@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 青海省实施《中华人民共和国全国人民代表
@@ -204,3 +205,4 @@
  
     第六十八条  本实施细则自公布之日起施行。
 
+#  

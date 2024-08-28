@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区内海湾保护条例
@@ -81,4 +82,6 @@
 （四）接到公众举报未及时核查、处理、反馈的；
 （五）其他滥用职权、玩忽职守、徇私舞弊行为。
 第三十条　本条例自2023年4月1日起施行。
+
+#
 

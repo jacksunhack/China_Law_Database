@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市实验动物管理条例
@@ -79,3 +80,4 @@
 第八章  附则
 
 第三十八条  本条例自2005年1月1日起施行。
+—1—  

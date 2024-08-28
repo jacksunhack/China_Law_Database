@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施
@@ -72,3 +73,4 @@
 　　第二十五条　在本省行政区域内，外国人举行集会、游行、示威，适用本办法规定。
 　　未经主管机关批准，外国人不得参加中国公民在本省行政区域内举行的集会、游行、示威。
 　　第二十六条　本办法自公布之日起施行。
+1

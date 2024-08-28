@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市市政工程设施管理条例
@@ -117,3 +119,5 @@
 第四十一条　唐山市人民政府可以依照本条例制定实施细则。
 第四十二条　本条例自1998年3月1日起施行。
 
+　— 1 —　
+　

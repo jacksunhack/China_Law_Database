@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省农民工权益保护条例
@@ -111,3 +112,4 @@
 
     第四十六条  女性农民工、未成年农民工的权益保护，除执行本条例外，有关法律、法规另有规定的，从其规定。
     第四十七条  本条例自2007年7月1日起施行。
+#  

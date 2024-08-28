@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈密市历史文化遗产保护条例
@@ -96,3 +97,4 @@
 第三十九条  本条例自2020年2月1日起施行。
 
 
+#

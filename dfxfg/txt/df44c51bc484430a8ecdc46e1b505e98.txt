@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄高新技术产业开发区管理条例
@@ -68,3 +70,5 @@
 第二十九条  石家庄市人民政府可根据本条例制定具体规定。
 第三十条  本条例自1997年１月１日起施行。
 
+　— 1 —　
+　

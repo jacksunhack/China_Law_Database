@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省建筑保护条例
@@ -118,3 +119,4 @@
 第五章 附 则
  
 第三十八条   本条例自2013年12月1日起施行。
+— 1 —

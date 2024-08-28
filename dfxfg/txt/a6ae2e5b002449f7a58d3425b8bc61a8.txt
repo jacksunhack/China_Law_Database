@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市销售燃放烟花爆竹管理规定
@@ -37,3 +38,4 @@
 第十七条　本市过去有关销售、燃放烟花、爆竹的规定，与本规定不一致的，按本规定执行。
 第十八条　本规定的实施细则，由市人民政府制定。
 第十九条　本规定自1992年6月1日起施行
+- 1 - 

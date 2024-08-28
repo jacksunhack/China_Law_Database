@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市轨道交通管理条例
@@ -208,3 +209,5 @@
 本条例所称轨道交通经营单位，指经市人民政府批准从事轨道交通投资、建设、运营等活动的法人或者组织。
 第五十八条  本条例自2018年10  月1日起施行。
 
+—#—      
+  

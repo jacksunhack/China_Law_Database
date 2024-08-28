@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市矿产资源管理条例
@@ -100,3 +101,4 @@
 第七章  附则
 
 第四十三条  本条例自2000年7月1日起施行。
+― 1 ―

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市劳动和社会保障监察条例
@@ -111,3 +112,4 @@
 本条例所称医疗服务机构，包括劳动能力鉴定机构、医疗保险定点的医疗机构和药店。
 第三十二条　本条例自2003年3月1日起施行。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

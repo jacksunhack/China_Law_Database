@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市湿地保护条例
@@ -134,3 +135,4 @@
 
 第六章  附则
 第四十六条  本条例自2013年5月1日起施行。
+—1—  

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮安市住宅物业管理条例
@@ -491,3 +493,4 @@
 第九十二条  其他管理人接受委托，在住宅物业管理区域为业主提供物业服务的，适用本条例有关物业服务企业的规定。
     第九十三条  本条例自2020年3月1日起施行。
 
+─ # ─  

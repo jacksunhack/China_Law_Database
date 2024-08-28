@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省技术市场条例
@@ -92,3 +93,4 @@
 
     第三十一条  本条例的具体应用问题，由省科学技术行政主管部门负责解释。
     第三十二条  本条例自1994年8月1日起施行。
+－ 8 －

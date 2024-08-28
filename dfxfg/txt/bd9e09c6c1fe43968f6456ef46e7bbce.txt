@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市水资源管理条例
@@ -110,3 +111,4 @@
 第七章　附　　则
 ​
 第四十三条　本条例自发布之日起施行。
+－1－　

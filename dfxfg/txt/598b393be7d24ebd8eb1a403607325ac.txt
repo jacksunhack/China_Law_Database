@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 山西省档案管理条例
@@ -98,3 +99,4 @@
 第八章　附　　则
 ​
 第三十八条　本条例自2023年6月1日起施行。
+－1－　

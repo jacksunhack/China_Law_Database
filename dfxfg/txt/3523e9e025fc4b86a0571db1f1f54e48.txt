@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广东省深汕特别合作区条例
@@ -123,3 +124,4 @@
 第九章　附　　则
 ​
 第五十二条　本条例自2023年11月1日起施行。
+－1－　

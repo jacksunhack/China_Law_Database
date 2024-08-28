@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市水资源管理条例
@@ -89,3 +90,4 @@
 
 　　第三十六条　本条例应用中的问题由西宁市人民政府负责解释。
 　　第三十七条　本条例自2004年1月1日起施行。
+#　

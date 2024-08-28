@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省旅游条例
@@ -254,3 +255,4 @@
 第十章  附 则
 
 第七十八条  本条例自2014年11月1 日起施行。
+22

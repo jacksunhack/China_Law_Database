@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市清真食品管理办法
@@ -27,3 +29,4 @@
 第十四条  本办法实施中的具体应用问题由兰州市民族事务行政管理部门负责解释。
 第十五条  本办法自发布之日起施行。
 
+      — 1 —      

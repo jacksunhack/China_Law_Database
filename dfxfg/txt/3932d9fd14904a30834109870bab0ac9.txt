@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市森林资源流转条例
@@ -117,3 +118,4 @@
 
 
 
+— 1 —

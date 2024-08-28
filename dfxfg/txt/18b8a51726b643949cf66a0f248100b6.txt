@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市限制养犬条例
@@ -190,3 +191,4 @@
 　　第六十四条　军用、警用犬只以及动物园、科研机构等单位特定用途犬只的管理，按照国家相关规定执行。
 　　第六十五条　本条例自2012年2月1日起施行。
 
+— 7 —

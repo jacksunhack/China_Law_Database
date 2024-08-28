@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市水资源管理条例
@@ -70,3 +71,4 @@
 
 第三十三条  本条例具体应用中的问题，由市水行政主管部门负责解释。
 第三十四条  本条例自公布之日起施行。
+— 1 —

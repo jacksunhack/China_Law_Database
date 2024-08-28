@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市价格监测条例
@@ -97,3 +98,4 @@
 　　第三十四条  本条例自2011年1月1日起施行。
 
 
+- 1 -

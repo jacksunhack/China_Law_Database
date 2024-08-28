@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 葫芦岛市城市供水用水条例
@@ -164,4 +165,6 @@
 
 第四十八条  本条例自2019年 5月1日起施行。
 
+
+- 7 -           
 

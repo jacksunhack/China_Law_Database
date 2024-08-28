@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区人民代表大会常务委员会
@@ -62,3 +64,4 @@
 第二十五条  本自治区设区的市、县（自治县、市、区）人大常委会的人事任免工作可以参照本办法执行。
 第二十六条  本办法自公布之日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省风景名胜保护管理暂行条例
@@ -69,4 +70,6 @@
 第二十二条  各市人民政府（地区行政公署）可根据本条例制定本地区的风景名胜保护管理实施细则以及有关收费、奖惩办法，并报省人民政府备案。
 第二十三条  本条例自公布之日起施行。
 
+
+— 1 —
 

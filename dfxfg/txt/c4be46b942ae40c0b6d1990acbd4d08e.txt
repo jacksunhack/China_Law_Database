@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省劳动合同条例
@@ -150,3 +152,4 @@
 第八章  附则
 
 第六十条  本条例自2013年5月1日起施行。
+─ 1 ─  

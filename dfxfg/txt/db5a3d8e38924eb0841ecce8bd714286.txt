@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 金秀瑶族自治县森林资源管理条例
@@ -79,3 +80,4 @@
 本条例的具体实施办法由自治县人民政府制定。
 第三十五条  本条例经自治县人民代表大会通过，报自治区人民代表大会常务委员会批准施行，并报全国人民代表大会常务委员会备案。
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 钦州市中心城区绿化条例
@@ -122,4 +123,3 @@
 第三十七条  本条例自2022年1月1日起施行。
 
 附图
-

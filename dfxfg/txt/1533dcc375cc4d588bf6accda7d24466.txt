@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 庆阳市物业管理条例
@@ -399,3 +401,4 @@
 
 第八十二条  本条例自2019年8月1日起施行。
 
+      — # —    

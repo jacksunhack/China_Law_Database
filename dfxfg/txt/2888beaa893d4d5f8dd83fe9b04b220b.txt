@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市农村集体经济审计条例
@@ -90,3 +91,4 @@
 
 第三十二条  本条例具体应用中的问题，由市人民政府农林办公室负责解释。
 第三十三条  本条例自1997年4月1日起施行。
+—1—  

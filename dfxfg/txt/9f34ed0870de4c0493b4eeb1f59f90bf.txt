@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 吴忠市村庄规划条例
 
@@ -153,6 +154,8 @@
 
 第六十三条  本市行政区域内农（林）场居民点的规划管理，参照本条例执行。
 第六十四条  本条例自2021年1月1日起施行。
+
+
 
 
 

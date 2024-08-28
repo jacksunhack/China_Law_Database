@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 黑龙江省黑土地保护利用条例
@@ -177,3 +178,4 @@
 第九章　附　　则
 ​
 第七十三条　本条例自2024年3月1日起施行。
+－1－　

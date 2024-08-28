@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市大黑河郊野公园生态保护条例
@@ -76,3 +78,5 @@
 第五章  附  则
 第三十二条  本条例自2023年6月1日起施行。
 
+
+#

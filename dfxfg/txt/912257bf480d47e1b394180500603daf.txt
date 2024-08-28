@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省消防条例
@@ -180,3 +181,4 @@
 
 第五十二条  本条例自2012年3月1日起施行。1993年11月26日辽宁省第八届人民代表大会常务委员会第五次会议通过的《辽宁省消防条例》同时废止。
 
+                                                        #

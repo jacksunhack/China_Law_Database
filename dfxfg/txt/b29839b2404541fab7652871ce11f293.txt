@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市学生校外就餐休息场所卫生管理条例
@@ -64,3 +65,4 @@
 第二十一条  本条例自2006年9月1日起施行。
 
 
+#

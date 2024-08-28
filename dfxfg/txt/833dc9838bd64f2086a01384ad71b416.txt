@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长阳土家族自治县森林资源保护条例
@@ -48,3 +50,4 @@
 第二十五条  本条例自2018年9月1日起施行。
 
 
+*  1 —

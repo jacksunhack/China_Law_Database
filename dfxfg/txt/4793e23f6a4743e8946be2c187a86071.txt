@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区数据条例
 
@@ -155,3 +156,5 @@
 第六十五条 本条例自2023年3月1日起施行。
 
 
+— # —
+	

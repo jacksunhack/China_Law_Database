@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市宗教事务条例
@@ -103,3 +104,4 @@
 
 第五十条  外国人在本市进行宗教活动，按照《中华人民共和国境内外国人宗教活动管理规定》和其他有关法律、法规以及本条例的规定执行。
 第五十一条  本条例自2002年11月1日起施行。
+—1—  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 濮阳市大气污染防治条例
@@ -130,3 +131,4 @@
 
 第五十一条  濮阳经济技术开发区、河南濮阳工业园区和濮阳市城乡一体化示范区的大气污染防治及其监督管理工作，参照本条例执行。
 第五十二条  本条例自2019年9月1日起施行。
+― 1 ―

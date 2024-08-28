@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省保守国家秘密若干规定
@@ -43,3 +45,4 @@
 第十八条  本规定具体应用的问题，由省保密工作部门负责解释。
 第十九条  本规定自1997年1月1日起施行。
 
+—— 4 ——

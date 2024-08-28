@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂尔多斯市文明行为促进条例
@@ -145,3 +146,4 @@
 第六章　附　则
 第四十七条　本条例自2020年3月1日起施行。
 
+#

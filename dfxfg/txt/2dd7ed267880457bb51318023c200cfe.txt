@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门大屿岛白鹭自然保护区管理办法
@@ -42,3 +43,4 @@
 当事人逾期不申请复议，也不起诉，又不履行处罚决定的，由作出处罚决定的机关向人民法院申请强制执行。
 第十八条　本办法自１９９５年１２月１日起施行。
  
+ — # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施
@@ -205,3 +206,4 @@
 
 　　第四十七条　城市街道办事处所辖的村，适用本办法。
 　　第四十八条　本办法自2014年9月1日起施行。
+1

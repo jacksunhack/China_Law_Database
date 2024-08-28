@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 百色市农贸市场管理条例
@@ -122,3 +124,4 @@
 
 第三十六条  本条例自2018年3月1日起施行。
 
+#

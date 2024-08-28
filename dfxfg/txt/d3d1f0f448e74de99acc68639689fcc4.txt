@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区授予荣誉市民称号规定
@@ -46,3 +47,4 @@
 第十二条  市人民政府应当根据本规定制定实施细则。
 第十三条  本规定自公布之日起施行。
 
+- 1 -

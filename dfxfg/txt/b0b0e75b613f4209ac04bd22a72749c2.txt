@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省文物保护管理条例
@@ -170,3 +171,4 @@
 　　第六十四条　本条例自2006年1月1日起施行。1988年11月28日浙江省第七届人民代表大会常务委员会第六次会议通过的《浙江省文物保护管理条例》同时废止。
 
 
+— 17—

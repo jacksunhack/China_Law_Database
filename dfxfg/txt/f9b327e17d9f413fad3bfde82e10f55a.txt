@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省社会信用条例
@@ -150,3 +151,4 @@
 第八章　附  则
  
 第四十六条　本条例自2022年9月1日起施行。
+－11－　

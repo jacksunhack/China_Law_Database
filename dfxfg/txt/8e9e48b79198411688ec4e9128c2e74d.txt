@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市养犬管理条例
@@ -73,3 +74,4 @@
 　第三十四条　本条例自公布之日起施行。1995年10月10日天津市第十二届人民代表大会常务委员会第十九次会议通过的《天津市养犬管理条例》同时废止。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

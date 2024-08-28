@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省预算绩效管理条例
@@ -93,3 +95,4 @@
 第八章  附  则
 
 第三十五条  本条例自2023年1月1日起施行。
+1

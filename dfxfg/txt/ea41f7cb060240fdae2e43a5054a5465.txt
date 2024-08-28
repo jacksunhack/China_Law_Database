@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省企业集体合同条例
@@ -105,3 +106,4 @@
 
 第三十二条 实行企业化管理的事业单位与职工一方进行集体协商、签订集体合同，以及签订行业性、区域性集体合同，参照本条例执行。 
 第三十三条 本条例自2002年1月1日起施行。
+— 1 —

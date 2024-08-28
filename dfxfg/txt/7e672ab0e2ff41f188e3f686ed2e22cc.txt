@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林向海国家级自然保护区管理条例
@@ -81,3 +82,4 @@
 
 第二十六条　本条例自公布之日起施行。
 第二十七条　省内莫莫格自然保护区可以依照本条例有关条款进行管理。
+— 7 —

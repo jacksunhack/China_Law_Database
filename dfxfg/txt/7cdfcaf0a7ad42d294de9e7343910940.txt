@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市科学技术普及条例
@@ -94,3 +95,4 @@
 第四十二条  本条例具体应用中的问题，由市科学技术行政部门负责解释。
 第四十三条  本条例自1999年1月1日起施行。
 
+—1—  

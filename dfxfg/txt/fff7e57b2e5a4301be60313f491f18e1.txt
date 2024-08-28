@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市公共电信基础设施建设和保护条例
@@ -89,3 +90,4 @@
 
 第二十九条  本条例自2018 年1月1日起施行。
 
+#

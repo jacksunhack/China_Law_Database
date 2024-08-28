@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州自治条例
@@ -224,3 +226,4 @@
    
 第八十三条  自治州人民政府应当根据本自治条例制定实施办法。
 
+— 1 —

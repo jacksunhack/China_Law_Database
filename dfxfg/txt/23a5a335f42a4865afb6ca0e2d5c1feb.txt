@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -102,3 +103,4 @@
 第八章  附则
 
 第三十八条  本办法自1999年1月1日施行。
+－1－  

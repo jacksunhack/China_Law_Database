@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省东江西江北江韩江流域
@@ -84,3 +85,5 @@
 
     第二十八条  本省行政区域内东江、西江、北江、韩江流域的水污染防治以及从事防洪活动，依照有关法律法规的规定执行。
     第二十九条  本条例自2009年1月1日起施行。
+1
+

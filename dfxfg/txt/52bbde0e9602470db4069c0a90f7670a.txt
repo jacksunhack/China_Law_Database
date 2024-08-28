@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市浦东新区化妆品产业创新发展若干规定
@@ -44,3 +45,4 @@
 违反本规定的其他行为，有关法律、行政法规已有处罚规定的，从其规定。
 第十九条  本规定自2022年8月1日起施行。
 
+- 1 -

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丰宁满族自治县城镇规划建设管理条例
@@ -93,3 +95,4 @@
 
 第四十二条　本条例所称县城主要街道由自治县人民政府具体确定。
 第四十三条　本条例自公布之日起施行。
+　— 1 —　

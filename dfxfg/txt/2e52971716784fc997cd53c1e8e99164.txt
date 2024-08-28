@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市城市道路管理条例
@@ -148,3 +149,4 @@
     收费应当开具财政部门统一票据，纳入财政专户管理，实行收支两条线。
 第五十五条  各县的城市道路管理参照本条例执行。
 第五十六条  本条例自2010年5月1日起施行。
+—1—  

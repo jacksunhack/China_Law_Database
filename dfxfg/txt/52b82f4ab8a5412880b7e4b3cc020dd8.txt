@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市知识产权保护条例
@@ -121,3 +122,4 @@
 
 第四十六条  本条例自2021年3月1日起施行。
 
+- 13 -

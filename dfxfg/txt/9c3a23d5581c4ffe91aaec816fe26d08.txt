@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 苏州市洞庭山碧螺春茶保护条例
@@ -94,3 +95,4 @@
 第七章　附　　则
 ​
 第二十七条　本条例自2024年9月1日起施行。
+－1－　

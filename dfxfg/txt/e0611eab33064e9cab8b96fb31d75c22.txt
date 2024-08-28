@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 龙岩市饮用水水源保护条例
 （2018年9月14日龙岩市第五届人民代表大会
 常务委员会第十一次会议通过
@@ -125,3 +127,4 @@
 第六章  附    则
 第四十三条  本条例自2019年3月1日起施行。
 
+— # —

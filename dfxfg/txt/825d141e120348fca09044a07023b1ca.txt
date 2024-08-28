@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省农产品质量安全条例
@@ -145,3 +146,4 @@
 第五十条省人民政府及其有关部门应当依照本条例规定，制定具体落实措施。
 第五十一条 本条例自2017年6月1日起施行。
 
+15

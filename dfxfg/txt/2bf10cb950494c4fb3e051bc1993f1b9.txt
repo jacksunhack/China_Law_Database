@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市市区生活饮用水地下水源
@@ -76,3 +78,5 @@
 市区生活饮用水地下水源一级保护区范围内村庄和学校等单位的发展与管理办法，由石家庄市人民政府另行制定。
 第三十一条  本条例自2016年1月1日起施行。
 
+　— 1 —　
+　

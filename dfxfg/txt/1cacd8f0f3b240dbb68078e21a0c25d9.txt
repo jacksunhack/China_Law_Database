@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省人民代表大会常务委员会关于加快
@@ -58,3 +60,4 @@
 十七、省人民政府可以根据本决定制定实施办法。
 十八、本决定自2003年7月1日起施行。本省有关处置停缓建工程的规定与本决定不一致的，按本决定执行。
 
+- 7 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省海洋环境保护条例
@@ -78,3 +79,4 @@
 （二）海洋工程，是指工程主体和工程主要作业活动位于海岸线以下，并对海洋环境有影响的工程建设项目。
 第三十五条  本条例自2004年12月1日起施行。
 
+- 3 -

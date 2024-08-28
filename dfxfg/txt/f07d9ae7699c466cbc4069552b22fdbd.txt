@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 荆州市中心城区机动车停车条例
 
@@ -111,3 +112,4 @@
 第四十条  本条例所称中心城区由市人民政府根据荆州市国土空间规划等确定具体区域。
 第四十一条  本条例自2022年3月1日起施行。
 
+— # —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市地下综合管廊管理条例
@@ -134,3 +136,4 @@
 
     第四十二条  本条例自2019年11月1日起施行。
 
+#

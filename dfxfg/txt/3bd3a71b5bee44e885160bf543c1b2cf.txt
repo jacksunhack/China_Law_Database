@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市地名管理条例
@@ -134,3 +135,4 @@
 第八章　附　则
 
 　　第四十五条　本条例自2006年6月1日起施行。
+#

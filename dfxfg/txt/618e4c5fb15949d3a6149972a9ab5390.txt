@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 崇左市白头叶猴栖息地保护条例
@@ -75,3 +77,4 @@
 （三）夜宿地，是指白头叶猴夜间休息的场所。 
 第三十一条  本条例自2021年10月1日起施行。
 
+#

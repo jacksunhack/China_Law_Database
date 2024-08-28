@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 齐齐哈尔市梅里斯达斡尔族区条例
@@ -68,3 +70,4 @@
 　　第三十四条　本条例应用解释由齐齐哈尔市人民政府负责。
 　　第三十五条　本条例自一九九八年八月十八日起施行。
 
+1

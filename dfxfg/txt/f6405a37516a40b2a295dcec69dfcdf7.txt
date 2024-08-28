@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州文明行为促进条例
@@ -172,3 +173,4 @@
 
 第三十六条  本条例自2023年1月1日起施行。
 
+— # —  

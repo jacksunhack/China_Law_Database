@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湘潭市历史建筑和历史文化街区保护条例
@@ -166,3 +167,4 @@
 第六章　附  则
 
 第四十三条　本条例自2018年3月1日起施行。
+－17－  

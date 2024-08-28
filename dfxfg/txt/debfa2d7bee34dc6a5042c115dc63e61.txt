@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰安市新型工业化促进条例
@@ -81,3 +82,4 @@
 （四）勤勉尽责、未牟取私利的；
 （五）主动挽回损失、消除不良影响或者有效阻止危害结果发生的。
 第三十八条　本条例自2023年9月1日起施行。
+－1－　

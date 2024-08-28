@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 循化撒拉族自治县民族团结进步条例
@@ -60,3 +61,4 @@
 第二十六条  自治县人民政府可以根据本条例制定实施细则。
 第二十七条  本条例自2020年7月1日起施行。
 
+#  

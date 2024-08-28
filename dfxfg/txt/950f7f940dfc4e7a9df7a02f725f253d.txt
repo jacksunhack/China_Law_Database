@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省行政事业性收费管理条例
@@ -116,3 +117,4 @@
 第六章　附　　则
 
  第四十一条　本条例自公布之日起施行。
+— 1 —

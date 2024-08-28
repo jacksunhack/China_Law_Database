@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省城镇饮用水水源保护条例
@@ -132,3 +133,4 @@
 
 第五十四条　集中工矿区、林区、旅游区及农村集中式饮用水水源的保护参照本条例执行。
 第五十五条　本条例自2012年5月1日起施行。
+— 1 —

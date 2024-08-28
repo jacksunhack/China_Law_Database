@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 宿州市公园条例
 
@@ -133,3 +134,4 @@
 第四十四条  带有绿地性质、供公众游憩娱乐、运动健身的广场参照本条例执行。
 第四十五条  本条例自2020年1月1日起施行。
 
+— # —

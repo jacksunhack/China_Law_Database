@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区人民代表大会常务委员会
@@ -74,5 +75,8 @@
 第二十四条  州（市）、县（市、区）人大常委会讨论决定本行政区域内的重大事项，根据本规定，可以结合实际作出具体规定。
 第二十五条  本规定自公布之日起施行。
 
+
+
+- 3 -
 
 

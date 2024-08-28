@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市人民代表大会议事规则
@@ -166,3 +167,4 @@
 
 第六十二条　本规则在市人民代表大会会议期间，由主席团解释；在大会闭会期间，由市人民代表大会常务委员会解释。
 第六十三条　本规则自公布之日起施行。
+－1－　

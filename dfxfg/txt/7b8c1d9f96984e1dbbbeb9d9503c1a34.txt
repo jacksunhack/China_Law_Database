@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市优化营商环境条例
 
@@ -198,3 +199,4 @@
 
 第八十二条　政府及有关部门可以依据本条例制定有关实施办法或者实施细则。
 第八十三条　本条例自2020年4月28日起施行。
+－29－

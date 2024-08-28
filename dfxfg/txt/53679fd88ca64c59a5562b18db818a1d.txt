@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国节约能源法》办法
@@ -142,3 +143,4 @@
 第七章　附则
 
 　　第五十条　本办法自2011年6月1日起施行。
+1

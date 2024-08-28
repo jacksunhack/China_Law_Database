@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 辽宁省地质环境保护条例
@@ -66,3 +67,4 @@
 （四）对已经发现应当保护的地质遗迹没有采取必要保护措施的；
 （五）有其他玩忽职守、滥用职权、徇私舞弊行为的。
 第二十九条　本条例自2007年12月1日起施行。
+－1－　

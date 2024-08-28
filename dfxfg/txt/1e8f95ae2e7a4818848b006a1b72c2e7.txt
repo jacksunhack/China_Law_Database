@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市地下管线管理条例
@@ -129,3 +130,4 @@
 
 第五十七条  本条例所称道路，是指本市行政区域内的城市道路和公路，包括桥梁、隧道和其他附属设施。
 第五十八条  本条例自2009年8月1日起施行。
+- 1 - 

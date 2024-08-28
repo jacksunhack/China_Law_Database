@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广州市快递条例
@@ -122,3 +123,4 @@
 第八章　附　　则
 ​
 第五十一条　本条例自2023年7月1日起施行。
+－1－　

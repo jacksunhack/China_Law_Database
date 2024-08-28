@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市安全生产条例
@@ -156,3 +157,4 @@
 
 第四十七条  本条例自2006年1月1日起施行。
 
+— 1 —

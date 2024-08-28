@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 七台河市美丽乡村建设条例
@@ -82,3 +83,4 @@
 第三十六条　违反本条例规定的行为，法律、法规有规定的，从其规定。
 第三十七条　本条例的实施细则由市人民政府制定。
 第三十八条　本条例自2023年12月1日起施行。
+－1－　

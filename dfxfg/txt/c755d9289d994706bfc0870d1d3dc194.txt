@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市科学技术进步条例
@@ -101,3 +102,4 @@
 第四十八条  本条例自公布之日起施行。
 
 
+— 1 —

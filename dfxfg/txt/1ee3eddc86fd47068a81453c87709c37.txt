@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 上海市城市管理综合行政执法条例
@@ -139,3 +140,4 @@
 第七章　附　　则
 ​
 第四十三条　本条例自2012年7月15日起施行。
+－1－　

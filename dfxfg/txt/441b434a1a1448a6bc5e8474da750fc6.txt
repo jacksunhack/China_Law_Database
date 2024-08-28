@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国工会法》实施办法
@@ -152,3 +153,4 @@
 第七章  附  则
 
 第六十条  本办法自2002年10月1日起施行。
+— 15 —  

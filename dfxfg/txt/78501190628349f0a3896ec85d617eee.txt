@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市文物保护管理条例
@@ -80,3 +81,4 @@
 第四十条  本条例自2020年8月1日起施行。
 
 
+— 1 —

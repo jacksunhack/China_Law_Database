@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市黄浦江苏州河滨水公共空间条例
@@ -161,3 +162,4 @@
 
 第五十九条  本条例自2022年1月1日起施行。
 
+- 17 -

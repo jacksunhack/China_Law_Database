@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市海绵城市建设管理条例
@@ -96,3 +97,4 @@
 5．植被缓冲带、初期雨水弃流设施、雨水湿地等净化设施；
 6．其他采用自然或者人工方式控制城市雨水径流的设施。
 第三十二条　本条例自2023年11月1日起施行。
+－1－　

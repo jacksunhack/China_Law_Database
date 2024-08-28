@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区科学技术协会条例
@@ -69,3 +70,4 @@
 第六章  附  则
 
 第三十二条  本条例自2009年5月1日起施行。 
+— 1 —

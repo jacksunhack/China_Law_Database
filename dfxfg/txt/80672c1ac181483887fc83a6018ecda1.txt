@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省城市民族工作条例
@@ -57,3 +58,4 @@
 　　第三十二条　县人民政府所在地的镇、较大的镇和铁路、农垦、森工系统的民族工作，参照本条例执行。
 　　第三十三条　本条例由省民族事务委员会负责应用解释。
 　　第三十四条　本条例自公布之日起施行。 
+1

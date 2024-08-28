@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区政府投资项目管理条例
@@ -177,3 +178,4 @@
 第六十三条　市、区（县）人民政府可以根据本条例制定相关配套实施规定。
 第六十四条　本条例自2018年2月1日起施行。
 
+#

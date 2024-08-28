@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁波市工会劳动保障法律监督条例
@@ -74,3 +75,4 @@
 　　第二十九条　工会劳动保障法律监督员聘任和管理的具体办法，由宁波市总工会另行制定。
 　　第三十条　本条例自2007年1月1日起施行。
 
+— 7—

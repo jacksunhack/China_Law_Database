@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 伊犁哈萨克自治州立法条例
@@ -72,3 +73,4 @@
 第二十三条  自治州单行条例、地方性法规的修改和废止适用本规定。
 第二十四条  本条例自2017年8月1日起施行。
 
+#

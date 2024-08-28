@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 马边彝族自治县彝族语言文字条例
@@ -64,3 +65,4 @@
 第二十六条  本条例的解释权，属于自治县人民代表大会常务委员会。
 本条例的实施细则由自治县人民政府制定。
 第二十七条  本条例报经四川省人民代表大会常务委员会批准后施行。
+— 5 —  

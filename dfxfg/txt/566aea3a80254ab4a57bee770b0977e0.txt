@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鹤岗市城乡规划条例
@@ -215,3 +216,4 @@
 第六十六条  法律、法规对城乡规划的制定、实施、修改、管理、监督以及行政处罚已作规定的，从其规定。
 第六十七条  本条例自2018年6月28日起施行。
 
+#

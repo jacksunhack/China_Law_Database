@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑河市市容和环境卫生管理条例
@@ -184,3 +185,4 @@
 第六章  附 则
 第六十六条 五大连池风景名胜区自然保护区市容和环境卫生管理依照本条例执行。
 第六十七条 本条例自2018年1月1日起施行。
+2

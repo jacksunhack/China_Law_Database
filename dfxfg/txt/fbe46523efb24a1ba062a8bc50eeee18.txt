@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区户外广告设施和招牌设置
@@ -103,3 +105,4 @@
  
 第四十二条  本条例自2015年6月1日起施行。
 
+#

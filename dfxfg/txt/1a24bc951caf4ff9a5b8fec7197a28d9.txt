@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河南省警务辅助人员条例
 
@@ -167,3 +169,4 @@
     第三十九条  本条例自２０２１年１月１日起施行。
 
 
+－ - 1 - －

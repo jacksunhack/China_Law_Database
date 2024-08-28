@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
  
 山西省实施《中华人民共和国
@@ -79,3 +80,4 @@
 第四十二条  本办法具体应用中的问题由省人民政府负责解释。
 第四十三条  本办法自2000年9月1日起施行。          
 
+#  

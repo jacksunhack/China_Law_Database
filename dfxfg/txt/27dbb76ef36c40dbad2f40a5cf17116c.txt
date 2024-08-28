@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省中小学保护条例
@@ -77,3 +78,4 @@
 第二十八条 职业中学、盲聋哑学校和幼儿园的保护参照本条例执行。
 第二十九条 本条例自1990年10月1日起施行。
 
+1

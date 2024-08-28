@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桓仁满族自治县冰葡萄酒管理条例
@@ -51,3 +52,4 @@
 
 
 
+— 1 —

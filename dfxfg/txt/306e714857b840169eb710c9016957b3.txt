@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省工会劳动法律监督条例
@@ -104,3 +106,4 @@
 
 第三十二条　《工会劳动法律监督证》、《工会劳动法律监督意见书》和《工会劳动法律监督建议书》的格式文本由省总工会统一制订。
 第三十三条　本条例自2012年5月1日起施行。
+─ 1 ─  

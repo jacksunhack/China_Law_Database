@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -111,3 +113,4 @@
 第五十一条　侨居国外的中国公民和台湾地区、香港特别行政区、澳门特别行政区的居民在本省行政区域内进行宗教活动，参照本条例的有关规定执行。
 第五十二条　本条例自2007年3月1日起施行。
 
+— 1 —

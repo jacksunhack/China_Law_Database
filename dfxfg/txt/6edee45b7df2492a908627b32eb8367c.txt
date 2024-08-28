@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省对台经济文化交流合作促进条例
@@ -102,3 +104,4 @@
 第四十五条  持有居住证的台湾同胞可以按照居住地的规定与居住地居民同等享受购房、住房保障待遇。
 第四十六条  本条例自2022年9月1日起施行。
 
+─ # ─  

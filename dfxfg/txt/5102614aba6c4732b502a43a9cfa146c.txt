@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省促进科技成果转化条例
@@ -91,3 +92,4 @@
 第三十九条　本条例自2002年1月1日起施行。
 
 
+- 9 -

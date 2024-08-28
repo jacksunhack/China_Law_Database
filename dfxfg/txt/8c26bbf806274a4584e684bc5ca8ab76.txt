@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 淮南市电梯安全管理条例
 
@@ -87,3 +88,4 @@
 第三十一条  本条例自2022年9月1日起施行。
 
 
+— # —

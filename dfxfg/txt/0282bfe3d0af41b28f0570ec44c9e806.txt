@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 攀枝花市森林草原防灭火条例
@@ -151,3 +152,4 @@
 
 第五十条  本条例自2020年12月1日起施行。
 
+— 1 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市长城保护条例
     
@@ -83,4 +84,3 @@
 第五章  附  则
 
     第二十六条  本条例自2022年10月1日起施行。
-

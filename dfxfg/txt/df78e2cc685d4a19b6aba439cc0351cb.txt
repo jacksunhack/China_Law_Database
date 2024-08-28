@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沧州市大运河文化遗产保护若干规定
@@ -82,3 +83,5 @@
 第三十四条  对其他违反本规定的行为，法律、法规已有法律责任规定的，从其规定。
 第三十五条  本规定自2022年8月1日起施行。
 
+#
+ 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省殡葬管理条例
@@ -99,3 +101,4 @@
 第三十六条 本条例自2003年12月1日起施行。
 
 
+—— 4 ——

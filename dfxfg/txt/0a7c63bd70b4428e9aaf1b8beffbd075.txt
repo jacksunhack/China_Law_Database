@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市私营企业权益保护条例
@@ -81,3 +83,4 @@
 第三十二条  本条例自2001年4月1日起施行。
 
 
+1

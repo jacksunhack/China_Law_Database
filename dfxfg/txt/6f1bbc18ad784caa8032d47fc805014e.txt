@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 绵阳市历史文化遗址保护条例
@@ -106,3 +107,4 @@
 第六章　附　　则
 ​
 第三十三条　本条例自2024年7月1日起施行。
+－1－　

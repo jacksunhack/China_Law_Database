@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市客运出租汽车管理条例
@@ -141,3 +143,4 @@
 第三十五条　本条例自2001年6月1日起施行。
 
 
+　— 1 —　

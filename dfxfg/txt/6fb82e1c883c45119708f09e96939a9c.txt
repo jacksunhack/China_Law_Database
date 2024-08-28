@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市电动自行车管理办法
@@ -167,3 +169,4 @@
 第五十九条  本办法具体应用中问题由市人民政府负责解释。
 第六十条  本办法自2012年1月1日起施行。
 
+1

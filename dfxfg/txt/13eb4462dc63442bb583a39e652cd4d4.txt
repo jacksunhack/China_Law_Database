@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桓仁满族自治县封山育林管理条例
@@ -51,3 +52,4 @@
 第二十一条  本条例自2000年3月30日起实行。 
 
 
+— 1 —

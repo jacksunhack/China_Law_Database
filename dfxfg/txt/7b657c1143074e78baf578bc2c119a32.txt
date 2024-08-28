@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市物业管理条例
@@ -106,3 +107,4 @@
 第六十三条  本条例自2011年1月1日起施行。
 
 
+— 1 —

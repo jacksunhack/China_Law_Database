@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省实施宪法宣誓制度办法
@@ -21,3 +23,4 @@
 宣誓仪式应当公开进行。
 第十一条  负责组织宣誓仪式的机关，可以根据本办法并结合实际情况，对宣誓的具体事项作出规定。
 第十二条  本办法自2016年1月1日起施行。
+2

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 天津市科学技术进步促进条例
@@ -169,3 +170,4 @@
 第七章　附　　则
 ​
 第六十八条　本条例自2023年1月1日起施行。
+－1－　

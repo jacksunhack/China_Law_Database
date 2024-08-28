@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 松原市农村人居环境治理条例
@@ -165,4 +167,6 @@
 
 第四十九条　开发区、园区管委会、农林牧渔场、农林牧渔分场依照本条例执行。
 第五十条　本条例自2020年10月1日起实施。
+
+#
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市太河水库饮用水源地保护管理条例
@@ -222,3 +223,4 @@
 
 
 
+1

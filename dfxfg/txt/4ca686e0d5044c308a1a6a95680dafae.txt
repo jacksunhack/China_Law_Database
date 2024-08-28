@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 宣城市燃放烟花爆竹管理条例
 
@@ -49,3 +50,4 @@
 
 
 
+— # —

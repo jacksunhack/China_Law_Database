@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 延边朝鲜族自治州立法规定
@@ -116,3 +117,4 @@
 第四十二条  本规定的解释权属于常务委员会。
 第四十三条  本规定自公布之日起施行。
 
+#

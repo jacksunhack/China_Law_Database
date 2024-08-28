@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省大气污染防治条例
@@ -181,3 +182,4 @@
 第七十四条  对大气污染防治，本条例未作规定的，依照《中华人民共和国大气污染防治法》和有关法律法规的规定执行。
 第七十五条  本条例自2019年3月1日起施行。
 
+- 19 -

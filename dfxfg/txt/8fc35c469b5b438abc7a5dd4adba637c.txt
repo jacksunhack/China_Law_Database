@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市节约能源条例
@@ -97,3 +98,4 @@
 第四十一条  本条例自2004年8月1日起施行。
 
 
+— 1 —

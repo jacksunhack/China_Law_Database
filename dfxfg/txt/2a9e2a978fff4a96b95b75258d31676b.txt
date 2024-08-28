@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市公益林条例
@@ -106,3 +107,4 @@
 
 第三十三条  本条例所称公益林林权权利人是指依法取得公益林森林、林木、林地所有权、使用权、经营权和收益权的自然人、法人和其他组织。
     第三十四条  本条例自2006年4月1日起施行。
+- 1 -  

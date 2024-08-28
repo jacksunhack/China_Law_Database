@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉树藏族自治州藏传佛教事务条例
@@ -189,3 +190,4 @@
 
 　　第五十三条　本条例应用中的具体问题由州人民政府宗教事务部门负责解释。
 　　第五十四条　本条例自颁布之日起施行。
+- 3 -　

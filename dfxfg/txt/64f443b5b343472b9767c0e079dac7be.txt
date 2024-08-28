@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 宁夏回族自治区实施
@@ -7,7 +8,7 @@
 
 目    录
 
-　总    则
+第一章  　总    则
 第二章　标准的制定  
 第三章　标准的实施
 第四章　监督管理

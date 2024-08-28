@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市机动车排气污染防治条例
@@ -79,3 +80,4 @@
 第三十六条  本条例自2011年3月1日起施行。
 
 
+— 1 —

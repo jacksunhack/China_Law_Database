@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 宿迁市大运河文化遗产保护条例
@@ -112,3 +113,4 @@
 第六章　附　　则
 ​
 第三十五条　本条例自2024年1月1日起施行。
+－1－　

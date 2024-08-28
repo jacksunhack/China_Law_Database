@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市国民经济和社会发展计划审查监督条例
@@ -78,3 +79,4 @@
 
 第二十二条　本市各县区国民经济和社会发展年度计划和五年规划的审查、监督参照本条例执行。
 第二十三条　本条例自2008年10月1日起施行。
+—1—  

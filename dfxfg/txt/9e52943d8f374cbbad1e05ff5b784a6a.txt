@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 鹤壁市浚县古城保护条例
 
@@ -107,3 +109,4 @@
     第四十一条  本条例自2021年1月1日起施行。
 
 
+－ - 1 - －

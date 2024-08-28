@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 湖南省城镇居民住宅区消防安全管理若干规定
@@ -68,3 +69,4 @@
 第十四条　农村居民集中居住区域的消防安全管理，参照本规定执行。
 本规定中的电动车，包括电动自行车、电动摩托车、电动三轮车。
 第十五条　本规定自2024年5月1日起施行。
+－1－　

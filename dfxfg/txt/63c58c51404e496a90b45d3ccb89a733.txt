@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家界市全域旅游促进条例
@@ -150,3 +151,4 @@
 第五十三条  本条例经湖南省人大常委会批准后，由张家界市人大常委会公布，自2018年5月1日起施行。
 
 
+- 2 -

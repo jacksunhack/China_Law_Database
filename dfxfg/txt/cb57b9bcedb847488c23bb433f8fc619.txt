@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连南瑶族自治县森林资源保护管理条例
@@ -119,4 +120,3 @@
 
 第五十三条  本条例由自治县人民代表大会常务委员会负责解释。
 第五十四条  本条例自公布之日起施行。
-

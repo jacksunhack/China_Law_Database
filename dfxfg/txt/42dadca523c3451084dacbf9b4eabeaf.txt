@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省职工代表大会条例
@@ -149,3 +151,4 @@
 第七章  附    则
 
 第四十条  本条例自2022年12月1日起施行。
+      — 1 —    

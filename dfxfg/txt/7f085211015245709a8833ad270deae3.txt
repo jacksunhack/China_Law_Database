@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省赤水河流域保护条例
@@ -198,3 +199,4 @@
 
 第七十三条  省人民政府应当根据本条例制定实施细则。
 第七十四条  本条例自2021年7月1日起施行。
+— 25 —  

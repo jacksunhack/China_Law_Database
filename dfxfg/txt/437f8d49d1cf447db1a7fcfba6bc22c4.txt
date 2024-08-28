@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省城乡规划条例
@@ -140,3 +142,4 @@
 第七章  附则
 
 第四十四条  本条例自2010年1月1日起施行。《甘肃省实施城市规划法办法》同时废止。
+      — 3 —    

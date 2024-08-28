@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家界市八大公山国家级自然保护区条例
@@ -67,3 +68,4 @@
 （六）违反规定批准经营开发活动以及对违法经营开发活动不依法制止、查处的；
     （七）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第三十条  本条例自2019年3月1日起施行。
+— 17 —

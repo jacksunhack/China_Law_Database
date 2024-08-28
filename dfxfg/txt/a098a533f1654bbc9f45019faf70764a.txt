@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市社会治安综合治理条例
@@ -89,3 +90,4 @@
 第三十三条  呼和浩特市人民政府根据本条例制定实施细则。
 第三十四条  本条例自公布之日起施行。
 
+#

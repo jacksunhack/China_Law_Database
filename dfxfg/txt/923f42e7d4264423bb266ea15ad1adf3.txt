@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市公路路政管理条例
@@ -102,3 +103,5 @@
 　　第四十一条　本条例自1997年8月1日起施行。
 
 
+  — 1 —    
+     

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄石市人民代表大会
@@ -138,3 +140,4 @@
 第六章　附　　则
 
 　　第五十七条　本条例自公布之日起施行。
+1

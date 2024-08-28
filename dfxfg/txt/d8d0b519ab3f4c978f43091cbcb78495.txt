@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 蚌埠市城镇绿化条例
@@ -121,3 +122,4 @@
 第四十一条  市城镇绿化主管部门应当会同市物价部门根据市场价格制定城镇树木花草价值参考标准，并定期调整、公布。
 第四十二条  本条例自2017年3月1日起施行。
 
+1

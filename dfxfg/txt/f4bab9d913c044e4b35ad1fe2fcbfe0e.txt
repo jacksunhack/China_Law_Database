@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 鞍山市物业管理条例
@@ -275,3 +276,4 @@
 第五十一条　本条例自2023年6月1日起施行。
 第五十二条　业主共同决定自行管理物业管理区域的，参照本条例执行。
 对其他物业服务人的物业服务管理，按照有关法律、法规规定执行。
+－1－　

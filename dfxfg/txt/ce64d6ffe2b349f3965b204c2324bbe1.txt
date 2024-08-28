@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安阳市城市绿化条例
@@ -154,3 +155,4 @@
 乡土树种，指本地区天然分布树种或者已引种多年且在当地一直表现良好的外来树种。
 第四十二条  市人民政府可以依照本条例制定具体实施办法。
 第四十三条  本条例自2019年1月1日起施行。
+― 1 ―

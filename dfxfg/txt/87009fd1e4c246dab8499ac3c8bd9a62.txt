@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 钦州市青年水闸东西干渠管理利用条例
 
 （2020年10月27日钦州市第五届人民代表大会常务委员会第三十九次会议审议通过
@@ -95,5 +96,4 @@
 第六章  附则
 
 　　第三十条  本条例自2021年1月1日起施行。
-
 

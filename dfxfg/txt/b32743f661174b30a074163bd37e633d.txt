@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省罚款和没收财物管理条例
@@ -82,3 +83,4 @@
 第六章　附则
 
 第二十八条　本条例自1996年4月1日起施行。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河北省人民代表大会常务委员会
 关于加强扬尘污染防治的决定
@@ -120,6 +121,5 @@
 　　（二）矿产资源开采、加工未依法采取扬尘污染防治措施的；
 　　（三）物料堆放未依法采取扬尘污染防治措施的。
 　　第三十二条　本决定自2018年11月1日起施行。
-
 
 

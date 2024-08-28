@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴中市石窟保护条例
@@ -78,3 +79,4 @@
 第四十条  本条例自2019年3月1日起施行。
 
 
+— # —  

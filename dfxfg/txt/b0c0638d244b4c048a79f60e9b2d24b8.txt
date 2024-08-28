@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国
@@ -112,3 +113,4 @@
 
 第三十七条　辖有村的街道办事处履行本办法所规定的应当由乡、民族乡、镇人民政府履行的职责。
 第三十八条　本办法自2013年10月1日起施行。
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丰宁满族自治县草地管理条例
@@ -70,3 +72,4 @@
 第二十六条　本条例应用中的问题，由畜牧行政部门负责解释。
 第二十七条　本条例自公布之日起施行。
 
+　— 1 —　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德州市生活垃圾分类管理条例
@@ -121,3 +122,4 @@
 第七章  附则
 
 第二十八条  本条例自2022年5月1日起施行。
+1

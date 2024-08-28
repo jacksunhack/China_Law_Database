@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区信访条例
@@ -188,3 +189,4 @@
 外国人、无国籍人、外国组织信访事项的处理，参照本条例执行。
 第四十二条  本条例自2021年1月1日起施行。
 
+1

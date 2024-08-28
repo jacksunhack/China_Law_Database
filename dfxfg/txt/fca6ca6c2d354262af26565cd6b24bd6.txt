@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市大运河梁溪河滨水公共空间条例
@@ -149,3 +151,4 @@
 第五十条  本条例自2023年3月1日起施行。
 
 
+─ # ─  

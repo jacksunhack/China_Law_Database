@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省乡镇人民政府工作条例
@@ -58,3 +59,4 @@
 第三十条  本条例自2020年8月1日起施行。
 
 
+1

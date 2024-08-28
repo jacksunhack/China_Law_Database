@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 潍坊市快递条例
@@ -53,3 +54,4 @@
 第二十四条  行政执法人员和其他工作人员在快递监督管理中有滥用职权、玩忽职守、徇私舞弊行为的,依法给予处分；构成犯罪的,依法追究刑事责任。
 第二十五条  本条例自2023年3月15日起施行。
 
+1

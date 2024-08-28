@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市公共资源交易管理条例
@@ -125,3 +126,4 @@
 第七章  附  则
 
 第三十九条  本条例自2015年1月1日起施行。
+1

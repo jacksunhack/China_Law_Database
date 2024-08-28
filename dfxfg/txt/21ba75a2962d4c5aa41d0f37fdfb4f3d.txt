@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区人民代表大会常务委员会
 关于废止《内蒙古自治区产品质量监督管理
@@ -18,3 +20,4 @@
 本决定自公布之日起生效。
 
 
+#

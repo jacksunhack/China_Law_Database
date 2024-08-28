@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市志愿服务条例
@@ -66,3 +67,4 @@
     第二十六条  本条例自2016年6月1日起施行。2004年5月29日公布施行的《抚顺市志愿服务条例》同时废止。
 
 
+1

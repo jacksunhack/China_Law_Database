@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州镇远历史文化名城
@@ -122,3 +124,4 @@
 第四十二条  本条例自2009年9月1日起施行。
 
 
+— 1 —

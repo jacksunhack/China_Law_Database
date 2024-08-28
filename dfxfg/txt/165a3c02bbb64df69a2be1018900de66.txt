@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省禁毒条例修正案
@@ -42,3 +43,4 @@
 十七、根据机构改革方案，规范部分单位名称。
 十八、本修正案自2021年6月26日起施行。
 
+— 1 —

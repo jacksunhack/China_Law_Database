@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保定市工业遗产保护与利用条例
@@ -107,3 +109,4 @@
 第四十七条　本条例自2018年7月1日起施行。
 
 
+　- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施河长制湖长制条例
@@ -81,3 +82,4 @@
 （三）其他未按照本条例规定履行河湖管理和保护职责的。
 第三十条  本条例自2021年11月1日起施行。
 
+1  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 绍兴市人才发展促进条例
@@ -94,3 +95,4 @@
 第五章　附　　则
 ​
 第四十八条　本条例自2024年5月1日起施行。
+－1－　

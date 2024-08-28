@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省集体合同条例
@@ -186,3 +187,4 @@
 
 
 
+— 15—

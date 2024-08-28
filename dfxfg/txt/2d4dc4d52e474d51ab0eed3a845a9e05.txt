@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省牛栏江保护条例
@@ -143,3 +145,4 @@
 
 第五十条  本条例自2012年12月1日起施行。
 
+—— 4 ——

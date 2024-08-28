@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德阳市城市管理条例
@@ -123,3 +124,4 @@
 第四十一条  市人民政府可以根据本条例规定对城市管理事项制定具体管理办法。
 第四十二条  本条例自2018年7月1日起施行。
 
+— 15 —

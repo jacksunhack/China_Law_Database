@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市燃气管理条例
@@ -157,3 +158,4 @@
 （五）单位燃气用户，是指除居民燃气用户以外的法人或者其他组织燃气用户。
 第五十一条  本条例自2017年8月1日起施行。
 
+— 1 —

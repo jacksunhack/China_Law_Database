@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省人民代表大会常务委员会
@@ -29,3 +30,4 @@
 十一、起步区因改革创新需要暂时调整或者停止适用有关地方性法规、地方政府规章的，应当依照法定程序向有权机关提出建议。
 十二、本决定自公布之日起施行。
 
+1

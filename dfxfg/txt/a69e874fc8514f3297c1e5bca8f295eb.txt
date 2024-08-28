@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区动物防疫条例
@@ -107,3 +108,5 @@
 第六章  附则
 
 　　第四十四条　本条例自2013年1月1日起施行。
+1
+ 

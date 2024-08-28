@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区机动车排气污染防治条例
@@ -98,3 +99,4 @@
 第六章 附则
 
 　　第四十三条　本条例自2004年6月1日起施行。 1996年10月22日市政府发布的《深圳经济特区机动车排气污染防治规定》同时废止。
+#

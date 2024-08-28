@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省市场中介组织管理条例
@@ -111,4 +112,6 @@
 
 第三十六条  从事市场中介活动的个体工商户适用本条例。
 第三十七条  本条例自2011年8月1日起施行。
+
+— 1 —
 

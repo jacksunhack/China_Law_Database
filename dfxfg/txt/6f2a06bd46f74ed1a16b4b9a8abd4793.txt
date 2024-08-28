@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春经济技术开发区管理条例
@@ -81,3 +82,4 @@
 ​
 第二十七条　开发区内的原有乡（镇）属以上企业、事业单位，其隶属关系可不变更，有关各项事宜由长春市人民政府负责处理。
 第二十八条　本条例自公布之日起施行。
+－1－　

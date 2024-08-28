@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省实施《中华人民共和国
@@ -105,3 +107,4 @@
 第三十四条  本办法自2019年3月1日起施行。
 
 
+	— 1 —  

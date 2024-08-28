@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 辽宁省城市供热条例
@@ -191,3 +192,4 @@
 本条例所称热用户，是指消费供热单位热能的单位和个人。
 本条例所称日标准热费，是指用户应交纳热费总额与年度供热期天数的比值。
 第四十九条　本条例自2022年11月1日起施行。
+－1－　

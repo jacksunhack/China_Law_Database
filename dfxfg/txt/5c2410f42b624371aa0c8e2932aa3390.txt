@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区地方金融条例
 
@@ -123,3 +124,4 @@
 第五十六条  本条例自2021年 1月1日起施行。
 
 
+— 1 —

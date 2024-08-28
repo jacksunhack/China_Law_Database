@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽源市柞蚕产业发展条例
 
@@ -84,3 +85,4 @@
 第八章  附  则
 第四十六条  本条例自2022年10月1日起施行。
 
+#

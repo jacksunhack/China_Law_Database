@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省招标投标条例
@@ -164,3 +166,4 @@
 第七章  附则
 
 第五十二条  本条例自2005年3月1日起施行。
+      — 1 —    

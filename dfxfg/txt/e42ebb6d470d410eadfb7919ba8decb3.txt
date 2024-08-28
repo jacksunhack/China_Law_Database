@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省实施《中华人民共和国反不正当
@@ -109,3 +111,4 @@
 　　
 第三十四条　本办法自1995年12月1日起施行。
 
+─ 1 ─  

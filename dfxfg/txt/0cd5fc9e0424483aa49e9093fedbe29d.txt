@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘南藏族自治州住宅物业管理条例
@@ -202,4 +204,6 @@
 第三十八条  自治州人民政府结合物业管理工作需要，应当制定住宅物业服务规范、住宅物业服务评议规定、物业服务失信惩戒机制。
 第三十九条  本条例自2022年12月1日起施行。
 
+
+   — 1 —   
 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区金融发展促进条例
@@ -150,3 +152,4 @@
 
     第四十九条  市政府及其相关部门应当根据本条例实施的实际需要及时制定促进金融发展的各项优惠政策及具体办法。
     第五十条  本条例自2008年6月1日起实施。
+- 1 -

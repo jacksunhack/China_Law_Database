@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区人民代表大会常务委员会
@@ -114,3 +115,4 @@
 第四十二条　本规则由自治区人民代表大会常务委员会负责解释。
 第四十三条　本规则自通过之日起施行。
 
+- 1 -

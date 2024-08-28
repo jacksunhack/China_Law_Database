@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省渔业条例
@@ -87,3 +88,4 @@
 第六章  附则
 
 第三十七条  本条例自1988年7月1日起施行，《湖南省水产管理暂行条例》同时废止。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国渔业法》办法
@@ -95,4 +96,6 @@
 第三十五条  本办法应用中的具体问题，由省渔业行政主管部门负责解释。
 第三十六条  本办法自公布之日起施行。
 
+
+— 1 —
 

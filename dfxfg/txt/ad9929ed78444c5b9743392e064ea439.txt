@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省人民代表大会常务委员会
@@ -45,3 +46,4 @@
 违反本决定规定的其他行为，法律法规有处罚规定的，从其规定。
 二十六、本决定自公布之日起施行。
 
+1

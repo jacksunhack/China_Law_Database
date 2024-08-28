@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省养老服务条例
 
@@ -200,3 +201,4 @@
 （五）养老服务设施，是指专门为老年人提供生活照料、康复护理、文体娱乐、托养服务的房屋、场地等。
 第七十一条  本条例自2022年12月1日起施行。
 
+— # —

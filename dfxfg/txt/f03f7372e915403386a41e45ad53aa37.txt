@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省促进科技成果转化条例
@@ -89,3 +90,4 @@
 第六章  附则
 
 第三十五条  本条例自2000年8月1日起施行。
+#

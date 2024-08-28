@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市实施《中华人民共和国
@@ -115,3 +116,4 @@
 
 第四十条  本办法具体应用中的问题，由市卫生行政部门负责解释。
 第四十一条  本办法自1995年6月1日起施行。
+—3—  

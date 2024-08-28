@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市人才流动条例
@@ -117,3 +118,4 @@
 第四十五条　本条例自2000年9月1日起施行。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省慈善条例
@@ -208,3 +209,4 @@
 
 第七十二条  本条例自2021年7月1日起施行。
 
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 关岭布依族苗族自治县古生物化石资源
@@ -46,3 +48,4 @@
 第二十三条　有关行政主管部门工作人员玩忽职守、滥用职权、徇私舞弊，造成古生物化石资源损害的，由有关部门依法处理。
 第二十四条　本条例自2002年10月1日起施行。
 
+— 1 —

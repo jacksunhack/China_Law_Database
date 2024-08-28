@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省乡、民族乡、镇人民代表
@@ -119,3 +120,4 @@
 
 　　第四十三条　本条例由青海省人民代表大会常务委员会负责解释。
 　　第四十四条　本条例自1990年5月1日起施行。
+#　

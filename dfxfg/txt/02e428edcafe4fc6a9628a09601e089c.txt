@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
                                                    
 
 鸡西市防御雷电灾害管理条例
@@ -55,3 +57,4 @@
 
 
 
+- 11 -

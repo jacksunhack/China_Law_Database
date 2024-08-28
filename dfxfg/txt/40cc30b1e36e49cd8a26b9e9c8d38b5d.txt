@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省档案管理条例
@@ -104,3 +106,4 @@
 第三十三条  本条例自1998年11月1日起施行。
 
 
+─ # ─  

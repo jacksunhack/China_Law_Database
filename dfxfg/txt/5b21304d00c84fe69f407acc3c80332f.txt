@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国中小企业促进法》
@@ -107,3 +108,4 @@
 第七章  附  则
 
 第四十七条  本办法自2005年7月1日起施行。
+— 1 —  

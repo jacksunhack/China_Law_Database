@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市粉煤灰综合利用管理条例
@@ -64,3 +66,5 @@
 第三十六条  高新技术产业开发区依据本条例的规定执行。
 第三十七条  本条例自2003年1月1日起施行。
 
+　— 1 —　
+　

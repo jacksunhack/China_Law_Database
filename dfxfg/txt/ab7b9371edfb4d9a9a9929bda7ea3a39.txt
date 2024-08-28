@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市建筑节能条例
@@ -130,3 +131,4 @@
 第四十三条 本条例自2012年1月1日起施行。
 
 
+#

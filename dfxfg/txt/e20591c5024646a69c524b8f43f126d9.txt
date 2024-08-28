@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市城市房屋租赁管理条例
@@ -120,3 +121,4 @@
 第三十七条　县（市）、上街区的城市房屋租赁管理，参照本条例执行。
 第三十八条　本条例自2003年1月1日起施行。
 
+— 4 —

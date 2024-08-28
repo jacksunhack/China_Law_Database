@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州实施《四川省河道采砂管理
@@ -68,3 +69,4 @@
 第二十七条  本补充规定未作规定的，按照《四川省河道采砂管理条例》和有关法律法规执行。
 第二十八条  本补充规定自2020年9月1日起施行。
 
+— 3 —

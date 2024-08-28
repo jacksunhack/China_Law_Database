@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区铁路安全管理条例
@@ -165,3 +167,4 @@
 　　第五十九条  铁路交通事故的应急救援和调查处理，依照国家有关规定执行。
 　　第六十条  本条例自2019年10月1日起施行。
 
+#

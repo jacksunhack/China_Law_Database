@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市机动车停车场管理条例
@@ -152,3 +153,4 @@
 ​
 第四十五条　本市县（市）停车场管理，可以参照本条例执行。
 第四十六条　本条例自2023年5月1日起施行。
+－1－　

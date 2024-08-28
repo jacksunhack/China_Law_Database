@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市饮用水水源保护条例
@@ -185,3 +186,4 @@
 
     第四十五条  本条例自2015年1月1日起施行。
 
+— # —

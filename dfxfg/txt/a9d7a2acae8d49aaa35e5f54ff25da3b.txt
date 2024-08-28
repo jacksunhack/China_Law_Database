@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市献血条例
@@ -142,3 +143,5 @@
 
 第四十三条  军队对献血工作另有规定的，从其规定。
 第四十四条  本条例自2018年6月1日施行。
+
+— # —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区公共安全技术防范管理条例
@@ -104,3 +105,4 @@
 第六章  附  则
 
 第三十三条  本条例自2007年7月1日起施行。2001年10月11日自治区人民政府颁布的《内蒙古自治区社会公共安全技术防范管理办法》同时废止。
+#

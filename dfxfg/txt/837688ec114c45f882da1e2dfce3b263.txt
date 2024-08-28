@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市社会急救医疗管理条例
@@ -110,3 +112,4 @@
  
 第三十九条  本条例自2009年3月1日起施行。
 
+#

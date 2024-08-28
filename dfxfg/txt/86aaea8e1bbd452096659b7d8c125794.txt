@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 沈阳市湿地保护条例
 
@@ -121,3 +123,6 @@
 第六章 附  则
 
 第三十七条 本条例自2020年1月1日起实施。
+                                                           
+
+                                                           #

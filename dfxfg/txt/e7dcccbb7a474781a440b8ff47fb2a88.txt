@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南宁市爱国卫生条例
@@ -125,3 +126,4 @@
 第六章　附　　则
 ​
 第四十八条　本条例自2023年9月1日起施行。
+－1－　

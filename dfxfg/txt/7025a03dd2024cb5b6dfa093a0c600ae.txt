@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连云港市海洋牧场管理条例
@@ -126,3 +128,4 @@
 第四十一条  本条例实施细则由市人民政府制定。
 第四十二条  本条例自2017年2月1日起施行。
 
+─ # ─

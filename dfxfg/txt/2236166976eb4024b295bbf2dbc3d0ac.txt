@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安庆市长江江豚保护条例
@@ -57,3 +58,4 @@
 （三）其他构成违反治安管理行为的。
 第二十二条　违反本条例规定的行为，法律、法规另有处罚规定的，从其规定；构成犯罪的，依法追究刑事责任。
 第二十三条　本条例自2021年1月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省漾濞彝族自治县自治条例
@@ -159,3 +161,4 @@
 自治县人民政府应根据本条例制定实施办法。
 
 
+—— 1 ——

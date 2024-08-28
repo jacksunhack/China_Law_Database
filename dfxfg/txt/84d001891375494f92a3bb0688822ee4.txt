@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 伊通满族自治县自治条例
@@ -160,3 +161,4 @@
 
 第七十二条 每年八月三十日为自治县成立纪念日。全县放假一天。
 第七十三条 本条例自一九九二年七月三十日起施行。本条例由自治县人民代表大会常务委员会解释。
+#

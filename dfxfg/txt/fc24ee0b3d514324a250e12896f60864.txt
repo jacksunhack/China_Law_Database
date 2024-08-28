@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市停车场建设管理条例
@@ -189,3 +190,4 @@
 县（市）、上街区参照本条例执行。
 第五十三条  本条例自2019年10月1日起施行。
 
+― 1 ―

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 秦皇岛市物业管理条例
@@ -338,3 +340,4 @@
 第七十四条　业主自行管理或者委托其他管理人管理物业的，参照本条例的有关规定执行。
 第七十五条　本条例自2018年7月1日起施行。
 
+　- 1 -

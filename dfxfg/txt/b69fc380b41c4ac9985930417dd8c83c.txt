@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 郑州市实施《中华人民共和国
 家庭教育促进法》办法
@@ -74,3 +75,5 @@
 第二十三条  本办法自2022年10月1日起施行。
 
 
+— 1 —
+  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区社会建设促进条例
@@ -200,3 +201,4 @@
     第七十七条  本市国家机关和有关单位应当按照本条例的规定，制定和完善推进社会建设的各项法规、规章和制度。
     第七十八条  本条例自2012年3月1日起施行。
 
+1

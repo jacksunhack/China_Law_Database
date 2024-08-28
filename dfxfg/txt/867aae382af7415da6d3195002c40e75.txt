@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省农业机械化促进条例
@@ -108,3 +109,4 @@
 第六章　附则
 
 　　第三十七条　本条例自2007年10月1日起施行。1998年7月31日湖北省第九届人民代表大会常务委员会第四次会议通过的《湖北省农业机械管理条例》同时废止。
+1

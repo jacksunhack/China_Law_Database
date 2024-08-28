@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省资源综合利用条例
@@ -71,3 +72,4 @@
 第六章　附则
 
 　　第二十九条　本条例自公布之日起施行。
+1

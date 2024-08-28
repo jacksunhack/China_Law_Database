@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
    
 
 四川省《中华人民共和国草原法》实施办法
@@ -58,3 +59,4 @@
 第三十二条  本实施办法自2006年1月1日起施行。1990年11月7日由省第七届人大常委会公布的《四川省<中华人民共和国草原法>实施细则》同时废止。
 
 
+— 3 —

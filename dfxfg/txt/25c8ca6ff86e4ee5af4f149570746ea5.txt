@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 黑龙江省医疗保障基金监督管理条例
 
 （2022年12月22日黑龙江省第十三届人民代表大会
@@ -139,3 +141,4 @@
 
 
 
+— 1 —

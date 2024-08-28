@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪满族自治县矿产资源管理条例
@@ -53,3 +54,4 @@
 第二十五条  本条例自1999年9月1日起施行。
 
 
+— 1 —

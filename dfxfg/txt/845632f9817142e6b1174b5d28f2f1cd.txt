@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莫力达瓦达斡尔族自治旗自治条例
@@ -157,3 +158,4 @@
 第六十七条　自治旗人民政府根据本条例制定属于政府职权范围内的实施办法。 
 第六十八条　本条例自自治区人大常委会批准之日起施行。
 
+#

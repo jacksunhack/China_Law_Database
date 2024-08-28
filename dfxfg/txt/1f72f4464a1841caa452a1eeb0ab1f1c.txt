@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市浦东新区城市管理领域
@@ -40,3 +41,4 @@
 浦东新区城管执法部门应当加强非现场执法工作的宣传，增强市民自觉遵守城市管理规定的意识，共同维护城市管理秩序。
 第十八条  本规定自2021年12月1日起施行。
 
+- 1 -

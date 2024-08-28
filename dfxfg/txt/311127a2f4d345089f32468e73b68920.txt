@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市农民教育培训条例
@@ -62,3 +63,4 @@
 　　第二十三条　其他法律、法规对违反本条例规定的行为已有规定的，依照其规定。
 　　第二十四条　本条例自2010年8月1日起施行。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

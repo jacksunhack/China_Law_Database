@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市水网建设与保护条例
@@ -117,3 +119,4 @@
 第四十三条  本条例自2014年6月1日起施行。
 
 
+　— 1 —　

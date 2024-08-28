@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省城市市容和环境卫生管理条例
@@ -149,3 +151,4 @@
 第八章　附则
 
 　　第四十六条　本条例自2006年8月1日起施行。
+- 1 -

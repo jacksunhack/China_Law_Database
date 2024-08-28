@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁经济技术开发区条例
@@ -59,3 +60,4 @@
 第三十二条  市人民政府可以安排专项经费或者以其他形式，支持经济技术开发区基础设施建设和维护。
 第三十三条  本条例自2006年11月1日起施行。
 
+#

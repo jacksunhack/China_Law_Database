@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省优化营商环境条例
@@ -165,5 +166,4 @@
 
 第六十四条　省人民政府可以根据本条例制定实施细则和相关办法。
 第六十五条　本条例自2018年1月1日起施行。
-
 

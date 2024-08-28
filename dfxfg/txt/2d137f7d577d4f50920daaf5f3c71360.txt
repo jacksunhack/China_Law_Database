@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大通回族土族自治县森林草原防灭火条例
@@ -107,3 +109,4 @@
 
 第四十五条  本条例自2023年5月1日起施行。《大通回族土族自治县森林草原防火条例》同时废止。
 
+1  

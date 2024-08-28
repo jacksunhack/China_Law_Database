@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省纠纷多元化解条例
@@ -110,3 +111,4 @@
 第四十九条  本条例自2020年1月1日起施行。
 
 
+— 13 —

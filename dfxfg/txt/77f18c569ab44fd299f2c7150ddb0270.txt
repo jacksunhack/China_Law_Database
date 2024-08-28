@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市科学技术普及条例
@@ -77,3 +79,4 @@
 第六章 附　则
 
 第三十三条　本条例自2012年3月1日起施行。
+— 8 —

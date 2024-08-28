@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市供水条例
@@ -168,3 +170,4 @@
 （七）结算水表，是指供水企业与用户发生计量结算的终端计量水表。
 （八）用户，是指与供水企业签订供用水合同的单位或者个人。
 第六十条  本条例自2023年6月1日起施行。
+      — 1 —    

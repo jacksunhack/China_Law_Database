@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 汕头经济特区行政复议条例
@@ -194,3 +195,4 @@
 ​
 第五十三条　本条例对行政复议相关事项未作规定的，按照行政复议法等法律法规的规定执行。
 第五十四条　本条例自2013年7月1日起施行。
+－1－　

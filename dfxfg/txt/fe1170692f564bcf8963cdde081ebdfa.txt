@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鹤壁市辛村遗址保护条例
@@ -50,3 +51,5 @@
 
 
 
+— 1 —
+  

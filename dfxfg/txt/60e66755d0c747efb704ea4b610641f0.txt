@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区平原天然林保护条例
@@ -65,3 +66,4 @@
 （三）发生森林病虫害，未及时进行综合防治，造成扩散蔓延的；
 （四）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第三十六条　本条例自2009年2月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 长春市反餐饮浪费条例
 
 （2021年12月27日长春市第十五届人民代表大会常务委员会
@@ -56,3 +57,4 @@
 
 
 
+- 33 -

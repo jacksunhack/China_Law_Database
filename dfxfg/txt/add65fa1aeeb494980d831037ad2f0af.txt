@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市人民防空管理规定
@@ -249,3 +250,4 @@
 （五）基础埋置深度：指从室外设计地面至基础底面的垂直距离。
 第五十九条　本规定自2014年2月1日起施行。
 
+- 1 - 

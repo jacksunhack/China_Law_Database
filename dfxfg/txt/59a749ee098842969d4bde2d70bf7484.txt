@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省公安机关警务辅助人员条例
@@ -147,3 +148,4 @@
 
 
 
+1

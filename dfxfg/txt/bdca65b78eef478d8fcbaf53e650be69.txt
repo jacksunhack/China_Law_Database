@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省档案条例
@@ -93,4 +94,6 @@
 
 第三十条 本条例自1997年9月1日起施行。
 
+
+— 1 —
 

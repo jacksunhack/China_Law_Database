@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 淮北市城镇排水管理条例
@@ -113,3 +114,4 @@
 第六章　附　　则
 ​
 第三十九条　本条例自2024年1月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省边境沿海地区边防管理条例
@@ -129,4 +130,6 @@
 
 第三十九条  本条例自公布之日起施行。
 
+
+— 1 —
 

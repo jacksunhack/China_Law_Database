@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省行政事业性收费管理条例
@@ -51,3 +53,4 @@
 第二十二条　本条例具体应用中的问题，由省人民政府物价行政主管部门、财政行政主管部门根据各自的职责负责解释。
 第二十三条　本条例自公布之日起施行。
 
+—— 1 ——

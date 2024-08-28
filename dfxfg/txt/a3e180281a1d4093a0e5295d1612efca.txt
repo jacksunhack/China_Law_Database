@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市公用事业特许经营条例
@@ -163,3 +164,4 @@
     第六十条  本条例自2006年3月1日起施行。
     本条例施行前已授权的特许经营项目，授权书和特许经营协议有规定的，从其规定；未作规定的，适用本条例。
 
+- 1 -

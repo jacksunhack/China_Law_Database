@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省赤水河流域保护条例
@@ -195,3 +196,4 @@
 第八章 附  则
 第八十六条  本条例自2021年7月1日起施行。
 
+— 1 —

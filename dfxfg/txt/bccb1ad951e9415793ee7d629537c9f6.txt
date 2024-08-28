@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市轨道交通管理条例
@@ -192,3 +194,4 @@
 　　第七十八条　磁悬浮、单轨系统等轨道交通的建设、运营、管理参照本条例执行。
 　　第七十九条　本条例自2017年6月1日起施行。
 
+- 1 -

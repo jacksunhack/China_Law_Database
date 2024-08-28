@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 果洛藏族自治州草原管理条例
@@ -133,3 +134,4 @@
 
 　　第四十九条　本条例应用中的具体问题由自治州人民政府负责解释。
 　　第五十条　本条例自2009年7月1日起施行。
+- 15 -　

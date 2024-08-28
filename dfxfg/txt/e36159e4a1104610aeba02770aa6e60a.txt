@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省长株潭城市群生态绿心地区保护条例
@@ -122,5 +123,8 @@
 第六章  附则
 
 第四十六条  本条例自2013年3月1日起施行。
+
+
+#
 
 

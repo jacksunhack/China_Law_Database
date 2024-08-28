@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 聊城市城镇容貌和环境卫生管理条例
@@ -221,3 +222,4 @@
 
 
 
+1

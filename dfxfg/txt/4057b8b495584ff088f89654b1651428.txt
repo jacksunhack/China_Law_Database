@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 西藏自治区反间谍安全防范条例
 
@@ -108,4 +109,3 @@
 第五章  附  则
 
 第三十二条  本条例自2021年1月1日起施行。
-

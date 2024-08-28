@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市保护和发展邮电通信规定
@@ -152,3 +153,4 @@
 第四十九条  市人民政府可以根据本规定制定实施细则。
 本规定的具体应用问题，由市邮电管理部门负责解释。
 本规定经上海市人民代表大会常务委员会审议通过，自1988年7月1日起施行。
+- 7 -

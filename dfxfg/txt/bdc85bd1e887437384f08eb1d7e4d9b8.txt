@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
          
  黑龙江省耕地保护条例
@@ -180,3 +181,4 @@
 
 
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施《中华人民共和国水法》办法
@@ -118,3 +119,4 @@
 
 　　第四十九条　本办法应用中的具体问题由省人民政府水行政管理部门负责解释。
 　　第五十条　本办法自2005年8月1日起施行。
+#　

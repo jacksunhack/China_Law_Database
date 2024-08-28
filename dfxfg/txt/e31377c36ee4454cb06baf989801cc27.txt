@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 赣州市城市道路车辆通行管理规定
@@ -169,3 +170,5 @@
 
 
 
+1
+	

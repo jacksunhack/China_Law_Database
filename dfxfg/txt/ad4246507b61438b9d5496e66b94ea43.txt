@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 印江土家族苗族自治县非公有制经济
@@ -68,4 +69,6 @@
 第三十六条  违反本条例第二十二条规定的，由有关行政主管部门责令改正，依法予以处罚；情节恶劣，造成严重后果的，追究法律责任。
 第三十七条  本条例自2001年12月1日起施行。
 
+
+— 7 —
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区禁毒条例
@@ -215,3 +216,4 @@
 第七十条  在本省内经济特区以外区域的禁毒工作，参照本条例执行。
 第七十一条  本条例具体应用中的问题，由省人民政府负责解释。
 第七十二条  本条例自2019年1月1日起施行。
+－1－  

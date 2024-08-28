@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市档案安全保护条例
@@ -105,3 +106,4 @@
 ​
 第四十一条　本条例由长春市人民代表大会常务委员会负责解释。执行中的具体应用问题，由长春市档案局负责解释。
 第四十二条　本条例自公布之日起施行。
+－1－　

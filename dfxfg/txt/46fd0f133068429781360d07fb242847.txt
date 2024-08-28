@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌兰察布市物业管理条例
@@ -164,3 +166,4 @@
 第五十条  本条例自2019年3月1日起施行。
 
 
+#

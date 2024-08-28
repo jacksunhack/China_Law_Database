@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省乡镇人民代表大会工作条例
@@ -161,3 +163,4 @@
 第三十八条  本条例自2016年9月1日起施行。1995年10月19日江苏省第八届人民代表大会常务委员会第十七次会议通过的《江苏省乡镇人民代表大会工作暂行条例》同时废止。
 
 
+─ # ─  

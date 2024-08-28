@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 浙江省科学技术普及条例
@@ -125,3 +126,4 @@
 第七章　附　　则
 ​
 第五十四条　本条例自2023年7月1日起施行。省人民政府公布的《浙江省科学技术普及办法》同时废止。
+－1－　

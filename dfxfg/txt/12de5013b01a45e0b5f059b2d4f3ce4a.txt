@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省治理公路货物运输车辆超限超载条例
@@ -136,3 +137,4 @@
 
 第四十五条　治理城市道路货物运输车辆超限超载适用《中华人民共和国道路交通安全法》《城市道路管理条例》，不适用本条例。
 第四十六条　本条例自2024年1月1日起施行。
+－1－　

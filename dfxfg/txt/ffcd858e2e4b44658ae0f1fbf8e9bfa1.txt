@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 辽宁省专利条例
@@ -116,3 +117,4 @@
 第七章　附　　则
 ​
 第三十八条　本条例自2014年3月1日起施行。1998年9月25日辽宁省第九届人民代表大会常务委员会第五次会议通过的《辽宁省专利保护条例》同时废止。
+－1－　

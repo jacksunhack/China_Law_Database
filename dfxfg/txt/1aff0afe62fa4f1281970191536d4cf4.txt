@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
  
 郑州市确定土地权属条例
@@ -131,3 +132,4 @@
 第五十七条　本条例具体应用问题由市人民政府土地管理部门负责解释。
 第五十八条　本条例自公布之日起施行。
 
+— 2 —

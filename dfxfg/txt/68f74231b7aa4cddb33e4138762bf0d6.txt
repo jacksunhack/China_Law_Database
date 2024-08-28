@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市基本农田保护条例
@@ -95,3 +96,4 @@
 
     第四十二条　本条例具体应用中的问题，由市土地行政主管部门负责解释。
     第四十三条　本条例自2001年5月1日起施行。
+— 1 —

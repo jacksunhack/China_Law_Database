@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州自治条例
@@ -150,3 +152,4 @@
 第六十一条  每年7月23日为自治州成立纪念日，假日2天。 　　
 第六十二条  本条例自1988年1月1日起施行。
 
+— 1 —

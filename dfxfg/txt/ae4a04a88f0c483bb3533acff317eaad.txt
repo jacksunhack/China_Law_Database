@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省政务服务条例
@@ -76,3 +77,4 @@
 
 第三十五条  中央驻川部门（机构）的政务服务事项进入所在地人民政府政务服务中心集中受理、办理的，依照本条例执行。
 第三十六条  本条例自2013年6月1日起施行。
+— 7 —  

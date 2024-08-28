@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 哈尔滨市电梯安全管理条例
 
@@ -205,3 +206,4 @@
 第八章　附则
 
 第六十条  本条例自2018年3月1日起施行。
+#

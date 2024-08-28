@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省城市建设管理条例
@@ -208,3 +210,4 @@
 第七十条　城市规划区外的市政公用设施建设管理活动参照本条例执行。
 第七十一条　本条例自2007年1月1日起施行。
 
+—— 1 ——

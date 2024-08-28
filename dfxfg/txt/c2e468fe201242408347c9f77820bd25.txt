@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区全民健身条例
 
 （2008年9月25日内蒙古自治区第十一届
@@ -119,3 +121,4 @@
 第八章  附  则
 第五十八条  本条例自2008年12月1日施行。
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 环江毛南族自治县凤腾山古墓群保护条例
@@ -83,3 +85,4 @@
 附：环江毛南族自治县凤腾山古墓群文物保护单位保护范围及建设控制地带范围图
 
 
+#

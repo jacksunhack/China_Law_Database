@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 烟台市养老服务条例
@@ -147,3 +148,4 @@
 第九章　附　　则
 ​
 第六十二条　本条例自2024年1月1日起施行。
+－1－　

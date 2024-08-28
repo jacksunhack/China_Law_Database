@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 抚顺市城市公共汽车客运管理条例
@@ -135,3 +136,4 @@
 ​
 第三十八条　本行政区域内建制镇可参照本条例执行。
 第三十九条　本条例自2002年3月1日起施行。
+－1－　

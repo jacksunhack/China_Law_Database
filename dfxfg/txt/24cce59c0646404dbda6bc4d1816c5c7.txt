@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广元市剑门蜀道保护条例
@@ -98,3 +99,4 @@
 
 第三十五条  广元市行政区域内的其他古蜀道及古柏的保护可以参照本条例执行。
 第三十六条  本条例自 2022年1月 1日起施行。
+— 9 —  

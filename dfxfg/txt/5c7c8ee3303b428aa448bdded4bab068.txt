@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施
@@ -54,3 +55,4 @@
 
 第二十四条  本办法适用中的具体问题由自治区人民政府教育行政主管部门负责解释。
 第二十五条  本办法自2002年6月1日起施行。
+#

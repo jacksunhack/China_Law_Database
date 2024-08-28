@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市科学技术普及条例
@@ -86,3 +87,4 @@
 
 第三十三条  本条例自2009年1月15日起施行。
 
+— 3 —

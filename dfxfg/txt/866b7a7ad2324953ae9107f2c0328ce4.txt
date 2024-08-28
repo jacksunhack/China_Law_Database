@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省公益林和森林公园条例
@@ -78,3 +79,4 @@
 （四）违反本条例规定认定命名省级森林公园的；
 （五）有其他玩忽职守、滥用职权、徇私舞弊行为的。
 第二十八条  本条例自2018年3月12日起施行。
+— 9—

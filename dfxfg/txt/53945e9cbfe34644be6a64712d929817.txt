@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市养犬管理条例
@@ -119,3 +120,4 @@
 第五章  附  则
 
 第四十六条  本条例自2010年7月1日起施行。
+— 1 —  

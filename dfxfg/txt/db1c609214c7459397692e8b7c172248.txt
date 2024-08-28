@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广西壮族自治区野生动物保护条例
@@ -96,3 +97,4 @@
 第五章　附　　则
 ​
 第三十四条　本条例自2023年7月1日起施行。《广西壮族自治区陆生野生动物保护管理规定》《广西壮族自治区水生野生动物保护管理规定》同时废止。
+－1－　

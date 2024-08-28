@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》办法
@@ -120,3 +121,4 @@
 第六章　附  则
 
 第四十五条  本办法自2011年9月1日起施行。
+1

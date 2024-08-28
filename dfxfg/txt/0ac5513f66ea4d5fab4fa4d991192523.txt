@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市建筑装饰装修条例
@@ -181,3 +183,4 @@
 　　第六十六条　本条例自2012年12月1日起施行。2006年5月1日施行的《西安市室内装饰管理条例》同时废止。
 
 　
+— 1 — 

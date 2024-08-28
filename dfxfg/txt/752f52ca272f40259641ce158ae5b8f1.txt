@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省综合行政执法条例
@@ -109,3 +110,4 @@
 第七章　附则
  
 第三十八条　本条例自2022年1月1日起施行。《浙江省城市管理相对集中行政处罚权条例》同时废止。
+－1－  

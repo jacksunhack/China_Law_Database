@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 铜仁市电动摩托车管理条例
@@ -80,3 +81,4 @@
 第二十八条  本条例规定的有关备案登记程序、通行管理、道路交通安全知识培训等，由市人民政府制定具体实施办法。
 第二十九条  本条例自2021年7月1日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市禁止非法增加企业负担条例
@@ -95,3 +96,4 @@
 第三十六条  对非法增加个体工商户、事业单位、其他社会组织负担的，比照本条例处理。
 第三十七条  本条例自2001年10月1日起施行。
 
+— 3 —

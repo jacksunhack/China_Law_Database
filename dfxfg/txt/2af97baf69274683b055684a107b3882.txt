@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省三江并流世界自然遗产地保护条例
@@ -55,3 +57,4 @@
 第三十条  本条例自2005年7月1日起施行。
 
 
+—— 1 ——

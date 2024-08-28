@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区气象灾害防御条例
@@ -77,3 +78,5 @@
 　　（四）未按规定收集、调查、上报气象灾情，造成严重后果的；
 　　（五）拒不执行气象灾害防御方案、预警应急预案和指令的。
 　　第二十七条　本条例自2006年10月1日起施行。
+1
+ 

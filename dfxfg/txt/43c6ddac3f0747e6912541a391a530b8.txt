@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 四川省世界遗产保护条例
@@ -128,3 +129,4 @@
 ​
 第四十五条　都江堰水利工程的建设、管理和保护除按照《四川省都江堰水利工程管理条例》规定执行外，涉及世界遗产保护范围内的适用本条例。
 第四十六条　本条例自2024年9月1日起施行。
+－1－　

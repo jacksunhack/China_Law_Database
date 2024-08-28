@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市爱国卫生工作条例
@@ -116,3 +117,4 @@
 
 第四十七条  本条例自2016年1月1日起施行。
 
+#

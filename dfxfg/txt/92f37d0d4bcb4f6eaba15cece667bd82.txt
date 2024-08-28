@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林市民办教育促进条例
@@ -94,3 +95,4 @@
     第四十一条  本条例自2007年8月1日起施行。
 
 
+#

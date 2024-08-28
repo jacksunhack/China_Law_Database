@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省少数民族权益保障条例
@@ -75,3 +76,4 @@
     第三十五条  本条例自2002年3月1日起施行。
 
 
+- 3 -

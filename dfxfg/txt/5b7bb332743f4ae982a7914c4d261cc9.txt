@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 沈阳市志愿服务条例
@@ -150,3 +151,4 @@
 第八章　附　　则
 ​
 第五十条　本条例自2023年12月1日起施行。
+－1－　

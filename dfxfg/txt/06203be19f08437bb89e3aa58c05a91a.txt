@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省洪泽湖保护条例
@@ -140,3 +142,4 @@
 第五十八条  本条例自2022年5月1日起施行。
 
 
+─ # ─  

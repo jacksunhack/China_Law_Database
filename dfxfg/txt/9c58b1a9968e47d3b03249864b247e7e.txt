@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴马瑶族自治县长寿资源保护条例
@@ -82,3 +84,4 @@
  
 第三十四条  本条例所指长寿老人，是指年满八十周岁的自然人。
 第三十五条  本条例自2021年7月1日起施行。
+#

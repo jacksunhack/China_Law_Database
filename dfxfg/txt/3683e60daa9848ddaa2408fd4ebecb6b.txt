@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 中国（湖南）自由贸易试验区条例
@@ -149,3 +150,4 @@
 第九章　附  则
  
 第六十条　本条例自2022年3月1日起施行。
+－　1　－  

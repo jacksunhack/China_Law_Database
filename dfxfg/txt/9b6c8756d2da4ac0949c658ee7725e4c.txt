@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保定市白石山景区管理条例
@@ -76,3 +78,4 @@
 　　第二十六条　本条例自2022年1月1日起施行。
 
 
+#

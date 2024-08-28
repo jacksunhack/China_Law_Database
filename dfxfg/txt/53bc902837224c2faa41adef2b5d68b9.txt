@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区道路交通安全若干规定
@@ -216,3 +217,4 @@
 　　第六十条　鼓浪屿风景名胜区的交通管理办法由市人民政府另行制定。
 　　第六十一条　本规定自2012年1月1日起施行。
 
+-#-

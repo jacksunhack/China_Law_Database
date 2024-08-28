@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省实施《中华人民共和国
@@ -58,3 +59,4 @@
     有关行政主管部门处理台商投资的重大事项，应当事先告知省人民政府台湾事务主管部门。
     第二十五条  本办法自1997年4月1日起施行。
 
+－ 6 －

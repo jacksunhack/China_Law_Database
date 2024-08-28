@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市中小学校安全条例
@@ -146,3 +148,4 @@
 
 　　第五十条　本条例所称学校周边，是指国家和本省、市规定的应当与学校保持安全距离的区域，没有规定的，指距离学校红线二百米以内的区域。
 　　第五十一条　本条例自2011年10月1日起施行。
+1

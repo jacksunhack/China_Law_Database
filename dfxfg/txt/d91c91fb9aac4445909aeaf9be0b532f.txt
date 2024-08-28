@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 和布克赛尔蒙古自治县立法条例
@@ -112,3 +113,4 @@
 
 第三十九条　本条例自2024年5月28日起施行。
 
+－1－　

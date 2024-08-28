@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂尔多斯市人民代表大会及其
@@ -167,3 +168,4 @@
 
 第六十六条  本条例自2016年7月1日起施行。
 
+#

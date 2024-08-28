@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省国有土地使用权出让和转让办法
@@ -114,3 +115,4 @@
 第四十条 本办法施行中的具体应用问题，由省人民政府负责解释。 
 第四十一条 本办法自公布之日起施行。
 
+1

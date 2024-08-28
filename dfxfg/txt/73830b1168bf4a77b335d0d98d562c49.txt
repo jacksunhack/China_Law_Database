@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省社会治安综合治理条例
@@ -120,3 +121,4 @@
 第六章  附  则
 
 第五十三条  本条例2016年1月1日起施行。1992年8月18日黑龙江省第七届人民代表大会常务委员会第二十八次会议通过的《黑龙江省社会治安综合治理条例》同时废止。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 喀喇沁左翼蒙古族自治县民族教育条例
@@ -31,3 +32,5 @@
 第十七条  自治县人民政府对在发展民族教育事业中做出显著成绩的单位和个人，给予表彰和奖励。
 第十八条  本条例自公布之日起施行。
 
+  — 3 —
+	

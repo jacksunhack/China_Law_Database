@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州移风易俗条例
@@ -155,3 +156,4 @@
 第五十条　本条例自2022年5月1日起施行。
 
 
+— 1 —  

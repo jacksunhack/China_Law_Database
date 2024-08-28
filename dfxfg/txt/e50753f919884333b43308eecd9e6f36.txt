@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大通回族土族自治县自治条例
@@ -136,3 +137,4 @@
 第六十六条  每年公历七月十日为自治县成立纪念日，放假一天。
 开斋节、古尔邦节、纳顿节少数民族传统节日放假时间由自治县人民政府另行规定。
 第六十七条  本条例自2022年1月1日起施行。
+1    

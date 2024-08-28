@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省审计监督条例
@@ -92,3 +93,4 @@
 审计机关的审计人员在审计工作中滥用职权、徇私舞弊、玩忽职守、尚不构成犯罪的，依法给予行政处分。
 第三十七条  本条例自2003年3月1日起施行。
 
+— 1 —

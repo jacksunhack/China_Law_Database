@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海西蒙古族藏族自治州卤虫资源保护管理条例
@@ -64,3 +65,4 @@
 第十九条  本条例实施中的具体问题由自治州人民政府负责解释。
 第二十条  本条例自2003年5月1日起施行。
 
+#  

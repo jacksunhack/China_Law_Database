@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 永州市人民代表大会及其常务委员会立法条例
@@ -123,3 +124,4 @@
 
 第四十八条  本条例经湖南省人民代表大会常务委员会批准，由永州市人民代表大会常务委员会公布，自2018年6月1日起施行。
 
+1

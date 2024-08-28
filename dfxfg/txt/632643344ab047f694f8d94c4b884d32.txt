@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区扶贫开发条例
@@ -149,4 +150,6 @@
 第七章 附则
 
     第六十五条 本条例自2018年1月1日起施行。
+
+- 3 -
 

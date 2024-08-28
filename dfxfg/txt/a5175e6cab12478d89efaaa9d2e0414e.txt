@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城市桥梁管理条例
@@ -128,3 +129,4 @@
 
 第四十三条　县（市）桥梁管理工作参照本条例执行。
 第四十四条　本条例自2015年5月1日起施行。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南京市人民代表大会议事规则
@@ -178,3 +179,4 @@
 ​
 第六十七条　民生实事项目人大代表票决工作按照有关规定执行。
 第六十八条　本规则自公布之日起施行。
+－1－　

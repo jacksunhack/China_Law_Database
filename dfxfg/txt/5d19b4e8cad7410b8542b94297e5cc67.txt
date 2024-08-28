@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鞍山市城镇绿化条例
@@ -148,3 +149,4 @@
 第四十七条  本条例自2019年1月1日起施行。《鞍山市城市绿化管理条例》同时废止。
 
 
+1

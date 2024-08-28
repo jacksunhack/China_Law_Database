@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广东省政务服务数字化条例
@@ -88,3 +89,4 @@
 ​
 第三十三条　中央驻粤相关机构依法提供政务服务，参照本条例执行。
 第三十四条　本条例自2024年1月1日起施行。
+－1－　

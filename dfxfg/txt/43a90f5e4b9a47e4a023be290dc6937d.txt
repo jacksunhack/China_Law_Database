@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 甘肃省高标准农田建设管理条例
@@ -103,3 +104,4 @@
 ​
 第四十二条　县级以上人民政府依据本条例的规定，可以制定相关管理办法。
 第四十三条　本条例自2024年5月1日起施行。
+－1－　

@@ -1,3 +1,6 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 
 邯郸市志愿服务条例
@@ -49,3 +52,4 @@
 第二十五条  本条例自2022年5月1日起施行。
 
 
+— # —

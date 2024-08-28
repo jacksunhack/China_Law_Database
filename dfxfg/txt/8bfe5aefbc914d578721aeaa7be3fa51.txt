@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市科学技术进步与创新条例
@@ -131,3 +132,4 @@
 
 第四十二条  本条例自2009年1月1日起施行。
 
+—— 1 ——

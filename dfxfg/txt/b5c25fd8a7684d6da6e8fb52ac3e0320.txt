@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市大气污染防治条例
@@ -83,3 +84,4 @@
 第四十四条　本条例自公布之日起实施。一九八八年十月十五日公布的《青岛市实施〈中华人民共和国大气污染防治法〉办法》同时废止。
 
 
+1

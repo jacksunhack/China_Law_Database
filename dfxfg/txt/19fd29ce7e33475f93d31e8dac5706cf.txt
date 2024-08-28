@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市实施《中华人民共和国渔业法》办法
@@ -131,3 +132,4 @@
 第七章  附  则
 
 第四十四条  本办法自公布之日起施行。
+— 13 —

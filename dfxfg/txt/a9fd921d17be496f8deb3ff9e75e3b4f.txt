@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省治理货物运输车辆超限超载条例
@@ -84,3 +85,4 @@
 （八）索取、收受他人财物，或者谋取其他利益的；
 （九）其他滥用职权、玩忽职守、徇私舞弊行为的。
 第三十四条　本条例自2014年6月1日起施行。
+1

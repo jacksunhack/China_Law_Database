@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省城乡规划条例
@@ -187,3 +188,4 @@
 第七章  附  则
 
     第五十七条  本条例自2011年3月１日起施行。《安徽省实施〈中华人民共和国城市规划法〉办法》同时废止。
+- 28 -

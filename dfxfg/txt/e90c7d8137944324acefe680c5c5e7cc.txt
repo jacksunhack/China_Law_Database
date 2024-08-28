@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省司法鉴定管理条例
@@ -155,3 +156,4 @@
 第七章　附则 
 
 第四十三条　本条例自2002年1月1日起施行。
+－ 12 －

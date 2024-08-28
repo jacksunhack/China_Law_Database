@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黑龙江省人民代表大会常务委员会
 关于修改《黑龙江省城市供热条例》的决定
@@ -56,3 +57,4 @@
 　　删去第五项、第七项。
 本决定自公布之日起施行。
 《黑龙江省城市供热条例》根据本决定作相应修改并对条文顺序予以调整，重新公布。
+#

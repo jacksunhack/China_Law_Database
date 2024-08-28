@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区商事登记若干规定
@@ -118,3 +119,4 @@
     第四十一条  本规定所称的区，包含光明、坪山、龙华、和大鹏新区等管理区。
     第四十二条  市政府可以依据本规定制定实施细则。
     第四十三条  本规定自2013年3月1日起实施。
+- 1 -

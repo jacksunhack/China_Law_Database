@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省安全生产条例修正案
@@ -84,3 +85,4 @@
 
 
 
+— 13 —

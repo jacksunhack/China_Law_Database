@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省城市绿化管理条例
@@ -85,3 +87,4 @@
 
 第二十九条  本条例自公布之日起施行。《江苏省城市绿化保护暂行条例》同时废止。
 
+─ 1 ─  

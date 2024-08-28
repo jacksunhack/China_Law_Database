@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市非公有制经济组织工会规定
@@ -54,3 +55,4 @@
 第十四条  违反本规定，依照《中华人民共和国工会法》及有关法律、法规的规定予以处罚。
 第十五条  本规定自2002年9月1日起施行。
 
+— 1 —

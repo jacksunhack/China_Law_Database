@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省食盐管理条例
@@ -93,3 +95,4 @@
 
 第三十六条  渔业、畜牧业用盐管理适用本条例。
 第三十七条  本条例自公布之日起施行。
+— 1 —

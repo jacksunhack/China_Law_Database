@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
  
 连云港市石刻保护条例
@@ -65,3 +67,4 @@
 第二十五条  本条例自2022年3月1日起施行。
  
 
+─ # ─  

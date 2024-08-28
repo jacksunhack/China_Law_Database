@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省征兵工作条例
@@ -119,3 +120,4 @@
 第七章　附则
 
 　　第三十七条　本条例自2004年5月1日起施行。
+1

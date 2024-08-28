@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市文明行为促进条例
@@ -172,3 +173,5 @@
 
     第四十八条  郑州航空港经济综合实验区、郑州高新技术产业开发区、郑州经济技术开发区、郑东新区等区域内文明行为促进工作，适用本条例。
 第四十九条  本条例自2018年7月1日起施行。
+— 1 —
+  

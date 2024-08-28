@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广东省高危险性体育项目经营活动
 管理规定
@@ -51,3 +52,4 @@
 第二十四条  本规定自2021年1月1日起施行。
 
 
+— - 1 - —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 荆门市生态环境保护条例
@@ -155,3 +156,4 @@
 ​
 第七十一条　市人民政府派出的区域性管理委员会按照本条例有关县级人民政府的规定执行。
 第七十二条　本条例自2018年3月1日起施行。
+－1－　

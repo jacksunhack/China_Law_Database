@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区森林旅游资源保护和开发规定
@@ -108,3 +109,4 @@
 第五十一条  本规定自2013年2月1日起施行。    
 
 
+2

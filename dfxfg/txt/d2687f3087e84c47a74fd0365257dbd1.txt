@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贺州市城市地下管线管理条例
@@ -148,3 +149,4 @@
 ​
 第五十条　钟山县、富川瑶族自治县、昭平县县城所在镇规划区的地下管线管理，可以参照本条例执行。
 第五十一条　本条例自2023年11月1日起施行。
+－1－　

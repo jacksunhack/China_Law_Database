@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 杭州市湿地保护条例
@@ -93,3 +94,4 @@
 第五章　附　　则
 ​
 第三十三条　本条例自2023年5月1日起施行。
+－1－　

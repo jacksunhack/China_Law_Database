@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连城国家级自然保护区条例
@@ -76,3 +78,4 @@
 　　第二十七条  本条例自2011年3月1日起施行。
 
 
+      — 1 —    

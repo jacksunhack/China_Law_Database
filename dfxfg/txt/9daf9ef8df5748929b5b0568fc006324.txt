@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省财政监督条例
@@ -143,3 +145,4 @@
 第四十九条  本条例自2017年12月1日起施行。 
 
 
+─ # ─  

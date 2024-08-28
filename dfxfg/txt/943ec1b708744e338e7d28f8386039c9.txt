@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 朝阳市水资源管理条例
@@ -141,3 +142,5 @@
 第六章  附  则
 第四十九条  市人民政府组织相关部门依法制定农村饮用水水源保护区和保护范围划定办法。
 第五十条  本条例自2019年5月1日起施行。
+— 0 —
+

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区爱国卫生条例
@@ -173,3 +175,4 @@
 第六十二条  本条例自2021年5月1日起施行。
 
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市村民讨论决定重大事项条例
@@ -37,3 +38,4 @@
 （三）无正当理由不执行村民会议或者村民代表会议决定的。
 第十六条  本条例自2005年10月1日起施行。
 
+#

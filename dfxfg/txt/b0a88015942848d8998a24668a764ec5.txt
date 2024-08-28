@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省厂务公开条例
@@ -64,3 +66,4 @@
 （二）未在法定期限内，对举报、投诉内容调查、核实，作出处理决定的；
 （三）其他失职渎职、徇私舞弊、滥用职权的。
 第十六条  本条例自2008年1月1日起施行。
+      — 1 —    

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市人民代表大会常务委员会
@@ -49,3 +50,4 @@
 第三十七条　由市人大常委会决定任命、任命、批准任命的地方国家机关工作人员，凡受到行政处分的，由处理机关报市人大常委会备案。 
 第三十八条　本办法自公布之日起施行。
 
+#

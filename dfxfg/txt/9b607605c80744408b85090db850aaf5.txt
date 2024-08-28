@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市城市环境卫生管理条例
@@ -113,3 +114,4 @@
 
 第三十五条  本行政区域内建制镇参照本条例执行。
 第三十六条  本条例自公布之日起施行。
+— 1 —

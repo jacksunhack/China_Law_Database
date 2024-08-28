@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安庆市黄梅戏保护传承条例
@@ -55,3 +56,4 @@
 第二十一条  市人民政府应当根据本条例制定实施办法。
 第二十二条  本条例自2022年6月1日起施行。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郴州市苏仙岭—万华岩风景名胜区保护条例
@@ -132,3 +133,4 @@
 第四十一条  本条例自2017年1月1日起施行。
 
 
+— 1 —

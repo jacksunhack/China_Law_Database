@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省供用电条例
@@ -205,3 +206,4 @@
 
     第六十四条  本条例自2013年1月1日起施行。
 
+－ 19 －

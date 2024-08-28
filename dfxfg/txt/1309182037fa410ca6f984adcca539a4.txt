@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区
@@ -188,3 +189,5 @@
 第八章  附则
 
 　　第五十二条　本条例自2017年1月1日起施行。2005年4月1日广西壮族自治区第十届人民代表大会常务委员会第十三次会议通过的《广西壮族自治区民族民间传统文化保护条例》同时废止。
+1
+ 

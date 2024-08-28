@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市城市市容管理条例
@@ -134,3 +135,4 @@
 第三十八条  本市行政区域内建制镇可参照本条例执行。
 第三十九条  本条例自2012年1月1日起施行。1999年11月4日公布施行的《抚顺市城市市容管理条例》同时废止。
 
+— 1 —

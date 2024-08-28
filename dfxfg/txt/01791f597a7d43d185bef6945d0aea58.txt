@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 朔州市人民代表大会
@@ -67,3 +69,4 @@
 第五章  附  则
 
 第二十四条  本办法自2019年7月1日起施行。
+— 1 —

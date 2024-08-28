@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省标准化监督管理条例
@@ -84,3 +85,4 @@
 第六章  附  则
 
 第三十一条  本条例自2006年3月1日起施行。
+— 9 —  

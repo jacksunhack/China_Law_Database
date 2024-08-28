@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省信访条例
@@ -168,3 +169,4 @@
     第三十六条  本省各政党、社会团体、企业事业单位的信访工作参照本条例执行。
     第三十七条  本条例自1997年3月1日起施行。
 
+－ 14 －

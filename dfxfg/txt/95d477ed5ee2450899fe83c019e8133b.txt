@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 镇江市长江岸线资源保护条例
@@ -140,3 +142,4 @@
 第四十条  本条例自2018年4月1日起施行。
 
 
+─ # ─  

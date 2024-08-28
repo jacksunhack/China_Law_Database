@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -96,3 +97,4 @@
 第五章  附  则
 
 第三十八条 本办法自公布之日起施行。
+— 1 —

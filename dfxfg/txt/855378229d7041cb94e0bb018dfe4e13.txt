@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市环境保护条例
@@ -196,4 +197,6 @@
 
 第八十四条  本条例自2019年 6月1日起施行。
 
+
+#
 

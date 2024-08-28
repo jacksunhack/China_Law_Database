@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省高新技术发展条例
@@ -107,3 +108,4 @@
 第七章  附则
 
 第五十二条  本条例自2005年12月1日起施行。
+- 11 -

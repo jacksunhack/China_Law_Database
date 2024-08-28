@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《中华人民共和国
@@ -77,3 +79,4 @@
 第二十九条  违反本办法规定的行为，依照《中华人民共和国妇女权益保障法》和其他法律法规的规定进行处罚。
 第三十条  本办法自2008年1月1日起施行。
 
+      — 1 —    

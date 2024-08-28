@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南宁市电动自行车管理条例
@@ -169,3 +170,4 @@
 第七章　附　　则
 ​
 第四十八条　本条例自2020年9月1日起施行。
+－1－　

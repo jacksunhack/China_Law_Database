@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区旅行社管理规定
@@ -117,3 +119,4 @@
 第四十三条  在省内经济特区以外区域的旅行社监督管理工作，参照本规定执行。
 本规定具体应用问题由省人民政府负责解释。
 第四十四条  本规定自2015年10月1日起实施。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区去极端化条例
@@ -105,3 +106,4 @@
 
 第五十一条  自治区人民政府可根据本条例，制定去极端化的具体规定和办法。
 第五十二条  本条例自2017年4月1日起施行。
+- 1 -

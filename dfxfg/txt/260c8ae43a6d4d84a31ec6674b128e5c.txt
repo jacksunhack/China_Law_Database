@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市街道办事处工作条例
@@ -146,3 +147,4 @@
 
 第五十条  街道办事处辖区设有村民委员会的，本条例关于居民委员会和居民的规定适用于村民委员会和村民。
 第五十一条  本条例自2022年9月1日起施行。
+— 1 —

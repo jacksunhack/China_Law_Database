@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 厦门老字号保护发展办法
 （2016年10月28日厦门市第十四届人民代表大会常务委员会第三十九次会议通过，2016年12月2日福建省第十二届人民代表大会常务委员会第二十六次会议批准）
 
@@ -81,3 +82,4 @@
 
 
 
+—1—

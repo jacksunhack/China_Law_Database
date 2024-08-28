@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市殡葬管理条例
@@ -125,3 +126,4 @@
 第五十一条  华侨、港澳台同胞和外国人在本市死亡后进行殡葬活动的，适用本条例。法律、法规另有规定的除外。
 第五十二条  本条例自2002年9月1日起施行。
 
+— 1 —

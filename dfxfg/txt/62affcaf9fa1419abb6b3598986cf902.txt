@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市建设项目审计条例
@@ -114,3 +115,4 @@
 第三十五条　审计机关对建设项目运用外资的审计，依照国家有关规定执行。
 第三十六条　本条例自2001年7月1日起施行。
 
+— 2 —

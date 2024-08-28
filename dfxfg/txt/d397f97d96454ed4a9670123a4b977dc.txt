@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳经济特区审计监督条例
@@ -229,3 +230,4 @@
 第六十四条　领导干部经济责任审计和自然资源资产离任审计，依照国家有关规定执行。
 第六十五条　市人民政府可以根据本条例制定实施细则。
 第六十六条　本条例自2024年5月1日起施行。
+－1－　

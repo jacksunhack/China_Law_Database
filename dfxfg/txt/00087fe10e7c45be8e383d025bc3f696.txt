@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市城市商业网点规划建设管理条例
@@ -31,3 +32,4 @@
 第十七条  本条例自2002年9月1日起施行。
 
 
+— 1 —

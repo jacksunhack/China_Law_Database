@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 邯郸市城市公共汽车客运条例
@@ -206,3 +207,4 @@
 第八章　附　　则
 ​
 第五十八条　本条例自2019年9月1日起施行。
+－1－　

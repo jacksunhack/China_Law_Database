@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 昆明市文明观赏红嘴鸥规定
@@ -18,3 +19,4 @@
 违反本规定其他行为的，按照相关法律、法规的规定处罚。
 第六条　县（市、区）人民政府有关部门应当在观赏区域设置举报点并公布举报、救助电话。
 第七条　本规定自2023年11月1日起施行。
+－1－　

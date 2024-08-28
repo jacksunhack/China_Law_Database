@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市绿色转型促进条例
@@ -102,3 +103,4 @@
 第十章　附则
 
 第五十六条　本条例自2009年5月1日起施行。　　　
+#　

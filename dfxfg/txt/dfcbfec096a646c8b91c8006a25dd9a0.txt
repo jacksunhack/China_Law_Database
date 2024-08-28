@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 合肥市河道管理条例
@@ -143,3 +144,4 @@
 第六章　附　　则
 ​
 第四十条　本条例自2021年1月1日起施行。
+－1－　

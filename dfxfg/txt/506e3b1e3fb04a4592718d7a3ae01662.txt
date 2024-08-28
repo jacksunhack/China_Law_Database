@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市水资源管理条例
@@ -143,3 +144,4 @@
 
 第五十九条 本条例自2010年3月1日起施行。
 
+#

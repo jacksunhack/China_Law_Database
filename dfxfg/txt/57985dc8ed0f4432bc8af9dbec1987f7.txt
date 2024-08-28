@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市非物质文化遗产保护条例
@@ -106,3 +108,4 @@
 （五）其他玩忽职守、滥用职权、徇私舞弊行为的。
 第三十三条  本条例自2017年3月1日起施行。
 
+─ # ─

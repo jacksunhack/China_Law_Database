@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省港口管理条例
@@ -112,4 +113,6 @@
 
 第四十五条  渔业港口的管理工作由县级以上人民政府渔业行政主管部门负责。
 第四十六条  本条例自2007年3月1日起施行。
+
+2
 

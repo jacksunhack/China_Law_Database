@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国中小企业促进法》办法
@@ -65,3 +66,4 @@
 （七） 其他侵犯中小企业合法权益的行为。
 第三十一条  本办法自2006年10月1日起施行。
 
+— 1 —

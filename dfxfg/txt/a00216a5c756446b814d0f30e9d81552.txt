@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省海洋环境保护规定
@@ -99,3 +101,4 @@
 　　第四十一条  本规定具体应用的问题由省人民政府负责解释。
 　　第四十二条  本规定自2008年10月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市全民义务植树条例
@@ -34,3 +35,4 @@
 　　绿化费为每株树10－15元，用于义务植树或者与义务植树有关的绿化建设。
 　　第十六条　本条例的具体应用问题由市人民政府负责解释。
 　　第十七条　本条例自1993年9月1日起施行。
+#　

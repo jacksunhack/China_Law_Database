@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市燃气管理条例
@@ -160,3 +161,4 @@
 （五）燃气经营企业是指生产、储存、输配、供应燃气的企业；
 （六）燃气用户是指使用燃气的单位和个人。
 第五十五条  本条例自2003年1月1日起施行。
+#

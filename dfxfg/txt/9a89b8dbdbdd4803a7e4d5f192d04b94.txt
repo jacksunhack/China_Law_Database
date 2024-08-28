@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市公共资源交易管理条例
@@ -122,3 +123,4 @@
 第七章　附　则
 
 第三十八条　本条例自2013年5月1日起施行。
+1

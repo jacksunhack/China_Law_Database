@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家口市无障碍设施建设管理条例
@@ -73,3 +74,4 @@
 
 
 
+—#—  

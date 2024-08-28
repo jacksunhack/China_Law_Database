@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市股份合作制企业条例
@@ -194,3 +195,4 @@
 　　第四十四条　本条例实施前设立的股份合作制企业，应当依照本条例的规定进行规范。
 　　第四十五条　本条例自公布之日起施行。
 
+— 5 —

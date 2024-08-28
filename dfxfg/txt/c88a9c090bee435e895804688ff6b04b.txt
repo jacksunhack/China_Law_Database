@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市隋唐洛阳城遗址保护条例
@@ -72,3 +74,5 @@
 　　第二十一条　本条例自2008年12月1日起施行。
 
 
+  — 1 —    
+     

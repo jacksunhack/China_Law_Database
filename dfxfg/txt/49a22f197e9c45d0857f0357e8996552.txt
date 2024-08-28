@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市科技创新促进条例
@@ -155,3 +157,4 @@
 
 第七十四条  本条例自2022年2月1日起施行。
 
+─ # ─  

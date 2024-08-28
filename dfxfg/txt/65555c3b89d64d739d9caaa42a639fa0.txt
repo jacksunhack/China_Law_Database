@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长沙市城市中小学校幼儿园规划建设管理条例
@@ -74,3 +75,4 @@
 第二十六条  本条例经湖南省人民代表大会常务委员会批准后，由长沙市人民代表大会常务委员会公布实施。
 
 
+— 1 —

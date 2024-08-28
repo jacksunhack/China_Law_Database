@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市工会劳动法律监督条例
@@ -71,3 +72,4 @@
 
 　　第二十二条　本条例自2011年3月1日起施行。
 
+- 28 -

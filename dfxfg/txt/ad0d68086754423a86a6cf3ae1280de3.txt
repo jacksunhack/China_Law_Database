@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省人民代表大会常务委员会
@@ -28,3 +29,4 @@
 第十六条　本办法自公布之日起施行。1985年3月2日，陕西省第六届人民代表大会常务委员会第十一次会议通过的《陕西省人民代表大会常务委员会同省人民代表联系的试行办法》即行废止。
  
 
+1

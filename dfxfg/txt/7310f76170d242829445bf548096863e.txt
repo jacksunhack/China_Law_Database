@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省行业协会条例
@@ -178,3 +179,4 @@
 第四十二条  符合本条例规定的行业协会，名称可以称为行业协会、行业商会。
 第四十三条  本条例自2006年3月1日起施行。
 
+1

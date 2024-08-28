@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市体育市场管理条例
@@ -80,3 +81,4 @@
 第二十五条  本条例自2004年4月1日起施行。
 
 
+— 1 —

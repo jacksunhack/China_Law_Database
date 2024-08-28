@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省民营科技企业管理条例
@@ -62,3 +63,4 @@
 民营科技企业有关管理部门及其工作人员在办理民营科技企业有关事项时，违反法律、法规，玩忽职守，徇私舞弊的，由有关部门依法处理。
     第二十八条  本条例自公布之日起施行。
 
+- 1 - 

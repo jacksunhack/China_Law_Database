@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市矿产资源管理办法
@@ -106,3 +107,4 @@
 第六章  附则
 
 第三十九条  本办法自2001年11月1日起施行。
+#

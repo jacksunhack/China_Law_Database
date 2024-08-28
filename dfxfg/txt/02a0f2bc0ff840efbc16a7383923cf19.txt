@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省农村扶贫条例
@@ -118,3 +120,4 @@
 第六章　附则
 
 　　第五十一条　本条例自2010年2月1日起施行。1996年11月12日湖北省第八届人民代表大会常务委员会第二十三次会议通过的《湖北省扶贫条例》同时废止。
+1

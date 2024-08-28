@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市城市房地产开发经营管理条例
@@ -114,3 +115,4 @@
 第五十条  在本市规划区以外的国有土地上从事房地产开发经营活动的，参照本条例办理。
 第五十一条  本条例2000年11月1日起施行。
 
+#

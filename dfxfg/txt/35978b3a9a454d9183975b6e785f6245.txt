@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市国有企业法定代表人
@@ -90,3 +91,4 @@
 
 第三十一条　本条例具体应用中的问题由市人民政府负责解释。
 第三十二条　本条例自公布之日起施行。
+—1—  

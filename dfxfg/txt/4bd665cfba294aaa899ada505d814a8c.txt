@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福州市统计工作管理条例
@@ -52,3 +54,4 @@
 
 
 
+—1—

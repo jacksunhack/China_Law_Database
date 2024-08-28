@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省学校安全条例
@@ -186,3 +187,4 @@
 
 
 
+1

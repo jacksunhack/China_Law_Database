@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区国家建设项目审计监督条例
@@ -58,3 +59,4 @@
 （四）违反规定收取资金、罚款的；
 （五）其他滥用职权、徇私舞弊、玩忽职守、违反法律法规的行为。
 第二十一条　本条例自2004年3月1日起施行。
+6

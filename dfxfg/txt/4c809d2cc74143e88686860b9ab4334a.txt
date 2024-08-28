@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市红色资源传承弘扬和保护利用条例
@@ -146,3 +147,4 @@
 
 第五十八条  本条例自2021年7月1日起施行。
 
+- 17 -

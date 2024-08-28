@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州㵲阳河流域
@@ -168,3 +169,4 @@
 第五十八条　黔东南州人民政府根据本条例制定实施细则。
 第五十九条　本条例自2020年3月1日起施行。
 
+－1－　

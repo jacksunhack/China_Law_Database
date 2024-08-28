@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省抗旱条例
@@ -100,3 +101,4 @@
 
 第三十七条　本条例具体应用中的问题，由省人民政府水行政主管部门负责解释。 
 第三十八条　本条例自2003年2月1日起施行。
+- 28 -

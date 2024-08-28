@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 喀喇沁左翼蒙古族自治县民族教育条例
@@ -36,3 +37,4 @@
 
 
 
+— 1 —

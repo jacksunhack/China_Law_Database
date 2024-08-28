@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区消防条例
@@ -292,3 +293,4 @@
 第七十四条　市人民政府可以根据本条例制定实施办法。
 第七十五条　本条例自2012年10月15日起施行。
 
+1

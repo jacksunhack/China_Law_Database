@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市黄河风情线大景区保护管理条例
@@ -131,3 +133,4 @@
 
 第四十六条  大景区管理机构管理的白塔山公园、碑林公园、小西湖公园等其他区域参照执行本条例的有关规定。
 第四十七条  本条例自2021年7月1日起施行。
+      — # —    

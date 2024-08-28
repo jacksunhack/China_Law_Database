@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省贸易计量监督条例
@@ -77,3 +78,4 @@
 第六章 附则
 
 第三十一条  本条例自 2003 年 11 月 1 日起施行。
+— # —

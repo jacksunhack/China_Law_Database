@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省行政机构设置和编制管理
@@ -115,3 +116,4 @@
 事业编制的全省性标准由省人民政府机构编制管理机关会同省财政部门和其他有关部门制定。
 第四十二条  本条例自2009年10月1日起施行。
 
+- 1 - 

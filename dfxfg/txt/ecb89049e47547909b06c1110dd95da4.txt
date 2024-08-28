@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省法制宣传教育工作条例
@@ -72,3 +73,4 @@
 
     第二十七条  本条例自1997年1月1日起施行。
 
+- 3 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 甘肃省实施《中华人民共和国
 突发事件应对法》办法
 
@@ -111,4 +112,3 @@
 第七章  附则
 
 　　第四十六条  本办法自2012年1月1日起施行。
-

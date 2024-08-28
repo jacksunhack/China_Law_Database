@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 雅安市绿色（有机）农产品基地保护
@@ -58,3 +60,4 @@
 第二十五条  违反本规定的行为，法律法规已有处罚规定的，从其规定。
 第二十六条  本规定自2023年1月1日起施行。
 
+— 5 —

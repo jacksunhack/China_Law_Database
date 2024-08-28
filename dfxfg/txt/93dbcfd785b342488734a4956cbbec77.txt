@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省外商投资企业工会条例
@@ -66,3 +68,4 @@
 　　第三十三条　本条例亦适用于华侨和香港、澳门、台湾同胞在本省开办的合资、合作和独资经营企业。
 　　第三十四条　本条例自公布之日起施行。
 
+1

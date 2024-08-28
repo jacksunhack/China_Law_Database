@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省突发公共卫生事件应急办法
@@ -71,3 +72,4 @@
 第三十三条  本办法自公布之日起施行。
 
 
+1

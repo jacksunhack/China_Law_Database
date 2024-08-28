@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省促进民族自治地方科学技术进步条例
@@ -127,3 +129,4 @@
 
 
 
+—— 4 ——

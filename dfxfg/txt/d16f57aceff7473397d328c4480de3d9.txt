@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 黑龙江省中医药条例
 
 （2020年10月22日黑龙江省第十三届人民代表大会
@@ -186,3 +187,4 @@
 
 第六十二条 法律、行政法规对中医药有规定的，依照其规定。
 第六十三条 本条例自2021年1月1日起施行。
+- 1 -

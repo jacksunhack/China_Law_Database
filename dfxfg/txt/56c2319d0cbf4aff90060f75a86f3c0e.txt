@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省建设工程勘察设计管理条例
@@ -121,3 +122,4 @@
 第四十七条  抢险救灾及其他临时性建设工程以及农民自建低层住房的勘察设计活动不适用本条例。
 第四十八条  本条例自2000年3月1日起施行。
 
+1

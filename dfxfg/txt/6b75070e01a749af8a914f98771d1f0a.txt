@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 杭州市乡村建设条例
@@ -143,3 +144,4 @@
 ​
 第五十六条　除法律、行政法规另有规定外，街道办事处履行乡村建设相关职能的，适用本条例关于乡镇人民政府的规定。
 第五十七条　本条例自2023年8月1日起施行。
+－1－　

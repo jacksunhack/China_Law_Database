@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 九江市城市市容管理条例
@@ -177,4 +178,6 @@
 第九章  附 则
 第六十六条  本条例自2018年5月1日起施行。
 
+
+- 2 -
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市实施《中华人民
@@ -68,3 +69,4 @@
     第二十五条 辖有村的区、县人民政府街道办事处履行本办法规定的乡、民族乡、镇人民政府相应的职责。
     第二十六条 本办法自2013年1月1日起施行。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

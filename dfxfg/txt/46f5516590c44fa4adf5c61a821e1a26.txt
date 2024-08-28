@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西武功山风景名胜区——宜春明月山景区条例
@@ -112,3 +113,4 @@
 第六章   附  则
 
 第四十二条  本条例自2022年1月1日起施行。
+- 1 -

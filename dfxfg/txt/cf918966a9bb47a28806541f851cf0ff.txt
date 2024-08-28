@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 银川市城市客运出租汽车管理条例
@@ -94,3 +95,4 @@
 第五章　附　　则
 ​
 第三十条　本条例自1999年6月1日起施行。1994年9月22日市人民政府发布的《银川市城市客运出租汽车管理办法》同时废止。
+－1－　

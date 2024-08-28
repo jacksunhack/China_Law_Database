@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省城乡规划条例
@@ -288,3 +289,4 @@
 
 第八十八条  本条例自2013年5月1日起施行。《广东省实施〈中华人民共和国城市规划法〉办法》同时废止。
 本省行政区域内乡规划的制定、修改、实施工作，参照本条例关于镇规划的规定执行。
+1

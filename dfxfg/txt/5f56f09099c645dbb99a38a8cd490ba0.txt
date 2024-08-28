@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 朔州市神头泉域水资源保护条例
@@ -127,3 +128,4 @@
 第四十一条  本条例自2022年5月1日起施行。
  
 
+— # —

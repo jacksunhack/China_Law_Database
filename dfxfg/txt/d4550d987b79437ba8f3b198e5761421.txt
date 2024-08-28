@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头市专利保护和促进条例
@@ -107,3 +108,4 @@
 第五章　附则
 
 第五十条　本条例自2007年4月1日起施行。
+- 1 - 

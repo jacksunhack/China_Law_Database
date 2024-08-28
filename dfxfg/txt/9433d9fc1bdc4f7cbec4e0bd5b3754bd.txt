@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市农村集体资产监督管理条例
@@ -179,3 +180,4 @@
 第七章  附则
 
 第四十二条  本条例自2018年4月1日起施行。
+- 15 -

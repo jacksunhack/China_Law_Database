@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市节约用水条例
@@ -127,3 +129,4 @@
 第三十六条  本条例自2010年3月22日起施行。2006年10月1日苏州市人民政府公布施行的《苏州市节约用水管理办法》同时废止。
 
 
+─ 1 ─

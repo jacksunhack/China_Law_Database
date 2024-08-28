@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区老年人权益保障规定
 
@@ -167,3 +168,5 @@
 
 
 
+— # —
+	

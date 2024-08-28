@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市河道管理条例
@@ -89,3 +90,4 @@
 
 第二十九条  本条例自2013年5月1日起施行。《大同市河道管理办法》同时废止。
 
+#

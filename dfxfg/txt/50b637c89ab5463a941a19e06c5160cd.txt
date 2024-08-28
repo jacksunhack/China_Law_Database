@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省全民义务植树条例
@@ -42,3 +44,4 @@
 （二）贪污、挪用、挥霍、浪费绿化费的。
 第二十二条  本条例自公布之日起施行。
 
+─ 1 ─  

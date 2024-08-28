@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省迪庆藏族自治州草原管理条例
@@ -98,3 +100,4 @@
 自治州人民政府可以根据本条例制定实施细则。
 第四十二条  本条例由自治州人民代表大会常务委员会负责解释。
 
+—— 1 ——

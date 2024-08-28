@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区实施《中华人民共和国
@@ -61,4 +62,3 @@
     第二十四条  对不正当竞争行为的诉讼时效为两年，自侵权行为终止之日起计算。
     第二十五条  本规定自一九九五年一月一日起施行。
  
-

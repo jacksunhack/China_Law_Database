@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武威市防沙治沙条例
@@ -110,3 +112,4 @@
 
 第四十三条  法律、行政法规和甘肃省地方性法规对防沙治沙已有规定的，从其规定。
 第四十四条  本条例自2019年3月1日起施行。
+      — # —    

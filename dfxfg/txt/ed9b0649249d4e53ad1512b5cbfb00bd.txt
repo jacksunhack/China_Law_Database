@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 延边朝鲜族自治州朝鲜族非物质文化遗产
 保护条例
@@ -97,4 +98,3 @@
 第三十五条  自治州人民政府可根据本条例制定实施细则。
 第三十六条  本条例由自治州人民代表大会常务委员会负责解释。
 第三十七条  本条例自公布之日起施行。
-

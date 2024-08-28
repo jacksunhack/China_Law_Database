@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家口市烟花爆竹安全管理条例
@@ -85,3 +86,4 @@
 第三十一条  察北管理区、塞北管理区依照本条例执行。
 第三十二条  本条例自2020 年1月1日起施行。
 
+—#—  

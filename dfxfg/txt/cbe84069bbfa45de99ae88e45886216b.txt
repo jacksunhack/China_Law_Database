@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省发展中医藏医蒙医条例
@@ -74,3 +75,4 @@
 
 　　第三十条　本条例应用中的具体问题由省卫生行政管理部门负责解释。
 　　第三十一条　本条例自2002年6月1日起施行。
+#　

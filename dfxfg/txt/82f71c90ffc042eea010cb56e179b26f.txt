@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 肃北蒙古族自治县矿产资源管理办法
@@ -45,3 +47,4 @@
 第二十五条  本办法执行中的具体应用问题，由自治县人民政府地矿管理部门解释。
 第二十六条  本办法自颁布之日起施行。
 
+      — 1 —      

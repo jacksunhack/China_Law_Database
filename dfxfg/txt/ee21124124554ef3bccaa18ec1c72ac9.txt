@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市工会条例
@@ -155,3 +157,4 @@
 第六章　附则
 
 　　第四十五条　本条例自2005年3月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省人民调解工作条例
@@ -126,3 +127,4 @@
 
 　　第四十条　本条例应用中的具体问题由省人民政府司法行政部门负责解释。
 　　第四十一条　本条例自2005年12月1日起施行。
+#　

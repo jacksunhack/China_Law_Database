@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省林地管理条例
@@ -76,3 +77,4 @@
 
 　　第三十一条　本条例自发布之日起施行。
 
+－ # －

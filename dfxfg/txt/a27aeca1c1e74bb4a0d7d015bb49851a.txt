@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 梧州市农贸市场管理条例
@@ -106,4 +107,3 @@
 
 第三十四条  对本市行政区域内除城市建成区、县（市）人民政府所在地镇建成区以外的农贸市场管理，各县（市、区）可以参照本条例执行。
 第三十五条  本条例自2021年5月1日起施行。
-

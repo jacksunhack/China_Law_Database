@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市水库管理条例
@@ -85,3 +87,4 @@
 第三十四条　水行政主管部门、水库管理机构和其他相关部门及其工作人员不依法履行职责的，依法给予处分；涉嫌犯罪的，移送司法机关依法处理。
 第三十五条　本条例自2016年7月1日起施行。
 
+#

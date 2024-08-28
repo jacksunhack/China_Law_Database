@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省地方各级人民代表大会
@@ -126,3 +127,4 @@
 
 第四十条  本条例由县级以上地方各级人民代表大会及其常务委员会和乡、民族乡、镇人民代表大会负责在本行政区域的监督实施。
 第四十一条  本条例自公布之日起施行。 
+1

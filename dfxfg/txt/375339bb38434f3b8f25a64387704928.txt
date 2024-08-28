@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南藏族自治州城镇市容和环境卫生管理条例
@@ -94,3 +95,4 @@
 
 　　第三十三条　本条例应用中的具体问题由海南藏族自治州人民政府负责解释。
 　　第三十四条　本条例自2002年8月1日起施行。
+- 3 -　

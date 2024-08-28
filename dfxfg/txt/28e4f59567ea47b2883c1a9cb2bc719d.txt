@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 内蒙古自治区促进边境地区高质量发展条例
@@ -129,3 +130,4 @@
 第九章　附　　则
 ​
 第七十三条　本条例自2024年1月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市中小学校学生伤害事故处理条例
@@ -80,3 +81,4 @@
 
 
 
+— 7—

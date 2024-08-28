@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省农村能源条例
@@ -93,3 +95,4 @@
 
 第三十条  本条例自2022年8月1日起施行。
 
+      — 1 —    

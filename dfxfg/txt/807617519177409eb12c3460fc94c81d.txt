@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -53,3 +55,4 @@
 第三十一条  农村集体经济组织建设办公室、警务室、卫生室、便民服务点、农产品加工作坊等房屋建筑，参照本条例执行。  
 第三十二条  市人民政府应当制定农村自建房管理实施办法。
 第三十三条  本条例自2022年7月1日起施行。
+#

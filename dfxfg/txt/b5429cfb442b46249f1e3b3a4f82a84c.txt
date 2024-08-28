@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市职业教育校企合作促进条例
@@ -44,3 +46,4 @@
 第二十四条  本条例自2014年6月1日起施行。
 
 
+　— 1 —　

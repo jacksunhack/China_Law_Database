@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省实施《中华人民共和国体育法》办法
@@ -117,3 +118,4 @@
 　　第四十三条　本办法自2002年9月1日起施行。
 
 
+— 11—

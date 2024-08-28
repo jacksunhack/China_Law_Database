@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区旅馆业管理规定
@@ -107,3 +109,4 @@
 第五十一条  本规定自2012年6月1日起施行。
 
 
+1

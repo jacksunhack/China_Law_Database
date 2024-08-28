@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂尔多斯市中小学校幼儿园规划建设条例
@@ -75,3 +76,4 @@
 第五章　附　则
 第三十一条　本条例自2021年3月1日起施行。
  
+#

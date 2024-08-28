@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贺州市城市绿化条例
@@ -129,4 +130,3 @@
 
 第三十八条  本市各县（区）的建制镇规划区范围内城市绿化管理可以参照本条例执行。
 第三十九条  本条例自2021年3月1日起施行。
-

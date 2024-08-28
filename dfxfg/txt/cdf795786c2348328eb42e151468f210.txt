@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市长江桥梁隧道条例
@@ -183,3 +185,4 @@
 
 第六十条  本条例自2019年11月1日起施行。2011年2月25日南京市第十四届人民代表大会常务委员会第二十一次会议通过的《南京市长江桥梁隧道条例》同时废止。
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉安市烟花爆竹燃放管理条例
@@ -60,3 +61,5 @@
 第二十五条 本条例自2019年1月1日起施行。
 
 
+1
+		

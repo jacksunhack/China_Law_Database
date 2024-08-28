@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 重庆市实施《中华人民共和国农民专业
 合作社法》办法
 
@@ -82,3 +83,4 @@
 第三十四条  本办法自2022年9月1日起施行。
 
 
+                                                — 29 —  

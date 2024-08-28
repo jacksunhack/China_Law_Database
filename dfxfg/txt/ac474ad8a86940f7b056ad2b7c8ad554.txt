@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省人民代表大会常务委员会任免
@@ -14,3 +15,4 @@
 第六条  省监察委员会副主任、委员任免工作中的其他事项，参照《海南省人民代表大会常务委员会人事任免规定》执行。
 第七条　本办法自公布之日起施行。
 
+1

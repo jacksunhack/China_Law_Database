@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国村民委员会
@@ -61,3 +62,4 @@
 　　第二十条  城市街道办事处依照本办法的有关规定指导、支持和帮助所辖村的村民委员会开展工作。
 　　第二十一条  本办法自2013年10月1日起施行。
 
+1

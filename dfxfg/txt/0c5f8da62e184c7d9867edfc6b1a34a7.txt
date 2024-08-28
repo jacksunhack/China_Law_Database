@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区湿地保护条例
@@ -136,3 +137,5 @@
 第六章  附则
 
 　　第四十条　本条例自2015年1月1日起施行。
+1
+ 

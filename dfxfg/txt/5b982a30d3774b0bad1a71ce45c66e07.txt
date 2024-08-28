@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省实施《中华人民共和国
@@ -178,3 +179,4 @@
 第四十五条  街道办事处属下的村，适用本办法；街道办事处履行本办法所规定的应当由镇（乡）人民政府履行的职责。
 第四十六条  本办法自2012年11月1日起施行。
 
+- 1 - 

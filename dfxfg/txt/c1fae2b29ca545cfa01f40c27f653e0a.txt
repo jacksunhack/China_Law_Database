@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 连云港市人民代表大会关于修改《连云港市
@@ -77,3 +78,4 @@
 此外，对个别文字和标点符号作修改，并对条文顺序作相应调整。
 本决定自2024年4月15日起施行。
 《连云港市地方立法条例》根据本决定作相应修改，重新公布。
+－1－　

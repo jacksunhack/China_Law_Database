@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施《中华人民共和国各级人民
@@ -177,3 +178,4 @@
 第九章  附则
 
 第六十一条  本办法自2009年8月1日起施行。
+#

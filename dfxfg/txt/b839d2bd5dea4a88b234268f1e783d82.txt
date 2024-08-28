@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市经纪人条例
@@ -96,3 +97,4 @@
 第五章　附则
 
 　　第二十六条　本条例自公布之日起施行。
+— 1 —

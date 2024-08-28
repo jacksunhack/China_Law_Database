@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 天津市实施《中华人民共和国
 红十字会法》办法
 
@@ -65,3 +66,4 @@
 （六）法律、法规规定的其他情形。
 红十字会及其工作人员有前款第一项、第二项所列行为的，按照前款规定处理。
 第三十一条　本办法自2021年7月15日起施行。
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁波东钱湖旅游度假区条例
@@ -59,3 +61,4 @@
 第二十四条  本条例自2009年1月1日起施行。
 
 
+— 1—

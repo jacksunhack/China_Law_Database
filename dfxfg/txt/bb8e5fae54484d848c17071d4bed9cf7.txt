@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市公共场所禁止吸烟的规定
@@ -37,3 +39,5 @@
 
 
 
+　— 1 —　
+　

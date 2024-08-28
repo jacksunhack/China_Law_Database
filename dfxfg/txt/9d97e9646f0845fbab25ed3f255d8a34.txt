@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省安全生产条例
@@ -336,3 +338,4 @@
 第六章  附则
 
 　　第八十二条  本条例自2016 年7月1日起施行。2006年3月29日甘肃省第十届人民代表大会常务委员会第二十一次会议通过的《甘肃省安全生产条例》，同时废止。
+      — 1 —    

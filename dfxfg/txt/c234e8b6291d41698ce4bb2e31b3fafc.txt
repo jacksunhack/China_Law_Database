@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 红河哈尼族彝族自治州蒙自城市管理条例
@@ -204,3 +205,4 @@
 第五十四条  本条例自2019年11月1日起施行。
 
 
+—— 19 ——

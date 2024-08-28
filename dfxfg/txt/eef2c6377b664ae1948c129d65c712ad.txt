@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 咸宁市地热资源保护条例
@@ -94,3 +96,4 @@
 第六章　附则
 
 　　第三十七条　本条例自2017年4月1日起施行。
+1

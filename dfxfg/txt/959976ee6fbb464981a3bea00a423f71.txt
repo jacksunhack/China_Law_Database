@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国气象法》办法
@@ -58,3 +59,4 @@
 （二）气象主管机构执法人员滥用职权、徇私舞弊、玩忽职守，给气象工作造成损失的。
 第二十三条  本办法自2002年4月1日起施行。
 
+1

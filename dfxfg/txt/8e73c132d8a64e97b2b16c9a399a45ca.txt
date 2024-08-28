@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -114,3 +115,4 @@
 　　第三十八条　本办法应用中的具体问题由省人民政府卫生行政部门负责解释。
 　　第三十九条　本办法自2003年2月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济宁市节约用水条例
@@ -52,3 +53,4 @@
 市、县（市、区）人民政府水行政主管部门应当建立健全对浪费水资源行为的举报处理机制，及时调查处理有关举报。
 第二十八条  本条例自2023年4月1日起施行。
 
+1

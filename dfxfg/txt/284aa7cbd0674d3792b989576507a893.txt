@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南高新技术产业开发区条例
@@ -146,3 +147,4 @@
 
 　　第六十一条　市人民政府应当依据本条例，制定配套的规章或者其他规范性文件。
 　　第六十二条　本条例自2003年3月1日起施行。
+— 1 —

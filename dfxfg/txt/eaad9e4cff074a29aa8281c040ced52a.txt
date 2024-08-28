@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市社会治安综合治理条例
@@ -109,3 +110,4 @@
 
 　　第三十六条　本条例具体应用中的问题，由济南市社会治安综合治理委员会负责解释。
 　　第三十七条　本条例自山东省人民代表大会常务委员会批准之日起施行。
+— 10 —

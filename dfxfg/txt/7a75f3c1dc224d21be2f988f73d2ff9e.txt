@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市人民代表大会常务委员会
@@ -7,3 +8,4 @@
 ​
 无锡市第十七届人民代表大会常务委员会第十四次会议决定，废止《无锡市暂住人口管理条例》。
 本决定自公布之日起生效。
+－1－　

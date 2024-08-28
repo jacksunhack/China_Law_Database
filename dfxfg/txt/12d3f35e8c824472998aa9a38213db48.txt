@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 武汉市物业管理条例
 
@@ -277,3 +278,4 @@
 本条例所称公共收益，是指建设单位、物业服务企业或者其他管理人等利用物业管理区域内业主的共有部分产生的收入扣除合理成本后的收益。
 第七十四条  本条例自2019年1月1日起施行。
 
+— # —

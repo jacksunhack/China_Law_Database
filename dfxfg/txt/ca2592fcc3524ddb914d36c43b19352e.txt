@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省实施《中华人民共和国
@@ -301,3 +302,4 @@
 第八章　附则
 
 第九十四条  本办法自2005年1月1日起施行。 
+#　

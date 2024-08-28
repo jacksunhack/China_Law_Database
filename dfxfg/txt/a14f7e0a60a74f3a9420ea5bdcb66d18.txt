@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 汕头市潮汕菜特色品牌促进条例
 
@@ -60,3 +62,4 @@
 （三）其他损害潮汕菜特色品牌信誉的行为。
 第二十三条  本条例自2023年5月1日起施行。
 
+— - 1 - —

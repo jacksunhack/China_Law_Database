@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省民用建筑节能条例
@@ -120,3 +121,4 @@
 第八章　附则
 
 　　第三十八条　本条例自2009年6月1日起施行。
+1

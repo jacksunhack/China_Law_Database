@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市安全生产条例
@@ -230,3 +231,4 @@
 第六十一条  本条例自2016年3月1日起施行。2005年6月1日施行的《重庆市安全生产监督管理条例》同时废止。
 
 
+— 1 —  

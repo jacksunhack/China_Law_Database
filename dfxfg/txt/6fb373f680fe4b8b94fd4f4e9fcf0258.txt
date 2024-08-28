@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 环江毛南族自治县喀斯特世界自然遗产保护条例
 
@@ -112,3 +113,4 @@
 
 第四十条   本条例自2022年11月1日起施行。
 
+#

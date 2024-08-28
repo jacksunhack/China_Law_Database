@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省清洁生产促进条例
@@ -44,3 +46,4 @@
 第二十四条  本条例自2006年9月1日起施行。
 
 
+—— 4 ——

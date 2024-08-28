@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省减少污染物排放条例
@@ -139,3 +140,4 @@
 
 第五十一条  本条例自2014年1月1日起施行。
 
+― 1 ―

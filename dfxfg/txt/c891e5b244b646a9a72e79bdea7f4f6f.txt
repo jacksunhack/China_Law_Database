@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 淮安市优化营商环境条例
@@ -130,3 +131,4 @@
 第七章　附　　则
 ​
 第四十六条　本条例自2024年5月1日起施行。
+－1－　

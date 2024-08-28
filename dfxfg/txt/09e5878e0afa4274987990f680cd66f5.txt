@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 循化撒拉族自治县草山管护条例
@@ -27,3 +28,4 @@
 （四）在草山上挖草皮、掘壕沟的，责令停止违法行为，限期恢复植被，并按每平方米处以五十元以上一百元以下的罚款。
 第十二条  本条例自2019年7月1日起施行。
 
+1  

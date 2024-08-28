@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市人民代表大会常务委员会
 关于北京市应税大气污染物和水污染物
@@ -11,3 +12,4 @@
 本决定自2018年1月1日起施行。
 
 
+－1－

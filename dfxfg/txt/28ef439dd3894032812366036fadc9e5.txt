@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省广播电视管理条例
@@ -130,3 +131,4 @@
 第五十四条卫星电视广播地面接收设施的设置、生产、销售和进口，卫星电视节目的接收和使用，依照国家有关规定执行。
 第五十五条本条例自1997年8月1日起施行。
 
+— 1—

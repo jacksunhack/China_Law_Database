@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省人体器官捐献条例
@@ -97,3 +98,4 @@
 
 　　第三十八条　公民死亡后捐献角膜、血管等人体组织的，参照本条例执行。
 　　第三十九条　本条例自2014年12月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省娱乐饮食服务场所治安管理条例
@@ -39,4 +40,6 @@
 第十八条  本条例具体应用中的问题，由省公安机关负责解释。
 第十九条  本条例自颁布之日起施行。
 
+
+— 1 —
 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 围场满族蒙古族自治县旅游条例
@@ -119,3 +121,4 @@
 
 第五十五条　本条例报河北省人民代表大会常务委员会批准后由自治县人民代表大会常务委员会公布施行。
 
+　— 1 —　

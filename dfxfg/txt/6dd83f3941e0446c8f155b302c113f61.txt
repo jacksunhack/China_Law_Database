@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 海口市养犬管理条例
 
 （2020年7月2日海口市第十六届人民代表大会常务委员会第三十九次会议通过  2020年7月31日海南省第六届人民代表大会常务委员会第二十一次会议批准）
@@ -162,3 +163,4 @@
 
 
 
+- 17 -

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昌江黎族自治县特定林木保护管理条例
@@ -72,3 +74,4 @@
 第二十四条  本条例具体应用问题由自治县人民政府负责解释。
 本条例所称“以上”包含本数，所称“以下”不包含本数。
 第二十五条  本条例自公布之日起施行。
+1

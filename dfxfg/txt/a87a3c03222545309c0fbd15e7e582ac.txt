@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市道路交通安全条例
@@ -137,3 +138,4 @@
  
     第六十四条　与高速公路有关的道路交通安全活动，法律、法规另有规定的，从其规定。
     第六十五条  本条例自2015年5月1日起施行。
+— 13 —

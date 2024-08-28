@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区控制吸烟条例
@@ -53,3 +54,4 @@
     第十七条　 禁止吸烟标志以及有关禁止吸烟告示由市卫生行政管理部门统一印制并制定张贴要求。 
     第十八条　 本条例自一九九八年十一月一日起施行。 
 
+- 1 -

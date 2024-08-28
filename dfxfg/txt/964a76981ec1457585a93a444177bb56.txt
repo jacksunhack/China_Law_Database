@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 昌都市芒康盐井古盐田保护条例
 
@@ -69,4 +70,3 @@
 第五章  附  则
 
 第二十三条  本条例自2023年6月1日起施行。
-

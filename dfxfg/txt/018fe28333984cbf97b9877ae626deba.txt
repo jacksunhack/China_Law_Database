@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市优化投资环境条例
@@ -125,3 +126,4 @@
 第九章  附  则
 
 第四十六条  本条例自2013年3月1日起施行。
+1

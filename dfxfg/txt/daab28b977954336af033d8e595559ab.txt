@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 扬州市非物质文化遗产保护条例
@@ -81,3 +83,4 @@
 
 
 
+─ # ─  

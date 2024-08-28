@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市城市中小学校幼儿园
@@ -46,3 +47,4 @@
 第二十三条　本条例自2006年3月1日起施行。
  
 
+— 2 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 吉林省农业机械管理条例
 
@@ -148,3 +150,4 @@
 
 第六十二条  本条例自2007年1月1日起施行。
 
+#

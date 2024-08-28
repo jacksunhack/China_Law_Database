@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区农牧业机械化促进条例
@@ -116,3 +117,4 @@
 （十二）有其他滥用职权、徇私舞弊、玩忽职守行为的。
 第八章　附　则
 第五十二条　本条例自2007年1月1日起施行。
+#

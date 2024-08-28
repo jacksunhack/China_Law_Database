@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市爱国卫生工作条例
@@ -125,3 +126,4 @@
 第四十五条　本条例自2007年9月1日起施行。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

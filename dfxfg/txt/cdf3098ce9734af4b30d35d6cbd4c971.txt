@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市邮政条例
@@ -171,3 +172,4 @@
 快递企业，是指邮政企业以外经营快递业务的企业。
 第六十五条　本条例自2013年3月1日起施行。
 
+－1－　

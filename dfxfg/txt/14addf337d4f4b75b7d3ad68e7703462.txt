@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门海沧台商投资区条例
@@ -50,3 +51,4 @@
 　　第十九条　本条例的具体应用问题由厦门市人民政府负责解释。
 　　第二十条　本条例自１９９８年１０月１日起施行。
 
+— # —

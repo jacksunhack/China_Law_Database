@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市社区发展治理促进条例
@@ -146,3 +147,4 @@
 （三）社区社会组织，是指由居民发起成立，在社区开展为民服务、公益慈善、邻里互助、文体娱乐和农村生产技术服务等活动的社会组织。
 第五十二条 本条例自2020年12 月1日起施行。
 
+— 17 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 抚顺市节约用水条例
@@ -82,3 +83,4 @@
 第五章　附　　则
 ​
 第三十七条　本条例自2008年11月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省城市地下管网条例
@@ -186,3 +188,4 @@
 军用地下管线按照国家有关法律、法规的规定执行。
 第五十九条　本条例自2015年9月1日起施行。
 
+　— 1 —　

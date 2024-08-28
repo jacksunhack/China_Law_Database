@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泸州市市容和环境卫生管理条例
@@ -158,3 +159,4 @@
 第七十六条  本条例自2017年12月1日起施行。
 
 
+ — 51 —  

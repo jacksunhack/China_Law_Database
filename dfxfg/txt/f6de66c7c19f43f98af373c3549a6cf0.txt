@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《中华人民共和国归侨
@@ -47,3 +49,4 @@
 第二十九条  香港、澳门特别行政区居民在我省的眷属参照本办法执行。
 第三十条  本办法自2009年1月1日起施行。
 
+      — 1 —      

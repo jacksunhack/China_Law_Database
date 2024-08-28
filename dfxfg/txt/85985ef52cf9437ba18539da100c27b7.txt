@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪满族自治县人民代表大会
@@ -17,3 +18,4 @@
 5.删除第四十八条。
 本决定自省人大常委会通过后实施。
 《本溪满族自治县矿产资源管理条例》《本溪满族自治县县城市容和环境卫生管理条例》根据本决定作相应修改，重新公布。
+- 3 -

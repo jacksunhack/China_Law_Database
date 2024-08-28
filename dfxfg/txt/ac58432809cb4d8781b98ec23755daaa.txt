@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -124,3 +125,4 @@
 第六章　附则
 
 　　第四十三条　本办法自通过之日起施行。
+#　

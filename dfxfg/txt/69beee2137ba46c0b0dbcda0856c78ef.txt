@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省技术市场管理条例
@@ -105,3 +106,4 @@
 
 　　第三十六条　本条例自公布之日起施行。
 
+－ # －

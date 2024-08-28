@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市城市轨道交通管理条例
@@ -214,3 +215,4 @@
 第七章  附  则
 
 第六十七条  本条例自2019年3月1日起施行。
+- 1 -

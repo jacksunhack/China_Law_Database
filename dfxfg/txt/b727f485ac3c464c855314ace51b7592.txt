@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国反恐怖主义法》
@@ -138,3 +139,4 @@
 第六章  附  则
 
 第四十四条  本实施办法自2022年5月1日起施行。
+— 1 —

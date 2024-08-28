@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市建设工程招标投标管理条例
@@ -186,3 +187,4 @@
 
 第五十四条  本条例自公布之日起施行。
 
+#

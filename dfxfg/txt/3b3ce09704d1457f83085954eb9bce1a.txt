@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 博尔塔拉蒙古自治州精河枸杞产业促进条例
@@ -119,3 +120,4 @@
 
 
 
+- 1 -

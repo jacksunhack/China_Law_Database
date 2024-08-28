@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省人民代表大会常务委员会
 公    告
@@ -145,3 +146,4 @@
 第六章  附    则
 
 第五十九条  本条例自2017年8月1日起施行。
+— # —

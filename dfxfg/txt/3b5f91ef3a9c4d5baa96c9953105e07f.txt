@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省科学技术进步条例
@@ -145,3 +146,4 @@
 第十章　附　　则
 ​
 第五十八条　本条例自2022年7月1日施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广安市城市公共汽车客运安全规定
@@ -50,3 +51,4 @@
 第十条  本规定自2019年7月1日起施行。
 
 
+— # —

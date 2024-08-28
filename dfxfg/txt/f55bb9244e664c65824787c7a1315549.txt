@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省机关运行保障条例
@@ -131,3 +132,4 @@
 第五十九条  不参照公务员法管理的事业单位的机关运行保障工作，参照本条例执行。
 第六十条  本条例自2023年1月1日起施行。
 
+— # —  

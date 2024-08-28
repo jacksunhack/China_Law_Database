@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省法律援助规定
@@ -84,3 +85,4 @@
 第十六条  本规定自2022年7月1日起施行。
 
 
+— # —

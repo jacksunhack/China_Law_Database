@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 百色市城市绿化条例
 
 （2022年6月29日百色市第五届人民代表大会常务委员会第五次会议通过  2022年9月23日广西壮族自治区第十三届人民代表大会常务委员会第三十三次会议批准）

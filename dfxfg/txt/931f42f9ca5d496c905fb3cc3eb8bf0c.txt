@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省实施《中华人民共和国教师法》
@@ -55,3 +56,4 @@
 　　（五）其他不履行法定的教师义务的。
 　　教师有前款第（一）项、第（四）项所列情形之一，构成犯罪的，依法追究刑事责任。
 　　第二十四条  本办法自2000年2月1日起施行。
+- 1 - 

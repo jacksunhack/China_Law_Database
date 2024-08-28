@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 峨边彝族自治县水资源管理条例
@@ -94,3 +95,4 @@
 
 第三十六条  本条例自公布之日起施行。
 
+— 1 —  

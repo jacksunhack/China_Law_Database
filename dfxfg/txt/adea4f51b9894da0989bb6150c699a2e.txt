@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州水土保持条例
@@ -97,3 +99,4 @@
 
 　　第三十九条　本条例具体应用中的问题，由自治州人民政府水行政主管部门负责解释。
 　　第四十条　本条例自公布之日起施行。
+1

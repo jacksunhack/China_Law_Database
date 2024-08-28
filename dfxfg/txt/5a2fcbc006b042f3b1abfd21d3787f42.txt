@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区成人教育管理条例
@@ -78,3 +79,4 @@
 
     第三十四条  市人民政府可以依据本条例制定实施办法。
     第三十五条  本条例自1995年1月1日起施行。
+#

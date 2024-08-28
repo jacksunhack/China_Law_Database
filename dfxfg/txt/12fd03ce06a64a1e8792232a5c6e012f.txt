@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市实施《中华人民共和国教师法》
@@ -57,3 +58,4 @@
 　　第十九条　对在教育教学等方面成绩优异的教师,由人民政府或者有关部门予以表彰和奖励。
 　　第二十条　本规定自2004年1月1日起施行。
 
+1

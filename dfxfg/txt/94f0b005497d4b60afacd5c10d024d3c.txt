@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市公共汽车客运条例
@@ -265,3 +266,4 @@
 （三）公共汽车客运站点，是指供乘客上下车的，为公共汽车客运服务的首末站、途中站。
 第六十七条  本条例自2019年1月 1日起施行。
 
+— # —  

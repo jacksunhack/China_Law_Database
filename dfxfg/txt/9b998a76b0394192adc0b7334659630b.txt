@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区全面禁止食用野生动物条例
@@ -54,3 +55,4 @@
 第二十六条  本条例自2020年5月1日起施行。《深圳经济特区禁止食用野生动物若干规定》同时废止。
 
 
+1

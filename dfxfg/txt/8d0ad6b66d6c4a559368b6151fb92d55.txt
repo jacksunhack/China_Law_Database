@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省安阳殷墟保护条例
@@ -97,3 +98,4 @@
 第五章  附则
 
 第三十七条  本条例自2021年10月1日起施行。2001年9月29日河南省第九届人民代表大会常务委员会第二十四次会议通过的《河南省安阳殷墟保护管理条例》同时废止。
+— # —

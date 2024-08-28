@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省宗教事务条例
@@ -73,3 +75,4 @@
 （五）其他利用宗教名义进行的商业运作。
 第二十九条 本条例自2020年7月1日起施行。
 
+1

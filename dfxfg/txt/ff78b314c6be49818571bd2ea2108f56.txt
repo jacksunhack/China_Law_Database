@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省节约能源条例
@@ -113,3 +115,4 @@
 第五十四条  本条例自2011年2月1日起施行。
 
 
+─ 1 ─  

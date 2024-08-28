@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四平市市区挖掘管理条例
@@ -70,4 +71,3 @@
 
 第二十二条 各县（市）可以参照本条例执行。
 第二十三条 本条例自2021年5月1日起施行。
-

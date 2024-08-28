@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市煤炭经营监督管理条例
@@ -75,3 +77,4 @@
 第三十五条  兰州新区、红古区、永登县、榆中县和皋兰县的城区参照执行本条例中心城区的相关规定。
 第三十六条  本条例自2013年11月1日起施行。
 
+      — 1 —      

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂尔多斯市城市园林绿化条例
@@ -114,3 +116,7 @@
 第四十二条　市、旗区城市规划区以外的园林绿化建设管理，可以参照本条例执行。
 第四十三条　本条例自2018年1月1日起施行。
 
+
+
+
+#

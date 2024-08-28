@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新宾满族自治县人民代表大会关于修改
@@ -22,5 +23,8 @@
 
 
 
+
+
+— - 1 - —
 
 

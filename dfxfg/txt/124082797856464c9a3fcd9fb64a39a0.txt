@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市矿产资源管理条例
@@ -181,3 +182,4 @@
 
 第六十七条  本条例自1998年11月1日起施行。
 
+— 3 —

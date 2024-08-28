@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区斑马线交通安全管理规定
@@ -23,3 +24,4 @@
 第八条　本规定自2023年8月1日起施行。
 
 
+－1－　

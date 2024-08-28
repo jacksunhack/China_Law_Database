@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 巴里坤哈萨克自治县立法条例
@@ -104,3 +105,4 @@
 第八章　附　　则
 ​
 第三十四条　本条例自2023年10月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市非物质文化遗产保护条例
 
@@ -140,3 +142,4 @@
 第八章　附　则
 第五十条　对传统医药、传统工艺美术等的保护，其他法律、行政法规另有规定的，依照其规定执行。
 第五十一条　本条例自2019年1月1日起施行。
+#

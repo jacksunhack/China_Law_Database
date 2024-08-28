@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邢台市河道采砂管理条例
@@ -109,3 +111,4 @@
 第三十二条　本条例自2018年6月1日起施行。
 
 
+　- 1 -

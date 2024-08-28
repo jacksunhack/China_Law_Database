@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省省级开发区管理条例
@@ -102,3 +103,4 @@
 
 第三十二条　本条例自公布之日起施行。
 本条例施行前的省内有关规定与本条例有抵触的，均按本条例执行。
+— 7 —

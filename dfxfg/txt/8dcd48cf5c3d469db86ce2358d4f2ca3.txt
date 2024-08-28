@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州藏语言
@@ -45,5 +46,4 @@
     第二十三条  自治州、县藏语言文字工作所需经费列入州、县财政预算。
     第二十四条  本条例由甘南藏族自治州人民代表大会常务委员会解释。
     第二十五条  本条例自公布之日起施行。
-
 

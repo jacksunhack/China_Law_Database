@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省实施《中华人民共和国
@@ -93,3 +94,4 @@
 （二）丢失或者毁坏原始气象探测资料、伪造气象资料、违反国家规定提供气象资料的；
 （三）其他应当给予行政处分的行为。
 第三十一条  本办法自２００３年８月１日起施行。
+1

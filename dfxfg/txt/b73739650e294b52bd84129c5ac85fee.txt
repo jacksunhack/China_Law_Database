@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省农村初级卫生保健条例
@@ -110,3 +111,4 @@
 第七章　附则
 
 第四十四条　本条例自2004年5月1日起施行。
+- 11 -

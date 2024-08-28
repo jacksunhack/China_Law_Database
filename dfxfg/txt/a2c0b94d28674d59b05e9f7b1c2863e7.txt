@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市殡葬管理规定
@@ -55,3 +56,4 @@
 第三十一条　本规定自1998年7月1日起施行。1990年11月18日市人民政府颁发的《广州市殡葬管理实施办法》同时废止。
 
 
+- 1 - 

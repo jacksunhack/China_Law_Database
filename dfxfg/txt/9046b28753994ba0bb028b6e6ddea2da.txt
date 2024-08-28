@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市全民健身条例
@@ -48,3 +49,4 @@
 　　第二十六条　以健身名义从事违法活动的，由有关部门按照相关法律、法规规定予以处罚；构成犯罪的，依法追究刑事责任。
 　第二十七条　本条例自2006年8月1日起施行。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

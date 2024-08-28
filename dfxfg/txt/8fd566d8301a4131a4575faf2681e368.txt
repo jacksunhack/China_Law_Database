@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 	
 
 汕头经济特区科技创新条例
@@ -106,3 +108,4 @@
 第六章  附则
 
 第四十条  本条例自2022年7月1日起施行，《汕头经济特区促进科技成果转化条例》同时废止。
+1

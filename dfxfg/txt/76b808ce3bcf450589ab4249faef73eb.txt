@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施《中华人民共和国
@@ -53,3 +54,4 @@
 第二十六条  违反本办法第二十一条规定的，由公安机关责令整改；拒不整改的，处2000元以上5000元以下罚款。
 第二十七条  本办法自2016年1月1日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省煤矿安全生产监督管理条例
@@ -145,4 +146,7 @@
 第六章  附则
 
 第四十条  本条例自2012年2月1日起施行。
+
+                                                        #
+
 

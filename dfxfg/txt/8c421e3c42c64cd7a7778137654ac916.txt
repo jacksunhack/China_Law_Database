@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 六安市革命遗址遗迹保护条例
 
@@ -113,3 +114,4 @@
 
 第三十四条  本条例自2023年1月1日起施行。
 
+— # —

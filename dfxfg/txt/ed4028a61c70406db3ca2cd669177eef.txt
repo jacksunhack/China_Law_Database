@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省高等学校学生实习与
@@ -193,3 +194,4 @@
 
 第六十四条　省外学校学生在本省行政区域内实习，依照本条例进行管理。
     第六十五条　本条例自2010年 3月1日起施行。
+1

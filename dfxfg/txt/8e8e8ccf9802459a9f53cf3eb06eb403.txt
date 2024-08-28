@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市促进智能制造发展条例
 
@@ -92,3 +93,4 @@
 
 第六章  附  则
 第三十七条　本条例自2021年11月1日起施行。
+#

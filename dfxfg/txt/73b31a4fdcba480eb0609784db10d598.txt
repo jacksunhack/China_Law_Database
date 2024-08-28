@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 珠海市人民代表大会常务委员会关于修改
@@ -10,3 +11,4 @@
 删去第三十四条。
 本决定自公布之日起施行。
 《珠海经济特区见义勇为人员奖励和保障条例》根据本决定作相应修改后，重新公布。
+－1－　

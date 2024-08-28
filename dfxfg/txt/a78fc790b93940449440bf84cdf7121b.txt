@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省道路运输管理条例
@@ -189,3 +191,4 @@
 第六十七条  城市公共汽车客运不适用本条例。
 第六十八条  本条例应用中的具体问题，由省人民政府交通管理部门负责解释。
 第六十九条  本条例自2006年7月1日起施行。
+#　

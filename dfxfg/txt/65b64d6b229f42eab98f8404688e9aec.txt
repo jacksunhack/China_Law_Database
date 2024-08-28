@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 葫芦岛市生活垃圾分类管理条例
@@ -183,4 +184,6 @@
 （四）其他垃圾，是指除可回收物、厨余垃圾和有害垃圾以外的生活垃圾。
 第五十一条  本条例自2022年5月1日起施行。
 
+
+— # —
 

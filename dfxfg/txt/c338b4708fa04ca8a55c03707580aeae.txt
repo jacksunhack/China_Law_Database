@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 达州市集中式饮用水水源保护管理条例
@@ -139,3 +140,4 @@
 
 
 
+— 11 —

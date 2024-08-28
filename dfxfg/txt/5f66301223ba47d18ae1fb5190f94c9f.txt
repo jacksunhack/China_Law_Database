@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省食品安全条例
@@ -279,3 +280,4 @@
 　　第八十五条　食品生产加工小作坊、小餐饮的规模标准，由市（州）人民政府根据本地的实际情况具体确定。
 　　第八十六条　本条例自2016年12月1日起施行。
 
+— # —

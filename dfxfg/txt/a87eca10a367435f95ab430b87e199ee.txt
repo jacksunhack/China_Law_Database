@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区行政事业性收费管理条例
@@ -79,3 +80,4 @@
 第二十四条  本条例自公布之日起施行。
 
 
+— 7 —

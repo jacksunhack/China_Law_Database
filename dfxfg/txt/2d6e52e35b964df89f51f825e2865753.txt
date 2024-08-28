@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 天津市知识产权保护条例
 
 （2019年9月27日天津市第十七届人民
@@ -145,3 +147,4 @@
 第五十八条  本条例自2019年11月1日起施行。本条例施行前本市有关地方性法规、政府规章与本条例规定不一致的，按照本条例执行。
 
 
+#

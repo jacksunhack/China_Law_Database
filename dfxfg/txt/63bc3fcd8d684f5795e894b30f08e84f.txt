@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市医疗急救服务条例
@@ -183,3 +184,4 @@
 本条例所称急救站，是指急救中心、急救网络医院根据相关规划分别设置在急救网络医院内部或者指定地点，具体开展医疗急救服务的单位。
 第五十五条  本条例自2021年1月1日起施行。
 
+1

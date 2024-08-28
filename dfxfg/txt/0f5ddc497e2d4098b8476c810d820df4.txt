@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广东省查处生产销售假冒伪劣商品
@@ -208,3 +209,4 @@
 第六章　附　　则
 ​
 第六十九条　本条例自2012年11月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河北省实施《中华人民共和国
 招标投标法》办法
@@ -216,3 +217,4 @@
 第五十四条　本办法颁布前有关招标投标规定与本办法不一致的，以本办法为准。法律或者行政法规另有规定的，从其规定。
 第五十五条　本办法自2002年1月1日起施行。
 
+#

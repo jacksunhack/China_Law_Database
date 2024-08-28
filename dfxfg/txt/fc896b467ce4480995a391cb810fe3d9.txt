@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 阿坝藏族羌族自治州湿地保护条例
@@ -104,3 +105,4 @@
 ​
 第三十三条　本条例未作规定的按照《中华人民共和国湿地保护法》和《四川省湿地保护条例》执行。
 第三十四条　本条例自2024年6月1日起施行。
+－1－　

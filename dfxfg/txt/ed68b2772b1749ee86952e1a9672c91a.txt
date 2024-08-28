@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽宁省城市更新条例
 
@@ -76,3 +77,6 @@
 （五）其他破坏城市安全、环境、文化的行为。
 第二十七条　违反本条例规定的行为，法律、法规已有处罚规定的，从其规定。
 第二十八条　本条例自2022年2月1日起施行。
+— - 1 - —
+
+	

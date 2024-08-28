@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 酉阳土家族苗族自治县自治条例
@@ -173,3 +174,4 @@
 第六十三条  本条例经自治县人民代表大会审议通过，报重庆市人民代表大会常务委员会批准后生效。
 
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 海南自由贸易港博鳌乐城国际医疗旅游先行区医疗药品器械管理规定
 
@@ -53,3 +54,4 @@
 第十八条  违反本规定的行为，本规定未设定处罚，其他法律、法规另有规定的，依照其规定。
 第十九条  本规定自2023年1月1日起施行。
 
+#

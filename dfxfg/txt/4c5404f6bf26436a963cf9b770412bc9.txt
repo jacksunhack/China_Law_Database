@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省绿色建筑发展条例
@@ -123,3 +124,4 @@
 第四十五条   本条例自2023年1月1日起施行。
 
 
+— # —

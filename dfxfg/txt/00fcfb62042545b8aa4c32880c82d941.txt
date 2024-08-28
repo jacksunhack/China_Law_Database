@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 梧州市停车场建设和管理条例
@@ -103,3 +104,5 @@
 
     第三十一条  本市所辖县（市）人民政府所在地镇规划区内停车场建设和管理可以参照本条例执行。
     第三十二条  本条例自2018年7月1日起施行。    
+#
+

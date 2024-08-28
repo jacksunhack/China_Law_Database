@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -94,3 +95,4 @@
 （三）干涉农民的生产经营自主权和流转自主权的；
 （四）其他玩忽职守、徇私舞弊、滥用职权侵害农民土地承包经营权的行为。
 第三十五条　本办法自2007年1月1日起施行。
+— 1 —

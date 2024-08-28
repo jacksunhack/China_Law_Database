@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省社会治安综合治理条例
@@ -120,3 +121,4 @@
 第六章　附　　则
 
 第三十七条　本条例自公布之日起实施。
+1

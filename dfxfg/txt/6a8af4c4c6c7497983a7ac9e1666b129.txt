@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市黑河引水系统保护条例
@@ -110,3 +111,4 @@
 
 　　第三十七条　本条例自2005年8月1日起施行。
 
+— 1 —

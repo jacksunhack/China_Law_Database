@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省人民代表大会常务委员会
@@ -22,3 +24,4 @@
 七、本决定的具体实施办法由省人大常委会主任会议制定。
 八、本决定自公布之日起施行。
 
+—— 1 ——

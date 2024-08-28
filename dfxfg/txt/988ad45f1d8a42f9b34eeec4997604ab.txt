@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 清原满族自治县森林资源保护管理条例
@@ -26,3 +27,4 @@
 第十二条  本条例自2002年7月1日起施行。
 
 
+— 1 —

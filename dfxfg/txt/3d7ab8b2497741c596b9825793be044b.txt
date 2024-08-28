@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省渔业管理条例
@@ -147,3 +149,4 @@
 　　第四十四条　本条例自2003年3月1日起施行。《江苏省实施〈中华人民共和国渔业法〉办法》同时废止。
 
 
+─ 1 ─  

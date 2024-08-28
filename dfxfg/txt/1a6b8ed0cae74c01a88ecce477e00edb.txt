@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省杜尔伯特蒙古族自治县
@@ -69,3 +70,4 @@
 　　（八）有玩忽职守、滥用职权、徇私舞弊、索贿受贿的。
 　　因前款规定的违法行为，给有关当事人造成经济损失的，由其所在单位或者个人承担赔偿责任。
 　　第三十条　本条例自2004年8月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市科技创新促进条例
@@ -83,3 +84,4 @@
 第六章　附    则
 
 第二十八条　本条例自2019年12月1日起施行,《淮南市科学技术资金投入与管理规定》同时废止。
+— # —

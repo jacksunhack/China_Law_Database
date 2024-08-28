@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 中山市电力设施保护条例
@@ -60,3 +62,4 @@
 
 
 
+	— 1 —  

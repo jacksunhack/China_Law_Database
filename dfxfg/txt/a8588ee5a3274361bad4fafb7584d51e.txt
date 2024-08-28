@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市道路旅客运输管理若干规定
@@ -59,3 +60,4 @@
 　　第二十五条　本规定自2002年7月1日起施行。杭州市人民政府1989年11月7日发布的《杭州市公路旅客运输管理暂行办法》同时废止。
 
 
+— 1—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林市城镇国有土地有偿使用条例
@@ -161,3 +162,4 @@
 
 第六十六条　本条例由吉林市人大常委会负责解释。
 第六十七条　本条例自发布之日起施行。
+－1－　

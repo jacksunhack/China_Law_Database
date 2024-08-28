@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -180,3 +181,4 @@
 
 　　第六十七条　未设镇建制的国有农场场部、国有林场场部、国有牧场场部和独立工矿区的规划建设管理，参照本办法执行。
 　　第六十八条　本办法自2012年3月1日起施行。
+#　

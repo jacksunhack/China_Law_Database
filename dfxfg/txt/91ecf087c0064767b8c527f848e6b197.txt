@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 成都市未成年人安全保护条例
@@ -103,3 +104,4 @@
 ​
 第六十条　幼儿园、托儿所未成年人的安全保护适用本条例。
 第六十一条　本条例自2007年12月1日起施行。
+－1－　

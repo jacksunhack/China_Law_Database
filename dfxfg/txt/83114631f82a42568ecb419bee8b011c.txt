@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乐东黎族自治县城乡容貌和环境卫生管理条例
@@ -162,3 +163,4 @@
  
 第四十九条  本条例的具体应用问题由自治县人民政府负责解释。
 第五十条  本条例自2018年4月10日起施行。
+－1－  

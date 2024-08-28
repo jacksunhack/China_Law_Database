@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省人民代表大会常务委员会关于
@@ -17,3 +19,4 @@
 六、沿江地方各级人民政府应当按照本决定的要求，组织水利、公安、交通、地矿等有关部门依法查处长江水域内的非法采砂活动。
 七、本决定自公布之日起施行。
 
+─ 3 ─  

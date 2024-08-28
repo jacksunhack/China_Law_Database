@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市人民代表大会常务委员会关于
@@ -30,3 +32,4 @@
 本决定自公布之日起施行。
 《西宁市物业管理条例》根据本决定作相应修改，重新公布。
 
+1  

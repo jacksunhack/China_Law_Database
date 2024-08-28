@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省院前医疗急救条例
@@ -66,3 +68,4 @@
 第十八条  本条例自2022年5月1日起施行。
 
 
+─ # ─  

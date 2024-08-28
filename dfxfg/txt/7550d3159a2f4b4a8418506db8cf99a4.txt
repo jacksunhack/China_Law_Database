@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市松华坝水库保护条例
@@ -117,3 +118,4 @@
 第三十八条  宝象河水库、大河水库、柴河水库水源的保护，可参照本条例执行。
 第三十九条  本条例自2006年5月1日起施行。
 
+—— 1 ——

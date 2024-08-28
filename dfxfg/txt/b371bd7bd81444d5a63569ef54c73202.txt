@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省气象灾害防御条例
@@ -89,3 +90,4 @@
 
 第三十九条  本条例自2009年7月1日起施行。
 
+― 1 ―

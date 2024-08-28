@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳市人民代表大会常务委员会关于修改
@@ -24,3 +25,4 @@
 《深圳经济特区消防条例》部分条文的序号根据本决定作相应调整。
 本决定自公布之日起施行。
 《深圳经济特区消防条例》根据本决定作相应修改，重新公布。
+－1－　

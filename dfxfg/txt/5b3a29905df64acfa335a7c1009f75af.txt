@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国全国人民代表
@@ -88,3 +89,4 @@
     第三十七条  本办法自公布之日起施行。1989年4月27日湖北省第七届人民代表大会第二次会议通过的《湖北省人民代表大会代表工作条例》同时废止。
 
 
+— # —

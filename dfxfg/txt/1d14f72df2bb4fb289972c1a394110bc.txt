@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南充市城市园林绿化条例
@@ -108,3 +109,4 @@
 第四十条  本条例自2017年3月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 曲靖市集中式饮用水水源地保护条例
@@ -99,3 +101,4 @@
 第六章  附  则
 
 第三十条  本条例自2020年3月1日起施行。
+—— 9 ——

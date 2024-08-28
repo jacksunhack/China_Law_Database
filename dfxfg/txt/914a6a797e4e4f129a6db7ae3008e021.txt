@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 齐齐哈尔市河道管理条例
@@ -98,5 +99,4 @@
 
     第三十三条  本条例应用中的问题，由齐齐哈尔市人民政府负责解释。
 第三十四条  本条例自发布之日起施行。
-
 

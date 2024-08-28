@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省国有企业法定代表人
@@ -114,3 +116,4 @@
 第三十八条  城镇集体企业、企业化管理的国有事业单位的法定代表人的任期审计，参照本条例执行。
 第三十九条  本条例自2000年3月1日起施行。
 
+─ 1 ─  

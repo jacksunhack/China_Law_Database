@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽宁省人民代表大会常务委员会
 关于修改《辽宁省社会组织管理条例》
@@ -48,4 +49,6 @@
 此外，对相关法规个别文字作了修改。
 本决定自公布之日起施行。
 《决定》涉及的法规，根据本决定作相应修改并重新公布。
+
+— # —
 

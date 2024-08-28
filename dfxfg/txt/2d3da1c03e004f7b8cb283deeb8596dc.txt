@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省城乡生活垃圾管理条例
 （2019年7月26日福建省第十三届人民代表大会
 常务委员会第十一次会议通过）
@@ -182,3 +184,4 @@
 第七十五条　本条例自2020年1月1日起施行。
 
 
+— 1 —

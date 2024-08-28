@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市实施《中华人民共和国防洪法》办法
@@ -147,3 +148,4 @@
 
 第五十四条  本办法自2001年6月1日起施行。
 
+—1—  

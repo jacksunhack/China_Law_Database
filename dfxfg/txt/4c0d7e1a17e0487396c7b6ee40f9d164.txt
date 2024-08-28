@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市人民代表大会常务委员会
@@ -72,3 +73,4 @@
 （三）在规定的期限内不向市人大常委会报告重大事项决议、决定执行情况和审议意见、意见、建议研究处理情况的。
 第二十条  本规定自2016年12月1日起施行。
 
+#

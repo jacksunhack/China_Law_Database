@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省种子条例
@@ -145,3 +147,4 @@
 第五十二条  转基因植物品种的选育、试验、审定、生产经营、推广工作，依照国家有关法律、行政法规规定执行。
 第五十三条  本条例自2020年3月1日起施行。
 
+─ # ─  

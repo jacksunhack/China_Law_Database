@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 铜陵市文明行为促进条例
@@ -153,3 +154,4 @@
 第七章　附　　则
 ​
 第四十条　本条例自2020年9月1日起施行。
+－1－　

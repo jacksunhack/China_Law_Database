@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市基层法律服务条例
@@ -166,3 +167,4 @@
 
 第五十条  基层法律服务所开展法律服务的收费办法和收费标准，由市价格主管部门会同市司法行政部门制定。
 第五十一条  本条例自2012年1月1日起施行。
+— 1 —

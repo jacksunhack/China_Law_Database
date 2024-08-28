@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《中华人民共和国全国人民
@@ -161,3 +163,4 @@
 第六十条  本细则自公布之日起施行。
 
 
+      — 1 —      

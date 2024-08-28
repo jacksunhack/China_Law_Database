@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市专利管理条例
@@ -67,3 +68,4 @@
 　　第二十五条　本条例自2006年1月1日起施行。
 
 
+— 1—

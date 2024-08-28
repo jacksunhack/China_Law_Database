@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省实施《中华人民共和国就业促进法》
@@ -113,3 +115,4 @@
 第四十九条  本办法具体应用的问题由省人民政府负责解释。
 第五十条  本办法自2010年1月1日起施行。
 
+- 13 -

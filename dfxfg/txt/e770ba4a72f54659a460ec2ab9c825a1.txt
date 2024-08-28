@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省实施《中华人民共和国
@@ -78,3 +80,4 @@
 第三十四条　本办法具体应用的问题由云南省人民政府解释。
 第三十五条　本办法自1997年6月1日起施行。
 
+—— 1 ——

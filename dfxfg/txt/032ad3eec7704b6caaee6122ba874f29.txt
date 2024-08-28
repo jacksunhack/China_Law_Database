@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市非物质文化遗产条例
 （2019年1月20日北京市第十五届人民代表大会
@@ -169,3 +170,4 @@
 第七章　附　　则
 
 第六十一条　本条例自2019年6月1日起施行。
+－#－

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省人民代表大会议事规则
@@ -143,3 +144,4 @@
 
 第六十五条　本规则在执行过程中与国家法律抵触时，按国家法律执行。
 　　第六十六条　本规则自公布之日起施行。
+1

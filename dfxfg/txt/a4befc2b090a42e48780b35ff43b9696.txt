@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 中国（广西）自由贸易试验区条例
 
@@ -187,3 +189,4 @@
 　　第六十八条  本条例自公布之日起施行。
 
 
+#

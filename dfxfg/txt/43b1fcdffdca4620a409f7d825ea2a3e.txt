@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 盘锦市文明行为促进条例
@@ -161,3 +162,4 @@
 
 第三十八条　本条例自2020年5月1日起施行。
 
+— # —

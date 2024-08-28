@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市森林防火条例
@@ -171,3 +172,4 @@
 （三）半专业森林火灾扑救队伍，是指有组织，有保障，队员相对集中，具有较好的森林火灾扑救技能和装备的队伍。
 第五十条  本条例自2011年11月1日起施行。
 
+— 3 —

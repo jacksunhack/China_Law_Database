@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡水湖保护和治理条例
@@ -141,3 +142,4 @@
 第九章　附　　则
  
 第六十八条　本条例自2022年1月1日起施行。
+－1－  

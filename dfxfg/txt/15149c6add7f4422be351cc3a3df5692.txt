@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省食品生产加工小作坊
@@ -186,3 +187,4 @@
 
 　　第五十五条　从事清真食品生产经营的食品小作坊和食品摊贩，应当同时遵守国家与本省有关清真食品生产经营的管理规定。
 　　第五十六条　本条例自2017年1月1日起施行。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 聊城市制定地方性法规条例
@@ -131,3 +132,4 @@
 
 第六十四条  本条例自公布之日起施行。
 
+1

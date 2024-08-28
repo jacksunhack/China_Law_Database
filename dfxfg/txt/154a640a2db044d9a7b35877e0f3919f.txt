@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省临夏回族自治州花儿保护传承条例
@@ -90,3 +92,4 @@
 第五章  附则
 
     第二十六条  本条例自公布之日起施行。
+      — 1 —      

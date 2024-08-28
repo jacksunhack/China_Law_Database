@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省技术市场管理条例
@@ -104,3 +106,4 @@
 第三十五条　本条例的具体应用问题，由云南省科学技术委员会负责解释。
 第三十六条　本条例自1994年4月1日起施行。
 
+—— 4 ——

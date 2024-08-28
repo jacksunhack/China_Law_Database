@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市城乡规划管理办法  
@@ -88,3 +89,4 @@
 第三十八条　本办法自2016年3月1日起施行。 
  
 
+— 1 —

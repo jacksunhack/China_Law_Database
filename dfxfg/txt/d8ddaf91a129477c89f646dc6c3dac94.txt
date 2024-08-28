@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市娱乐场所治安管理条例
@@ -80,3 +81,4 @@
 公安机关有前款所列行为的，对直接负责的主管人员和其他直接责任人员给予相应的行政处分。
 第三十条　市人民政府可以根据本条例制定具体办法。
 第三十一条　本条例自2006年3 月1日起施行。
+—1—  

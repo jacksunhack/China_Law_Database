@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州法律援助条例
@@ -166,3 +168,4 @@
 第六章　附则
 
 　　第四十二条　本条例自2014年7月1日起施行。
+1

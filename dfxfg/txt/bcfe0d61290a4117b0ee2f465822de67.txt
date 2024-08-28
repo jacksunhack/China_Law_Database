@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省电信设施建设和保护条例
@@ -92,3 +94,4 @@
 
 第二十九条  专用电信网、广播电视传输网的建设和保护按照有关法律、法规的规定执行。
 第三十条  本条例自2014年12月1日起施行。
+—— 1 ——

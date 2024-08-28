@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 石家庄市数字经济促进条例
@@ -126,3 +127,4 @@
 第八章　附　　则
 ​
 第六十一条　本条例自2023年12月31日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省实施《中华人民共和国教师法》
@@ -79,3 +81,4 @@
 教师对申诉处理决定不服的，属于行政复议、行政诉讼受案范围的，可以依法申请行政复议或者提起行政诉讼。
 第三十四条  本办法自2014年8月1日起施行。
 
+1

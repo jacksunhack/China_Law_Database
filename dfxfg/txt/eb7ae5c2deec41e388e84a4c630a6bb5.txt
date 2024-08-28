@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省统计管理条例
@@ -132,3 +133,4 @@
 第七章  附  则
 
 　　第四十五条 本条例自2011年5 月27日起施行。
+— 3 —  

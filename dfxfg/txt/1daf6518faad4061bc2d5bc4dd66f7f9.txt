@@ -1,3 +1,6 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
+
+
   
 漳州市户外广告和招牌设置管理办法
 （2021年4月22日漳州市第十六届人民代表大会
@@ -110,3 +113,4 @@
 第三十八条  本办法自2021年9月1日起施行。
 
 
+— # —

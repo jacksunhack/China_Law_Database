@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省科学技术普及条例
@@ -83,3 +84,4 @@
 第六章　附则
 
 　　第三十二条　本条例自2006年5月1日起施行。
+#　

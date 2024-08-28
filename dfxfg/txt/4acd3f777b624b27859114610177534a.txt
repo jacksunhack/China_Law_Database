@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 秀山土家族苗族自治县饮用水水源保护条例
@@ -178,3 +179,4 @@
 第六章　附　　则
 
 第四十九条　本条例自2018年7月1日起施行。
+－1－　

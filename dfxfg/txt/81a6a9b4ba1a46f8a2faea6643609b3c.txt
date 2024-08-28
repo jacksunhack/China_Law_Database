@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省各级人民代表大会常务委员会信访条例
 （2019年9月26日福建省第十三届人民代表大会
 常务委员会第十二次会议通过）

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城市供热管理条例
@@ -124,3 +125,4 @@
 第八章　附则
 
 第四十七条　本条例自2009年5月1日起施行。
+#　

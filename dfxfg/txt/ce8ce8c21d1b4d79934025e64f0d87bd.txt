@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
   黑龙江省人民代表大会专门委员会工作条例
 
 （2017年1月20日黑龙江省第十二届人民代表大会第六次会议通过）
@@ -82,3 +83,4 @@
 
 
 
+#

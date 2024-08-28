@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区促进科技成果转化条例
@@ -89,3 +90,4 @@
 
 第三十八条  本条例自公布之日起施行。
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市人民代表大会常务委员会
@@ -7,3 +9,4 @@
 
     兰州市第十六届人民代表大会常务委员会第三十二次会议决定，废止《兰州市价格监督检查条例》。
     本决定自公布之日起施行。
+      — # —    

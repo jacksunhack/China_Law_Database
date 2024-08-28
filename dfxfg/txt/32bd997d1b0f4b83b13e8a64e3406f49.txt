@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区苏木、乡、民族乡、镇
 人民代表大会工作条例
 
@@ -66,3 +67,4 @@
 被提出罢免的人员有权在大会全体会议上提出申辩意见，或者书面提出申辩意见。
 第二十四条  本条例自公布之日起施行。
 
+#

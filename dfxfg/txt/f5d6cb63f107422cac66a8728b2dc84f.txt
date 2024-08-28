@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省城市供热条例
@@ -97,3 +98,4 @@
 第七章　附则
 
 第三十五条　本条例自2004年6月1日起施行。
+— 1 —

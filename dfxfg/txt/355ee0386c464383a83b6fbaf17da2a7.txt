@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 漳州市城市公共停车管理规定
 （2018年8月23日漳州市第十六届人民代表大会
 常务委员会第十三次会议通过
@@ -63,3 +65,4 @@
 第二十条  本规定自2019年1月1日起施行。
 	
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市五象岭保护条例
@@ -55,6 +56,9 @@
 第二十九条  本条例自2016年1月1日起施行。
 
 
+
+- 1 -
+
 附图
 
 
@@ -67,4 +71,5 @@
 
 
 
+- 1 -
 

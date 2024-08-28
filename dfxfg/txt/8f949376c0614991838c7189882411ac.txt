@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省港口管理条例
@@ -131,3 +132,4 @@
 （七）“自用码头”是指为本单位生产、生活及执行公务使用的码头。
 “专用码头”是指具备某种特定功能专门从事某一种专项服务的码头。
 第四十五条  本条例自2009年8月1日起施行。
+— 3 —  

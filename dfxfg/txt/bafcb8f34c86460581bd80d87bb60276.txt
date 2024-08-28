@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家界市农村村民住房规划建设管理规定
@@ -66,3 +67,4 @@
 
 
 
+－1－  

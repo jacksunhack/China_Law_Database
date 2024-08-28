@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 白沙黎族自治县秸秆露天禁烧
 和综合利用条例
 
@@ -62,5 +63,4 @@
 
 第三十条  在本县行政区域内露天焚烧和随意弃置野草、残枝落叶的，参照本条例执行。
 第三十一条  本条例自2021年5月7日起施行。
-
 

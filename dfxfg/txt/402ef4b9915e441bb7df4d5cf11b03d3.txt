@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长沙市征地补偿安置条例
@@ -140,3 +141,4 @@
 本条例实施前已发布征地补偿安置方案实施公告的，按原有规定办理。
 
 
+— 1 —

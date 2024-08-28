@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市浦东新区建立高水平知识产权
@@ -43,3 +44,4 @@
 鼓励企业以高价值知识产权组合为基础构建底层知识产权资产，在能产生稳定现金流的前提下探索知识产权证券化模式。
 第十六条  本规定自2021年12月1日起施行。
 
+- 5 -

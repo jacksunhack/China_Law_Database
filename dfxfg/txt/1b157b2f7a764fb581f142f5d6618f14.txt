@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省实施《中华人民共和国
@@ -55,3 +57,4 @@
 第二十七条  外籍华人和香港、澳门特别行政区居民在本省居住的眷属参照本办法执行。
 第二十八条  本办法自公布之日起施行。
 
+─ 1 ─  

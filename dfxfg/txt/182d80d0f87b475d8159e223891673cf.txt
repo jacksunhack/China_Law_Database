@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市科学技术进步条例
@@ -119,3 +121,5 @@
 
 
 
+  — 1 —    
+     

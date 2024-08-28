@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省大理白族自治州洱海海西保护条例
@@ -70,3 +72,4 @@
 第二十七条  本条例由自治州人民代表大会常务委员会负责解释。
 
 
+—— 1 ——

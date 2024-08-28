@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省社会信用条例
@@ -198,3 +199,4 @@
 第六十条  征信业的监督管理，依照法律、行政法规的有关规定执行。
 第六十一条  本条例自2020年10月1日起施行。
 
+1

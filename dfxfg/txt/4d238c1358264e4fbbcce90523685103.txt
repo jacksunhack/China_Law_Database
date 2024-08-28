@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市预防职务犯罪条例
@@ -54,3 +56,4 @@
 第二十三条　本条例自2002年4月1日起施行。
 
 
+　— 1 —　

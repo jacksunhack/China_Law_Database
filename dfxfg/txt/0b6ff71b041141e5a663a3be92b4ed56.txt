@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新宾满族自治县林业管理条例
@@ -74,3 +75,4 @@
 第二十一条  本条例自颁布之日起施行。
 
 
+— 1 —

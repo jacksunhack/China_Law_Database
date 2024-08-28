@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国农业技术推广法》办法
@@ -67,3 +68,4 @@
 第五章  附则
 
 第二十六条  本办法自公布之日起施行。
+— 1 —

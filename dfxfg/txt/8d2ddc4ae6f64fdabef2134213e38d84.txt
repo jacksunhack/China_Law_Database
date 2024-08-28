@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市人民代表大会常务委员会
@@ -30,3 +31,4 @@
 九、市人民政府应当加强对珠海城市概念性空间发展规划实施的管理，接受市人民代表大会常务委员会的监督。
 十、本决定自公布之日起施行。
 
+- 1 -

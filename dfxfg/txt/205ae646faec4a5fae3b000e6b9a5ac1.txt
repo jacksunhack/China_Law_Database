@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省实施《中华人民共和国城市居民
@@ -61,3 +62,4 @@
 第二十四条　本办法适用于乡、民族乡人民政府所在地设立的居民委员会。
 第二十五条　本办法的具体应用问题由省人民政府民政主管部门负责解释。
 第二十六条　本办法自公布之日起施行。
+－1－　

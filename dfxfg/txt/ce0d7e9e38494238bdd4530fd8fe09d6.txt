@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国矿山安全法》
@@ -81,3 +82,4 @@
 当事人逾期不申请复议、不起诉、又不履行处罚决定的，作出处罚决定的行政机关可以申请人民法院强制执行。
 第三十三条  本办法自1998年3月1日起施行。
 
+— 7 —  

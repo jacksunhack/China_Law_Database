@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 焦作市文明行为促进条例
 （2022年7月5日焦作市第十三届人民代表大会常务委
@@ -101,3 +102,5 @@
 
 
 
+— 1 —
+  

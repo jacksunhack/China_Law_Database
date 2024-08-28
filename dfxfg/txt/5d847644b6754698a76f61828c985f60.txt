@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省人民代表大会常务委员会
@@ -31,3 +33,4 @@
 十、本决定所称开山采石，是指在山地丘陵露天开采石材石料及其他矿产资源的行为。
 十一、本决定自2001年10月1日起施行。
 
+─ 1 ─  

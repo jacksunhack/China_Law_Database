@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 青海省宗教事务条例
@@ -201,3 +202,4 @@
  
 第七十一条  本条例自2021年10月1日起施行。2009年7月31日青海省第十一届人民代表大会常务委员会第十次会议审议通过的《青海省宗教事务条例》同时废止。
 
+#  

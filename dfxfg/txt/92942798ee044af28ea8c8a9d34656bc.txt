@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市人民代表大会常务委员会
@@ -41,3 +43,4 @@
 十六、将第四十六条调整作为第四十五条。
 本决定自公布之日起施行。
 《唐山市职工工资集体协商条例》根据本决定作相应修改，重新公布。
+  — # —  

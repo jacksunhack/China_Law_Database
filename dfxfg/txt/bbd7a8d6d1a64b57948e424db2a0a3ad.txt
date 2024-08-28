@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市城市管理条例
@@ -253,3 +254,4 @@
 第六章  附  则
 
 第五十八条  本条例自2015年1月1日起施行。
+1

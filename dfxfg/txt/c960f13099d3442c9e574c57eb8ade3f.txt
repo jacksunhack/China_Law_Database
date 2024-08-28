@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区水利工程管理条例
@@ -120,3 +121,4 @@
 第六章  附则
 
 第三十八条  本条例自2007年12月1日起施行。
+#

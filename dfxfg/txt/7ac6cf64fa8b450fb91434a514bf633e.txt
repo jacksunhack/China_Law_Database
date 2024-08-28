@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省消费者权益保护条例
@@ -258,3 +259,4 @@
 第八十二条  农民购买、使用直接用于农业生产的生产资料，参照本条例执行。
 第八十三条  本条例自2017年9月1日起施行。
 
+— 1 —

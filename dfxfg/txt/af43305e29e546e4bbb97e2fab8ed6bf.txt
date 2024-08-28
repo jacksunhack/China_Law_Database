@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区行政复议条例
@@ -322,3 +323,4 @@
 期间的最后一天是法定假日的，依法顺延。期间不包括在途时间。
 第七十三条　本条例自2013年7月1日起施行。
 
+1

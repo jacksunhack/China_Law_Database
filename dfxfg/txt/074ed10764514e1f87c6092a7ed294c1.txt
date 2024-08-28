@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 中国（安徽）自由贸易试验区条例
@@ -168,3 +169,4 @@
 ​
 第六十四条　国务院批准的自贸试验区扩展区域，依照本条例执行。
 第六十五条　本条例自2022年5月1日起施行。
+－1－　

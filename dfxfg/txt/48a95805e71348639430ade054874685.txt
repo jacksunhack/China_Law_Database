@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市植物检疫条例
@@ -58,3 +59,4 @@
 进出境的应施检疫的植物、植物产品，发生省间或市内调运的，按本条例规定实施检疫。
 第二十六条  本条例自1999年5月1日起施行。
 
+— 3 —

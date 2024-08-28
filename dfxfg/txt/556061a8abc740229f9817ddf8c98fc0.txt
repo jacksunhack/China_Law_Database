@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 内蒙古自治区人民代表大会常务委员会
@@ -46,3 +47,4 @@
 第二十一条　盟工作委员会的经费列入盟财政预算。
 第二十二条　盟工作委员会可以根据本条例的规定制定相关具体工作程序。
 第二十三条　本条例自公布之日起施行。
+－1－　

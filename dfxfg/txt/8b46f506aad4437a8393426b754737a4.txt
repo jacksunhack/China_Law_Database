@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省组织实施宪法宣誓制度办法
@@ -27,3 +28,4 @@
 
 
 
+— 1—

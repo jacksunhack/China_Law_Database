@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省湿地保护条例
@@ -115,3 +116,4 @@
 
 第四十二条　本条例自2013年9月1日起施行。
 
+- 1 -  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵州省社会科学普及条例
@@ -101,3 +102,4 @@
 第六章　附　　则
 ​
 第三十五条　本条例自2022年5月17日起施行。
+－1－　

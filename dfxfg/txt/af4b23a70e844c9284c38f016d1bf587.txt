@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 松原市城市市容和环境卫生管理条例
@@ -112,3 +114,5 @@
 第六章  附则
 
 第三十六条  本条例自2021年12月1日起施行。
+- 1 -
+

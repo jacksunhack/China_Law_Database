@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 锦州市大气污染防治条例
@@ -87,3 +89,4 @@
 
 第三十六条 本条例所称专用烟道，是指供餐饮服务等项目排放油烟、废气、异味的专用通道。
 第三十七条 本条例自2018年3月1日起施行。
+#

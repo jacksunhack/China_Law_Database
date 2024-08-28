@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省港口条例
@@ -156,3 +157,4 @@
 第五十六条　渔业港口由县级以上人民政府渔业行政主管部门按国家有关规定管理。
 军事港口的建设和管理按照国家有关规定执行。
 第五十七条　本条例自2020年7月1日起施行。
+－1－　

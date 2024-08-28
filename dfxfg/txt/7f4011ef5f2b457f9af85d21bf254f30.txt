@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 柳州市传统村落保护条例
@@ -168,4 +169,3 @@
 第六章  附则
 
 　　第四十九条  本条例自2020年6月1日起施行。
-

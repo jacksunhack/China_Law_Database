@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 东营市社会治理网格化服务管理条例
@@ -103,3 +104,4 @@
 第八章　附　　则
 ​
 第三十条　本条例自2023年1月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区呼伦湖国家级自然保护区条例
@@ -90,3 +92,4 @@
 
 
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 临汾市地方立法条例
@@ -170,3 +171,4 @@
 第九章　附　　则
 
 第八十五条　本条例自2017年6月1日起施行。
+－1－　

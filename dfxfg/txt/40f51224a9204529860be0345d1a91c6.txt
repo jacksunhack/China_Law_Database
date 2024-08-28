@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广东省城镇房地产转让条例
 
@@ -92,3 +93,5 @@
 第三十二条  微利商品住宅、福利住宅的转让，按照本省人民政府的有关规定执行。
 第三十三条  本条例自1994年3月1日起施行。
 
+1
+	

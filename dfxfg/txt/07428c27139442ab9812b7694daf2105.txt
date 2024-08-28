@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区警务辅助人员条例
@@ -160,3 +161,5 @@
 第四十七条  本市人民法院、人民检察院和司法行政机关警务辅助人员的招聘、管理和保障，可以参照本条例执行。
 第四十八条  本条例自2017年12月1日起施行。
 
+ # 
+	

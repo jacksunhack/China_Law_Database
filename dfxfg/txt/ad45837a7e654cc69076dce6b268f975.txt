@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 商洛市养犬管理条例
 （2022年9月23日商洛市第五届人民代表大会常务委员会第三次会议通过  2022年12月1日陕西省第十三届人民代表大会常务委员会第三十七次会议批准）
@@ -142,4 +143,6 @@
 
 
 
+
+- 19 -
 

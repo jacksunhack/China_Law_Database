@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市矿产资源管理规定
@@ -58,3 +59,4 @@
 第二十八条　本规定自1998年1月1日起施行。
 
 
+1

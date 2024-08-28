@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁夏回族自治区贺兰山东麓
@@ -108,4 +109,3 @@
 第六章  附则
 
 第三十九条  本条例自2013年2月1日起施行。
-

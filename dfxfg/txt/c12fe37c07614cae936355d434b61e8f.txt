@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市城市市容管理条例
@@ -129,3 +130,4 @@
 第四十九条  本条例自2016年5月1日起施行。1994年10月27日大连市第十一届人民代表大会常务委员会第十三次会议通过的《大连市城市市容管理条例》同时废止。
 
 
+— ９ —

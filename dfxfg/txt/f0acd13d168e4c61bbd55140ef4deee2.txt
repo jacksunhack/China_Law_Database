@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市机动车停车条例
@@ -161,3 +163,4 @@
 第七章  附  则
 第六十七条　开发区管理委员会依照市人民政府授权，比照区县人民政府职责，负责辖区内机动车停车具体管理工作。
 第六十八条　本条例自2021年9月1日起施行。
+— # —

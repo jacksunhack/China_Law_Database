@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 焦作市中小学校幼儿园规划建设条例
@@ -117,3 +118,4 @@
 第三十八条  市城乡一体化示范区根据市人民政府的授权，依照本条例做好中小学校、幼儿园的规划和建设工作。
 第三十九条  本条例自2019年9月1日起施行。
 
+― 1 ―

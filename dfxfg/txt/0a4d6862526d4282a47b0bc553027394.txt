@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市市容和环境卫生管理条例
@@ -194,3 +195,4 @@
 
 
 
+1

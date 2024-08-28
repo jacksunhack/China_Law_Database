@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州山体保护条例
@@ -95,3 +97,4 @@
 
 　　第三十二条　自治州人民政府应当根据本条例制定实施细则；县市人民政府可根据本条例及实施细则制定具体办法，报自治州人民政府批准后实施。
 　　第三十三条　本条例自2016年7月1日起施行。
+1

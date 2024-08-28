@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 拉萨市村庄规划建设管理条例
     
@@ -132,4 +133,3 @@
 第六章  附  则
 
 第四十三条   本条例自 2019年1月1日起施行。
-

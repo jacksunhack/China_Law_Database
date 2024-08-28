@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海西蒙古族藏族自治州城镇市政
@@ -125,3 +126,4 @@
 
 　　第四十二条　本条例应用中的具体问题由自治州人民政府负责解释。
 　　第四十三条　本条例自2004年5月1日起施行。
+- 3 -　

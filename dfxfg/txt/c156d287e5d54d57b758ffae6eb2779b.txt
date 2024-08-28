@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市西湖龙井茶保护管理条例
@@ -131,4 +132,6 @@
 第四十一条  西湖龙井茶产区内基地的保护和管理，依照《杭州市西湖龙井茶基地保护条例》执行，基地之外茶地的保护和管理，可以参照执行。
 第四十二条  本条例自2022年3月1日起施行。
 
+
+#
 

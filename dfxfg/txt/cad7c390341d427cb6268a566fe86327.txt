@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市实施《中华人民共和国档案法》办法
 
@@ -118,3 +119,4 @@
 
 　　第三十九条　本办法自1998年1月1日起施行。
 
+－1－

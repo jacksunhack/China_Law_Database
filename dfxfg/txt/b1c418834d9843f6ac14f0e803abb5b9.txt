@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市专利保护规定
@@ -59,3 +60,4 @@
 （五）泄露当事人的商业秘密的。
 　　第二十六条　本规定自2005年1月1日起施行。
 
+- 1 -

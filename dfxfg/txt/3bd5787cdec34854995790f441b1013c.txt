@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省爱国卫生管理条例
@@ -89,3 +91,4 @@
 第三十二条　本条例具体应用的问题由省人民政府负责解释。
 第三十三条　本条例自1998年12月1日起施行。
 
+- 7 -

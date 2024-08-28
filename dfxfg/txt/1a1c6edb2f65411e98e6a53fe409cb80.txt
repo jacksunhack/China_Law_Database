@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 朔州市饮用水水源地保护条例
@@ -119,3 +120,4 @@
 第三十六条  未经省人民政府批复同意的饮用水水源地、水厂的保护，参照本条例有关规定执行。
 第三十七条  本条例自2019年5月1日起施行。 
 
+— 13 —

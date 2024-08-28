@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区南疆地区普及高中阶段
@@ -60,3 +61,4 @@
 第三十一条  违反本条例应当承担法律责任的其他行为，依照有关法律、法规的规定执行。
 第三十二条  本条例自2016年11月1日起实施。
 
+— 6 —

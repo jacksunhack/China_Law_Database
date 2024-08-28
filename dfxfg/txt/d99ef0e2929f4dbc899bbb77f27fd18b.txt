@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市禁毒条例
@@ -180,3 +181,4 @@
 第六十条  本条例自2013年3月1日起施行。
 
 
+- 28 -

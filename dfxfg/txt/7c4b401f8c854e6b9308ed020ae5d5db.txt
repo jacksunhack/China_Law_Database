@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州塔里木胡杨国家级
@@ -38,3 +39,6 @@
 第十九条　本条例自2007年9月1日起施行。
 
 
+- 1 -
+
+	

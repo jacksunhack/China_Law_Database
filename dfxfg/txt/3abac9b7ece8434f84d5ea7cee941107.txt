@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德州市扬尘污染防治条例
@@ -141,3 +142,4 @@
 第六章  附  则
 
 第四十四条  本条例自2019年3月1日施行。
+1

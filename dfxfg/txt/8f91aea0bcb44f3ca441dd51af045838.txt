@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市人民代表大会常务委员会关于市人民政府规章设定罚款限额的规定
@@ -16,3 +17,4 @@
 第七条  本规定自1997年8月1日起施行。
 
 
+— 3 —

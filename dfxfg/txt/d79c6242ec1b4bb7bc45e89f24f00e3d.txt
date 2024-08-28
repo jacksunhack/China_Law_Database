@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 霍尔果斯经济开发区条例 
@@ -115,3 +116,4 @@
 第七章  附  则
 
 第四十七条　本条例自2018年1月1日起施行。
+#

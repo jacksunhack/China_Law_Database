@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宿迁市城市管线管理条例
@@ -168,3 +170,5 @@
 第五十四条  本市、县中心城区以外区域的管线工程建设可以参照本条例实施。
 第五十五条  本条例自2022年5月1日起施行。
 
+
+─ # ─  

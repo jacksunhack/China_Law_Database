@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省消防条例
@@ -227,3 +228,4 @@
 第八章　附则
 
 　　第六十九条　本条例自2011年6月1日起施行。2000年3月31日湖北省第九届人民代表大会常务委员会第十七次会议通过的《湖北省实施〈中华人民共和国消防法〉办法》同时废止。
+1

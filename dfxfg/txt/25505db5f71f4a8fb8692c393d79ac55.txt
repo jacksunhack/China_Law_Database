@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 十堰市中心城区山体保护条例
@@ -114,3 +115,5 @@
 第七章　附则
 
 　　第三十七条　本条例自2017年2月1日起施行。
+
+26

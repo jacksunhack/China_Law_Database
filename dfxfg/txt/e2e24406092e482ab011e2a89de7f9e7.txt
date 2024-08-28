@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区建设工程施工安全条例
@@ -142,3 +143,4 @@
 第七章   附则
 
     第五十六条  本条例自1998年5月1日起施行。
+ # 

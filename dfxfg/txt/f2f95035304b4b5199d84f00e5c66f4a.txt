@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省实施《中华人民共和国档案法》办法
@@ -98,3 +99,4 @@
 　　第四十二条　本办法自公布之日起施行。
 
 
+— 11—

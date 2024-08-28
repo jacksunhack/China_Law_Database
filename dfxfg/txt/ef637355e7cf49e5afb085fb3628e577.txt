@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国老年人
@@ -186,3 +187,4 @@
 
 第七十一条  本办法自2016年3月1日起施行。
 
+1

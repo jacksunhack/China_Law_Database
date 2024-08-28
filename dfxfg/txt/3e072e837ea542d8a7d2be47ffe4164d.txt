@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省审计条例
@@ -175,3 +176,4 @@
 
 第四十八条  本条例自2015年6月1日起施行。《浙江省国有企业经理、厂长离任经济责任审计条例》同时废止。
 
+— 1—

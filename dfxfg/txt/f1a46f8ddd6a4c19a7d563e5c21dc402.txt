@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省蚕种管理条例
@@ -102,3 +103,4 @@
 第七章  附  则
 
 第四十五条  本条例自1996年3月1日起施行。1986年6月10日省人民政府发布的《四川省蚕种管理暂行条例(草案)》同时废止。
+— 9 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市市政设施管理条例
@@ -183,3 +184,4 @@
 第五十八条　本条例自2001年7月1日起施行。
 
 
+#

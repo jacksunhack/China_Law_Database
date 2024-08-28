@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 濮阳市农村生活垃圾治理条例
@@ -94,3 +95,4 @@
 
 第三十一条  濮阳经济技术开发区、河南濮阳工业园区、濮阳市城乡一体化示范区的农村生活垃圾治理工作参照本条例执行。
 第三十二条  本条例自2020年1月1日起施行。
+― 1 ―

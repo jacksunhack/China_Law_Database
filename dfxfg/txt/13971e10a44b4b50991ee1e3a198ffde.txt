@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市城市集中供热管理条例
@@ -121,3 +122,4 @@
     第五十条　本市市区内的生活热水供应和集中供冷及县（市）城市集中供热管理参照本条例执行。 
 　　第五十一条　市人民政府应当依照本条例制定实施细则。 
     第五十二条　本条例自公布之日起施行。
+— 6 —

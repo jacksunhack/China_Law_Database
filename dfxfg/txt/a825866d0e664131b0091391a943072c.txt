@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区社会信用条例
 
@@ -187,3 +188,4 @@
 
 第五十五条  本条例自2019年6月1日起施行。
 
+— # —

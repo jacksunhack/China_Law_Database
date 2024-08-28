@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区生态文明建设促进条例
@@ -140,3 +141,4 @@
 第六十五条  本条例自2014年3月1日起施行。
 
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长春高新技术产业开发区条例
@@ -112,3 +113,4 @@
 第五十三条 本条例自2003年10月1日起施行。
 1994年6月3日施行的《长春高新技术产业开发区管理条例》同时废止。
 
+#

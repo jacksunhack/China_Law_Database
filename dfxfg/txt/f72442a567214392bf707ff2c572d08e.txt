@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省华侨权益保护条例
@@ -84,3 +85,4 @@
 其他组织或者个人侵害华侨合法权益的，应当依法承担民事责任或者行政责任；构成犯罪的，依法追究刑事责任。
 第三十八条  本条例自公布之日起施行。
 
+— 9 —  

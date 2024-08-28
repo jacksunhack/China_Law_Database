@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市社会救助条例
@@ -176,3 +177,4 @@
 本条例所称的补充医疗保障计划，包括职工医疗互助保障计划、社区医疗互助帮困计划、少儿住院医疗互助基金等。
 第五十六条  本条例自2019年5月1日起施行。
 
+- 3 -

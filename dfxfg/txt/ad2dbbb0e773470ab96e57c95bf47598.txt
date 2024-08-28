@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市环境噪声污染防治条例
@@ -102,3 +104,4 @@
 （二）“夜间”是指北京时间二十二时至次日六时。
 第三十九条  本条例自2008年12月20日起施行。
 
+#

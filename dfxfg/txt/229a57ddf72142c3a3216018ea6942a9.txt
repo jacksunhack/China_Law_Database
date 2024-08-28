@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省实施《中华人民共和国工会法》办法
@@ -108,3 +109,4 @@
     
     第四十三条　本办法自2004年1月1日起施行。
 
+1

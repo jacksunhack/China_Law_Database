@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省人民代表大会常务委员会关于修改
@@ -111,3 +112,4 @@
 此外，对个别文字作了修改，并对条文顺序作相应调整。
 本决定自2022年10月1日起施行。
 《浙江省道路运输条例》根据本决定作相应修改,重新公布。
+－#－　

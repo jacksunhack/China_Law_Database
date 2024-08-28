@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市义务植树条例
@@ -56,3 +58,4 @@
 （三）挥霍浪费、贪污义务植树绿化费用的。
 第二十五条  义务植树责任单位未完成义务植树任务的，由旗县区人民政府林业行政主管部门处以一至二倍的罚款。 
 第二十六条  本条例自2009年7月1日起施行。
+#

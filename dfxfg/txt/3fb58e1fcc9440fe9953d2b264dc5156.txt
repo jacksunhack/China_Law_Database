@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昌吉回族自治州全民参与公益活动条例
@@ -123,3 +124,4 @@
 第五章  附  则
 
 第三十三条   本条例自2017年7 月1日起施行。
+- 1 -

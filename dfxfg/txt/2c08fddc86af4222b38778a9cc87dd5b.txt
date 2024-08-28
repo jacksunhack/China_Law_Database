@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省电梯安全管理条例
@@ -145,3 +146,6 @@
 第四十八条 本条例自2021年2月1日起施行。
 
 
+— - 1 - —
+
+	

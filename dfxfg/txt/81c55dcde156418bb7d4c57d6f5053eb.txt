@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区农村集体经济组织
@@ -76,3 +77,4 @@
 第二十九条  本条例自公布之日起施行。
 
 
+— 8 —

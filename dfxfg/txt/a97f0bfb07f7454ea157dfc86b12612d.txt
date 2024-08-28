@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市住宅物业管理规定
@@ -402,3 +403,4 @@
 第九十四条  非住宅物业管理，参照本规定执行。
 第九十五条  本规定自2011年4月1日起施行。
 
+- 1 -

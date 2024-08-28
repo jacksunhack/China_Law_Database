@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省促进科技成果转化条例
@@ -120,3 +121,4 @@
     第五十一条  驻粤高等学校、科学技术研究开发机构承担本省财政性资金资助项目开展科技成果转化活动的，参照本条例有关规定执行。
     第五十二条  本条例自2017年3月1日起施行。
 
+1

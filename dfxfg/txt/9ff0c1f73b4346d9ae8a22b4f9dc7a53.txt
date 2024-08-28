@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 附件2
 
 福建省林业有害生物防治条例
@@ -144,3 +145,4 @@
 
 
 
+— 1 —

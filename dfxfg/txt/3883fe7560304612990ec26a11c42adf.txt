@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 武汉市遗体捐献条例
 
@@ -70,3 +71,4 @@
 
 第二十二条  遗体捐献登记表、遗体捐献卡和遗体捐献纪念证书由市红十字会统一印制。
 第二十三条  本条例自2010年3月1日起施行。
+— # —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省环境保护条例
@@ -244,3 +246,4 @@
 第八十二条　本条例所指的小区域，包括小城镇、小流域、各类经济开发区、生态保护区及其他需要特定保护的区域。
     第八十三条　本条例自2015年7月1日起施行。
 
+- 35 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 景宁畲族自治县民族民间文化保护条例
@@ -108,3 +109,4 @@
 
 
 
+— 1—

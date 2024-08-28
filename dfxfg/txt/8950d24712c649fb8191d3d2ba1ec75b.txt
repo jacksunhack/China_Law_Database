@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省医疗纠纷预防和处理条例
@@ -220,3 +221,4 @@
 第七章　附　　则
 ​
 第六十二条　本条例自2022年7月1日起施行。
+－1－　

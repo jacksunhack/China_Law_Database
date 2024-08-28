@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市客运出租汽车管理条例
@@ -354,3 +355,4 @@
 （四）巡游车专用设施，包括专用标志灯、计程计价设备（含IC卡）、空车待租标志、监控管理和通讯设备、刷卡终端设备等。
 第七十六条  本条例自2022年12月1日起施行。
 
+— # —  

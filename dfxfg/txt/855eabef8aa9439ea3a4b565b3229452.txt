@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 深圳经济特区计量条例
  
@@ -124,3 +125,4 @@
 第五十一条　本条例未予规定的，依照计量法律、行政法规及国家市场监管部门制定的规章执行。javascript:void(0);
 第五十二条　本条例自1994年5月1日起施行。javascript:void(0);
 
+#

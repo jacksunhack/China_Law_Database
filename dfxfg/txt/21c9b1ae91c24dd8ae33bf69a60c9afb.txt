@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴里坤哈萨克自治县湿地保护条例
@@ -82,3 +83,4 @@
 第五章  附则
 
 第二十九条  本条例自2011年7月1日起施行。
+- 1 -

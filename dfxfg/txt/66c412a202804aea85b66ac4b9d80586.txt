@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省节约能源条例
@@ -170,3 +171,4 @@
 第八章  附则
 
 　　第五十五条  本条例自2009年11月1日起施行。
+- 17 -

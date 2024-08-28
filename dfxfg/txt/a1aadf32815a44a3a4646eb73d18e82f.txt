@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市少数民族权益保障条例
@@ -92,3 +94,4 @@
 
 　　第三十五条　本条例具体应用的问题由市民族事务行政主管部门负责解释。
 　　第三十六条　本条例自公布之日起施行。
+1

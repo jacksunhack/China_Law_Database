@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 西宁市控制吸烟条例
@@ -59,3 +60,4 @@
     第二十二条  法律、法规对控制吸烟工作另有规定的，从其规定。
     第二十三条  本条例自2015年5月1日起施行。
 
+#  

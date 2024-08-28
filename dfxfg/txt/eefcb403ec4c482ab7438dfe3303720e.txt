@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 天津市全民健身条例
@@ -117,3 +118,4 @@
 第六章　附　　则
 ​
 第五十条　本条例自2023年1月1日起施行。
+－1－　

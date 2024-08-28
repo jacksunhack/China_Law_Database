@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南平市城市防洪排涝管理办法
@@ -111,3 +112,4 @@
 第五章　附　　则
 ​
 第三十六条　本办法自2024年3月1日起施行。
+－1－　

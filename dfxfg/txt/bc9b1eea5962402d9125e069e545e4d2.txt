@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 合肥市地下综合管廊条例
@@ -100,3 +101,4 @@
 ​
 第三十三条　市人民政府应当依据本条例制定相应的实施细则。
 第三十四条　本条例自2024年1月1日施行。
+－1－　

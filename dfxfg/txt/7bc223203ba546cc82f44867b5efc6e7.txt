@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省地质勘查管理条例
@@ -148,3 +150,4 @@
 第五十二条　本条例具体应用中的问题，由省人民政府地质矿产主管部门负责解释。
 第五十三条　本条例自公布之日起施行。
 
+　— 1 —　

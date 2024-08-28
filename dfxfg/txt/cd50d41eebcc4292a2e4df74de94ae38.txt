@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 齐齐哈尔市再生资源回收利用管理条例
@@ -88,5 +89,4 @@
 第五章  附  则
 
 第三十六条  本条例自2011年12月1日起施行。
-
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国
@@ -58,3 +59,4 @@
     第三十一条  本办法第二条中规定的教育教学辅助人员，其从事教育教学工作的时间计入教龄。
     第三十二条  本办法自公布之日起施行。 
 
+- 3 -

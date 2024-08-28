@@ -1,8 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市商品交易市场管理条例
 
-（上海市第十二届人民代表大会
+（2005年11月25日上海市第十二届人民代表大会
 常务委员会第二十四次会议通过）
 
 目    录
@@ -89,3 +90,4 @@
 第六章　附则
 
 第三十五条　本条例自2006年3月1日起施行。
+- 9 -

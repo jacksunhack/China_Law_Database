@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市非税收入管理条例
@@ -130,3 +131,4 @@
 本溪市地方性法规
 
 
+— 1 —

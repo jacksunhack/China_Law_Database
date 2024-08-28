@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湘潭市人大常委会关于修改《湘潭市城市市容
@@ -35,3 +36,4 @@
 （七）将第四十条中的“五倍以上十倍以下”修改为“二倍以下”。
 本决定自公布之日起施行。
 《湘潭市城市市容和环境卫生管理条例》等三件地方性法规根据本决定修改后重新公布。
+－5－　

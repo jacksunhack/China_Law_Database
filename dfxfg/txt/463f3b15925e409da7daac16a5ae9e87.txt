@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省固体废物污染环境防治条例
@@ -231,3 +232,4 @@
 
 第八十四条  本条例自2023年3月1日起施行。
  
+—— 29 ——

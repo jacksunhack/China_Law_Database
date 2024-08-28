@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市民用建筑节能条例
@@ -163,3 +165,4 @@
 第九章　附则
 
 　　第六十四条　本条例自2014年3月1日起施行。
+— 3 —

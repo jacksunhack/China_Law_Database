@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省村民委员会选举办法
@@ -145,3 +146,4 @@
 第八章　附　　则
 ​
 第四十二条　本办法自公布之日起施行。
+－1－　

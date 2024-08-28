@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省畜牧条例
@@ -136,3 +137,4 @@
 　　本条例所称畜禽产品，是指来源于畜牧业的可供人类食用的肉、蛋、乳、脏器等畜禽初级产品。
 　　第五十三条　畜禽屠宰管理办法由省人民政府制定。
 　　第五十四条　本条例自2015年2月1日起施行。
+1

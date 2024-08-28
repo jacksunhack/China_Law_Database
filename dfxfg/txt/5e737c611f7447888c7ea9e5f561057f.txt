@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市植物保护条例
@@ -92,3 +93,4 @@
 　　第三十六条　城市园林管理部门管理的林木等植物，其病虫害防治工作由城市园林管理部门参照本条例执行。
 　第三十七条　本条例自2007年3月1日起施行。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

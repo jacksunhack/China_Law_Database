@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省土地利用总体规划条例
@@ -122,3 +123,4 @@
 　　（四）禁止建设区，是指具有重要资源、生态、环境、历史文化价值而必须禁止安排与保护功能不相符的建设项目的区域。
 　　第四十三条　本条例自2011年7月1日起施行。
 　
+— 13—

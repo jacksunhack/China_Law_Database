@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 菏泽市城镇容貌和环境卫生管理条例
@@ -280,3 +282,4 @@
 第六章  附则
 
 第七十六条  本条例自2016年12月1日起施行。
+- 1 -

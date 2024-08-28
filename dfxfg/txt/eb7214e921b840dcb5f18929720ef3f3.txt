@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省归侨侨眷企业事业权益保护条例
@@ -51,3 +52,4 @@
     第二十四条  本条例自1996年8月1日起施行。
 
 
+— 1 —  

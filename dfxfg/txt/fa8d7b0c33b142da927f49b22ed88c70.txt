@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省水文条例
@@ -116,3 +118,4 @@
 第八章  附则
 
 第三十五条  本条例自2009年3月22日起施行。2002年1月21日江苏省人民政府发布的《江苏省水文管理办法》同时废止。
+─ # ─  

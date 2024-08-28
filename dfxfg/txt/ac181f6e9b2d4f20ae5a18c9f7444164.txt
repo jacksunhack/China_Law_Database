@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省国家投资工程建设
@@ -178,3 +179,4 @@
 第六章  附  则
 
 第五十二条  本条例自2004年1月1日起施行。
+— 15 —  

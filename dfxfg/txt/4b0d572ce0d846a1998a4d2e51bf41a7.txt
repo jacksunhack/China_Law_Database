@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长阳土家族自治县城镇建设管理条例
@@ -186,3 +188,4 @@
 
 第六十二条  自治县所辖乡集镇和村庄建设区的规划、建设和管理，参照本条例执行。
 第六十三条  本条例自2016年9月1日起施行。
+— # —

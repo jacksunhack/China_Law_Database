@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 德阳市地方立法条例
 
@@ -140,3 +141,4 @@
 
 
 
+— 1 —  

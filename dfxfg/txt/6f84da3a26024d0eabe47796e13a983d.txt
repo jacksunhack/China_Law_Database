@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省盐湖资源开发与保护条例
@@ -38,3 +39,4 @@
 　　第二十五条　省人民政府可以根据本条例制定实施细则。
 　　第二十六条　本条例的具体应用问题，由省人民政府国土资源行政主管部门负责解释。
 　　第二十七条　本条例自2001年8月1日起施行。
+#　

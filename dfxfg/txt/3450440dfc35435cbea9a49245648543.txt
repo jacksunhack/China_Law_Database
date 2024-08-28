@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 云南省澜沧拉祜族自治县环境污染防治条例
 
@@ -51,3 +53,4 @@
 
 
 
+—— 1 ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省法律援助条例
@@ -150,3 +151,4 @@
 
 第四十二条  本条例自2014 年1 月1日起施行。江西省人民政府2007年1月10日发布的《江西省实施〈法律援助条例〉若干规定》同时废止。
 
+- 1 -

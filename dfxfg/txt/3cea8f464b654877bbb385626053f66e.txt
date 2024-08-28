@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施
@@ -157,3 +158,4 @@
 第七章  附则
 
 第五十五条  本办法自2010年10月1日起施行。
+#

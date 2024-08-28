@@ -1,3 +1,5 @@
+﻿　　　
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省旅游条例
@@ -146,3 +148,5 @@
 
 第五十六条　本条例自2016年5月1日起施行。2003年11月29日河北省第十届人民代表大会常务委员会第六次会议通过的《河北省旅游条例》同时废止。
 
+　—1—　　　
+　　　

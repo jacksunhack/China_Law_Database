@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省电力条例
@@ -135,3 +137,4 @@
 第七章　附则
 
 　　第五十一条　本条例自2014年8月1日起施行。2001年12月31日省人民政府公布的《河北省实施〈电力设施保护条例〉办法》同时废止。
+　— 1 —　

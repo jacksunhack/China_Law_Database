@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市节约用水管理条例
@@ -121,3 +122,5 @@
 （三）再生水是指以污废水为水源，经再生工艺净化处理后水质达到再利用标准的水。
 第四十五条  本条例自2019年9月1日起施行。
 
+—1—      
+  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省森林管理条例
@@ -163,3 +164,4 @@
 第六十二条  本条例所称采伐，包括采挖。
 本条例所称木材包括：原木、原条、锯材、原竹、竹材、人造板、木（竹）炭和省人民政府规定的其他木材。
 第六十三条  本条例自2004年7月1日起施行。
+— 17—

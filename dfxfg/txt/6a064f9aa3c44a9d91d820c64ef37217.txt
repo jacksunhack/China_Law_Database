@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省邮政条例
@@ -187,3 +189,4 @@
 
 第六十八条　本条例自2014年3月1日起施行。
 
+─ 1 ─  

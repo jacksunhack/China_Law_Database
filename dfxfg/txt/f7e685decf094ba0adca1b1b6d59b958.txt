@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 澳门特别行政区医疗人员在横琴粤澳深度
@@ -37,3 +38,4 @@
 第十八条　合作区卫生健康主管部门应当设立澳门医疗人员执业信息管理系统。
 澳门医疗人员的执业信息应当在合作区政务网站公布。
 第十九条　本规定自2023年8月1日起施行。
+－1－　

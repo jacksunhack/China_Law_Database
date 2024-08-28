@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省人民代表大会常务委员会关于在中国
@@ -17,3 +18,4 @@
 
 
 
+	— 1 —  

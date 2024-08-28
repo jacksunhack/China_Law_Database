@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省温瑞塘河保护管理条例
@@ -98,3 +99,4 @@
 　　第三十七条　本条例自2010年1月1日起施行。
 
 
+— 11—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 烟台市养犬管理条例
@@ -131,3 +132,4 @@
 
 
 
+1

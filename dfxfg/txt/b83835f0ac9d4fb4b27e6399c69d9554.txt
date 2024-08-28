@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市老年人权益保障办法
@@ -124,4 +126,6 @@
 第六章  附则
 
 第四十一条  本办法自公布之日起施行。
+
+- 1 -
 

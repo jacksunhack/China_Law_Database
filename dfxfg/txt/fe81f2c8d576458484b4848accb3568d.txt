@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省法律援助条例
@@ -136,3 +137,4 @@
 第八章  附则
 
     第四十七条  本条例自2002年6月1日起施行。
+－ 11 －

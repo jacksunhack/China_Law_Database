@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州天然林保护条例
@@ -52,3 +53,4 @@
 第五章  附  则
 第二十六条  人工林划为公益林的保护、管理和利用，参照本条例执行。
 第二十七条  本条例自2018年6月1日起施行。
+— 1 —

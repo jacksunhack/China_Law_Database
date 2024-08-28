@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 枣庄市锂电产业发展促进条例
@@ -84,3 +85,4 @@
 
 第四十一条　市人民政府应当依照本条例制定扶持促进锂电产业发展的配套办法。
 第四十二条　本条例自2023年10月1日起施行。
+－1－　

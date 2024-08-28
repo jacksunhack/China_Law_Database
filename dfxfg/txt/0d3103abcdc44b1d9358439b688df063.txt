@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 曲靖市多元化解纠纷促进条例
@@ -157,3 +159,4 @@
 第五十四条  本条例自2022年3月1日起施行。
 
 
+—— 1 ——

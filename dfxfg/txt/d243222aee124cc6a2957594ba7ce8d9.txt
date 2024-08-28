@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州非物质文化遗产保护条例
@@ -158,3 +160,4 @@
     第四十八条  本条例自2011年7月1日起施行。
 
 
+— 11 —

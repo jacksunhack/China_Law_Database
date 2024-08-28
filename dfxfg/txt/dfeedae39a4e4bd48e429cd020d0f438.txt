@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区水上交通安全条例
@@ -177,3 +178,4 @@
 （六）游艇俱乐部，是指为加入游艇俱乐部的会员提供游艇保管及使用服务而依法成立的组织。
 第五十八条　本条例自2016年1月1日起施行。
 
+1

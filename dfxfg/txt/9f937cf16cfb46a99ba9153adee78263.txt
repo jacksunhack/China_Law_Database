@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 莫力达瓦达斡尔族自治旗人民代表大会
 关于修改《莫力达瓦达斡尔族自治旗达斡尔
@@ -64,3 +66,6 @@
 
 
 
+
+
+#

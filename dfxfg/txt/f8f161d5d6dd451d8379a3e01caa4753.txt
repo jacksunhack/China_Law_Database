@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 察布查尔锡伯自治县立法条例
@@ -100,3 +101,4 @@
 
 第三十二条　本条例自2024年5月1日起施行。
 
+－1－　

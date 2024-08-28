@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 盐城市养犬管理条例
@@ -169,3 +171,4 @@
 
 
 
+─ # ─  

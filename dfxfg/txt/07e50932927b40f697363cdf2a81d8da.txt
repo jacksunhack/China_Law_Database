@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市城市供水管理条例
@@ -159,3 +160,4 @@
 第七章　附则
 
 　　第五十八条　本条例自1999年11月1日起施行，1993年7月25日杭州市人民政府颁布的《杭州市城市供水管理规定》同时废止。
+— 1—

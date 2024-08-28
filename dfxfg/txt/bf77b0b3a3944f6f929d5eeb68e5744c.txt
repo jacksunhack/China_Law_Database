@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市西夏陵保护条例
@@ -58,3 +59,6 @@
 第二十七条  有关部门及其工作人员在从事西夏陵保护工作中，滥用职权、玩忽职守、徇私舞弊的，依法给予处分；构成犯罪的，依法追究刑事责任。
 第二十八条  本条例自2016年10月1日起施行。
 
+                                                                                        
+                                                                                     #
+  

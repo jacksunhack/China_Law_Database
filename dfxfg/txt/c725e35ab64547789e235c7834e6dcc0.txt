@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省雷电灾害防御条例
@@ -54,3 +55,4 @@
 　　第二十五条　对违反本条例的行为，法律、行政法规已有处罚规定的，从其规定。
 　　第二十六条　本条例自2005年8月1日起施行。
 
+－ # －

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -54,3 +55,4 @@
 　　（三）在有关部门依法实施的监督检查中提供虚假情况的；
 　　（四）开标前泄露标底的。
 　　第二十九条　本办法自2005年8月1日起施行。
+1  

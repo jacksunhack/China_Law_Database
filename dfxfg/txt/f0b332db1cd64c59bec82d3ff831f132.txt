@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省肃北蒙古族自治县非物质
@@ -132,3 +134,4 @@
 第四十三条  本条例由自治县人民代表大会常务委员会负责解释。
 第四十四条  本条例自发布之日起施行。
 
+      — 1 —      

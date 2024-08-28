@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 钦州市绩效管理条例
@@ -88,3 +89,4 @@
 ​
 第三十三条　绩效管理领导机构确定的本条例第二条规定以外的其他纳入绩效管理范围的单位，参照本条例执行。
 第三十四条　本条例自2024年1月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌海市人民代表大会及其
@@ -159,3 +160,4 @@
 第六十六条　制定地方性法规的经费，由市财政主管部门根据市人民代表大会编制的年度立法计划列入预算。
 第六十七条　本条例自2016年７月１日起施行。
 
+#

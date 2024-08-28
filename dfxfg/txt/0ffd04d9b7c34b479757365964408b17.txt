@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区无线电管理条例
@@ -119,3 +120,4 @@
 第八章  附  则
 
 第四十三条  本条例自2011年5月1日起施行。自治区人民政府2004年2月26日发布的《内蒙古自治区无线电管理办法》同时废止。
+#

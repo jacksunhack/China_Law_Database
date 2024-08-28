@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 天水市伏羲文化保护传承条例
@@ -68,3 +69,4 @@
 第五章　附　　则
 ​
 第三十三条　本条例自2023年11月1日起施行。
+－1－　

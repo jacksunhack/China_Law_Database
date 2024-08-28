@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长治市不可移动文物保护条例
@@ -72,3 +73,5 @@
 
 
 
+1
+   

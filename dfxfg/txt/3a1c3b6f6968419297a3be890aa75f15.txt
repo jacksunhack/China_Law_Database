@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省错案和执法过错责任追究条例
@@ -106,3 +108,4 @@
 第三十四条　省司法、行政执法机关根据本条例可制定实施细则或者办法。省行政执法机关制定的细则或者办法，经省人民政府批准后施行。
 第三十五条　本条例自公布之日起施行。
 
+　— 1 —　

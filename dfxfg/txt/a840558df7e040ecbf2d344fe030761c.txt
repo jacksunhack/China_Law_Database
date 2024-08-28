@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡水湖水质保护条例
@@ -78,4 +79,3 @@
 　　违反本条例第三十条第五项规定，向水体丢弃农药、农药包装物或者清洗施药器械的，按照《河北省水污染防治条例》第七十一条的规定予以处罚。
 第六章　附　　则
 　　第三十五条　本条例自2019年3月1日起施行。
-

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市技术市场条例
@@ -91,3 +92,4 @@
 
 第三十五条  涉外技术贸易按照国家有关规定办理。
 第三十六条  本条例自1997年12月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省风景名胜区条例
@@ -129,3 +130,4 @@
 第六章　附　　则
 ​
 第五十一条　本条例自2012年1月1日起施行。1996年5月27日云南省第八届人民代表大会常务委员会第二十一次会议通过的《云南省风景名胜区管理条例》同时废止。
+－1－　

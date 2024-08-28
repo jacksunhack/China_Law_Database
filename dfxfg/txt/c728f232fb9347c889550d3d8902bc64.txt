@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 信阳市鲇鱼山水库饮用水水源保护条例
@@ -129,3 +130,4 @@
 
     第四十条  本条例所称的县，是指商城县。
 第四十一条  本条例自2017年10月1日起施行。
+― 1 ―

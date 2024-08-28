@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区物业管理条例
@@ -295,3 +296,5 @@
 　　（二）建筑物总面积，按照前项的统计总和计算；
 　　（三）业主人数，按照专有部分的数量计算。建设单位尚未出售的部分，按一人计算。
 　　第六十四条　本条例自2013年1月1日起施行。
+- 1 -
+ 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宜昌市黄柏河流域保护条例
@@ -135,3 +136,4 @@
 第四十二条  本条例自2018年2月16日起施行。
 
 
+— # —

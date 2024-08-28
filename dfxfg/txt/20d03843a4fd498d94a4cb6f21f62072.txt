@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河北省地震安全性评价管理条例
 （1995年12月26日河北省第八届人民代表大会
@@ -41,3 +42,4 @@
 第二十二条　本条例具体应用中的问题，由省防震减灾行政主管部门负责解释。
 　　第二十三条　本条例自一九九六年五月一日起施行。
 
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市人民代表大会常务委员会
@@ -71,3 +73,4 @@
 本决定自2022年1月1日起施行。
 《无锡市供水条例》根据本决定作相应修改并对条款顺序作相应调整，重新公布。
 
+─ # ─  

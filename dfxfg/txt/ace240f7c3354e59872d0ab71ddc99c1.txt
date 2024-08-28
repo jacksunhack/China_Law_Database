@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省建设工程造价管理条例
@@ -105,3 +106,4 @@
 
 第三十五条　抢险救灾及其他临时性房屋建筑和农民自建低层住宅的建筑活动，不适用本条例。
 第三十六条　本条例自2023年9月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 马鞍山市生活垃圾分类管理条例
@@ -142,3 +143,4 @@
 第七章　附　　则
 ​
 第四十一条　本条例自2021年5月1日起施行。
+－1－　

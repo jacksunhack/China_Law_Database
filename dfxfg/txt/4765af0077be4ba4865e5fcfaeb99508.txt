@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 延边朝鲜族自治州朝鲜语言文字工作条例
@@ -49,3 +50,4 @@
 第二十八条  本条例解释权属于自治州人民代表大会常务委员会。
 第二十九条  本条例自公布之日起施行。
 
+#

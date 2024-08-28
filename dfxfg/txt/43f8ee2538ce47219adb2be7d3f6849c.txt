@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
    
 
 广州市依法行政条例
@@ -194,3 +195,4 @@
 第七章  附则
 
     第七十一条  本条例自2017年5月1日起施行。
+1

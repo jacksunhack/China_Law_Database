@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省人民代表大会常务委员会
@@ -11,3 +13,4 @@
 二、乡改镇后，原来的乡人民代表即更名为镇人民代表，原任期不变。
 三、乡改镇后，乡长即改称为镇长，副乡长即改称为副镇长。
 
+─ 1 ─

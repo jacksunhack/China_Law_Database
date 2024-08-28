@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省气候资源保护和利用条例
@@ -115,3 +117,4 @@
 
 第三十八条  本条例自2018年8月1日起施行。
 
+*  11 —

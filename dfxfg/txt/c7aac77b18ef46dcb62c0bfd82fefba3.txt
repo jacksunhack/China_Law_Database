@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省行政执法监督条例
@@ -173,3 +174,4 @@
 
 第四十一条  对法律、法规授权组织的行政执法行为的监督，适用本条例的规定。
 第四十二条  本条例自2015年5月1日起施行。
+- 1 -

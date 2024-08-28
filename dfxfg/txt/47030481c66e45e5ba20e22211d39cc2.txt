@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长治市地方立法条例
@@ -140,3 +142,6 @@
 第八章  附则
 
     第五十九条  本条例自2017年7月1日起施行。 
+#
+
+               

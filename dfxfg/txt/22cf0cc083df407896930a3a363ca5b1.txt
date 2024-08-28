@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市机动车排气污染防治条例
@@ -49,7 +50,6 @@
 （五）其他不履行法定职责、滥用职权、徇私舞弊的行为。
 第二十条 法律、法规对机动车排气污染防治已有规定的，从其规定。
 第二十一条  本条例自2010年11月1日起施行。
-
 
 
 

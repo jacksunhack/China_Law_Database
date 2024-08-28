@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省初级卫生保健条例
 （1998年5月29日福建省第九届人民代表大会常务委员会第三次会议通过）
 
@@ -49,3 +50,4 @@
 第二十一条  本条例自公布之日起施行。
 
 
+—1—

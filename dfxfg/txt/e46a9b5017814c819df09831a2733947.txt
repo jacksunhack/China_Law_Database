@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门市人民代表大会常务委员会关于修改
 《厦门经济特区机动车排气污染防治条例》的决定
@@ -15,3 +16,4 @@
 本决定自公布之日起施行。
 《厦门经济特区机动车排气污染防治条例》根据本决定作相应修改，重新公布。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国义务教育法》办法
@@ -152,3 +153,4 @@
 
 第五十九条  本办法自2010年9月1日起施行。1991年8月15日湖南省第七届人民代表大会常务委员会第二十四次会议通过的《湖南省义务教育实施办法》同时废止。
 
+－1－  

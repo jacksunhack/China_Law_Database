@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区港口管理条例
@@ -139,3 +140,4 @@
 第五十七条  市人民政府可以依据本条例制定实施细则。
 第五十八条  本条例自1998年5月1日起施行。
 
+#

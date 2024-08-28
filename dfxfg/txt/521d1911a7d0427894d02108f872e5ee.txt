@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省露天矿山综合治理和生态修复条例
@@ -112,3 +113,4 @@
 第七章  附则
 
 第三十五条  本条例自2023年7月1日起施行。
+- 38 -

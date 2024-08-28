@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州防震减灾条例
@@ -236,3 +237,4 @@
 第五十七条  本条例自2019年8月1日起施行。
 
 
+— 25 —

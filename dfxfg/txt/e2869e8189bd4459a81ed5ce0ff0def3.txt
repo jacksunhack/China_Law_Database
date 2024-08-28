@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省地方金融监督管理条例
@@ -156,3 +157,4 @@
 
 第四十九条  投资公司、开展信用互助的农民专业合作社、社会众筹机构、地方各类交易场所的风险防范与处置参照本条例有关规定执行。
 第五十条  本条例自2022年10月1日起施行。
+#

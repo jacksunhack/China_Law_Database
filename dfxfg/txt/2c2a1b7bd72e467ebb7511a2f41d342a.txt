@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市城市绿线管理条例
@@ -47,3 +48,4 @@
     第十九条  本市行政区域内的县（市）人民政府所在地规划区内城市绿线的划定和监督管理，参照本条例执行。
     第二十条  本条例自2018年6月1日起施行。
 
+― 1 ―

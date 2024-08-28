@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区高新技术产业开发区条例
@@ -87,3 +88,5 @@
 　　第三十九条　高新区外经国家或者自治区科学技术行政部门认定的科技企业孵化器和大学科技园参照本条例有关规定执行。
 　　第四十条　本条例自2011年6月1日起施行。
 
+1
+ 

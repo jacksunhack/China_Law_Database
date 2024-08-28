@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区气象灾害防御条例
@@ -115,3 +117,4 @@
 
 　　第四十一条　本条例自2013年10月1日起施行。
 
+#

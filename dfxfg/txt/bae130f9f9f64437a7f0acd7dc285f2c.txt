@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市节约能源条例
@@ -140,3 +141,4 @@
 第四十一条  本条例自2020年1月1日起施行。
 
 
+— # —  

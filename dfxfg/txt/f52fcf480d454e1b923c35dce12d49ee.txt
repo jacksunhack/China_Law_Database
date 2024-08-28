@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宜春市温汤地热水资源保护条例
@@ -109,3 +110,4 @@
 第三十四条  宜春市行政区域内的其他地热水资源的保护可以参照本条例执行。
 第三十五条  本条例自2018年9月1日起施行。
 
+- 9 -

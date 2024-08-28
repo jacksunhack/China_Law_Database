@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省促进民营科技企业发展条例
@@ -82,3 +83,4 @@
 第三十七条  本条例具体应用中的问题，由省人民政府负责解释。
 第三十八条  本条例自2000年1月1日起施行。   
        
+#  

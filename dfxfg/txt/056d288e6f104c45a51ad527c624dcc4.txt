@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 荆门市长湖保护条例
@@ -118,3 +119,4 @@
 ​
 第四十五条　市人民政府派出的区域性管理委员会按照本条例有关县级人民政府的规定执行。
 第四十六条　本条例自2024年3月1日起施行。
+－1－　

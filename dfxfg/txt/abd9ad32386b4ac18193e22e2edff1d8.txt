@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施《中华人民共和国
@@ -145,3 +147,4 @@
 第六章  附则
 
 第四十九条  本办法自2014年6月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 四川省公共图书馆条例
@@ -156,3 +157,4 @@
 第六章　附　　则
 ​
 第五十六条　本条例自2024年7月1日起施行。
+－1－　

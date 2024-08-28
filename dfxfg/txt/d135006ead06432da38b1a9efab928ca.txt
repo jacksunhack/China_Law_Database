@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 广西壮族自治区
 促进散装水泥发展和应用条例
 
@@ -95,3 +97,4 @@
 　　第三十四条  本条例自2015年1月1日起施行。
 
 
+12

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省保护公民举报条例
@@ -28,3 +29,4 @@
 第十九条  港澳同胞、台湾同胞、华侨和外国人举报国家机关和国家工作人员的违纪、违法和犯罪行为，适用本条例。
 第二十条  本条例自公布之日起施行。
 
+- 1 - 

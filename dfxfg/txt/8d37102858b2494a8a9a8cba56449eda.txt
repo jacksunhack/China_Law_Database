@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区人民代表大会
@@ -28,3 +29,4 @@
 第十八条  专门委员会组成人员适用本守则。
 第十九条  本守则自通过之日起施行。
      
+#

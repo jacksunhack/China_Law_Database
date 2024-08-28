@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国民办教育促进法》实施办法
@@ -70,3 +71,4 @@
 第三十六条  本办法自2008年10月1日起施行。1998年12月18日四川省第九届人民代表大会常务委员会第六次会议通过的《四川省社会力量办学条例》同时废止。
 
 
+— 1 —

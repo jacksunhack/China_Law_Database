@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省科学技术普及条例
@@ -89,3 +91,4 @@
 
 第四十二条　本条例具体应用中的问题由省人民政府科学技术行政主管部门负责解释。
 第四十三条　本条例自公布之日起施行。
+　— 1 —　

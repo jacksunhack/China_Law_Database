@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 聊城市危险废物污染环境防治条例
@@ -82,3 +83,4 @@
 第四章　附　　则
 ​
 第二十三条　本条例自2024年1月1日起施行。
+－1－　

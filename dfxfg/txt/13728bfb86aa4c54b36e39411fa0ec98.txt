@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 怀化市城市市容和环境卫生管理条例
@@ -134,3 +136,4 @@
 
 第五十二条  本条例经湖南省人民代表大会常务委员会批准后，由怀化市人民代表大会常务委员会公布，自2018年1月1日起施行。
 
+— # —  

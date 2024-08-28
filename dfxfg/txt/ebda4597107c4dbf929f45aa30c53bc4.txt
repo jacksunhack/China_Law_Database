@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市市政工程设施管理条例
@@ -190,3 +191,4 @@
 
 第六十三条  本条例自2020年6月1日起施行。
 
+— 17 —  

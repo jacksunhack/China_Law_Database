@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市地下空间规划建设条例
@@ -100,3 +101,4 @@
 第三十四条  本条例所称结建，是指由同一主体结合地上建筑一并开发地下空间的建筑活动。
 本条例所称单建，是指独立开发地下空间的建筑活动。
 第三十五条  本条例自2014年4月1日起施行。
+- 1 -

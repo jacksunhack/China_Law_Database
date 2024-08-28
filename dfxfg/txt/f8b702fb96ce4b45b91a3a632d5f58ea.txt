@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
  固原市人民代表大会常务委员会关于修改
@@ -11,3 +13,4 @@
 本决定自公布之日起施行。
 《固原市城市环境卫生管理条例》根据本决定作相应修改，重新公布。
 
+— 1 —

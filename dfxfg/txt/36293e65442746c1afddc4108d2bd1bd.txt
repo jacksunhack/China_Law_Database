@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省铁路安全管理条例
@@ -144,3 +145,4 @@
 第五十五条  专用铁路、铁路专用线的安全管理，参照本条例的规定执行。法律、行政法规另有规定的，适用其规定。
 第五十六条  本条例自2022年5月1日起施行。
 
+— # —

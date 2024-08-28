@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市住宅区物业管理条例
@@ -495,3 +497,4 @@
 第八十六条  本条例自2022年3月1日起施行。
 
 
+─ # ─  

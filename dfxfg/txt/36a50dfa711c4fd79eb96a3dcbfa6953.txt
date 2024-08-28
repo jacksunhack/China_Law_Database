@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区地下综合管廊管理条例
@@ -101,3 +102,4 @@
 第三十七条  对管廊的规划、建设、维护、运营、档案信息等管理活动，本条例未作规定的，适用《珠海市地下管线管理条例》。
 第三十八条  本条例自2016年2月1日起施行。
 
+- 9 -

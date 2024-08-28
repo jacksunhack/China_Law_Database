@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市新型墙体材料
@@ -131,3 +132,4 @@
 第六章  附则
 
 第四十二条  本条例自2007年2月1日起施行。市人民政府2003年2月18日发布的《哈尔滨市墙体材料革新和建筑节能管理办法》同时废止。
+— 14 —

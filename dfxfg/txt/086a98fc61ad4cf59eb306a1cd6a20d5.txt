@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 济宁市泗河保护管理条例
 
 （2016年10月27日济宁市第十六届人民代表大会常务委员会第四十五次会议通过  2016年11月26日山东省第十二届人民代表大会常务委员会第二十四次会议批准）
@@ -150,3 +151,4 @@
 
 
 
+- 1 -

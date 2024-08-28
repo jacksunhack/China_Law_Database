@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区机动车辆通行附加费
@@ -116,3 +118,4 @@
 第四十四条  本条例自2011年1月1日起施行。2008年12月18日海南省人民政府发布的《海南省机动车辆通行附加费征收管理暂行规定》同时废止。
 
 
+1

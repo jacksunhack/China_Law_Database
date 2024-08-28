@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省农民承担费用和劳务管理条例
@@ -118,4 +119,6 @@
 第四十条  尚未设立集体经济组织的村，其管理职权可以由村民委员会代为行使。
 第四十一条  本条例自公布之日起施行。
 
+
+— 1 —
 

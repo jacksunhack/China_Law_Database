@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳市人民代表大会常务委员会议事规则
@@ -136,3 +137,4 @@
 ​
 第五十二条　常务委员会立法、监督、人事任免、决定重大事项等工作，本规则未作规定的，适用常务委员会相关法规规定。
 第五十三条　本规则自公布之日起施行。
+－1－　

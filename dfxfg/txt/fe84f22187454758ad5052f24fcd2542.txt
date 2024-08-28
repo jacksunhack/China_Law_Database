@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区维吾尔木卡姆艺术
@@ -58,3 +59,4 @@
 第二十六条　本条例自2010年10月1日起施行。
 
 
+— 1 —

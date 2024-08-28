@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 深圳经济特区智能网联汽车管理条例
 （2022年6月23日深圳市第七届人民代表大会
@@ -144,3 +145,4 @@
 
 第六十四条  本条例自2022年8月1日起施行。
 
+#

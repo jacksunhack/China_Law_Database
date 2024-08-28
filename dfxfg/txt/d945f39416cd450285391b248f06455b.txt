@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 巴彦淖尔市河套灌区水利工程保护条例
 
@@ -67,3 +68,4 @@
 
 
 
+#

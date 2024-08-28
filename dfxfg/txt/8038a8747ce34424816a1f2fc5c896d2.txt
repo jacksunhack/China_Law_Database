@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁波市广播电视管理条例
@@ -100,3 +101,4 @@
 第三十五条  本条例自2018年6月1日起施行。2000年12月1日起施行的《宁波市有线广播电视管理条例》同时废止。
 
 
+— 11—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市浦东新区市场主体退出若干规定
@@ -43,3 +44,4 @@
 人民法院作出终结强制清算程序或者终结破产程序的裁定的，登记机关应当依据申请办理注销登记。
 第十四条  本规定自2021年11月1日起施行。
 
+- 3 -

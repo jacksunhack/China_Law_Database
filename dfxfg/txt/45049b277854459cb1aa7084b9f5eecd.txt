@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 三都水族自治县都柳江渔业条例
@@ -47,3 +49,4 @@
 第二十七条  本条例自2011年8月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 合肥市制止餐饮浪费行为条例
@@ -69,3 +70,4 @@
 第四章　附　　则
 ​
 第二十八条　本条例自2020年11月1日起施行。
+－1－　

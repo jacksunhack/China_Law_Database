@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 徐州市景区土地和建筑物管理条例
@@ -41,3 +43,4 @@
 （五）其他滥用职权、玩忽职守、徇私舞弊等行为。
 第十八条  本条例自2017年3月1日起施行。
 
+─ # ─

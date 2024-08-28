@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 陕西省实施《中华人民共和国城市居民
 委员会组织法》办法
 
@@ -58,3 +60,4 @@
 第二十五条　本办法适用镇、乡、民族乡的人民政府管辖区域内设立的居民委员会。
 第二十六条　本办法由本省各级人民政府组织实施。 
 第二十七条　本办法自公布之日起施行。
+#

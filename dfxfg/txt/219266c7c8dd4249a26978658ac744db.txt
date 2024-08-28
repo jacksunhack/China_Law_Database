@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恭城瑶族自治县森林资源管理条例
@@ -114,3 +116,4 @@
 第七章  附则
 
 第四十条 本条例自2021年7月1日起施行。
+#

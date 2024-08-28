@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽阳市人民代表大会及其常务委员会立法条例
@@ -153,3 +154,4 @@
 第九章　附　　则
 
 　　第七十条　本条例自2016年4月1日起施行。
+— 25 —

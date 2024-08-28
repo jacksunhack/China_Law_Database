@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区导游人员管理规定
@@ -99,4 +100,6 @@
 第三十五条  在省内经济特区以外区域的导游监督管理工作，参照本规定执行。
 本规定的具体应用问题，由省人民政府负责解释。
 第三十六条  本规定自2011年2月1日起施行。
+
+1
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省法律援助条例
@@ -176,3 +177,4 @@
 第七章　附则
 
 第四十二条  本条例自2016年1月1日起施行。
+#  

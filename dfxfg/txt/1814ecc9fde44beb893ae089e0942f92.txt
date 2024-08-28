@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省实施《中华人民共和国
@@ -98,3 +100,4 @@
 第三十五条  本办法所称乡镇是指乡、民族乡、镇。
 第三十六条  本办法自公布之日起施行。
 
+—1—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湘西土家族苗族自治州气象灾害防御条例
@@ -95,3 +96,4 @@
 第七章  附则
  
 第三十五条  【实施日期】本条例自2019年3月1日起施行。
+－1－  

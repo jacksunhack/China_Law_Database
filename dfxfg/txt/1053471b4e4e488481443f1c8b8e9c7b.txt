@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -67,4 +68,6 @@
 第三十五条  国营农（林）场及其职工设立专业合作社，参照本办法执行。
 第三十六条  本办法自2010年3月1日起施行。
 
+
+— 1 —
 

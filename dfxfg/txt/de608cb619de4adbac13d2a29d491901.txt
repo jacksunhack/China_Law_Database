@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国
@@ -120,3 +121,4 @@
     (七)防雷装置，是指接闪器、引下线、接地装置、电涌保护器及其他连接导体等防雷产品和设施的总称。
     第三十六条  本办法自2001年12月1日起施行。
 
+- 1 -

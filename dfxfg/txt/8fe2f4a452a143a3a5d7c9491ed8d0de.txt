@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 晋城市沁河流域生态修复与保护条例
 
@@ -134,3 +135,4 @@
 第七章  附  则
 
 第五十四条  本条例自2021年10月1日起实施。
+— 11 —

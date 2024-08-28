@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 鞍山市促进中小企业发展条例
@@ -99,3 +100,4 @@
 第八章　附　　则
 ​
 第三十六条　本条例自2012年7月1日起施行。
+－1－　

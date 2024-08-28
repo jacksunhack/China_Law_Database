@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 武汉市人力资源市场促进条例
@@ -101,3 +102,4 @@
 第五章　附　　则
 ​
 第三十八条　本条例自2024年6月1日起施行。
+－1－　

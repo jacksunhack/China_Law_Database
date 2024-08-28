@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市摩托车管理规定
@@ -22,3 +24,4 @@
 第十二条  行政执法部门及其工作人员滥用职权、徇私舞弊、玩忽职守的，由其所在单位或者上级主管部门给予行政处分；构成犯罪的，依法追究刑事责任。
 第十三条  本规定自2012年6月1日起施行。
 
+— 3 —

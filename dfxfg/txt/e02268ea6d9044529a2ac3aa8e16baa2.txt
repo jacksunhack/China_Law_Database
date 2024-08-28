@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市专利促进与保护条例
@@ -109,3 +111,4 @@
 
 第三十九条  本条例自2009年8月1日起施行。
 
+#

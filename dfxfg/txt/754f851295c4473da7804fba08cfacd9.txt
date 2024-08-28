@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省高新技术产业发展条例
@@ -82,3 +83,4 @@
 （二）滥用职权审批扶持资金或者其他专项资金的；
 （三）利用职权徇私舞弊，牟取非法利益的；
 （四）其他违法行使职权的行为。
+— 1 —

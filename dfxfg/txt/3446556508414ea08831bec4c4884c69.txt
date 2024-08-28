@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市流动人口服务管理条例
@@ -105,3 +106,4 @@
 第四十条 本条例自2008年11月1日起施行。
 
 
+#

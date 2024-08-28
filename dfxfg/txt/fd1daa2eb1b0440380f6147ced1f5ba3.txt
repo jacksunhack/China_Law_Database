@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 六盘水市集中式饮用水水源保护条例
@@ -110,3 +111,4 @@
 第三十八条  六盘水市人民政府应当根据本条例制定具体实施办法。
 第三十九条  本条例自2021年5月1日起施行。
 
+— 1 —

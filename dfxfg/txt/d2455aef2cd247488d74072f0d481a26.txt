@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区人民代表大会常务委员会
@@ -11,4 +12,3 @@
 一、胡杨河市耕地占用税适用税额标准为每平方米十五元。
 二、新星市耕地占用税适用税额标准为每平方米十八元。
 三、本决定自公布之日起施行。
-

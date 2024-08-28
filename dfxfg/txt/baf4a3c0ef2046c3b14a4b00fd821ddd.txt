@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 梧州市中心城区绿化条例
@@ -145,3 +146,4 @@
 第四十八条　本市城区中不纳入中心城区城镇开发边界（市本级）范围的区域和各县（市）的建制镇规划区范围内城市绿化管理可以参照本条例执行。
 第四十九条　本条例自2023年7月1日起施行。
 
+－1－　

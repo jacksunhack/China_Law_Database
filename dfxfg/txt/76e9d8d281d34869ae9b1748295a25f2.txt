@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 怀化市村庄规划和村民建房管理条例
@@ -59,3 +60,4 @@
 
 
 
+－1－  

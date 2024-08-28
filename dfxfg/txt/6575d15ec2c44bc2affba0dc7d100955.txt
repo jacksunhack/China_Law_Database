@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省太湖风景名胜区条例
@@ -104,3 +106,4 @@
 第六章  附则
 
 第四十条  本条例自2007年6月1日起施行。
+─ 1 ─  

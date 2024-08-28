@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市实施《中华人民共和国
@@ -55,3 +56,4 @@
 第二十一条  本办法自1989年6月1日起施行。
 
 
+—1—  

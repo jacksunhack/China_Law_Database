@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 江西省社会信用条例
 
@@ -192,4 +193,3 @@
        
 第六十二条  征信业的监督管理，依照法律、行政法规的有关规定执行。
 第六十三条  本条例自2022年3月1日起施行。
-

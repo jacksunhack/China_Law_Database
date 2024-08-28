@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桂林市养犬管理条例
@@ -152,3 +154,4 @@
 第三十五条  本条例自2022年7月1日起施行。
 
 
+#

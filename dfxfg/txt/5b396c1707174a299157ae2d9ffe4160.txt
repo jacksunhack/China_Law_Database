@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市旅游管理条例
@@ -96,3 +97,4 @@
     第四十三条  本条例自2007年5月1日施行。济南市人民代表大会常务委员会颁布，于2000年1月1日起施行的《济南市旅游业管理条例》同时废止。
  
 
+— 10 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市精神卫生条例
@@ -123,3 +125,4 @@
 
 　　第五十条　精神障碍及重性精神障碍的诊断标准由卫生行政部门按照国家有关规定确定。
 　　第五十一条　本条例自2010年9月1日起施行。
+1

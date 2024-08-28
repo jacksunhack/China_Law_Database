@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市公共文化服务保障与促进条例
@@ -188,3 +189,4 @@
 
 第六十九条  本条例自2021年1月1日起施行。
 
+- 1 -

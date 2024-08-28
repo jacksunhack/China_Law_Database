@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区商事登记条例
@@ -136,3 +138,4 @@
 
 第四十一条　市人民政府应当根据本条例制定实施办法。
 第四十二条　本条例自2014年1月1日起施行。《厦门经济特区企业登记管理条例》同时废止。
+#

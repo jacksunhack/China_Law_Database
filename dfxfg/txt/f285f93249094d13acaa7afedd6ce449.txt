@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 孝感市电动自行车管理条例
 
@@ -110,3 +111,4 @@
 
 第六章  附则
     第三十二条  本条例自2022年1月1日起施行。
+— # —

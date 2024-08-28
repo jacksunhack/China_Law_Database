@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁德市霍童溪流域保护条例
@@ -98,3 +100,4 @@
 第三十九条  本条例自2019年7月1日起施行。
 	
 
+— 1 —

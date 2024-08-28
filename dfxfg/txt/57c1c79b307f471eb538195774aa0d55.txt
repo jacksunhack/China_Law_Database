@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省民兵预备役工作条例
@@ -115,3 +116,4 @@
 
 　　第四十三条　本条例的具体应用问题由省人民政府负责解释。省人民政府、省军区可以制定执行本条例的有关规定。
 　　第四十四条　本条例自2000年9月1日起施行。
+#　

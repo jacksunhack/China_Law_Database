@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市城市市容和环境卫生管理条例
@@ -155,3 +156,4 @@
 第五十四条　本条例自2003年１月１日起施行。1990年3月10日宁夏回族自治区第六届人民代表大会常务委员会第十一次会议批准的《银川市市容环境卫生管理规定》同时废止。
 
 
+- 1 -

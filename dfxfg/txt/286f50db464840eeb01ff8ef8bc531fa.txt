@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市湿地保护条例
@@ -180,3 +181,4 @@
 　　第六十条　未列入名录的湿地由区、县人民政府根据实际情况，参照本条例有关规定实施保护。
 　　第六十一条　本条例自2017年1月1日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市爱国卫生条例
@@ -85,3 +86,4 @@
 第三十六条  爱卫会办公室及其工作人员在爱国卫生工作中，滥用职权、徇私舞弊、玩忽职守的，由行政监察机关给予行政处分。
 第三十七条  本条例自2003年7月1日起施行。
 
+— 3 —

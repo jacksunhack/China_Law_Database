@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 吉林省民用建筑节能与发展新型墙体材料条例
@@ -104,3 +105,4 @@
 第三十八条　民用建筑以外的其他建筑参照本条例执行。
 第三十九条　公共机构建筑节能工作，法律法规另有规定的，从其规定。
 第四十条　本条例自2010年9月1日起施行。
+－1－　

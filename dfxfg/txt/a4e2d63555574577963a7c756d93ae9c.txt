@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 威宁彝族回族苗族自治县草海保护条例
@@ -87,4 +88,6 @@
 第二十七条  本条例未规定处罚的其他违法行为，法律法规有规定的，从其规定。
 第二十八条  自治县人民政府根据本条例制定实施细则。
 第二十九条  本条例自2001年3月1日起施行。
+
+— 7 —
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市安全生产条例
@@ -330,3 +331,4 @@
 第九十条  本条例第三十八条、第三十九条涉及的生产经营单位从业人员的人数，包括接受其作业指令的劳务派遣人员、灵活用工人员的人数。
 第九十一条  本条例2021年12月1日起施行。
 
+- 37 -

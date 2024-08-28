@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省街道人大工作条例
 
@@ -39,3 +40,4 @@
 第十五条　本条例自2022年12月1日起施行。
 
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰安市生活垃圾分类管理条例
@@ -179,3 +180,4 @@
 （七）收集设施，是指用于分类收集生活垃圾的果皮箱、垃圾桶等容器，以及垃圾箱房、桶站等设施。
 第五十六条 本条例自2020年11月1日起施行。
 
+1

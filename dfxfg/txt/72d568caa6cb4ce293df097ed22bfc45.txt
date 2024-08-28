@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市市政设施管理办法 
 
@@ -127,3 +128,4 @@
 
 第五十二条　本市城市规划区范围以外的市政设施管理，参照本办法执行。
 第五十三条　本办法自公布之日起施行。
+—#—

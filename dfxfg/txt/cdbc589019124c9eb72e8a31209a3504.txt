@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
             
 
 贵阳市市政设施管理办法
@@ -143,3 +145,4 @@
 第七章　附　则
 
 第四十四条　本办法自公布之日起施行。本市过去发布的有关市政工程设施管理办法同时废止。
+—2—

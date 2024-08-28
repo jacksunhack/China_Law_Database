@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区促进私营个体经济发展条例
@@ -116,3 +118,4 @@
 本经济特区以外的省内私营企业、个体工商户参照本条例执行。
 第五十三条　本条例具体应用的问题由省人民政府负责解释。
 第五十四条　本条例自2004年7月1日起施行。
+- 7 -

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州实施
@@ -71,3 +73,4 @@
     《阿坝藏族羌族自治州施行<四川省《中华人民共和国草原法》实施细则>的补充规定》同时废止。
 
 
+— 9 —

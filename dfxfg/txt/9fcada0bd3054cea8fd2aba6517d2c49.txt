@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区柑橘黄龙病防控规定
@@ -59,3 +61,4 @@
     第二十七条  违反本规定的行为，法律、法规已有法律责任规定的，从其规定。
 第二十八条  本规定自2019年11月1日起施行。
 
+#

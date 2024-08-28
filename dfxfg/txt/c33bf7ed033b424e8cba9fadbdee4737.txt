@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市中华鲟保护管理条例
@@ -101,3 +102,4 @@
 
 第三十九条  江豚、胭脂鱼、松江鲈等国家重点保护的其他珍稀、濒危水生野生动物，按照相关法律、法规的规定实施保护管理。
 第四十条  本条例自2020年6月6日起施行。
+- 11 -

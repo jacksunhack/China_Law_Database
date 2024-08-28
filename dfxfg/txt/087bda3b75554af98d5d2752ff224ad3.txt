@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市工业节能条例
@@ -127,3 +128,4 @@
 
 第四十九条　开发区管理委员会依照市人民政府授权，比照区县人民政府职责，负责开发区范围内的工业节能监督管理工作。
 第五十条　本条例自2022年3月1日起施行。
+— # —

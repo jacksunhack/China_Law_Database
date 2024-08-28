@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 迪庆藏族自治州人民代表大会及其
@@ -118,3 +119,4 @@
 第五章　附　　则
 ​
 第五十条　本条例自公布之日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 徐州市矛盾纠纷预防化解条例
@@ -126,3 +127,4 @@
 第五章　附　　则
 ​
 第五十四条　本条例自2024年1月1日起施行。
+－1－　

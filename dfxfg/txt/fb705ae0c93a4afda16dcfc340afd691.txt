@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 舟山市城市绿化条例
@@ -132,3 +133,4 @@
 （五）其他绿地：指对城市生态环境质量、居民休闲生活、城市景观和生物多样性保护具有直接影响的绿地。
 第四十四条  本条例自2018年7月1日起施行。
 
+— 1—

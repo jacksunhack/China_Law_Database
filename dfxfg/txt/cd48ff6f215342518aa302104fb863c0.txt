@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《中华人民共和国水法》办法
@@ -134,3 +136,4 @@
 
 第五十八条  本办法自2005年1月1日起施行。
 
+      — 1 —      

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 果洛藏族自治州藏传佛教事务条例
@@ -153,3 +154,4 @@
 
 　　第五十二条　本条例由州人民政府负责解释。
 　　第五十三条　本条例自批准之日起施行。
+- 3 -　

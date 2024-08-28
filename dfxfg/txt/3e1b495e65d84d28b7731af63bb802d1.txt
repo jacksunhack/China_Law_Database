@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区海域海岛保护条例
@@ -174,4 +175,6 @@
 第六章  附  则
 
 第六十六条  本条例自2019年5月1日起施行。
+
+#
 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国归侨侨眷
@@ -51,3 +53,4 @@
 第二十七条　本办法自公布之日起施行。
 
 
+　— 1 —　

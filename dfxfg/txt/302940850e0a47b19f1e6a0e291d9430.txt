@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉树藏族自治州野生动物资源保护管理条例
@@ -48,3 +49,4 @@
 　　第二十四条　州人民政府可以根据本条例制定实施细则。
 　　本条例的具体应用问题由州农（畜）牧部门负责解释。
 　　第二十五条　本条例自颁布之日起施行。
+- 3 -　

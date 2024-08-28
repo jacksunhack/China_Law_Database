@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省生态文明建设促进条例
@@ -120,3 +121,4 @@
 
 　　第七十五条　本条例的配套规定由省人民政府制定。
 　　第七十六条　本条例自2015年3月1日起施行。
+#　

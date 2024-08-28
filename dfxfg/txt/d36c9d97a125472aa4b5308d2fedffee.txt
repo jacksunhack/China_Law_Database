@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黑龙江省优化营商环境条例
 
@@ -297,3 +298,4 @@
 本条例所称工作人员，是指代表本部门、本单位履行公职的公务员、事业单位人员以及雇员、聘用人员。
 第一百零四条  本条例自2023年3月1日起施行。
 
+— # —

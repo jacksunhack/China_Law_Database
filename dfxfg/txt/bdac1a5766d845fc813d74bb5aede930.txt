@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴中市烟花爆竹燃放管理条例
@@ -49,3 +50,4 @@
 第十八条  孔明灯的燃放管理参照适用本条例。
 第十九条  本条例自2022年1月1日起施行。
 
+— 1 — 

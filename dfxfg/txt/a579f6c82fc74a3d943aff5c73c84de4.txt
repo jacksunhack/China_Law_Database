@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州燃气管理条例
@@ -155,3 +157,4 @@
 
 
 
+#

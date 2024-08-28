@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省工会劳动法律监督条例
@@ -106,3 +108,4 @@
     第二十八条  《工会劳动法律监督员证》《工会劳动法律监督意见书》和《工会劳动法律监督建议书》的格式文本由省总工会统一制定。 　
     第二十九条  本条例自2017年9月1日起施行。
 
+- 0 -

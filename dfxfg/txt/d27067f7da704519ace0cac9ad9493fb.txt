@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 揭阳市停车场管理条例
@@ -194,3 +195,4 @@
 第八章　附　　则
 ​
 第五十条　本条例自2024年5月1日起施行。
+－1－　

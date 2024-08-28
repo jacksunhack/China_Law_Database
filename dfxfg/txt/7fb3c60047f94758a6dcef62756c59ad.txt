@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省河长制湖长制规定
@@ -62,3 +63,4 @@
 第二十二条　本省实施湾长制可以参照本规定执行。
 第二十三条　本规定自2018年11月1日起施行。
 
+- 5 -

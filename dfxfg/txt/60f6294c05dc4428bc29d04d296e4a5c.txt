@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省测绘条例
@@ -93,3 +95,4 @@
 第七章　附  则
 
 第三十三条  本条例自2005年11月1日起施行。1998年7月24日贵州省第九届人民代表大会常务委员会第三次会议通过的《贵州省测绘管理条例》同时废止。
+— 1 —

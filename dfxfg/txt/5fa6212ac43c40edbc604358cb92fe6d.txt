@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳经济特区海域污染防治条例
@@ -146,3 +147,4 @@
 第八章　附　　则
 ​
 第六十六条　本条例自2024年1月1日起施行。
+－1－　

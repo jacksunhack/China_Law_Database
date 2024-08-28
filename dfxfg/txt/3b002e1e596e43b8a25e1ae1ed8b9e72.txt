@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省第九届人民代表大会常务委员会
 组成人员守则
 （1998年1月19日福建省第九届人民代表大会常务委员会第一次会议通过）
@@ -21,3 +22,4 @@
 第十三条  本守则自通过之日起施行。
 
 
+—1—

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宿迁市农村公路条例
@@ -126,3 +128,4 @@
 街道办事处履行农村公路相关职责、居民委员会承担农村公路相关工作的，适用本条例关于乡镇人民政府、村民委员会的规定。
 第四十七条  本条例自2022年12月31日起施行。
 
+─ # ─  

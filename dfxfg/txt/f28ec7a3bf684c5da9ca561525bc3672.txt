@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 达州市莲花湖湿地保护条例
@@ -79,3 +80,4 @@
 第五章  附  则
 
 第三十四条  本条例自2018年7月1日起施行。
+— 7 —  

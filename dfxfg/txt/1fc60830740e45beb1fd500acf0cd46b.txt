@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省固体废物污染环境防治条例
@@ -145,3 +146,4 @@
 第十章  附  则
 第七十条  本条例自2021年5月1日起施行。
 
+— 1 —

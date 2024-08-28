@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州物业管理办法
@@ -183,3 +185,4 @@
 
 第三十八条  本办法自2019年3月1日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 呼和浩特市社会治理促进条例
@@ -132,3 +133,4 @@
 第九章　附　　则
 ​
 第六十三条　本条例自2022年11月1日起施行。
+－1－　

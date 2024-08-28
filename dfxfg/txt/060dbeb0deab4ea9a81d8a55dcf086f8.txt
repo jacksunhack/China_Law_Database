@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安康市地方立法条例
@@ -214,3 +215,4 @@
 第五章　附　　则
 ​
 第八十二条　本条例自公布之日起施行。
+－1－　

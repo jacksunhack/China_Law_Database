@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 焦作市大气污染防治条例
@@ -102,3 +103,4 @@
     第四十一条  市城乡一体化示范区管理委员会按照市人民政府授权的管理范围，依照本条例做好辖区内大气污染防治工作。
 第四十二条  本条例自2019年11月1日起施行。
 
+― 1 ―

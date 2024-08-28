@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 芜湖经济技术开发区国有土地使用权
@@ -93,3 +94,4 @@
 
 第三十三条　本办法具体应用中的问题授权芜湖市人民政府负责解释。 
 第三十四条　本办法自发布之日起施行。
+- 28 -

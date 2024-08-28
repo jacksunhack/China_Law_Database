@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宜宾市机动车停车条例
@@ -105,3 +106,4 @@
 第三十一条  县级人民政府按照因地制宜、切实可行的原则，可以决定本级行政区域内其他中心镇参照执行本条例规定。
 第三十二条  本条例自2022年9月1日起施行。
 
+ — # —  

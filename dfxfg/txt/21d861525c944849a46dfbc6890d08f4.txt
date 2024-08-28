@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 海南省实施《中华人民共和国老年人
 权益保障法》若干规定 
@@ -110,3 +111,4 @@
 　　第三十六条 本规定具体应用中的问题由省人民政府负责解释。 
 　　第三十七条 本规定自2007年3月1日起施行。
 
+2

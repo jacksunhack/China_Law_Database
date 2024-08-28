@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市艾滋病性病防治条例
@@ -91,3 +93,4 @@
 第七章  附则
 
 第四十七条  本条例自2006年5月1日起施行。
+#　

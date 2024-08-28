@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国
@@ -46,3 +47,4 @@
 第十九条  本办法具体应用中的问题，由省人民政府台湾事务主管部门负责解释。
 第二十条  本办法自1995年10月１日起施行。
 
+- 1 -

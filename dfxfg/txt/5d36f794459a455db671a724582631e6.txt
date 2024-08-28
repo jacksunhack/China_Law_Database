@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -58,4 +59,6 @@
 第二十七条  本办法实施中的具体问题由省民政厅负责解释。
 第二十八条  本办法自公布之日起施行。
 
+
+— 1 —
 

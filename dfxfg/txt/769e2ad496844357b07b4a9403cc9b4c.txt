@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区全方位建设
@@ -102,3 +103,4 @@
 第九章　附　　则
 
 第六十六条　本条例自2023年9月1日起施行。
+－1－　

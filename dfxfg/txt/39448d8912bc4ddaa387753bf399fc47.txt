@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 景宁畲族自治县畲医药发展条例
@@ -90,3 +91,4 @@
 第六章　附　　则
 ​
 第二十八条　本条例自2023年8月1日起施行。
+－1－　

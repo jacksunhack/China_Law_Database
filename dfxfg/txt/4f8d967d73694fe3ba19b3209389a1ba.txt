@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 西藏自治区登山条例
@@ -110,3 +111,4 @@
 ​
 第三十二条　外国人在自治区行政区域内开展登山活动，适用国家有关规定。
 第三十三条　本条例自2023年11月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市实施《中华人民共和国
@@ -93,3 +94,4 @@
 （三）侵犯农民专业合作社成员生产经营自主权和其他合法权益的；
 （四）其他违法行为。
 第三十六条  本办法自2011年7月1日起施行。
+— 4 —

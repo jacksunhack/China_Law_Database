@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡水市非物质文化遗产保护条例
@@ -76,3 +77,4 @@
 第二十八条　本条例关于县（市、区）人民政府的规定，适用于衡水高新区管委会和滨湖新区管委会。
 第二十九条　本条例自2023年9月1日起施行。
 
+－1－　

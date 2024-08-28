@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 临汾市农村自建房屋质量管理办法
 
@@ -56,3 +57,4 @@
 第六章  附则
 第二十八条  本办法自2021年1月1日起施行。
 
+5

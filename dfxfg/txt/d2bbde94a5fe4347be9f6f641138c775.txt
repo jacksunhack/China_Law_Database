@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陇南市农村留守儿童关爱保护条例
@@ -82,3 +84,4 @@
 第五章  附    则
 
 第三十九条  本条例自2021年6月1日起施行。
+      — # —    

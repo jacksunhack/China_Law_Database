@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南自由贸易港土地管理条例
@@ -270,3 +271,4 @@
 
 第七十七条　本条例自2023年5月1日起施行。《海南经济特区土地管理条例》同时废止。
 
+－1－　

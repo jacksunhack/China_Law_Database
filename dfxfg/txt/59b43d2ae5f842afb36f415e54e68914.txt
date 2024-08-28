@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市企业职工工资集体协商条例
@@ -104,3 +105,4 @@
 第三十三条  企业化管理的事业单位、民办非企业单位可参照本条例执行。
 第三十四条  本条例自2012年2月1日起施行。
 
+— 1 —

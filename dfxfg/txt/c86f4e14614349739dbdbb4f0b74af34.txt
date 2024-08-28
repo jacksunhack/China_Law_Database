@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头华侨经济文化合作试验区条例
@@ -127,3 +128,4 @@
 
 
 
+#

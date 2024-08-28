@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰州市道路交通安全条例
@@ -265,3 +267,4 @@
 
 
 
+─ # ─  

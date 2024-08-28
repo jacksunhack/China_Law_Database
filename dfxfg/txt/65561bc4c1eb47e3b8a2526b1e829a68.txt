@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区禁毒条例
@@ -156,3 +157,5 @@
 第六章  附则
 
 　　第六十三条　本条例自2014年8月1日起施行。
+1
+ 

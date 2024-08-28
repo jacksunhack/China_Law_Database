@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
                                                                                                                                                  
 
 甘肃省道路交通安全条例
@@ -422,3 +424,4 @@
 第八章  附  则
 
 第一百二十五条  本条例自2020年5月1日起施行。
+      — 1 —    

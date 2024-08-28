@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 克孜勒苏柯尔克孜自治州立法条例
@@ -122,3 +123,4 @@
 第五十六条  本条例自2018年7月1日起施行。
 
 
+- 16 -

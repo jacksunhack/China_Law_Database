@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市旅游条例
@@ -182,3 +183,4 @@
 第七十条　本条例自2008年12月1日起施行。2000年7月1日颁布的《广州市旅游管理条例》同时废止。
 
 
+- 1 - 

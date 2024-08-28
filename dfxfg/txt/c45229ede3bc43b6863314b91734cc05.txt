@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 铁岭市电动车管理条例
@@ -79,3 +80,4 @@
 第三十条  电动车的登记、备案、保险等具体办法，由铁岭市人民政府另行制定。
 第三十一条  本条例自2020年8月1日起施行。
 
+- 1 -  

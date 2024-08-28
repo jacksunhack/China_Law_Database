@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市市容和环境卫生管理条例
@@ -172,3 +173,4 @@
 
 第六十四条  三县其他建制镇建成区的市容和环境卫生管理，可以参照本条例执行。
 第六十五条  本条例自2009年8月1日起施行。
+- 28 -

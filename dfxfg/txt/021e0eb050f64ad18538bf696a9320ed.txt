@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 固原市城市环境卫生管理条例
@@ -127,3 +129,4 @@
  
 
 
+— 1 —

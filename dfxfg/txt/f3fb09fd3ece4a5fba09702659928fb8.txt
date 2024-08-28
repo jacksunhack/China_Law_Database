@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉溪市城镇绿化条例
@@ -121,3 +123,4 @@
 
 第三十三条  市人民政府对负有绿化管理职责的部门分工另有规定的，从其规定。
 第三十四条  本条例自2018年3月1日起施行。
+—— 11 ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黄山市住宅小区物业管理条例
 
@@ -171,3 +172,4 @@
 第四十八条  本条例自2020年7月1日起施行，黄山市人民政府颁布的《黄山市物业管理办法》同时废止。
 
 
+— 1 —

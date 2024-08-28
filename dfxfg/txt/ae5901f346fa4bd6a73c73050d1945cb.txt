@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省城乡规划条例
@@ -224,3 +225,4 @@
  
 第八十一条  本条例的具体应用问题由省人民政府负责解释。
 第八十二条  本条例自2009年10月1日起施行。《海南经济特区城市规划条例》同时废止。
+－1－  

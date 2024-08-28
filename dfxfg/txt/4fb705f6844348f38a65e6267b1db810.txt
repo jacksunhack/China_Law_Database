@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省农作物种子管理条例
@@ -91,3 +92,4 @@
 
 第三十六条　本条例具体应用中的问题由省人民政府农业行政主管部门负责解释。
 第三十七条　本条例自一九九七年十月一日起施行。
+— 1 —

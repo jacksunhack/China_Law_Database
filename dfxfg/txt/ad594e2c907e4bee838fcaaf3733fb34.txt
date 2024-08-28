@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -173,3 +174,4 @@
 第五十八条  军事测绘及其相关活动适用军事法律、法规的专门规定。
 第五十九条  本条例自2019年12月1日起施行。
 
+1

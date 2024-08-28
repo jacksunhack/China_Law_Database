@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省沿海滩涂围垦办法
 （1996年1月28日福建省第八届人民代表大会常务委员会第二十一次会议通过）
 第一章  总    则
@@ -71,3 +72,4 @@
 第五章  附    则
 第三十三条  本办法的应用解释权属福建省人民政府。
 第三十四条  本办法自公布之日起施行。
+—1—

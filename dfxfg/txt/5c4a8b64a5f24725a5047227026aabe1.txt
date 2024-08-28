@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市市政工程设施管理条例
@@ -135,3 +136,4 @@
 第五十四条  本条例自公布之日起施行。一九八一年一月十五日由成都市第八届人民代表大会常务委员会第七次会议通过的《成都市市政工程设施管理办法》同时废止。
 
 
+— 1 —  

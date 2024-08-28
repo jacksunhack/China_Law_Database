@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省预防职务犯罪工作条例
@@ -105,3 +106,4 @@
 第六章　附则
 
 　　第三十条　本条例自2013年10月1日起施行。
+#　

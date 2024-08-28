@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 上海市爱国卫生与健康促进条例
@@ -130,3 +131,4 @@
 ​
 第五十条　本条例所称病媒生物，是指能够将病原体从人或者其他动物传播给人的鼠、蚊、蝇、蟑等有害生物。
 第五十一条　本条例自2023年11月1日起施行。
+－1－　

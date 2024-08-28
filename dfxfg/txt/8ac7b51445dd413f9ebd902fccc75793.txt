@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省职工代表大会条例
@@ -98,3 +100,4 @@
 
 第三十四条　省总工会会同省级有关部门依照本条例制定职工代表大会操作规范。　
 第三十五条　本条例自2007年5月1日起施行。
+—— 1 ——

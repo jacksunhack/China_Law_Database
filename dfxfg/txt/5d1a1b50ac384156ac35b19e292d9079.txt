@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市燃放烟花爆竹管理条例
@@ -69,3 +70,4 @@
 第二十八条  本条例自2006年1月1日起施行。
 
 
+- 28 -

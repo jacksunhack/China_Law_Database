@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省促进闽台农业合作条例
 （2009年5月23日福建省第十一届人民代表大会常务委员会第九次会议通过）
 第一章  总    则
@@ -72,3 +73,4 @@
 第四章  附    则
 第三十六条  省人民政府根据本条例规定制定实施细则。
 第三十七条  本条例自公布之日起施行。
+—1—

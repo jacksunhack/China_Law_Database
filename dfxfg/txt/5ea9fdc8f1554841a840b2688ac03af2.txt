@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 固原市烟花爆竹燃放管理条例
    
 （2018年8月29日固原市第四届人民代表大会常务委员

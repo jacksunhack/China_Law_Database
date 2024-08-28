@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 恭城瑶族自治县恭城油茶产业发展条例
@@ -79,3 +80,4 @@
 第四章　附　　则
 ​
 第三十四条　本条例自2024年6月1日施行。
+－1－　

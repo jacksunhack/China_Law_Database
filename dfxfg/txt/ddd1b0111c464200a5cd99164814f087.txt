@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省消防条例
@@ -156,3 +158,4 @@
 
 第六十三条　本条例自2010年7月1日起施行。
 
+　— 1 —　

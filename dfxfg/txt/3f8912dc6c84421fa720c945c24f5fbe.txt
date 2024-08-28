@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌兰察布市辉腾锡勒草原保护条例
@@ -62,3 +63,4 @@
 第三十条　本条例自　　年　月　日起施行。
 
 
+#

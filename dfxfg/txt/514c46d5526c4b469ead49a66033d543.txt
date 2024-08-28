@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省流动人口管理条例
@@ -50,3 +51,5 @@
 
 第二十一条  本条例应用中的具体问题由省人民政府负责解释。
 第二十二条  本条例自公布之日起施行。
+— 1 —
+

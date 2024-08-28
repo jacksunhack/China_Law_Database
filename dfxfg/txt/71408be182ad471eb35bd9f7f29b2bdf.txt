@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省实施《中华人民共和国
@@ -87,3 +88,4 @@
 　　（五）其他失职、渎职行为并造成严重后果的。
 　　第二十八条  本办法自2006年3月1日起施行。
 
+- 1 -

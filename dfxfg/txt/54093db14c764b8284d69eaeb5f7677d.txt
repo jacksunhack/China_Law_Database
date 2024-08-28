@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市残疾人保障条例
@@ -52,3 +53,4 @@
 任何单位或者个人占用、损坏无障碍设施的，由城市管理综合行政执法部门责令改正、恢复原状。
 第二十三条  本条例自2016年1月1日之日起施行。
 
+—— 7 ——

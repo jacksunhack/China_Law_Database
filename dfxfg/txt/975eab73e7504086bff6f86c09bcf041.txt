@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省森林防火条例
@@ -167,3 +169,4 @@
 第五十一条  本条例自2012年5月1日起施行。1997年12月3日云南省第八届人民代表大会常务委员会第三十一次会议通过的《云南省森林消防条例》同时废止。
 
 
+—— 4 ——

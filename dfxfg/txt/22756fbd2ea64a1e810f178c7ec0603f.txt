@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 赣州市城市管理条例
@@ -258,3 +259,4 @@
 
 
 
+- 21 -

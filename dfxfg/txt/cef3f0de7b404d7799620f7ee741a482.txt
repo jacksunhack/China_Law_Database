@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 齐齐哈尔市限制养犬规定 
@@ -63,3 +65,4 @@
     第二十六条  本规定具体应用中的问题，由市人民政府负责解释。
     第二十七条  本规定自1996年6月1日起执行。
 
+1

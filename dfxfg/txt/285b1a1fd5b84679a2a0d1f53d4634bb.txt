@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市燃气管理条例
@@ -107,3 +108,4 @@
 
     第五十条  本条例自2014年5月1日起施行。2006年7月1日起施行的《济南市燃气安全管理条例》同时废止。
 
+— 10 —

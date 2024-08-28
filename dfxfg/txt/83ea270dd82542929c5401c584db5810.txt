@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省港口条例
@@ -187,3 +189,4 @@
 （二）重要港口：是指经省人民政府确定并公布的港口；
 （三）其他港口：是指除主要港口和重要港口以外的港口。
 第六十四条　本条例自2012年1月1日起施行。
+　— 1 —　

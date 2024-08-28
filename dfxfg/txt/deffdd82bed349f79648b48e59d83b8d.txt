@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区城市房屋权属登记条例
@@ -214,3 +215,4 @@
 第六十七条  城市规划区外国有土地上房屋权属登记，由房屋所在地市、县（市）人民政府房产管理部门参照本条例执行。
 第六十八条  本条例自2006年7月1日起施行。
 
+— 1 —

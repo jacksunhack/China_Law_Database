@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁波市慈善事业促进条例
@@ -128,3 +129,4 @@
 
 
 
+— 11—

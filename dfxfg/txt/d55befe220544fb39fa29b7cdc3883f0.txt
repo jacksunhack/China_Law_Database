@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省洞庭湖保护条例
@@ -134,3 +135,4 @@
 第七章　附  则
  
 第五十一条　本条例自2021年9月1日起施行。
+－1－  

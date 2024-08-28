@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省信访条例
@@ -179,3 +180,4 @@
 　　第五十三条　本省行政区域内的社会团体、企业事业单位的信访工作参照本条例执行。
 　　第五十四条　对外国人、无国籍人、外国组织信访事项的处理，参照本条例执行。
 　　第五十五条　本条例自2011年7月1日起施行。
+#　

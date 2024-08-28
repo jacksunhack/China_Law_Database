@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 北海市海上丝绸之路史迹保护条例
 
 （2019年9月23日北海市第十五届人民代表大会常务委员会第二十六次会议通过
@@ -94,4 +95,3 @@
 第五章  附则
 
 　　第三十条  本条例自2019年12月30日起施行。
-

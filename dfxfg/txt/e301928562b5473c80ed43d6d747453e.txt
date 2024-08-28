@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 台州市居住出租房屋安全管理规定
@@ -105,3 +107,4 @@
 第二十八条  本规定自2019年7月1日起施行。
 
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 湖南省统计管理条例
 
@@ -58,3 +59,4 @@
 第三十一条  违反统计法律、法规构成犯罪的，依法追究刑事责任。
 第三十二条  本条例自1988年10月1日起施行。
 
+- 3 - 

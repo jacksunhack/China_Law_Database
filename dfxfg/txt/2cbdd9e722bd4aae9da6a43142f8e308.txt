@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昌吉高新技术产业开发区管理条例
@@ -67,3 +68,4 @@
 
 第三十条  本条例自2015年7月25日起施行。
 
+— 1 —

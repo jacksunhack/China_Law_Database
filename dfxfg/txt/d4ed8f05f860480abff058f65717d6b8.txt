@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省保障和促进县域医疗卫生
@@ -79,3 +81,4 @@
 
 第三十二条 本办法自2021年1月1日起施行。
 
+1

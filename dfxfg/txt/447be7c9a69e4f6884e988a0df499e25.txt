@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 民和回族土族自治县
@@ -150,3 +151,4 @@
 　　第五十三条　其他建制镇及独立工矿区、产业园区，可以参照本条例执行。
 　　第五十四条　本条例应用中的具体问题由县人民政府负责解释。
 　　第五十五条　本条例自2000年11月1日起施行。
+- 1 -　

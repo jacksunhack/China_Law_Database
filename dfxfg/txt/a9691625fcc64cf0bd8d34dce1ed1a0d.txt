@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省劳动合同条例
@@ -161,3 +162,4 @@
 第五十七条   劳动合同当事人发生劳动争议的，依照劳动争议有关规定处理。
 第五十八条   本条例具体应用中的问题由省劳动保障行政部门负责解释。
     第五十九条   本条例自2O04年5月1日起施行。
+— 1 —

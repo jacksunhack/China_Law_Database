@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省《中华人民共和国
@@ -125,3 +126,4 @@
     外国人未经主管机关批准，不得参加中国公民在本省行政区域内举行的集会、游行、示威。
     第三十七条  本办法具体应用的问题由省公安厅负责解释。
     第三十八条  本办法自公布之日起施行。
+－ 12 －

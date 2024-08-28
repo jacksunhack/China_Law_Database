@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省艾滋病防治条例
@@ -95,3 +97,4 @@
 第三十九条  本条例所称的艾滋病（AIDS），是指获得性免疫缺陷综合症。
 本条例所称的艾滋病病毒感染者，是指艾滋病病毒抗体阳性，无症状或者不能诊断为艾滋病病人者。
 第四十条  本条例自2004年12月1日起施行。
+─ 1 ─  

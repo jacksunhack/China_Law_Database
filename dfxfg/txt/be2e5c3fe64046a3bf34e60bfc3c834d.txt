@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省人民代表大会常务委员会
 关于批准《淮南市城市管理行政执法条例》
@@ -154,3 +155,4 @@
 第八章  附    则
 
 第三十八条  本条例自2019年5月1日起施行。
+— # —

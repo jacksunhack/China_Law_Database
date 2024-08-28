@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省档案条例
@@ -119,3 +120,4 @@
 
     第四十二条  本条例自2007年9月1日起施行。
 
+- 1 - 

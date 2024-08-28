@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宜昌市城区建筑物外立面管理条例
@@ -49,3 +50,4 @@
 第十九条  本市所辖各市、县、自治县城区建筑物外立面的监督管理工作，可以参照本条例执行。
 第二十条  本条例自2017年7月1日起施行。
 
+－ 3 －

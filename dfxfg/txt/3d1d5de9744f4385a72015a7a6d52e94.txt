@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南充市人民代表大会及其常务委员会立法条例
@@ -142,3 +143,4 @@
 第五章  附  则
 
 第六十条  本条例自公布之日起施行。
+— 1 —  

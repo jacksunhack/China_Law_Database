@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省标准化条例
@@ -156,3 +157,4 @@
 第七章　附　　则
 ​
 第五十条　本条例自2024年3月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 徐州市安全生产条例
@@ -172,3 +174,4 @@
 第四十九条  本市国家机关、事业单位、社会团体及其他单位在非生产经营活动中的安全作业管理，参照本条例执行。
 第五十条  本条例自2020年1月1日起施行。
 
+─ # ─  

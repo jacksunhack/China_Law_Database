@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区科学技术协会条例
 
@@ -52,3 +54,4 @@
 
 
 
+#

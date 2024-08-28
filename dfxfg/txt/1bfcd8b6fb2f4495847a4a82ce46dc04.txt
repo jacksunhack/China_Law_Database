@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 吉林市城镇国有土地有偿使用条例
@@ -160,3 +161,4 @@
 第九章　附　　则
 ​
 第六十六条　本条例自公告之日起施行。
+－1－　

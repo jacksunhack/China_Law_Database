@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省社会养老服务促进条例
@@ -151,3 +152,4 @@
 
 
 
+— 1—

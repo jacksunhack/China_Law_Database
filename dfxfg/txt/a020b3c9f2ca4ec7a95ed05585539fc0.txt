@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 湖州市生态文明典范城市建设促进条例
@@ -214,3 +215,4 @@
 第十章　附　　则
 ​
 第七十九条　本条例自2024年5月1日起施行。《湖州市生态文明先行示范区建设条例》同时废止。
+－1－　

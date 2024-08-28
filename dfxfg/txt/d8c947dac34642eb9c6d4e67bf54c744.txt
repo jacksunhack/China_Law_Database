@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市水污染防治条例
@@ -180,3 +181,4 @@
 第七章  附  则
 
 第六十四条  本条例自2021年11月1日起施行。
+— - 1 - —

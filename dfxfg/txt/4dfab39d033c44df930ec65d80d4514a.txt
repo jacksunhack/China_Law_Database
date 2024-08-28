@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省企业和企业经营者权益保护条例
@@ -93,3 +95,4 @@
 
 
 
+	— 1 —  

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 贺州市农贸市场管理条例
 
@@ -124,3 +126,4 @@
 　　场内经营者，指在农贸市场内从事经营活动的企业、个体工商户、自然人或者其他组织。
     第三十六条  本条例自2020 年1月1日起施行。
 
+#

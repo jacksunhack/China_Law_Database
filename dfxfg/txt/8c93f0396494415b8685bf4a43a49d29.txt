@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市预防控制性病艾滋病条例
@@ -92,3 +93,4 @@
 
 第四十二条  驻渝中国人民解放军、武装警察部队的医疗机构向社会开展性病诊断治疗活动的，适用本条例的有关规定。
 第四十三条  本条例自1998年7月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国集会游行示威法》实施办法
@@ -66,3 +67,4 @@
 第二十三条  违反《集会游行示威法》和本办法的，依法追究法律责任。
 第二十四条  本办法实施中的具体问题由四川省人民政府负责解释。
 第二十五条  本办法自公布之日起施行。
+— 7 —  

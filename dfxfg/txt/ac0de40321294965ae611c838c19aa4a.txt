@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市国有土地上房屋征收与补偿条例
@@ -167,3 +169,4 @@
 第五十四条  本条例自2022年3月1日起施行。
 
 
+— # —  

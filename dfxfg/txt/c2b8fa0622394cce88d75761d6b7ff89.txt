@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 吉林省促进中小企业发展条例
 
@@ -140,3 +141,4 @@
 
 
 
+1

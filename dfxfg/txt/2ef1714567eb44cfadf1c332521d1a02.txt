@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省紫鹊界梯田梅山龙宫风景名胜区
@@ -55,3 +56,4 @@
 第二十七条  风景名胜区管理机构和有关主管部门的工作人员玩忽职守、滥用职权、徇私舞弊的，依法给予行政处分。
 第二十八条  本条例自2010年1月1日起施行。
 
+－1－  

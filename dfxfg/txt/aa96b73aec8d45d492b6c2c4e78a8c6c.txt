@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡阳市违法建设防控与查处条例
@@ -74,3 +75,4 @@
 
 
 
+－1－  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市公共场所控制吸烟条例
@@ -56,3 +57,4 @@
 第十四条 卫生行政执法人员滥用职权，徇私舞弊、玩忽职守的，依法给予行政处分；构成犯罪的，依法追究刑事责任。
 第十五条 本条例自2009年6月1日起施行。
 
+#

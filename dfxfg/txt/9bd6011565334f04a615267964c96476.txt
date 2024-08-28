@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 九华山风景名胜区管理条例
@@ -90,3 +91,4 @@
 　　
 第三十三条　本条例应用中的具体问题，由省人民政府建设行政主管部门负责解释。 
 第三十四条　本条例自2003年1月1日起施行。
+1

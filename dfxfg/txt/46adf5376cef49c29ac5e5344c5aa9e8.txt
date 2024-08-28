@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省邮政条例 
@@ -121,3 +122,4 @@
    本条例所称的交通不便的边远地区由省邮政管理部门会同省财政主管部门共同确定。
     第五十三条 本条例自2010年10月1日起施行。
 
+— # —  

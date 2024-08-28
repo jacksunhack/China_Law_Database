@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市水资源管理办法
@@ -114,3 +115,4 @@
     第四十五条　本办法自2007年1月1日起施行。
 
 
+— 1 —

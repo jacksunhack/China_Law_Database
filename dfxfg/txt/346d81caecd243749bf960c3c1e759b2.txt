@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市生活垃圾分类管理办法
@@ -134,3 +135,4 @@
 第四十条  本市主城区范围以外的生活垃圾分类管理，参照本办法执行。
 第四十一条  本办法具体应用问题由市人民政府负责解释。
 第四十二条  本办法自2018年11月1日起施行。
+－1－  

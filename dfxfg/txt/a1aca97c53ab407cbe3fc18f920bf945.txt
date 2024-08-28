@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 黔东南苗族侗族自治州镇远
@@ -159,3 +160,4 @@
 第七章　附　　则
 ​
 第四十七条　本条例自2023年12月31日起施行。
+－1－　

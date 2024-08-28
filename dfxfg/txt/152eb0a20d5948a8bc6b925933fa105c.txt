@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省无线电管理条例
@@ -133,3 +134,4 @@
 第八章  附  则
 
 第四十七条　本条例自2012年12月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省人民代表大会常务委员会
@@ -37,3 +38,4 @@
 十七、省人民政府及其林业草原、农业农村等部门，应当依据有关法律法规和本决定，制定、调整并公布相关名录。
 十八、本决定自公布之日起施行。
 
+  - 3 -

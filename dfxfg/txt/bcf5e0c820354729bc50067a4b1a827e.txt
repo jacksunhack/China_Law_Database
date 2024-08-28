@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省水土保持条例
@@ -156,3 +157,4 @@
 水土流失，是指各种自然因素和人为活动造成的水土资源和土地生产能力的破坏和损失。
 水土保持设施，是指具有水土保持功能的所有人工建筑物的总称。
 第六十五条  本条例自2014年3月1日起施行。
+— 7 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宜宾市翠屏山保护条例
@@ -110,3 +111,4 @@
 第三十七条  市人民政府可以根据本条例制定实施细则。
 第三十八条  本条例自2018年1月 1日起施行。
 
+— 1 — 

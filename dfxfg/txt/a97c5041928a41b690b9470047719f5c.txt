@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国
@@ -143,3 +144,4 @@
 第五十二条   本办法自2005年10月1日起施行。1993年7月10日安徽省第八届人民代表大会常务委员会第四次会议通过的《安徽省农业承包合同管理条例》同时废止。
 
 
+— 1 —

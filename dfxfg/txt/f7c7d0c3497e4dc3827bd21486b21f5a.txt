@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省知识产权保护和促进条例
@@ -102,3 +103,4 @@
 
 第四十八条  本条例自2023年1月1日起施行。
 
+－13－　

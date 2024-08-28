@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省非物质文化遗产条例
@@ -145,4 +146,6 @@
 
 第三十五条  本条例自2015年2月1日起施行。
 
+
+— 1 —
 

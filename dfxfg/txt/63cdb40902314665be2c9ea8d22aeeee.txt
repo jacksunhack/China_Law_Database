@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市市容和环境卫生管理办法
@@ -117,3 +118,4 @@
 第六章　附　则 
 
 第四十五条　本办法自公布之日起施行。
+— 1 —

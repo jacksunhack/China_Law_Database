@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 许昌市城市建筑垃圾管理条例
@@ -84,3 +85,5 @@
 第二十九条  市城乡一体化示范区、经济技术开发区、东城区管委会，按照市人民政府规定的职责权限执行本条例。
 第三十条  本条例自2021年６月１日起施行。
 
+－ 1 －
+  

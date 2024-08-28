@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区吐鲁番交河故城遗址保护
@@ -42,3 +43,4 @@
 第十九条　违反本条例应当给予处罚的其他行为，依照《中华人民共和国文物保护法》及有关法律、法规的规定予以处罚。
 第二十条　本条例自2005年1月1日起施行。
 
+— 1 —

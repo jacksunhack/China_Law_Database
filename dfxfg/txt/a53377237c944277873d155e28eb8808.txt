@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 齐齐哈尔市文明行为促进条例
@@ -110,3 +111,4 @@
 第四章　附　　则
 ​
 第二十一条　本条例自2024年6月1日起施行。
+－1－　

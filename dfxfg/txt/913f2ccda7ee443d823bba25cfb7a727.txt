@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市促进科技中介服务发展条例
@@ -43,3 +44,4 @@
     第二十四条　大连经济技术开发区、大连高新技术产业园区管委会根据市人民政府的授权，实施本条例。
 第二十五条　本条例自2007年1月1日起施行。
 
+- 1 -

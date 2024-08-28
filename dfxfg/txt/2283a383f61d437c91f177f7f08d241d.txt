@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省土地管理条例
@@ -154,3 +156,4 @@
 
 第四十二条　本条例自公布之日起施行。1994年6月2日云南省第八届人民代表大会常务委员会第七次会议通过的《云南省土地管理实施办法》同时废止。
 
+—— 1 ——

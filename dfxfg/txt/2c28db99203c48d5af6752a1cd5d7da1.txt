@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 海南藏族自治州城镇市容和环境卫生
@@ -175,3 +176,4 @@
 第六十二条  本条例应用中的具体问题，由自治州人民政府负责解释。
 第六十三条  本条例自2021年7月1日起施行。
 
+#  

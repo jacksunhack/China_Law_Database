@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省企业集体合同条例
@@ -117,3 +118,4 @@
 
 第三十七条　实行企业化管理的事业单位签订集体合同，参照本条例执行。
 第三十八条　本条例自1999年12月1日起施行。
+－ 9 －

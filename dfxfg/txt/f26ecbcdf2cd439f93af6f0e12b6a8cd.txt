@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区气象灾害防御条例
@@ -130,3 +131,4 @@
 
 第四十三条  本条例自2007年7月1日起施行。
 
+#

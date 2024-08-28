@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区红色资源保护传承条例
@@ -145,3 +147,4 @@
 第八章  附    则
 
 　　第六十一条  本条例自2022年10月1日起施行。
+#

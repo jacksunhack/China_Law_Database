@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州民族团结进步条例
@@ -118,3 +120,4 @@
 第四十二条  本条例自2016年8月1日起施行。
 
 
+—11 —

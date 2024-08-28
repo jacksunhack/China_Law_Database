@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 惠州市西枝江水系水质保护条例
@@ -91,3 +92,4 @@
 
 第三十四条  本条例所称西枝江流域，是指从西枝江源头至东新桥出东江口的西枝江干流及其全部支流在惠州市境内的集雨面积。
 第三十五条  本条例自2016年6月1日起施行。
+- 1 - 

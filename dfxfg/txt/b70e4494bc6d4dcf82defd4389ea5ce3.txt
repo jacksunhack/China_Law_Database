@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市城市居民委员会组织条例
@@ -63,3 +65,5 @@
     第二十九条  本条例自１９９７年１０月１日起施行。
 
 
+　— 1 —　
+　

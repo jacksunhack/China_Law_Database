@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市人民代表大会常务委员会
@@ -55,3 +56,4 @@
 十七、横琴应当在本决定公布之日起一年内制定相关配套制度。
 十八、本决定自公布之日起施行。
 
+- 1 -

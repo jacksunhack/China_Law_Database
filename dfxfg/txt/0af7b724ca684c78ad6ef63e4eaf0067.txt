@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 承德市城镇住宅物业管理条例
@@ -167,3 +168,4 @@
 
 　　第五十三条　本条例自2022年9月1日起施行。
 
+- 19 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市城市机动车停车条例
@@ -133,3 +134,4 @@
 
 第四十九条  本条例自2019年5月1日起施行。
 
+14

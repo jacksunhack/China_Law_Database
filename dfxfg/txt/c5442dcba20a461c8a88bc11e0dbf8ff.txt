@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德宏傣族景颇族自治州
@@ -104,3 +105,4 @@
 第三十六条  自治州人民政府应当根据本条例制定实施办法。
 第三十七条  本条例自2022年5月1日起施行。
  
+—— 11 ——

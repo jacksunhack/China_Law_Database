@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市旅游条例
@@ -235,3 +236,4 @@
 
 
 
+  — 39 —  

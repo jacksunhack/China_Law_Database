@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广西壮族自治区实施
@@ -113,3 +114,4 @@
 （七）对违反人民防空法律、法规的行为，不查处、不追究的；
 （八）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第四十四条　本办法自2012年1月1日起施行。
+－1－　

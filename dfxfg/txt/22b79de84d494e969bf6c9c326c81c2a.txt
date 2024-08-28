@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市专利促进和保护条例
@@ -48,3 +50,4 @@
 （五）其他滥用职权、玩忽职守、徇私舞弊的。
 第二十四条　本条例自2009年10月1日起施行。
 
+— 1 —

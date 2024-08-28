@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 湘潭市电梯安全管理条例
@@ -90,3 +91,4 @@
 第十八条　载货电梯的监管参照本条例执行。
 违反本条例的其他行为，法律法规已规定行政处罚的，从其规定。
 第十九条　本条例自2024年3月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省气象灾害防御条例
@@ -164,3 +165,4 @@
 第四十四条  本条例自2014年12月1日起施行。
 
 
+- 1 -

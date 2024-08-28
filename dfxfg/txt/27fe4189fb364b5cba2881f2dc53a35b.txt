@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省气象灾害防御条例
@@ -158,3 +160,4 @@
 第四十六条  本条例自2012年10月1日起施行。
 
 
+—— 4 ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邵阳市地方特色食品传承与发展条例
@@ -51,3 +52,4 @@
 第十六条　市、县（市、区）人民政府市场监督管理部门应当指导、督促生产经营者建立地方特色食品质量安全追溯体系。
 第十七条　本条例自2023年6月1日起施行。
 
+－1－　

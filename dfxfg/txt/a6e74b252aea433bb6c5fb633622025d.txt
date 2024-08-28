@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 吕梁市村民自建房用作经营场所
 质量安全管理条例

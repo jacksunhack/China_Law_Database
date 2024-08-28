@@ -1,4 +1,6 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
                 
+
 莆田市人民代表大会常务委员会关于
 加强闽江流域水生态环境协同保护的决定
 （2022年8月26日莆田市第八届人民代表大会常务委

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省大伙房水库输水工程保护条例
@@ -96,4 +97,3 @@
 第六章  附    则
  
 第三十五条  本条例自2009年11月1日起施行。
-

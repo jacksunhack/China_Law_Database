@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省自主创新促进条例
@@ -180,3 +181,4 @@
 
 第七十二条  本条例自2012年3月1日起施行。
 
+1

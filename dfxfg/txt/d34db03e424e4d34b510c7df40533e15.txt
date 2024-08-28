@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市荣誉市民称号授予条例
@@ -49,3 +50,4 @@
 第十八条　本条例自2010年3月1日起施行。
 
 
+- 1 - 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北雄安新区条例
@@ -166,3 +167,4 @@
 第八十条　本条例自2021年9月1日起施行。
 
 
+　1　

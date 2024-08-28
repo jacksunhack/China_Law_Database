@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省发展高新技术条例
@@ -118,3 +120,4 @@
 第五十条　省人民政府可以根据本条例制定实施办法。
 第五十一条　本条例自公布之日起施行。
 
+─ 1 ─  

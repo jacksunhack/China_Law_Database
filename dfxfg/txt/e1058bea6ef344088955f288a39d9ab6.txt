@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 毕节市乡村环境卫生管理条例
@@ -89,3 +90,4 @@
 第五章  附  则
 第三十三条  本条例自2022年9月1日起施行。
 
+— 1 —

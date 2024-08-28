@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市终身教育促进条例
@@ -91,3 +92,4 @@
 第六章　附则
 
 第三十五条　本条例自2012年12月 1日起施行。
+#　

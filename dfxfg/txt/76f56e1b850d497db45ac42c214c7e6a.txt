@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鞍山市城市管理综合行政执法条例
@@ -104,3 +105,4 @@
 第三十一条  本条例自2012年1月1日起施行。实行城市管理综合行政执法的县（市），可以参照执行本条例。
 
 
+— 1 —

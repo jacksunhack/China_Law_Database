@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 淮安市人民代表大会常务委员会
@@ -93,3 +95,4 @@
 二十六、本市国家机关、事业单位、社会团体以及其他单位在非生产经营活动中的安全作业管理，参照本决定执行。
 二十七、本决定自2021年2月1日起施行。
 
+─ # ─  

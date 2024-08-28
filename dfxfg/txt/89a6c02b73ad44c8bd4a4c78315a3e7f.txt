@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 定西市河道生态环境保护条例
@@ -84,3 +86,4 @@
 第四十条  本条例所称生态下泄流量，是指满足河道基本生态功能安全的水流量。
 第四十一条  本条例自2019年7月1日起施行。
 
+      — 1 —    

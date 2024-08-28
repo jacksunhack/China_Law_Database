@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省全民义务植树条例
@@ -57,3 +58,4 @@
 驻本省行政区域内的人民解放军、武警部队，按照国务院、中央军委的有关规定参加义务植树。
 第二十七条  本条例自2013年3月1日起施行。
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 岳阳市扬尘污染防治条例
@@ -152,3 +153,4 @@
 第三十八条  本条例自2019年12月1日起施行。
 
 
+- 1 -

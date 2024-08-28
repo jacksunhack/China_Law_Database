@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 阿坝藏族羌族自治州立法条例
 
@@ -152,3 +153,4 @@
 
 第六十一条  本条例自2018年8月1日起施行。
 
+— 3 —

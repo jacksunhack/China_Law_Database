@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 沈阳市数字经济促进条例
@@ -91,3 +92,4 @@
 第八章　附　　则
 ​
 第四十一条　本条例自2024年5月1日起施行。
+－1－　

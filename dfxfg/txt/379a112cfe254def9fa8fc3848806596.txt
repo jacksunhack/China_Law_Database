@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -51,3 +53,7 @@
 （七）其他滥用职权、徇私舞弊、玩忽职守的行为。
 第十八条　本条例自2021年7月1日起施行。
 
+
+
+
+#

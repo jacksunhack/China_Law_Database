@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州儿童免疫规划
@@ -63,7 +64,6 @@
 
 　　第二十七条  本办法由自治州人民代表大会常务委员会负责解释。
 　　第二十八条  本办法自公布之日起施行。
-
 
 
 

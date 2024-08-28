@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 深圳市建筑市场严重违法行为
@@ -42,3 +43,5 @@
 第十二条 对市住房建设部门作出的暂扣资质、资格证书决定不服的，当事人可以依法申请行政复议或者提起行政诉讼。
   第十三条  本规定自2007年9月1日起施行。
 
+#
+    

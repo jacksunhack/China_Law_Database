@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省节约用水条例
@@ -75,3 +77,4 @@
 第三十条  省人民政府根据本条例，制定实施办法。
 第三十一条  本条例自2013年3月1日起施行。
 
+—— 4 ——

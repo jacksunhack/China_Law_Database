@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区
@@ -129,3 +130,5 @@
 
 　　第四十条　本条例施行前由农机监理机构发放的农业机械牌证，在本条例施行后继续有效。
 　　第四十一条　本条例自2005年7月1日起施行。
+- 1 -
+ 

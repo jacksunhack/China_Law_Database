@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国
@@ -56,3 +58,4 @@
 第二十四条　本省行政区域内的乡、民族乡、镇的人民政府驻地设立的居民委员会亦适用本办法。
 第二十五条　本办法具体应用中的问题，由省民政厅负责解释。
 第二十六条　本办法自公布之日起施行。
+　— 1 —　

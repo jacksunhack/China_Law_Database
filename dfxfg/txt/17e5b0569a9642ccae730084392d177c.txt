@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 娄底市机动车停车管理条例
@@ -63,3 +64,4 @@
 （四）在公共停车场或者道路临时停车泊位停放的由残疾人驾驶的残疾人专用车辆；
 （五）法律法规规定应当免收停车费的其他车辆。
 第十六条　本条例自2023年8月1日起施行。
+－1－　

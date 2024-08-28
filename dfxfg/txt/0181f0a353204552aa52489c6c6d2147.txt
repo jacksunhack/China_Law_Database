@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 四川省职业教育条例
@@ -200,3 +201,4 @@
 第八章　附　　则
 ​
 第七十四条　本条例自2024年5月1日起施行。《四川省中等职业技术教育暂行条例》同时废止。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区古树名木保护条例
@@ -145,3 +146,5 @@
 第六章  附则
 
 第四十六条  本条例自2017年6月1 日起施行。
+1
+

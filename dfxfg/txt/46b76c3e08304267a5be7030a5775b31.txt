@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 丹东鸭绿江口湿地国家级自然保护区管理条例
 
@@ -62,3 +63,4 @@
 （五）违反法律、法规规定，查封、扣押企业事业单位和其他生产经营者的设施、设备的；
 （六）法律、法规规定的其他违法行为。
 第二十五条  本条例自2017年3月1日起施行。
+#

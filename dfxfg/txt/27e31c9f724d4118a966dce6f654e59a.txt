@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省募捐条例
@@ -143,3 +144,4 @@
 
 第四十条　福利彩票和体育彩票等有奖募捐按照国家彩票管理的有关规定执行。
 第四十一条　本条例自2011年5月1日起施行。
+－1－　

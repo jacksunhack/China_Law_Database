@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省临夏回族自治州自治条例
@@ -192,4 +193,3 @@
     第七十一条  本条例由自治州人民代表大会常务委员会负责解释。
 自治州人民政府应当制订本条例的实施细则。
     第七十二条  本条例自公布之日起施行。
-

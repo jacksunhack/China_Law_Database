@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市节约用水条例
@@ -71,3 +72,4 @@
 第二十六条　本条例自2023年8月1日起施行。
 
 
+－1－　

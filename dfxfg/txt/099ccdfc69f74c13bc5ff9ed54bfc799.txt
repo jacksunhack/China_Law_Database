@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市社会信用条例
@@ -118,3 +119,4 @@
 
 第三十七条  市人民政府可以根据本条例有关规定制定具体实施办法。
 第三十八条  本条例自2022年7月1日起施行。
+— #—

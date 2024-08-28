@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省职业技能考核鉴定管理条例
@@ -156,3 +157,4 @@
 
 第五十一条  实行全国统一考核鉴定的职业，其考核鉴定工作按照国家有关规定执行。
 第五十二条  本条例自2006年5月1日起施行。
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州语言文字管理条例
@@ -40,3 +41,4 @@
 
 第十九条  本条例自2005年5月1日起施行。
 
+— 1 —

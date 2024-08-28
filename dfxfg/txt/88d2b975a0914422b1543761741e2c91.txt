@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省促进散装水泥发展条例
@@ -87,3 +89,4 @@
 
 第四十二条  本条例自2011 年1月1日起施行。
  
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市低碳发展促进条例
@@ -145,3 +146,4 @@
     排放配额，是政府分配给重点排放单位指定时期内的排放额度。
     排放峰值，是指区域温室气体排放的最大值。
     第六十三条  本条例自2016年9月1日起施行。
+—1—  

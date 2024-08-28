@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市建筑节能管理条例
@@ -98,3 +99,4 @@
 
 第四十三条  本条例自2011年6月1日起施行。
 
+— 1 —

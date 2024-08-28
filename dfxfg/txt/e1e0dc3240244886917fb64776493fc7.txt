@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 江门市门楼号牌管理条例
 
 （2022年10月28日江门市第十六届人民代表大会常务委员会第八次会议通过  2022年11月30日广东省第十三届人民代表大会常务委员会第四十七次会议批准）
@@ -89,3 +91,4 @@
 
 
 
+— - 1 - —

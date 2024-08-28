@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省科学技术进步条例
@@ -202,3 +203,4 @@
 　　第八十八条　本条例自2020年8月1日起施行。
 
 
+1

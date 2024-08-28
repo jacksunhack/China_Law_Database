@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 黔南布依族苗族自治州剑江河流域保护条例
@@ -132,3 +133,4 @@
 ​
 第三十九条　自治州人民政府应当根据本条例制定实施细则。
 第四十条　本条例自2024年5月1日起施行。
+－1－　

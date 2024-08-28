@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 秦皇岛市制定地方性法规条例
@@ -178,3 +180,4 @@
 
 第六十九条　本条例自2018年7月1日起施行。
 
+　- 1 -

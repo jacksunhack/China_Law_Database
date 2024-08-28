@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省防洪条例
@@ -149,3 +151,4 @@
 （四）水库（水电站）泄洪时擅自增大下泄流量的；
 （五）泄洪前，有关部门未及时向下游相关部门和群众通报泄洪信息的；
 （六）下游受洪水影响的地区设障阻水或者缩小河道过水能力的。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省森林防火条例
@@ -63,3 +64,4 @@
 　　（三）县级以上人民政府划定的封山育林区；
 　　（四）森林资源相对集中的其他区域。
 　　第二十二条　本条例自2002年11月1日起施行。
+1

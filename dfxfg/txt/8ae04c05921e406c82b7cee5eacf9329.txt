@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省政务服务条例
@@ -136,3 +137,4 @@
 第五十九条  供水、电力、燃气、通信等公共企事业单位自行设立政务服务场所提供公共服务,参照适用本条例。
 第六十条  本条例自2021年7月1日起施行。
 
+— 1 —

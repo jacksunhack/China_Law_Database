@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市消防条例
@@ -328,3 +329,4 @@
 
 第九十二条  本条例自2011年9月1日起施行。
 
+—1—  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 拉萨市人民代表大会常务委员会议事规则
 
@@ -128,4 +129,3 @@
 
 第四十八条  本规则解释权属于拉萨市人民代表大会常务委员会。
 第四十九条  本规则自公布之日起施行。
-

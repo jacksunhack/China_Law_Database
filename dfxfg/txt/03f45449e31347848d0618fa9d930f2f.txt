@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区老年人权益保障条例
@@ -74,3 +75,4 @@
 
 
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州酉水河保护条例
@@ -103,3 +105,4 @@
 
 　　第四十一条　本条例自2017年3月1日起施行。
 　　第四十二条　自治州人民政府依据本条例制定实施细则。
+1

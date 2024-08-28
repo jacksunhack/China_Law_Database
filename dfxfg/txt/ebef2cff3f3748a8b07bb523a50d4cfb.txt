@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区关键信息基础设施安全
@@ -32,3 +33,4 @@
 第二十二条  违反本条例规定，应当给予处罚的其他行为，依照有关法律、法规的规定给予处罚；构成犯罪的，依法追究刑事责任。
 第二十三条  本条例自2022年6月15日起施行。
 
+#

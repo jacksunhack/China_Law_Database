@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市促进商业发展若干规定
@@ -79,3 +80,4 @@
     （七）不履行法定职责，造成严重后果的。
     第三十五条　本规定自2013年９月１日起施行。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

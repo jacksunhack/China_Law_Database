@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区公园条例
@@ -155,3 +156,4 @@
 　　市、区公园行政管理部门应当将清理、认定情况向社会公布。
 　　第四十六条　本条例自２０１２年３月１日起施行。
 
+— # —

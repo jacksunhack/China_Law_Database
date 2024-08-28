@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南藏族自治州社会治安综合治理条例
@@ -105,3 +106,4 @@
 
 　　第二十五条　本条例的具体应用问题由海南藏族自治州人民政府负责解释。
 　　第二十六条　本条例自2000年7月1日起施行。
+- 3 -　

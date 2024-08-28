@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 福建省人民代表大会常务委员会
@@ -19,3 +20,4 @@
 九、将第十九条修改为：“本守则自公布之日起施行。”
 本决定自通过之日起施行。
 《福建省人民代表大会常务委员会组成人员守则》根据本决定作相应修改，重新公布。
+－1－　

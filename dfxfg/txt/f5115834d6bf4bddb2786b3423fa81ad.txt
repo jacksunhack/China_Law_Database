@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市绿化条例
@@ -99,3 +100,4 @@
 第三十八条  本条例所界定数量有以下、以上的，均含本数。
 第三十九条  本条例自1998年7月1日起施行。
 
+— 3 —

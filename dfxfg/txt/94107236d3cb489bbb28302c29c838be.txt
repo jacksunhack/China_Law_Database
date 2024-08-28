@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市促进专利转化办法
@@ -48,3 +49,4 @@
 （六）提供促进专利转化的其他服务。
 第二十二条　在专利转化活动中发生的专利纠纷，由当事人依法申请专利管理部门处理或者依法提起诉讼。
 第二十三条　本办法自2007年11月1日起施行。 
+#　

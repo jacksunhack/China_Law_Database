@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市街道办事处条例
@@ -52,3 +54,4 @@
 第二十四条  本条例自2018年6月15日起施行。
 
 
+*  1 —

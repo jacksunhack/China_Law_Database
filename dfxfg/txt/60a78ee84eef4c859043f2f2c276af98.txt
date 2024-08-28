@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省技术市场条例
@@ -42,3 +43,4 @@
 第二十二条  本条例自2005年7月1日起施行。1991年3月18日施行、2002年5月30日修正的《四川省技术市场管理条例》同时废止。
 
 
+— 3 —

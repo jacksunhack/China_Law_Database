@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市燃气管理条例
@@ -194,3 +195,4 @@
     （五）用户是指使用燃气的单位和个人。
     第五十二条  市人民政府可以根据本条例制定具体实施办法。
 第五十三条  本条例自2000年10月1日起施行。
+― 1 ―

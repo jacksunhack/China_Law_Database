@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市名泉保护条例
@@ -779,3 +780,4 @@
 　　洪范池、书院泉、扈泉、日月泉、姜女池、天池泉、墨池泉、天乳泉、白雁泉、拔箭泉、莲花池、丁泉、狼泉、长沟泉、白沙泉
 
 
+1

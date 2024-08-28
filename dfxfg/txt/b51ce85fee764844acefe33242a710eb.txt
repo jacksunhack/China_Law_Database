@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市检验检测条例
@@ -126,3 +127,4 @@
 
 第四十七条  企业、高校、科研院所等单位设立的实验室、研发中心等内部机构，面向社会接受委托从事检验检测活动，参照适用本条例。
 第四十八条  本条例自2017年1月1日起施行。
+- 13 -

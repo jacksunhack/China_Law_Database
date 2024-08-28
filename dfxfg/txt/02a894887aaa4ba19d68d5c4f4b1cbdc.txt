@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉屏侗族自治县自治条例
@@ -135,3 +136,5 @@
 
 第五十八条  每年11月7日为自治县成立纪念日，放假1天。
 第五十九条  本条例自1988年11月7日起施行。
+— 1 —
+

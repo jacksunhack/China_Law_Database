@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河南省机关运行保障条例
 
@@ -105,3 +106,4 @@
 涉及供销社等非国有资产管理事项，依照有关法律、法规、章程执行。
 与机关办公、后勤保障直接相关的公益一类事业单位参照本条例执行。
 第四十条  本条例自2023年1月1日起施行。
+— 1 —

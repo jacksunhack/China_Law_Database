@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市再生资源回收利用管理条例
@@ -83,3 +85,5 @@
 
 第三十五条　本条例自2008年5月1日起施行。
 
+　— 1 —　
+　

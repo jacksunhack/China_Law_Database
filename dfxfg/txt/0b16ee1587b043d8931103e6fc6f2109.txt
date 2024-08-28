@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施《中华人民共和国测绘法》办法
@@ -153,3 +154,4 @@
 
 　　第五十一条　本办法应用中的具体问题，由省测绘行政主管部门负责解释。
 　　第五十二条　本办法自2006年1月1日起施行。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省农作物种子管理条例
@@ -126,3 +127,4 @@
 
 第四十三条　种子生产合同、代销协议示范文本和种子生产、经营档案样式，由省人民政府农业行政主管部门确定公布。
 第四十四条　本条例自2004年1月1日起施行。
+— 12 —

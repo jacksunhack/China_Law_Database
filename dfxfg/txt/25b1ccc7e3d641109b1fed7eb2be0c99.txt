@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德阳市绵竹年画保护条例
@@ -102,3 +103,4 @@
 第二十八条  本条例自2020年1月1日起施行。
 
 
+— # —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市安全生产条例
@@ -303,3 +304,4 @@
 第八十四条　本条例自2023年7月1日起施行。
 
 
+－1－　

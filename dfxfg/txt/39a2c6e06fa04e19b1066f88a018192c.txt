@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -10,6 +11,5 @@
 
 济南市第十七届人民代表大会第一次会议经审议，决定《济南市制定地方性法规条例》适用于行政区划调整后的济南市行政区域。
 本决定自公布之日起施行。
-
 
 

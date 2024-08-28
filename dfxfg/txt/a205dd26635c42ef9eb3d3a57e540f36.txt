@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 黄山市民宿促进和管理条例
@@ -75,3 +76,4 @@
 （四）被公安机关通缉的犯罪嫌疑人；
 （五）法律、法规规定的其他情形。
 第三十二条　本条例自2024年5月1日起施行。
+－1－　

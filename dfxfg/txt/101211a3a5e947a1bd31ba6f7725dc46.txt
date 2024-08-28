@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省麻阳苗族自治县自治条例
@@ -124,3 +125,5 @@
 第七章  附则
 第六十一条  每年公历十一月一日为自治县成立纪念日。
 第六十二条  本条例经湖南省人民代表大会常务委员会批准后，由自治县人民代表大会常务委员会公布施行。
+1
+

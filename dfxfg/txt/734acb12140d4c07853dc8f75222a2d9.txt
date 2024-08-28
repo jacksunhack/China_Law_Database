@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区物业管理条例
@@ -366,3 +367,4 @@
 第九十六条  市政府应当根据本条例制定实施细则。
 第九十七条  本条例自2018年3月15日起施行。
 
+#

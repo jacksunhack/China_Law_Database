@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽宁省公路条例
 
@@ -156,3 +157,6 @@
 
 第五十条  本条例自2006年10月1日起施行。1986年9月20日辽宁省第六届人民代表大会常务委员会第二十二次会议通过的《辽宁省公路管理条例》同时废止。
 
+— # —
+
+	

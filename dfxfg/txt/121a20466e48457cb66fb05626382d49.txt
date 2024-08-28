@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市企业民主管理条例
@@ -205,3 +206,4 @@
 
     第六十七条  建立职工代表大会制度或者职工大会制度的事业单位参照本条例执行。
     第六十八条  本条例自2010年5月1日起施行。
+— 4 —

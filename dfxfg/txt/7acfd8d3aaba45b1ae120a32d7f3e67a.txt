@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 上饶市立法条例
@@ -161,3 +163,4 @@
 
     第六十九条  本条例自公布之日起施行。 
 
+- 20 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 阿坝藏族羌族自治州乡村振兴促进条例
@@ -113,3 +114,4 @@
 第十一章　附　　则
 ​
 第六十六条　本条例自2023年8月1日起施行。
+－1－　

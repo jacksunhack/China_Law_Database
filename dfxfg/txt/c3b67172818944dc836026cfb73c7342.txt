@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市区人民代表大会常务委员会
@@ -55,3 +56,4 @@
 区人大常委会应当加强人大街道工委干部专业化建设，组织开展业务培训和工作交流，不断提高能力水平。
 第二十四条  本条例自公布之日起施行。
 
+#

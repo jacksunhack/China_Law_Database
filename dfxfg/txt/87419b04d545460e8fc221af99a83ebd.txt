@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国
@@ -76,3 +78,4 @@
 
 第二十六条　本办法自2008年1月1日起施行。《河北省汉语言文字应用管理条例》同时废止。
 
+　— 1 —　

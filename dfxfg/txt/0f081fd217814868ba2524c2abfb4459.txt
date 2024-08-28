@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省建设工程项目使用袋装水泥和现场搅拌混凝土行政许可规定
@@ -24,3 +25,4 @@
     第八条  省人民政府可以根据本规定制订实施细则。
 　　第九条  本规定自公布之日起施行。
 
+1

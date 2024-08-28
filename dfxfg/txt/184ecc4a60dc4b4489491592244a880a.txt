@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 通化市人才发展促进条例
@@ -89,4 +90,6 @@
 第六章 附  则
 
 第四十六条 本条例自2020年1月1日起施行。
+
+#
 

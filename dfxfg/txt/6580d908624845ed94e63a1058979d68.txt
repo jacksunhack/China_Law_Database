@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市国防教育条例
@@ -56,3 +57,4 @@
 （四）负责国防教育的国家工作人员玩忽职守、滥用职权、徇私舞弊的。
 第二十六条  本条例自2011年3月1日起施行。
 
+#

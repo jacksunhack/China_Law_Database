@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -45,3 +46,4 @@
 鼓励推广热电联产和利用余热、余压、垃圾、煤矸石和低热值废弃物生产电力、热力。
 第二十二条  本办法自2001年7月1日起施行。
 
+1

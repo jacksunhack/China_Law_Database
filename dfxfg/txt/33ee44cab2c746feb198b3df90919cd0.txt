@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省人民代表大会议事规则
@@ -168,3 +170,4 @@
 第五十八条　本规则由省人民代表大会主席团解释；省人民代表大会闭会期间，由常务委员会解释。
 第五十九条　本规则自1994年3月15日起施行。
 
+— # —

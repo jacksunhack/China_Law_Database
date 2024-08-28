@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国防震减灾法》
@@ -46,3 +47,4 @@
 第二十五条  对防震减灾中的违法行为，按照《中华人民共和国防震减灾法》和有关法律、法规给予处罚。
 第二十六条  本办法自2001年3月1日起施行。
 
+— 1 —

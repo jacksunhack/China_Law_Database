@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区志愿服务条例
@@ -124,3 +125,4 @@
 第四十四条  本市内的志愿服务组织或者志愿者，在本市以外从事志愿服务活动，涉及志愿服务组织、志愿者权益保障和权利救济的，适用本条例。
 第四十五条  本条例于2012年12月5日起实施。
 
+- 1 -

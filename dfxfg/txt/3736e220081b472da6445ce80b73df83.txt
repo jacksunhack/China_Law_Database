@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市城市中小学校校舍场地管理办法
@@ -39,3 +40,4 @@
 　　第二十七条　各县（市）国办的中小学校校舍、场地的管理，可以参照本办法执行。
 　　第二十八条　市人民政府可以根据本办法制定实施细则。
 　　第二十九条　本办法自1996年4月1日起施行。
+— 2 —

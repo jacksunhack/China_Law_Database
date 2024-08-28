@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区实施
@@ -214,3 +215,4 @@
 
 第六十二条  农牧民购买、使用直接用于农业、牧业生产的生产资料，参照本办法执行。
 第六十三条  本办法自2004年7月1日起施行。
+#

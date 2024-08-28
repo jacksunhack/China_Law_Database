@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 山东省人口与计划生育条例
 
@@ -131,3 +132,4 @@
 
 
 
+1

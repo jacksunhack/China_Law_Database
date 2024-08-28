@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区海域污染防治条例
@@ -140,3 +141,4 @@
       第五十五条  对海域内设施（不包括固定钻井平台）的防污管理和内河通航水域船舶防污管理参照执行本条例。
       第五十六条  本条例自2000年3月1日起施行。
 
+- 1 -

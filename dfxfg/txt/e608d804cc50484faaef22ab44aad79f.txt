@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省气象灾害防御条例
@@ -190,3 +192,4 @@
 第五十三条  本条例具体应用问题由省人民政府负责解释。
 第五十四条  本条例自2012年9月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市科学技术协会条例
@@ -47,3 +48,4 @@
 第二十三条  本市行政区域内的各级科协、学会、机关、企业事业单位和个人应遵守本条例。
 第二十四条  本条例自1999年3月1日起施行。
 
+— 3 —

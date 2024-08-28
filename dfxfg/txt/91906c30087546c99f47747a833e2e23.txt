@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省黄河流域生态保护和高质量发展条例
@@ -221,3 +222,4 @@
 第十章　附　　则
 
 第九十七条　本条例自2023年10月1日起施行。
+－1－　

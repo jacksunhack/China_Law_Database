@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区地方金融监督管理条例
 （2020年9月23日内蒙古自治区第十三届
@@ -134,3 +135,4 @@
 第七章　附　则
 第五十三条　本条例自2020年12月1日起施行。
 
+#

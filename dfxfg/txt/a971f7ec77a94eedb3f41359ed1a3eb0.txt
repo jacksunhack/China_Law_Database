@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南藏族自治州自治条例
@@ -145,3 +146,4 @@
 　　每年藏历新年放假一天。
 　　第六十四条　本条例经自治州人民代表大会通过，报青海省人民代表大会常务委员会批准，自1987年10月1日起施行。
 　　条例由自治州人民代表大会常务委员会负责解释。
+- 17 -　

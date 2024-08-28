@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省企业民主管理条例
@@ -108,3 +109,4 @@
 
 　　第三十四条　本省行政区域内事业单位和建立职工大会制度的企业的民主管理，参照本条例执行。
 　　第三十五条　本条例自2008年2月1日起施行。
+1

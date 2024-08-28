@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省畜禽屠宰管理条例
@@ -126,3 +127,4 @@
 第三十七条  畜禽屠宰涉及清真食品的，还应当遵守《青海省清真食品生产经营管理条例》的规定。
 第三十八条  本条例自2021年1月1日施行。
 
+#  

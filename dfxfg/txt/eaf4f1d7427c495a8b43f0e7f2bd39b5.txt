@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -46,3 +47,4 @@
 第十七条  对在红十字事业中做出显著成绩的单位和个人，由红十字会或者人民政府给予表彰和奖励。
 第十八条  本办法自公布之日起施行。
 
+— 1 —

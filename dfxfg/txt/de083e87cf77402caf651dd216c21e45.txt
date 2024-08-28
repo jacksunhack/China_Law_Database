@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 张掖市社会信用体系建设促进条例
@@ -142,3 +143,4 @@
 第八章　附　　则
 ​
 第五十六条　本条例自2024年1月1日起施行。
+－1－　

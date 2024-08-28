@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 临汾市文物建筑消防安全管理条例
@@ -128,3 +129,4 @@
 第六章　附　　则
 ​
 第四十九条　本条例自2024年7月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市中山陵园风景区保护和管理条例
@@ -107,3 +109,4 @@
 第五章　附则
 
 第三十一条　本条例自1998年10月1日起施行。南京市人民政府1996年8月31日发布施行《南京市中山陵园风景区管理办法》同时废止。
+─ 1 ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省各级人民代表大会常务委员会
@@ -65,3 +66,4 @@
 　　第十八条　本规定自2002年1月1日起施行。
 
 
+— 5—

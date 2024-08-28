@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施《中华人民共和国母婴保健法》
@@ -113,3 +115,4 @@
 
 　　第三十七条  本办法第十六条、第二十条、第二十二条、第二十五条规定的收费标准和减免办法由省人民政府制定。
 　　第三十八条  本办法自2003年2月1日起施行。
+1

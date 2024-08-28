@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黑龙江省政府非税收入管理条例
 
@@ -122,3 +123,4 @@
 
 　　第三十四条  有关法律、行政法规对政府非税收入管理另有规定的，从其规定。
 　　第三十五条  本条例自2018年1月1日起施行。
+#

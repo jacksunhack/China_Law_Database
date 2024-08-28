@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区实施
@@ -104,3 +105,5 @@
 第九章  附则
 
 　　第三十六条　本办法自2010年9月10日起施行。《广西壮族自治区实施〈中华人民共和国教师法〉条例》同时废止。
+1
+ 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市轨道交通条例
@@ -172,3 +173,4 @@
 本条例所称轨道交通建设单位、轨道交通运营单位、轨道交通建设和运营单位是指重庆市轨道交通（集团）有限公司。
 第六十一条  本条例自2011年6月1日起施行。
 
+— 4 —

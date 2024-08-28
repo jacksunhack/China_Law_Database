@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长白朝鲜族自治县矿产资源管理条例
@@ -32,3 +33,4 @@
 第十九条 本条例由自治县人大常委会负责解释。
 第二十条 本条例自公布之日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市客运出租汽车管理条例
@@ -177,3 +178,4 @@
 第四十五条  本条例自2014年3月1日起施行。1997年9月27日公布实施的《抚顺市出租汽车管理条例》同时废止。
 
 
+— 1 —

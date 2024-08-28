@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省人才市场管理条例
@@ -134,3 +135,4 @@
 
 第四十五条  省人民政府可以根据本条例制定实施性规章。
 第四十六条  本条例自2004年6月1日起施行。
+#　

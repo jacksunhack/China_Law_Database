@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北川羌族自治县城市管理综合行政执法条例
@@ -152,3 +153,4 @@
 第四章  附  则
 
     第二十七条  本条例自2014年10月1日起施行。
+— 3 —  

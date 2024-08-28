@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大厂回族自治县畜牧业条例
@@ -85,3 +87,4 @@
 
 第三十四条　自治县人民政府可以依照本条例制定实施细则。
 第三十五条　本条例自公布之日起施行。
+　— 1 —　

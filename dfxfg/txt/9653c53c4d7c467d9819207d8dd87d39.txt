@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省国防教育条例
@@ -78,3 +79,4 @@
 第二十三条　本条例由各级国防教育领导机构组织实施。
 　　第二十四条　本条例应用中的具体问题由黑龙江省国防教育领导机构负责解释。
 　　第二十五条　本条例自1991年11月20日起施行。
+1

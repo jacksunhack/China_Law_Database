@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区查处生产
 和销售假冒伪劣商品行为的规定
@@ -65,3 +67,4 @@
 第二十三条  本规定自公布之日起施行。
 
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市农村集体资产管理条例
@@ -87,3 +88,4 @@
 第三十九条  本条例具体应用中的问题，由市人民政府农林办公室负责解释。
 第四十条  本条例自1993年7月1日起施行。
 
+—1—  

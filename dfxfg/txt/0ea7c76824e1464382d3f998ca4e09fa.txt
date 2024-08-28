@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省交通建设工程质量与安全生产条例
@@ -58,3 +59,4 @@
 前款规定以外的其他公路工程和水运工程质量与安全生产及对其进行监督管理，可以参照本条例执行。
 第二十六条  本条例自2015年1月1日起施行。
 
+－1－  

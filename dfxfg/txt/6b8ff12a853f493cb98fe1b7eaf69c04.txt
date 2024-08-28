@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市城乡建设档案管理条例
@@ -105,4 +106,6 @@
 
 
 南昌市人大常委会办公厅        2019年4月24日印发
+
+- 1 -
 

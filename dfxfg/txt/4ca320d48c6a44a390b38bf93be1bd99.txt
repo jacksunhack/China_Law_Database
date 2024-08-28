@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市大运河文化保护传承利用条例
@@ -106,3 +108,4 @@
 
 第四十二条  本条例自2023年5月1日起施行。 
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广西壮族自治区精神卫生条例
@@ -148,3 +149,4 @@
 ​
 第四十五条　本条例所称精神卫生医疗机构，是指开展精神障碍诊断、治疗活动的精神专科医院和其他设有精神科的医疗卫生机构。
 第四十六条　本条例自2024年7月1日起施行。
+－1－　

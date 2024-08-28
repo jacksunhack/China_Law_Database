@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贺州市历史文化街区和历史建筑保护条例
@@ -144,3 +146,4 @@
 
 第四十七条  本条例自2022年3月1日起施行。
 
+#

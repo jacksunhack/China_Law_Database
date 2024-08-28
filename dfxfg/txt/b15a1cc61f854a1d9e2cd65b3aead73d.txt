@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施
@@ -55,3 +56,4 @@
 对违反本办法第十四条第一款规定的，根据不同情况，追缴培养费，具体办法按自治区人民政府的规定执行。
 第二十七条  本办法由自治区教育行政部门负责解释。
 第二十八条  本办法自一九九八年四月一日起施行。
+- 1 -

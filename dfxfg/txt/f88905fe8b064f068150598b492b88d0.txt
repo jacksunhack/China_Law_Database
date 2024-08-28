@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 成都市地方立法条例
@@ -219,3 +220,4 @@
 ​
 第七十六条　本条例中十日以内期限的规定是指工作日，不含法定节假日。
 第七十七条　本条例自公布之日起施行。
+－1－　

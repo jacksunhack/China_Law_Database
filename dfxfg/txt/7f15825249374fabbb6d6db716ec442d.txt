@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省行政事业性收费管理条例
@@ -92,3 +94,4 @@
 
 第三十三条　省人民政府可依据本条例制定实施细则。
 第三十四条　本条例自1995年1月1日起施行。
+— 1 —

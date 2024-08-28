@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河源市恐龙地质遗迹保护条例
@@ -95,3 +96,4 @@
 （三）其他不依法履行监督管理职责的。
 第三十五条  本条例自2017年3月6日起施行。
 
+1

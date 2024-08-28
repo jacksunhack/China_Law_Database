@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四平市城乡规划监察条例
@@ -66,5 +67,4 @@
 第四章 附则
 
 第十九条 本条例自公布之日起施行。
-
 

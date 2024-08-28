@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区燃气管理条例
@@ -160,3 +161,4 @@
 石油、天然气勘探开发企业在城市规划区以外的集输管线、长输管线、直供工业用户的专用管线的建设、管理和使用不适用本条例。
 第五十五条  本条例自2008年1月1日起施行。
 
+#

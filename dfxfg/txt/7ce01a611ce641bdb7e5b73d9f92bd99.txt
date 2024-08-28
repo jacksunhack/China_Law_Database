@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省殡葬管理条例
@@ -85,3 +86,4 @@
 第四十一条  民族自治州和自治县人民代表大会常务委员会，可根据本条例制定变通办法，报四川省人民代表大会常务委员会批准。
 第四十二条  本条例自1997年1月1日起施行。
 
+— 9 —  

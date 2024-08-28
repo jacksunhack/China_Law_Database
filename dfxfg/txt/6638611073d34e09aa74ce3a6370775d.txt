@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 四川省《中华人民共和国
@@ -113,3 +114,4 @@
 （五）不按规定登记或者阻碍农民专业合作社登记的；
 （六）其他侵害农民专业合作社及其成员合法权益的行为。
 第三十九条　本办法自2024年6月1日起施行。
+－1－　

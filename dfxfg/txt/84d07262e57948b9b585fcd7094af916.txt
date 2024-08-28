@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区农村能源建设
@@ -75,3 +76,5 @@
 第六章  附则
 
 　　第二十六条　本条例自2001年8月1日起施行。
+1
+ 

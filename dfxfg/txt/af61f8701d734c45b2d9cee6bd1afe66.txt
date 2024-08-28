@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市饮用水水源保护条例
@@ -196,3 +197,4 @@
 本决定自公布之日起施行。
 《成都市饮用水水源保护条例》根据本决定作相应的修改，重新公布。
 
+— 19 — 

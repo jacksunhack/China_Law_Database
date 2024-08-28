@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 宜宾市城镇绿化条例
@@ -141,3 +142,4 @@
 ​
 第四十六条　县级人民政府按照因地制宜、切实可行的原则，可以决定本行政区域内与城镇开发边界毗邻的绿地参照执行本条例规定。
 第四十七条　本条例自2024年3月1日起施行。
+－1－　

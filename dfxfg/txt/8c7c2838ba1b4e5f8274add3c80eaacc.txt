@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 菏泽市城市供水条例
@@ -96,3 +97,4 @@
 第三十五条  本条例自2021年1月1日起施行。
 
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省实施《中华人民共和国水法》办法
@@ -143,3 +144,4 @@
 
 第四十二条　本办法所称采砂是指在河道管理范围内的采挖砂、石，取土和淘金（包括淘取其他金属及非金属）。
 第四十三条　本办法自2007年5月1日起施行。
+— 2 —

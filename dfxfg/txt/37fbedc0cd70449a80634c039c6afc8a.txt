@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海西蒙古族藏族自治州
@@ -11,3 +13,4 @@
 第三条  本变通规定自批准之日起施行。《海西蒙古族藏族自治州关于施行〈中华人民共和国婚姻法〉结婚年龄的变通规定》同时废止。
 
 
+1  

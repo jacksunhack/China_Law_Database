@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省文明行为促进条例修正案
@@ -39,3 +40,4 @@
 十一、第四十四条改为第四十五条，“公安”后增加“教育”，根据机构改革方案，规范部分单位名称。
 十二、本修正案自2021年12月1日起施行。
 
+— 1 —

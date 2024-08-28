@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -162,3 +163,4 @@
 第七章 附则
 
 第四十八条  本办法自2002年1月1日起施行。《湖南省建设工程招标投标管理条例》同时废止。
+- 1 - 

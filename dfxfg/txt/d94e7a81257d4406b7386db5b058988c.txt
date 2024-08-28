@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省政务数据管理与应用办法
@@ -66,3 +68,4 @@
 （四）数据开放，是指政务服务实施机构向自然人、法人和非法人组织依法提供政务数据的活动。
 第二十五条 本办法自2021年1月1日起实施。
 
+1

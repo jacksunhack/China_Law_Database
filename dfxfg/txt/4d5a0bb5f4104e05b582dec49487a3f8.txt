@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 松原市饮用水水源保护条例
 (2018年3月6日松原市第六届人民代表大会常务委员会
@@ -126,3 +127,4 @@
 （十）未依法履行职责的其他情形。
 第七章　附则
 第四十六条　本条例自2019年1月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新晃侗族自治县自治条例
@@ -90,3 +91,4 @@
     第四十九条  十二月五日为自治县成立纪念日。
     第五十条  本条例自湖南省人民代表大会常务委员会批准之日起施行。
                 
+1

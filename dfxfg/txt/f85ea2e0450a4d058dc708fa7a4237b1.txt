@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 威宁彝族回族苗族自治县人民代表大会关于
@@ -37,3 +38,4 @@
 十八、对部分条文作文字技术处理。
 本决定自2023年9月1日起施行。
 《威宁彝族回族苗族自治县畜牧业发展条例》根据本决定作相应修改后，重新公布。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省治理货物运输车辆超限超载条例
@@ -99,3 +100,4 @@
 第五章　附  则
  
 第三十四条　本条例自2021年10月1日起施行。2019年9月23日湖南省人民政府公布的《湖南省货物运输车辆超限超载治理办法》同时废止。
+－7－  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区实施《中华人民共和国教师法》若干规定
@@ -66,3 +67,4 @@
 　　第三十条　本规定的具体应用问题由厦门市人民政府负责解释。
 　　第三十一条　本规定自颁布之日起施行。
 
+— # —

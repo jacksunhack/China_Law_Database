@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省组织实施宪法宣誓制度办法
@@ -19,3 +20,4 @@
 负责组织宣誓仪式的机关，可以根据本办法并结合实际情况，对宣誓的具体事项作出规定。
 第十条  本办法自通过之日起施行。
 
+#

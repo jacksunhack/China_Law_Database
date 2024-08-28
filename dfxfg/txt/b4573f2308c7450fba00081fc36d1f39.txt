@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市体育设施管理条例
@@ -73,3 +74,4 @@
 第三十条  本条例自2000年1月1日起施行。
 1996年7月30日北京市人民政府发布的《北京市公共体育场所管理办法》同时废止。
 
+—1—  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 威宁彝族回族苗族自治县水资源
@@ -82,3 +83,4 @@
 第三十一条  自治县人民政府应当根据本条例制定实施细则。
 第三十二条  本条例自2015年8月1日起施行。
 
+— 1 —

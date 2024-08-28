@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 秦皇岛市海水浴场管理条例
@@ -133,6 +134,5 @@
 　　第四十一条　市人民政府可以依据本条例制定实施细则。
 　　第四十二条　本条例所称县、区包括秦皇岛经济技术开发区和北戴河新区。
 　　第四十三条　本条例自2019年7月1日起施行。
-
 
 

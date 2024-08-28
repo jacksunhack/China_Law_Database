@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市制定地方性法规条例
@@ -142,3 +143,4 @@
 
 第六十一条  本条例由市人大常委会负责解释。
 第六十二条  本条例自2017年5月1日起施行。《海口市制定地方性法规规定》同时废止。
+— 17 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长沙市燃气管理条例
@@ -182,3 +183,4 @@
 第七章　附　　则
 ​
 第四十八条　本条例自2024年3月1日起施行。
+－1－　

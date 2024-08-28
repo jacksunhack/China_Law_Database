@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市建筑节约能源条例
@@ -145,3 +146,4 @@
 
 第五十九条  本条例自2012年7月1日起施行。《天津市建筑节能管理规定》（2006年市人民政府令第107号）同时废止。
 
+#

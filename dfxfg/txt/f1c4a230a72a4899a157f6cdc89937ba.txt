@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 通辽市农用地膜污染防治条例
@@ -44,3 +46,4 @@
 第十七条  本条例自2022年3月1日起施行。
 
 
+#

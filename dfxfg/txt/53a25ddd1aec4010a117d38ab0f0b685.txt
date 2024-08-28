@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省计量监督管理条例
@@ -137,7 +138,6 @@
 （三）使用未经考核合格的计量标准器具开展检定的；
 （四）未经考核合格执行计量检定的。
 
-　附  则
+第九章  　附  则
 
 第四十九条　本条例自1996年9月1日起施行。
-

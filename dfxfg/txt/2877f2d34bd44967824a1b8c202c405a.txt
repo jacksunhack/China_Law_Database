@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区矿产资源管理条例
@@ -221,3 +222,4 @@
 第八章  附则
 
 第七十一条  本条例自1999年7月1日起施行。
+#

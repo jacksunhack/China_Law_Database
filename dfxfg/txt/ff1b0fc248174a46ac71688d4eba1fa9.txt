@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市社区工作条例
@@ -119,3 +121,4 @@
 
 第四十六条　县级以上人民政府根据本条例的规定，制定相应的配套实施办法，并且报同级人民代表大会常务委员会备案。
 第四十七条　本条例自2013年12月1日起施行。
+— 13 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省劳动合同条例
@@ -127,3 +128,4 @@
 第七章　附则
 
 第四十四条  本条例自2010年1月1日起施行。          
+#  

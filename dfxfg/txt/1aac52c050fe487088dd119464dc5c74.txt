@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省法律援助条例
@@ -112,3 +114,4 @@
 
 第三十八条　本条例自2007年9月1日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省人民代表大会常务委员会关于停止执行四川省地方性法规中部分行政许可事项的决定
@@ -102,3 +103,4 @@
 8、造纸、矿山企业原材料基地建设批准
 （八）四川省蚕种管理条例
 9、使用不达标种茧制种批准
+— 1 —  

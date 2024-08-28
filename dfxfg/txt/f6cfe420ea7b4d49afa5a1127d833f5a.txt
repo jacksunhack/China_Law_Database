@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 重庆市安全生产条例
@@ -233,3 +234,4 @@
 第七章　附　　则
 ​
 第六十七条　本条例自2024年7月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 珠海经济特区审计条例
@@ -140,3 +141,4 @@
 ​
 第四十四条　领导干部经济责任审计和自然资源资产离任审计，依照法律、法规和国家有关规定执行。
 第四十五条　本条例自2024年1月1日起施行。《珠海经济特区审计监督条例》同时废止。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 朔州市应县佛宫寺释迦塔保护条例
@@ -79,3 +81,4 @@
 第五章  附  则
 
 第二十七条  本条例自2019年5月1日起施行。
+— # —

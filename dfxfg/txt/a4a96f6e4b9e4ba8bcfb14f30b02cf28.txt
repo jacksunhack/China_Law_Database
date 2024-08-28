@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市公共文化服务保障与促进条例
@@ -116,3 +117,4 @@
 
 第七章　附  则
 第五十八条　本条例自2018年11月1日起施行。
+#

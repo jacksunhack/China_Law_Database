@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省促进绿色建筑发展条例
@@ -125,3 +126,4 @@
 　　第四十二条　省人民政府可以根据本条例制定实施细则。
 　　第四十三条　本条例自2019年1月1日起施行。
 
+1

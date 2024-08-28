@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 岫岩满族自治县
@@ -92,3 +93,5 @@
 第二十九条 自治县行政区域内的办公楼、写字楼、学校、医院、商厦等非住宅的物业管理，参照本条例执行。
 第三十条 本条例自2017年3月1日起施行。
 
+—- 3 -—
+	

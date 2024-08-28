@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市档案条例
@@ -168,3 +169,4 @@
 
 第五十七条  本条例自2021年12月1日起施行。
 
+- 17 -

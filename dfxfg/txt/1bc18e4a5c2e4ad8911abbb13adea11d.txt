@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江茅兰沟国家级自然保护区管理条例
@@ -91,3 +92,4 @@
 第四章　附　则
 
 第三十二条　本条例自2018年9月1日起施行。
+—#—  

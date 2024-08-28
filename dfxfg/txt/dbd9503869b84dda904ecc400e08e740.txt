@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省促进高新技术产业发展条例
@@ -118,3 +119,4 @@
 第八章  附则
 
     第五十九条  本条例自2011年8月1日起施行。
+－ 13 －

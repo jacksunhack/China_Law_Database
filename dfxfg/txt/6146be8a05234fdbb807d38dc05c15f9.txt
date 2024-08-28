@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市商品交易市场管理条例
@@ -119,3 +120,4 @@
 第三十五条  本条例自2006年6月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省水文条例
@@ -87,3 +88,4 @@
 第三十条　本条例自2006年12月1日起施行。
 
 
+－1－  

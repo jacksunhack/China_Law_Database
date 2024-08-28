@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省劳动保障监察条例
@@ -107,3 +108,4 @@
 
 
 
+— 11—

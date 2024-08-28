@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连山壮族瑶族自治县有机稻产业发展条例
@@ -81,6 +82,5 @@
 第五章  附则
 
 第三十四条  本条例自2020年11月1日起施行。
-
 
 

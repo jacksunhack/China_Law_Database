@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市建设工程抗震管理办法
@@ -69,3 +70,4 @@
 （二）抗震设防要求，是指建设工程抗御地震破坏的准则和在一定风险水准下抗震设计采用的地震烈度或者地震动参数。
 第三十一条  本办法自2014年11月1日起施行。
 
+— 1 —

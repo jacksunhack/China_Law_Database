@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 永州市城乡农贸市场管理条例
@@ -116,3 +117,4 @@
 第六章　附则
  
 第三十条　本条例自2022年3月1日起施行。乡镇集贸市场管理参照本条例执行。
+－1－  

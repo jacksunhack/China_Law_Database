@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省无规定动物疫病区管理条例
@@ -120,3 +121,4 @@
 第五十条  本条例具体应用中的问题由省人民政府负责解释。
 第五十一条  本条例自2012年8月1日起施行。
 
+2

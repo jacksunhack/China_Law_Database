@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区产品质量监督条例
@@ -113,4 +114,6 @@
 第四十三条  本条例具体应用中的问题由自治区产品质量监督管理部门负责解释。  
 第四十四条  本条例自公布之日起施行。
 
+
+#
 

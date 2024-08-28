@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 江西省地方金融监督管理条例
 
@@ -138,3 +139,4 @@
 本条例所称信用风险，是指借款人、证券发行人等交易一方不愿意或者不能履行合同，致使银行、投资者等交易另一方遭受损失的风险。
 第五十四条  本条例自2021年3月1日起施行。
 
+1

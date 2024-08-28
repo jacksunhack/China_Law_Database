@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 木垒哈萨克自治县立法条例
@@ -93,3 +94,4 @@
 第五章　附　　则
 ​
 第三十六条　本条例自2024年5月1日起施行。
+－1－　

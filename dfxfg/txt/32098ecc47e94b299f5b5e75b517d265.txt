@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省实施《中华人民共和国工会法》办法
@@ -117,3 +118,4 @@
 第六章　附　　则
 ​
 第三十九条　本办法自公布之日起施行。
+－1－　

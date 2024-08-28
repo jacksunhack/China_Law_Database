@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 东莞市物业管理条例
@@ -302,3 +303,4 @@
 第六十六条　市住房城乡建设部门可以根据本条例制定配套规定。
 第六十七条　非住宅小区物业管理参照本条例执行。
 第六十八条　本条例自2024年6月1日起施行。
+－1－　

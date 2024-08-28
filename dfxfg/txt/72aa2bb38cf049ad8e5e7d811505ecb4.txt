@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桓仁满族自治县封山育林管理条例
@@ -71,3 +72,5 @@
 
 
 
+  — # —
+	

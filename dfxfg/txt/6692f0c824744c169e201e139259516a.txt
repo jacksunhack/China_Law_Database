@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施
@@ -62,3 +63,4 @@
 (三)未按规划治导线整治河道和修建控制引导河水流向，任意改变河水流向的。
 第三十五条　本办法应用中的具体问题，由自治区人民政府水行政主管部门解释。
 第三十六条　本办法自2002年1月1日起施行。
+#

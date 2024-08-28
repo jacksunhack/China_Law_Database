@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市城市更新条例
 
@@ -208,3 +209,4 @@
 第七章　附　　则
 
 第五十九条　本条例自2023年3月1日起施行。
+－#－

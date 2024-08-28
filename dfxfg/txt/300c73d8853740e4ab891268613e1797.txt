@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌海市住宅物业管理条例
@@ -177,3 +179,5 @@
 第四十九条  本条例自2022年7月1日起施行。
 
 
+
+#

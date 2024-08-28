@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 内蒙古自治区奶业高质量发展促进条例
@@ -108,3 +109,4 @@
 第八章　附　　则
 ​
 第四十九条　本条例自2024年1月1日起施行。
+－1－　

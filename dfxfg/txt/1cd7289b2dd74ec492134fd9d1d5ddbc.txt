@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 江苏省水污染防治条例
@@ -214,3 +216,4 @@
 第九十条　本条例所称入河排污口，包括直接或者通过沟、渠、管道等设施向江河、湖泊、运河、渠道、水库等排放污水的排污口。
 第九十一条　本条例自2021年5月1日起施行。
 
+─ # ─  

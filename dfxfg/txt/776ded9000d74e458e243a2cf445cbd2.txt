@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 山西省人民代表大会常务委员会议事规则
@@ -129,3 +130,4 @@
 第七章　附　　则
 ​
 第五十四条　本规则自公布之日起施行。
+－1－　

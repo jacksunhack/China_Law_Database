@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省学校安全条例
@@ -102,4 +103,6 @@
 第四十四条  高等院校、幼儿园和面向未成年人举办的培训机构的安全管理工作，参照本条例有关规定执行。
 第四十五条  本条例自2006年8月1日起施行。
 
+
+— 1 —
 

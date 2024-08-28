@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 常德市农村村民住房建设管理条例
@@ -125,3 +126,4 @@
 本市街道办事处辖区内农村村民以及国有农场、林场、渔场职工住房建设的监督管理，参照本条例的相关规定执行。　
 第三十七条  本条例自2021年1月1日起施行。
 
+－1－  

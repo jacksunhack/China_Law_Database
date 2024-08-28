@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省人口与计划生育条例
@@ -161,3 +163,4 @@
 
 　　第五十九条　本条例自2016年1月1日起施行。　　
 
+	— 1 —  

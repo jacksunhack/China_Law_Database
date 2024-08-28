@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州野生中药材、
@@ -31,3 +33,4 @@
 第十六条  本条例报四川省人大常委会批准，自公布之日起施行。
 
 
+—3 —

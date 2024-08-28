@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市人民代表大会常务委员会
@@ -51,3 +52,4 @@
 《重庆市土地房屋权属登记条例》、《重庆市城镇房地产交易管理条例》、《重庆市物业管理条例》、《重庆市城市园林绿化条例》根据本决定作相应修改并对条文顺序作相应调整，重新公布。
 
 
+— # —  

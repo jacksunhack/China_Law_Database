@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 鞍山市城市市容和环境卫生管理条例
@@ -106,3 +107,4 @@
 ​
 第四十七条　鞍山市人民政府应依据本条例制定具体的处罚规定。
 第四十八条　本条例自公布之日起施行。
+－1－　

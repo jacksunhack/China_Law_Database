@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 德阳市优化营商环境条例
@@ -166,3 +167,4 @@
 第七章　附　　则
 ​
 第五十二条　本条例自2023年9月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省安全生产条例
@@ -176,3 +177,4 @@
     第五十八条  本省行政区域内非生产经营单位涉及安全生产活动的，参照本条例执行。
     第五十九条  本条例自2007年5月1日起施行。
 
+- 3 -

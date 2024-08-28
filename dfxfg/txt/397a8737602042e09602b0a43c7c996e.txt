@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省华侨捐赠公益事业若干规定
@@ -58,3 +60,4 @@
 
 
 
+- 1 -

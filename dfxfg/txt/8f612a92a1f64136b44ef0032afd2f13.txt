@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市院前医疗急救条例
@@ -175,3 +177,4 @@
 第五十一条  本条例自2017年7月1日起施行。南京市人民政府2015年2月6日发布的《南京市院前医疗急救管理办法》同时废止。
 
 
+─ # ─  

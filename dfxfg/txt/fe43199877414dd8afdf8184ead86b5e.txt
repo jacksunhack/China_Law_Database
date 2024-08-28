@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 内蒙古自治区特种设备安全监察条例
@@ -116,3 +117,4 @@
 第七章　附　　则
 ​
 第五十一条　本条例自2011年7月1日起施行。
+－1－　

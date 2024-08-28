@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区非物质文化遗产保护条例
@@ -145,3 +146,4 @@
 （五）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第七章  附  则
 第六十二条  本条例自2017年7月1日起施行。
+#

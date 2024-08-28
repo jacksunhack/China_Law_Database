@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邢台市城镇供水用水条例
@@ -168,6 +169,5 @@
 第九章  附则
 
 第五十条  本条例自2020年7月1日起施行。
-
 
 

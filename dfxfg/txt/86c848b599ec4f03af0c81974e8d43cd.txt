@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 达州市城市公共汽车客运条例
@@ -126,3 +127,4 @@
 第四十八条  经相关城市人民政府协商开通的毗邻城市间公共汽车客运，参照适用本条例。
 第四十九条  本条例自2017年 11月1日起施行。
 
+— 3 —

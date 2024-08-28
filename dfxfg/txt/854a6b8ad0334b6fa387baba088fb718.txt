@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省预算管理条例
@@ -96,3 +97,4 @@
 
 　　第三十八条　本条例的具体应用问题由省财政厅负责解释。
 　　第三十九条　本条例自1996年3月1日起施行。
+#　

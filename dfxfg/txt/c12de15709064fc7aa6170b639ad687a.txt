@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省邮政条例
@@ -148,3 +149,4 @@
 第八章  附则
 
 第五十七条  本条例自2013年12月1日起施行。
+— 15 —

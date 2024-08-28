@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 合肥市城市集中供热管理条例
@@ -119,3 +120,4 @@
 第七章　附　　则
 ​
 第四十五条　本条例自2021年2月1日起施行。
+－1－　

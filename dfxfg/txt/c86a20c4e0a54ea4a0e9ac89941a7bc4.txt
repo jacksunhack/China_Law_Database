@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 大通回族土族自治县义务教育条例
@@ -88,3 +89,4 @@
 第四十条  民办学校实施义务教育依照《中华人民共和国民办教育促进法》和有关法律、法规规定执行；法律、法规未作规定的，依照本条例执行。
 第四十一条  本条例自2021年7月1日起施行。
 
+#  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省建筑市场管理条例
@@ -111,3 +112,4 @@
 
 　　第四十条　本条例应用中的具体问题由省人民政府建设行政管理部门负责解释。
 　　第四十一条　本条例自2004年1月1日起施行。
+#　

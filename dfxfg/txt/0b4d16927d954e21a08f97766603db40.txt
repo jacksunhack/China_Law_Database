@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市湿地保护条例
@@ -75,3 +76,5 @@
 第五章  附  则
 
 第二十九条  本条例自2016年8月1日起施行。
+—#—      
+  

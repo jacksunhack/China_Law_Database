@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市推进科技创新中心建设条例
@@ -163,3 +164,4 @@
 
 第五十九条  本条例自2020年5月1日起施行。
 
+- 19 -

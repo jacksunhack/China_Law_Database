@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌兰察布市农用地膜污染防治条例
@@ -50,3 +51,4 @@
 （五）其他滥用职权、玩忽职守、徇私舞弊的情形。
 第二十一条　本条例自2021年3月1日起施行。
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 徐州市文明行为促进条例
@@ -154,3 +156,4 @@
 
 第四十三条  本条例自2021年3月1日起施行。
 
+─ # ─  

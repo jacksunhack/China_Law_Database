@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宣城市城市管理条例
@@ -223,3 +224,4 @@
 第六十九条  市人民政府可以根据本条例制定城市管理的具体实施办法。
 第七十条  本条例自2017年5月1日起施行。
 
+1

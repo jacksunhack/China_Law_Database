@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 威宁彝族回族苗族自治县自治条例
@@ -140,3 +142,4 @@
 第五十九条 每年11月11日为自治县成立纪念日，放假2天。
 第六十条 本条例自1992年11月11日起施行。
 
+— 1 —

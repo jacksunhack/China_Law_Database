@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施宪法宣誓制度办法
@@ -20,3 +21,4 @@
 十一、负责组织宣誓仪式的机关，可以根据本办法并结合实际情况，制定宪法宣誓的具体实施细则。
 十二、本办法自2016年1月1日起施行。
 
+1

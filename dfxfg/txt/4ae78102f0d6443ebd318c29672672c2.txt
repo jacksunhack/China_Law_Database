@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 嘉峪关市市容和环境卫生管理条例
@@ -183,3 +185,4 @@
 
 第五十八条  本市市容和环境卫生管理活动，法律、法规另有规定的，从其规定。
 第五十九条  本条例自公布之日起施行。
+      — 1 —    

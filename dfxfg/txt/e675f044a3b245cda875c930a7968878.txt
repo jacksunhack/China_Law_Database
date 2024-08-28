@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市供用电条例
@@ -219,3 +220,4 @@
 重要用电人是指一旦发生停电事故可能造成重大社会影响或他人人身财产损失的用电人，如医院、矿山、化工企业等，其范围由市电力行政主管部门确定。
 第六十一条  本条例自2010年3月1日起施行。
 
+— 3 —

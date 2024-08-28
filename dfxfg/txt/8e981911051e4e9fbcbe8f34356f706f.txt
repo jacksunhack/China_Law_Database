@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 吉林市房地产交易管理条例
@@ -178,3 +179,4 @@
 第五十条　房地产交易中涉及土地交易的，按照土地管理的有关法律、法规的规定执行。
 第五十一条　吉林市人民政府可以依据本条例的规定制定实施细则。
 第五十二条　本条例自公告之日起施行。
+－1－　

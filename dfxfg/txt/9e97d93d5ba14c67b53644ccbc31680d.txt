@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 西藏自治区乡村振兴促进条例
 
@@ -154,5 +155,4 @@
 第十一章　附  则
 
 第六十八条　本条例自2022年8月1日起施行。
-
 

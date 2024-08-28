@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市乡村振兴促进条例
@@ -132,3 +133,4 @@
 第十章　附　　则
 ​
 第六十一条　本条例自2024年5月1日起施行。
+－1－　

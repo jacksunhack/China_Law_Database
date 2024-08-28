@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 南平市河岸生态地保护规定
 （2018年9月26日南平市第五届人民代表大会
@@ -55,3 +57,4 @@
 （五）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第二十条  本规定自2019年1月1日起施行。
 
+— # —

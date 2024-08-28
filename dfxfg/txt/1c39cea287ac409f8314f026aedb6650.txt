@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省招标投标条例
@@ -273,3 +275,4 @@
 
 第五十七条　法律、法规对政府采购货物、服务的招标投标活动另有规定的，从其规定。
 第五十八条　本条例自2012年5月1日起施行。
+—— 1 ——

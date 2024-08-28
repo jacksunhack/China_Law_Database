@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省村民委员会选举办法
@@ -176,3 +177,4 @@
     第四十五条  辖区有村民委员会的街道办事处，在村民委员会选举中履行本办法规定的应当由乡、民族乡、镇人民政府履行的职责。
 　　第四十六条  本办法自2011年7月1日起施行。
 
+- 3 -

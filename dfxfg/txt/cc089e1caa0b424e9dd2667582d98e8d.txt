@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 和布克赛尔蒙古自治县矿产资源管理条例
@@ -40,3 +42,4 @@
 第二十五条  违反本条例规定，应当予以处罚的其他行为，依照有关法律、法规的规定执行。
 第二十六条  本条例自2011年7月1日起施行。
 
+- 1 -

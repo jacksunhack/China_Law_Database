@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区农作物种子条例
@@ -99,3 +100,4 @@
 第四十四条　本条例所称南繁是指利用南方冬季光温适宜的气候条件进行农作物加代、繁育、制种。
 第四十五条　本条例自2019年7月1日起施行。
 
+#

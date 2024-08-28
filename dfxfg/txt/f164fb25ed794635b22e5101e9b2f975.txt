@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西武夷山国家级自然保护区条例
@@ -118,3 +119,4 @@
     第四十三条  本条例自2016年5月1日起施行。
 
 
+- 1 -

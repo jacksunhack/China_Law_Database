@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省乡村振兴促进条例
@@ -148,3 +149,4 @@
 
 第五十九条  街道办事处履行乡村振兴促进相关职责的，适用本条例关于乡镇人民政府的规定。
 第六十条  本条例自2021年9月1日起施行。
+— 1—

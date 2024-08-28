@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区实施《中华人民共和国突发事件应对法》办法
@@ -174,3 +175,4 @@
 第五十三条   本办法自2012年8月1日起施行。
 
 
+— 1 —

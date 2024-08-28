@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑河市饮用水水源保护条例
@@ -85,3 +86,4 @@
 第二十八条 供水人口不足一千人的分散式饮用水水源，由县（市、区）人民政府划定适当的保护区域，参照本条例饮用水水源一级保护区的规定进行管理。
 第二十九条 本条例自2021年1月1日起施行。
 
+1

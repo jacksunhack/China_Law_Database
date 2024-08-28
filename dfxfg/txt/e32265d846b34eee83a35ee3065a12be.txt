@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省劳动力市场管理条例
@@ -98,4 +99,6 @@
 第六章　　附　　　　则
 
 第三十四条　　本条例自1997年6月1日起施行。
+
+— 1 —
 

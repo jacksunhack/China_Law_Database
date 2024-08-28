@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽阳市人民代表大会常务委员会
 关于修改《辽阳市汤河水库饮用水水源保护
@@ -14,3 +15,5 @@
 本决定自公布之日起施行。
 《辽阳市汤河水库饮用水水源保护条例》根据本决定作相应修改，重新公布。
 
+
+— # — 

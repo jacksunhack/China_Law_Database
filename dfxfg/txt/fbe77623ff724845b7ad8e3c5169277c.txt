@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 江苏省医疗保障条例
@@ -285,3 +286,4 @@
 第八十二条　军人以及军队相关人员的医疗保障按照国家有关规定执行。
 残疾退役军人等人员的医疗保障，国家和省另有规定的，从其规定。
 第八十三条　本条例自2023年6月1日起施行。
+－1－　

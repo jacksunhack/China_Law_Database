@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 重庆市消防条例
@@ -260,3 +261,4 @@
 第八章　附　　则
 ​
 第七十八条　本条例自2024年7月1日起施行。
+－1－　

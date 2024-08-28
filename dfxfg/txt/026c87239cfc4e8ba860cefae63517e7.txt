@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长沙市关于集会游行示威的规定
@@ -80,3 +81,4 @@
 第二十三条  本规定自公布之日起施行。1987年1月21日公布的《长沙市关于游行示威的暂行规定》同时废止。
 
 
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 南通市义务教育优质均衡发展条例
@@ -185,3 +187,4 @@
 
 
  
+─ # ─  

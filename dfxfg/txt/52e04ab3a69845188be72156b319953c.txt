@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省人民代表大会常务委员会                 关于修改《湖北省人民代表大会议事规则》
@@ -76,3 +77,4 @@
 
 
 
+— # —

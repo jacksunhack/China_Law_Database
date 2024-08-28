@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市地名管理条例
@@ -127,3 +128,4 @@
 （二）通名是指地名中表示指称的地理实体通用属性（类别）的名称部分；
 （三）地名标志是指标示地理实体标准地名及相关信息的设施。
 第三十八条  本条例自2012年2月1日起施行。
+1

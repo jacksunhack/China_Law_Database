@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市预防和制止家庭暴力条例
@@ -61,3 +62,4 @@
 
 
 
+— 1—

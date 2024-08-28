@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 西藏自治区实施《中华人民共和国
@@ -117,3 +118,4 @@
 第四章　附　　则
 ​
 第三十九条　本办法自2024年2月1日起施行。
+－1－　

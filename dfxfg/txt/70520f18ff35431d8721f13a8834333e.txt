@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 紫云苗族布依族自治县非物质文化遗产
@@ -129,4 +130,6 @@
 
 第三十五条  自治县人民政府可以根据本条例制定实施细则。
 第三十六条  本条例自2016年6月1日起施行。
+
+— 1 —
 

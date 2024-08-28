@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省建筑市场管理条例
@@ -188,3 +189,4 @@
 　　抢险救灾、其他临时性房屋建筑、农民自建低层住宅和涉及保密、军事等国家规定工程的管理，不适用本条例。
 　　第六十五条　本条例自2010年10月1日起施行。
 
+－ # －

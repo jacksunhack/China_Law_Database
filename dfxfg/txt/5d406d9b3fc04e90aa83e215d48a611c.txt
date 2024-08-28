@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省水能资源开发利用管理条例
@@ -65,4 +66,6 @@
 （五）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第二十八条  本条例自2011年5月1日起施行。
 
+
+— 1 —
 

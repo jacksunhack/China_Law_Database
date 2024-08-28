@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁夏回族自治区促进民族团结进步工作条例
@@ -11,7 +12,7 @@
     第二章   政府职责 
     第三章   社会协同
     第四章   宣传教育
-  示范创建
+第五章    示范创建
 第六章   保障监督
 第七章   法律责任
 第八章   附则
@@ -93,3 +94,4 @@
 
 
 
+1

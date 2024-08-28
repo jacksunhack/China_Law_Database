@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -85,3 +86,4 @@
 第三十四条 被认定为文物或者非物质文化遗产的工业遗产，分别按照《中华人民共和国文物保护法》《中华人民共和国非物质文化遗产法》等法律法规执行。
 第三十五条 本条例自2020年12月1日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广西壮族自治区劳动人事争议调解仲裁条例
@@ -197,3 +198,4 @@
 ​
 第六十六条　本条例所称用人单位代表组织是指企业与企业家联合会、工商业联合会等。
 第六十七条　本条例自2021年7月1日起施行。
+－1－　

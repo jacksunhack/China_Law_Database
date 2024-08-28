@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 绍兴市村庄规划建设条例
@@ -124,7 +125,6 @@
 第七章  附  则
 
 第四十一条  本条例自2020年9月1日起施行。
-
 
 
 

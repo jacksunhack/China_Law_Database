@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 琼中黎族苗族自治县自治条例
@@ -162,3 +163,4 @@
 第五十六条　自治县人民政府应当根据本条例制定其职权范围内的实施办法。
 第五十七条　本条例由自治县人民代表大会常务委员会负责解释并监督实施。
 第五十八条　本条例自公布之日起施行。
+－1－　

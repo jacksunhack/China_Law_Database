@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长阳土家族自治县生态环境保护条例
@@ -107,3 +109,4 @@
 第六章　附则
 
 　　第四十二条　本条例自2007年7月1日起施行。
+1

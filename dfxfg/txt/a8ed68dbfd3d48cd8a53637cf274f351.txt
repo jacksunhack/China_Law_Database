@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省供用电条例
@@ -208,3 +209,4 @@
 
 　　第六十七条　本条例应用中的具体问题，由省人民政府电力行政管理部门负责解释。
 　　第六十八条　本条例自2007年1　0月1日起施行。
+#　

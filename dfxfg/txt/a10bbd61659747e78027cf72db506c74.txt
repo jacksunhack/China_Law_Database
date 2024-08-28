@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省查处生产销售伪劣商品行为条例
@@ -95,3 +96,4 @@
 第三十一条　本条例由省人民政府负责解释。
 第三十二条　本条例自1994年10月1日起施行。
 
+——1——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市职业教育条例
@@ -101,3 +102,4 @@
 第三十九条  本条例自1995年7月1日起施行。
 
 
+— 1 —

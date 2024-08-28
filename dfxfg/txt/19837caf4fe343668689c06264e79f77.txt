@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省自然保护区管理条例
@@ -83,3 +85,4 @@
 第二十九条  本条例实施中的具体应用问题，由省环境保护行政主管部门负责解释。
 第三十条  本条例自公布之日起施行。
 
+      — 1 —    

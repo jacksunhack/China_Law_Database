@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市村庄和集镇规划建设管理条例
@@ -113,3 +114,4 @@
 
 
 
+#

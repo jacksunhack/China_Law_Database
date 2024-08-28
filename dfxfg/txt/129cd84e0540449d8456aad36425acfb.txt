@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 钦州市立法条例
@@ -163,3 +165,4 @@
 第八章　附则
 
 第六十七条　本条例自2016年4月1日起施行。
+- 1 -　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省气象条例
@@ -180,3 +182,4 @@
 《云南省气象条例》根据本决定作相应修改，重新公布。
 
 
+—— 1 ——

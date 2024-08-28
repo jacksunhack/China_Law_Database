@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 淮安市乡村人居环境改善促进条例
@@ -106,3 +107,4 @@
 第七章　附　　则
 ​
 第三十六条　本条例自2024年1月1日起施行。
+－1－　

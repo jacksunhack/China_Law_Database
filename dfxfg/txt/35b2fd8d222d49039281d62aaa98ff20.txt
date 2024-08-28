@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省劳动就业条例
@@ -79,3 +81,4 @@
 
 第二十八条　本条例自2000年7月1日起施行。
 
+—— 1 ——

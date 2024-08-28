@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖州市养犬管理规定
@@ -76,3 +77,4 @@
 第十八条  本规定自2022年1月1日起施行。
 
 
+— 3 —

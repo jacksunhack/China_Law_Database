@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省暂住人口管理条例
@@ -88,3 +89,4 @@
 ​
 第二十六条　暂住证、暂住户口簿由河南省公安厅统一印制。
 第二十七条　本条例自1997年12月1日起施行，1995年6月4日河南省人民政府发布的《河南省城镇暂住人口管理办法》同时废止。
+－1－　

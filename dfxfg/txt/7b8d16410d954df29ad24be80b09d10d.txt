@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市阿哈水库水资源环境
@@ -108,3 +110,4 @@
 第五章　附　则
 
 第三十三条　本条例自2009年5月1日起施行。
+—10—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 临沂市供热条例
@@ -125,3 +126,4 @@
 ​
 第四十四条　承担社会公共管理职能的开发区、新区等各类功能区，按照各自职责权限，做好本区域内供热以及相关活动的监督管理工作。
 第四十五条　本条例自2017年11月1日起施行。
+－1－　

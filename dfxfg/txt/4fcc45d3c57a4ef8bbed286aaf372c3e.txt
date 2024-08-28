@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市地上不可移动文物和
@@ -29,3 +30,4 @@
 第二十二条  本条例自2005年11月15日起施行。
 
 
+— 1 —

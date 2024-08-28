@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 攀枝花市安宁河流域保护条例
@@ -189,3 +190,4 @@
 第九章　附　　则
 ​
 第七十条　本条例自2023年11月1日起施行。
+－1－　

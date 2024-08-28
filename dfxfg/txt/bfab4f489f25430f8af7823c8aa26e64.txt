@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 抚顺市政务数据资源共享开放条例
@@ -65,3 +66,4 @@
 （八）未按照规定履行数据安全保护职责的；
 （九）其他违反法律、行政法规和国家有关规定的。
 第三十一条　本条例自2023年3月1日起施行。
+－1－　

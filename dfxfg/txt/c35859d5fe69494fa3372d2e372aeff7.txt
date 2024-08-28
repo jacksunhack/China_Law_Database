@@ -1,3 +1,6 @@
+﻿
+
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 木垒哈萨克自治县水资源保护条例
@@ -82,3 +85,4 @@
 　　第二十七条　本条例自2016年 8月1 日起施行。 
 
 
+# 

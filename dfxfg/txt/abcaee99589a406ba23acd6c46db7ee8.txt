@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市水务管理条例
@@ -207,3 +208,4 @@
 本条例所称公共排水设施，是指政府或者其他主体投资建设、供公众使用的排水设施。
     第六十二条　本条例自2012年5月1日起施行，《广州市实施〈中华人民共和国水法〉办法》同时废止。
 
+- 1 - 

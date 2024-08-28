@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 昆明市人民代表大会常务委员会
 关于废止《昆明市行政事业性收费
@@ -9,3 +11,4 @@
 
 
 
+—— 1 ——

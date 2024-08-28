@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市长江防护林体系管理条例
@@ -106,3 +107,4 @@
 第四十六条  本条例所界定数量有以上、以下的，均含本数。
 第四十七条  本条例自1998年9月1日起施行。
 
+— 3 —

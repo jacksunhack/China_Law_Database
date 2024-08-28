@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区实施
@@ -119,3 +120,4 @@
 第七章  附则
 
 第四十五条  本办法自公布之日起施行。
+#

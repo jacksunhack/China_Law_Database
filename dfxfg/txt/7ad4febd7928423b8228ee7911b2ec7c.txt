@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰安市城市绿化条例
@@ -123,3 +124,4 @@
 
 第四十四条 本条例自2018年11月1日起施行。泰安市人民政府2004年5月19日制定发布的《泰安市城市绿化管理办法》（市政府令第97号）同时废止。
 
+1

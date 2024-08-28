@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省行政执法条例
@@ -153,3 +154,4 @@
 第六章　附则
 
 　　第五十一条　本条例自2007年2月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市港口管理条例
@@ -108,3 +109,4 @@
 （九）港口经营人，是指在港区内从事港口经营性业务的企业、单位和个人。
 第四十三条  本条例的实施细则由市政府制定。
 第四十四条  本条例自2002年7月1日起施行。
+- 1 - 

@@ -1,5 +1,5 @@
 import os
-from docx import Document
+from spire.doc import Document, FileFormat
 
 # 设置目录
 word_dir = "C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word"
@@ -9,16 +9,16 @@ merged_txt_file = os.path.join(txt_dir, "merged_output.txt")
 # 如果 txt 目录不存在，创建该目录
 os.makedirs(txt_dir, exist_ok=True)
 
-def docx_to_txt(docx_file, txt_file):
+def doc_to_txt(doc_file, txt_file):
     try:
-        print(f"正在处理文件: {docx_file}")  # 打印当前正在处理的文件
-        doc = Document(docx_file)
-        with open(txt_file, 'w', encoding='utf-8') as f:
-            for para in doc.paragraphs:
-                f.write(para.text + '\n')
-        print(f"转换成功: {docx_file} -> {txt_file}")
+        print(f"正在处理文件: {doc_file}")  # 打印当前正在处理的文件
+        document = Document()  # 创建 Document 对象
+        document.LoadFromFile(doc_file)  # 从文件加载文档
+        document.SaveToFile(txt_file, FileFormat.Txt)  # 保存为 txt 文件
+        document.Close()  # 关闭文档
+        print(f"转换成功: {doc_file} -> {txt_file}")
     except Exception as e:
-        print(f"转换失败: {docx_file}, 错误: {str(e)}")
+        print(f"转换失败: {doc_file}, 错误: {str(e)}")
         return False  # 返回失败
 
     return True  # 返回成功
@@ -40,7 +40,7 @@ def merge_txt_files(output_file, txt_files, chunk_size=8 * 1024 * 1024):
                         part_num += 1
                         current_size = 0
                         print(f"正在创建分片文件: {current_file_name}")
-                    
+
                     current_file.write(line)
                     current_size += len(line)
 
@@ -56,17 +56,17 @@ def merge_txt_files(output_file, txt_files, chunk_size=8 * 1024 * 1024):
     print(f"所有txt文件已合并并分片为: {part_num - 1} 个文件")
 
 def main():
-    # 获取word目录中的所有docx文件
-    docx_files = [f for f in os.listdir(word_dir) if f.endswith('.docx')]
+    # 获取word目录中的所有doc或docx文件
+    doc_files = [f for f in os.listdir(word_dir) if f.endswith(('.doc', '.docx')) and not f.startswith('~$')]  # 忽略临时文件
     txt_files = []
-    
-    # 将每个docx文件转换为txt文件并存储到txt目录
-    for docx_file in docx_files:
-        docx_path = os.path.join(word_dir, docx_file)
-        txt_file = os.path.join(txt_dir, os.path.splitext(docx_file)[0] + '.txt')
-        if docx_to_txt(docx_path, txt_file):  # 如果转换成功，才加入到txt_files列表
+
+    # 将每个doc文件转换为txt文件并存储到txt目录
+    for doc_file in doc_files:
+        doc_path = os.path.join(word_dir, doc_file)
+        txt_file = os.path.join(txt_dir, os.path.splitext(doc_file)[0] + '.txt')
+        if doc_to_txt(doc_path, txt_file):  # 如果转换成功，才加入到txt_files列表
             txt_files.append(txt_file)
-    
+
     # 合并所有txt文件为一个文件并分片
     merge_txt_files(merged_txt_file, txt_files)
 

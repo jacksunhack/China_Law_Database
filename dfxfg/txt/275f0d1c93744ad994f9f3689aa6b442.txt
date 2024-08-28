@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市公安机关警务辅助人员管理条例
@@ -145,3 +146,4 @@
 第四十三条  本市人民法院、人民检察院和司法行政机关经批准配备辅警的，参照本条例有关规定执行。
 第四十四条  本条例自2022年8月1日起施行。
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省税收保障条例
@@ -114,3 +115,4 @@
 第七章  附则
     
     第四十一条  本条例自2016年10月1日起实施。2014年5月19日江西省人民政府发布的《江西省税收保障办法》同时废止。
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 威海市城市风貌保护条例
@@ -147,3 +148,4 @@
 
 第六十三条  本条例自2016年11月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 海南省生态保护补偿条例
 
 （2020年12月2日海南省第六届人民代表大会常务委员会
@@ -71,4 +72,5 @@
 第二十六条  法律、行政法规对生态保护补偿另有规定的，从其规定。
 第二十七条  本条例自2021年1月1日起施行。
  
+
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省实施《中华人民共和国
@@ -128,3 +129,4 @@
 第七章　附　　则
 ​
 第四十四条　本办法自2019年1月1日起施行。
+－1－　

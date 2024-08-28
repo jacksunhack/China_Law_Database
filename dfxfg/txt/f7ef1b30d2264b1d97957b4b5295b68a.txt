@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省科学技术进步条例
@@ -150,3 +151,4 @@
 
 第六十五条　省人民政府可以根据本条例制定实施办法。
 第六十六条　本条例自1994年10月1日起施行。
+— 13 —

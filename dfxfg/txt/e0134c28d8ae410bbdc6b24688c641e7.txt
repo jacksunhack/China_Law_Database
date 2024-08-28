@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 北京市建筑绿色发展条例
@@ -152,3 +153,4 @@
 ​
 第六十条　本市行政区域内市政基础设施的绿色发展参照本条例管理。
 第六十一条　本条例自2024年3月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市电动自行车管理条例
@@ -126,3 +127,4 @@
 
     第三十三条  本条例实施前购置的电动自行车应当在本条例实施之日起九十日内向公安机关交通管理部门申请办理登记。
     第三十四条  本条例自2016年9月1日起施行。
+—1—  

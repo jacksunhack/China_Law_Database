@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省耕地质量保护条例
@@ -121,3 +122,4 @@
 第八章　附则
 
 第四十一条　本条例自2010年6月1日起施行。
+— 11 —

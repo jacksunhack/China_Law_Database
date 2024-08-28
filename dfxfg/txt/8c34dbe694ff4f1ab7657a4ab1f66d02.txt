@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市失业保险条例
@@ -143,3 +144,4 @@
 第四十五条  本条例未作具体规定的有关办法和标准等由市人民政府另行制定。
 第四十六条  本条例自2004年1月1日起施行。
 
+— 3 —

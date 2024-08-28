@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丰宁满族自治县草地管理条例
@@ -57,3 +58,4 @@
 第二十三条　自治县人民政府可以根据本条例制定实施办法。
 第二十四条　本条例应用中的问题，由自治县林业和草原行政主管部门负责解释。
 第二十五条　本条例自公布之日起施行。
+－1－　

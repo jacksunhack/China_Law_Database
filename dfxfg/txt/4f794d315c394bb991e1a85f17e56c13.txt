@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省人民代表大会常务委员会
@@ -39,3 +40,4 @@
 此外，还对条文中个别文字进行了修改，并对条文顺序作了相应调整。
 本决定自公布之日起施行。
 《四川省乡镇人民代表大会主席团工作条例》根据本决定作相应修改，重新公布。
+— 5 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 三亚市爱国卫生管理办法
@@ -129,3 +130,4 @@
 ​
 第四十九条　本办法具体应用问题由市人民政府负责解释。
 第五十条　本办法自2019年1月1日起施行。
+－1－　

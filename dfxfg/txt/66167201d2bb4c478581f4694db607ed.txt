@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省地质环境保护条例
@@ -71,3 +72,4 @@
 （五）侵占、挪用矿山环境治理恢复保证金的；
 （六）有其他玩忽职守、滥用职权、徇私舞弊行为的。
 第三十条  本条例自2007年12月1日起施行。
+— 1 —

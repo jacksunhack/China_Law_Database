@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区志愿服务条例
 
@@ -139,4 +140,6 @@
 第四十八条  本条例自2021年3月5日起施行。
 
 
+附件
 
+— # —

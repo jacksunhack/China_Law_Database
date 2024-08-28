@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省人民代表大会常务委员会
@@ -13,3 +14,4 @@
 （二）因不可抗力灭失住房，重新承受住房权属的，免征契税。
 国家对减征或者免征契税另有规定的，从其规定。
 三、本决定自2021年9月1日起施行。
+— 7—

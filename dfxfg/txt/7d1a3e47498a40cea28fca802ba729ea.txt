@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市园林绿化条例
@@ -130,3 +131,4 @@
 第三十六条  本条例所称园林绿地，是指建设用地范围内以自然植被和人工植被为主要存在形态的绿化用地。
 第三十七条  本条例自2020年1月1日起施行。
 
+— 13 —  

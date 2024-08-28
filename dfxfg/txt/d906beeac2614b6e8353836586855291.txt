@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 临汾市晋西太德塬生态保护条例
@@ -92,3 +93,4 @@
 第五章　附　　则
 ​
 第五十条　本条例自2024年5月1日起施行。
+－1－　

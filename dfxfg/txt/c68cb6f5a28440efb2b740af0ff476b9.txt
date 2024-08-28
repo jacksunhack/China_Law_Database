@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省沿海边防治安管理条例
@@ -151,3 +153,4 @@
 第五十一条   本条例具体应用问题由省人民政府负责解释。
 第五十二条   本条例自2013年1月1日起施行。
 
+1

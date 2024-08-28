@@ -1,4 +1,6 @@
 ﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 南昌市实施《中华人民共和国
 集会游行示威法》若干规定
@@ -63,3 +65,5 @@
 第二十二条  本规定具体应用中的问题，由市人民政府负责解释。
 第二十三条  本规定自公布之日起施行。
 
+
+- 7 -

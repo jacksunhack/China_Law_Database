@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 厦门市人民代表大会常务委员会议事规则
@@ -97,3 +98,4 @@
 ​
 第四十条　常务委员会通过的法规、决议、决定，应当按照规定予以公布，并依法报有关机关批准或者备案。
 第四十一条　本规则自公布之日起施行。
+－1－　

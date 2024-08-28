@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵州省信息基础设施条例
@@ -121,3 +122,4 @@
 ​
 第四十七条　本条例所称信息基础设施运营者，是指信息基础设施的所有者、管理者和信息服务提供者。
 第四十八条　本条例自2023年3月1日起施行。
+－1－　

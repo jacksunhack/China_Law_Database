@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省邮政条例
@@ -154,3 +156,4 @@
 第八章　附 则
 
 第六十一条　本条例自2012年7月1日起施行。2000年9月4日河北省人民政府公布的《河北省邮政管理规定》同时废止。
+　— 1 —　

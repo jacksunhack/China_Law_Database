@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市供水条例
@@ -198,3 +199,4 @@
 结算水表，指由用户在供水单位立户，用以计量用户实际用水量并以此作为收费依据的计量器具。
 第六十三条  本条例自2021年11月1日起施行。《武汉市城市供水用水条例》同时废止。
 
+— # —

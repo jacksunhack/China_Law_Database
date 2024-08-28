@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市环城林带建设保护办法
@@ -46,3 +47,4 @@
 第十八条  违反本办法，依照《中华人民共和国森林法》、《贵州省森林条例》及有关法律法规的规定予以处罚。
 第十九条  本办法自2002年11月1日起施行。
 
+— 1 —

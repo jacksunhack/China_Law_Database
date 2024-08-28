@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 成都市数据条例
@@ -149,3 +150,4 @@
 ​
 第四十五条　市人民政府根据本条例制定相关配套规定。
 第四十六条　本条例自2024年9月1日起施行。
+－1－　

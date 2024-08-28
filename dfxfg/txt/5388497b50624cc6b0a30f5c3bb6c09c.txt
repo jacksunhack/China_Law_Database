@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市档案管理办法
@@ -75,3 +76,4 @@
 第三十四条  档案工作人员滥用职权、徇私舞弊、玩忽职守的，依照有关规定，由其所在单位或者上级主管部门给予行政处分；构成犯罪的，依法追究刑事责任。
 第三十五条  本办法自2006年3月1日起施行。
 
+—#—

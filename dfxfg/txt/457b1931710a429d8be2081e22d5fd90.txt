@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鞍山市企业民主管理条例
@@ -107,3 +108,4 @@
 第三十七条  建立职工（代表）大会制度的事业单位参照本条例执行。
 第三十八条  本条例自2013年10月1日起施行。
 
+- 1 -

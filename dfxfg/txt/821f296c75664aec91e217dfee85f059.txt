@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吴忠市红色文化遗址保护条例
@@ -108,6 +109,8 @@
 
 第四十一条  红色文化手稿、图片和其他实物资料的保护管理，参照本条例。
 第四十二条  本条例自2018年1月1日起施行。
+
+
 
 
 

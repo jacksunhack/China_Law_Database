@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省湖泊保护条例
@@ -111,3 +112,4 @@
 第四十二条  水库加挂湖泊名称的，有管辖权的水行政主管部门应当报上一级人民政府水行政主管部门同意；纳入湖泊保护名录的，按照本条例的规定执行。
 第四十三条  本条例自2013年1月1日起施行。
 
+1

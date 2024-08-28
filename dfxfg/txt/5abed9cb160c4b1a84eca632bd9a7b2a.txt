@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 峨眉山世界文化和自然遗产保护条例
@@ -164,3 +165,4 @@
 第四十八条  乐山市人民政府应当根据本条例制定具体实施办法。
 第四十九条  本条例自2020年1月1日起施行。
 
+— 19 —  

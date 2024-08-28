@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市客运出租汽车管理条例
@@ -211,3 +212,4 @@
 第六章  附则
 
 第五十三条  本条例自1998年8月1日起施行。
+― 1 ―

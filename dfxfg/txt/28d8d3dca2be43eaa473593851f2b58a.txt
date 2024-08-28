@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 运城市涑水河流域生态修复与保护条例
 
@@ -78,4 +80,6 @@
 
 第三十九条　本条例自2019年2月1日起施行。
 
+
+#
 

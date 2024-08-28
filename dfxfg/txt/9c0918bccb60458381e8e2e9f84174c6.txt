@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区反不正当竞争条例
@@ -138,3 +139,4 @@
 第五十二条　本条例所称的商品包括营利性服务。  
 第五十三条　本条例自1994年1月1日起施行。
 
+- 1 -

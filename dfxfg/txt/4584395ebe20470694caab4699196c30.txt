@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河北省信息化条例
 
@@ -132,3 +134,4 @@
 第五十八条　本条例自2013年1月1日起施行。
 
 
+　— 1 —　

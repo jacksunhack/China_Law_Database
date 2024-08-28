@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉树藏族自治州人民代表大会关于废止
@@ -8,3 +10,4 @@
 
 玉树藏族自治州第十四届人民代表大会第二次会议决定：废止《玉树藏族自治州财政预算管理条例》，报省人大常委会批准。
 
+1

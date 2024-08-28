@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莫力达瓦达斡尔族自治旗立法条例
@@ -53,3 +54,4 @@
 第二十八条　自治条例和单行条例应当明确规定施行日期。
 第二十九条　本条例自2004年5月1日起施行。
 
+#

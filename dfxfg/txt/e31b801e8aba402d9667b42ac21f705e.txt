@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 宁德市城市停车场建设管理条例
 （2018年3月31日宁德市第四届人民代表大会
@@ -117,3 +119,4 @@
 
 
 
+— 1 —

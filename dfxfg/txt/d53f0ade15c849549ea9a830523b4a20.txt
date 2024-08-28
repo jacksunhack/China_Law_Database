@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 四川省社会信用条例
@@ -177,3 +178,4 @@
 ​
 第六十五条　征信业的监督管理，依照法律、行政法规的有关规定执行。
 第六十六条　本条例自2023年12月1日起施行。
+－1－　

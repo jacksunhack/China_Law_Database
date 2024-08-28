@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省非物质文化遗产条例
@@ -185,3 +186,4 @@
 对传统医药、传统工艺美术等的保护，法律、行政法规另有规定的，依照其规定。
 第六十三条  本条例自2017年9月1日起施行。
 
+— 1 — 

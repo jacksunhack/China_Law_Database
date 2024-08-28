@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区司法鉴定管理条例
@@ -243,3 +244,5 @@
 
 　　第四十九条　司法鉴定机构为调解、仲裁、行政复议、公证、保险服务等提供鉴定的，参照本条例执行。
 　　第五十条　本条例自2016年12月1日起施行。
+1
+ 

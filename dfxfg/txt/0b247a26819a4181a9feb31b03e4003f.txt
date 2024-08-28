@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省促进科技成果转化条例
@@ -73,3 +74,4 @@
 
 
 
+— 9—

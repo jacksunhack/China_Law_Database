@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省农业机械化促进条例
@@ -104,4 +105,6 @@
 
 第三十五条  本条例自2007年6月1日起施行。辽宁省人民代表大会常务委员会1995年9月28日发布的《辽宁省农机管理条例》同时废止。
 
+
+— 1 —
 

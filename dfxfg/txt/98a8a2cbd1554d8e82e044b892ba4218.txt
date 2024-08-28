@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安顺市村寨规划建设管理条例
@@ -122,3 +123,4 @@
 第六章  附  则
 第四十三条  本条例所称村寨，是指本市行政区域内的农村村民生活和从事各种生产的聚居点。
 第四十四条  本条例自2021年6月1日起施行。
+— 1 —

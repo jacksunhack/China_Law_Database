@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵阳高新技术产业开发区条例
@@ -54,3 +55,4 @@
 （四）其他违法行使职权的行为。
 第二十七条　市人民政府应当依据本条例规定，适时制定公布有关优惠、扶持、奖励的具体办法。
 第二十八条　本条例自2011年6月1日起施行。
+－1－　

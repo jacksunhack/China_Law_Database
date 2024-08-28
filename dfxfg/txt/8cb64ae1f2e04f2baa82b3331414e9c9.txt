@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省林地保护管理条例
@@ -130,3 +131,4 @@
 
 第四十一条  本条例自1999年7月1日起施行。
 
+― 1 ―

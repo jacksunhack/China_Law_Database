@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州拉卜楞寺
@@ -93,4 +94,3 @@
     第三十一条  本条例未涉及到的内容依照相关法律法规执行。
     第三十二条  本条例由甘南藏族自治州人民代表大会常务委员会负责解释。
     第三十三条  本条例自公布之日起施行。
-

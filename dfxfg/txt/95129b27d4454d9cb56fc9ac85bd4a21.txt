@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省水利工程管理条例
@@ -122,3 +123,4 @@
 第五十六条  农村机电提灌站，依照《四川省农村机电提灌管理条例》的规定进行管理。
 第五十七条  本条例自公布之日起施行。
 
+— 11 —  

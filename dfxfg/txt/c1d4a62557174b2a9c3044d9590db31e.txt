@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省环境保护条例
@@ -176,3 +178,4 @@
 
 第六十八条  本条例具体应用问题由省人民政府负责解释。
 第六十九条  本条例自2012年10月1日起施行。
+1

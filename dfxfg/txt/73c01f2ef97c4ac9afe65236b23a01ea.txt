@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省基本农田保护条例
@@ -77,3 +79,4 @@
 
 第三十条　本条例自2004年1月1日起施行。
 
+　— 1 —　

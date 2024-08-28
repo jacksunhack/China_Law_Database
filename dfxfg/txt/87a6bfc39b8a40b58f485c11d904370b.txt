@@ -1,8 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市禁毒条例
 
-（上海市第十四届人民代表大会
+（2015年12月30日上海市第十四届人民代表大会
 常务委员会第二十六次会议通过）
 
 目    录
@@ -161,3 +162,4 @@
 第七章  附则
 
 第五十六条  本条例自2016年4月1日起施行。
+- 1 -

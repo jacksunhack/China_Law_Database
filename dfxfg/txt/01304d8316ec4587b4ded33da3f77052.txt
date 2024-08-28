@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州艾滋病防治条例
@@ -86,3 +87,4 @@
 （二）随访责任机构：艾滋病病毒感染者及病人现住址所在地医疗卫生机构，为艾滋病病毒感染者及病人随访责任机构。
 第三十三条 本条例自2020年9月1日起施行。
 
+— # —  

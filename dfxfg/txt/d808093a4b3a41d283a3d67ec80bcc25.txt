@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市城镇开发边界管理条例
@@ -34,3 +35,4 @@
 （二）在城镇开发边界外违法审批集中开发建设项目相关手续的；
 （三）有其他玩忽职守、滥用职权、徇私舞弊行为的。
 第十九条　本条例自2019年12月1日起施行。
+#

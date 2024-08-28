@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市周丰镐、秦阿房宫、汉长安城
@@ -85,3 +86,4 @@
 
 　　第三十一条　本条例自公布之日起施行。
 
+— 7 —

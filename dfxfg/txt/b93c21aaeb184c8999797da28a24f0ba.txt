@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国中小企业
@@ -157,3 +158,4 @@
     第五十九条  本办法自2021年1月1日起施行。
 
 
+— # —

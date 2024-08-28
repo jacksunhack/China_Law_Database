@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市厂务公开条例
@@ -61,3 +62,4 @@
 实施本条第一款第七项行为的直接责任人员构成犯罪的，依法追究刑事责任。
 第十五条  本条例自2004年3月1日起施行。
 
+— 3 —

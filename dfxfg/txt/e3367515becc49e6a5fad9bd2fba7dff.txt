@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 营口市物业管理条例
@@ -205,3 +206,4 @@
 
 第六十二条  办公楼、商场、医院等非住宅物业的管理，参照本条例执行。
 第六十三条  本条例自2020年5月1日起施行。
+- 1 -

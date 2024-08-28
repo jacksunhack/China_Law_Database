@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国
@@ -67,3 +68,4 @@
 
 第二十五条　本办法具体应用中的问题由省技术监督局负责解释。
 第二十六条　本办法自1995年9月1日起施行。
+— 1 —

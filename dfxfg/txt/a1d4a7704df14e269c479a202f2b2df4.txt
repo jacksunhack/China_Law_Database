@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省电力设施和电能保护条例
@@ -140,3 +141,4 @@
 第七章  附  则
 
 第四十六条  本条例自2007年12月1日起施行。
+— 1 —

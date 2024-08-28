@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省促进中小企业发展条例
@@ -105,4 +106,6 @@
 
 第四十一条  本条例自2008年12月1日起施行。
 
+
+— 1 —
 

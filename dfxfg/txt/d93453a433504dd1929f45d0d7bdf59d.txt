@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区社会科学普及条例
@@ -65,3 +66,4 @@
 第二十九条　国家工作人员在社会科学普及工作中滥用职权、玩忽职守、徇私舞弊的，依法给予处分；构成犯罪的，依法追究刑事责任。
 第三十条　本条例自2020年9月1日起施行。
  
+#

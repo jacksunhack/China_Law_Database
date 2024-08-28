@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市献血用血条例
@@ -88,3 +90,5 @@
 
 第三十七条　本条例自2005年2月1日起施行。
 
+　— 1 —　
+　

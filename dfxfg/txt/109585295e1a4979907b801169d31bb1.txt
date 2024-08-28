@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省治理货物运输车辆超限超载条例
@@ -124,3 +125,4 @@
 第四十四条  本条例自2023年1月1日起施行。
 
 
+1

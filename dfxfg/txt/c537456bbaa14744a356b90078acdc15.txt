@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 扬州古城保护条例
@@ -187,3 +189,4 @@
 第四十九条  南宋平山堂城遗址和南门外大街参照扬州古城遗址区的有关规定予以保护。
 第五十条   本条例自2017年1月1日起施行。
 
+─ # ─

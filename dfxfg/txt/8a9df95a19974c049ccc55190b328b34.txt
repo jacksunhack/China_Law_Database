@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省农业机械化促进条例
@@ -114,3 +115,4 @@
 
 第四十一条  本条例自2007年11月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省就业促进条例
@@ -189,3 +190,4 @@
 第九章  附则
 
 第七十一条  本条例自2010年1月1日起施行。
+- 17 -

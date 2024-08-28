@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区安全生产条例
@@ -105,3 +106,5 @@
 第六章  附则
 
 　　第四十三条　本条例自2007年1月1日起施行。
+- 11 -
+ 

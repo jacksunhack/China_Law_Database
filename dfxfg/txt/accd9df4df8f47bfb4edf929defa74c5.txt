@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市少数民族权益保障条例
@@ -111,3 +112,4 @@
 ​
 第四十八条　本条例由长春市人民代表大会常务委员会负责解释。
 第四十九条　本条例自1996年12月3日起施行。
+－1－　

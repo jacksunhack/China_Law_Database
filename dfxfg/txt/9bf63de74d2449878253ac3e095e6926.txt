@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 淮北市非机动车管理条例
@@ -95,3 +96,4 @@
 第五章　附　　则
 ​
 第二十六条　本条例自2022年1月1日起施行。
+－1－　

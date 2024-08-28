@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市截瘫疗养院保护利用条例
@@ -31,3 +32,4 @@
 　　第二十条　妨碍、干扰截瘫疗养院保护管理工作的，由公安机关按照《中华人民共和国治安管理处罚法》进行处罚；构成犯罪的，依法追究刑事责任。
 　　第二十一条　本条例自2022年5月1日起实施。
 
+- 3 -

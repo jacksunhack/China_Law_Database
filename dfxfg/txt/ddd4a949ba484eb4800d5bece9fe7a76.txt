@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州藏族语言文字条例
@@ -93,3 +95,4 @@
 
 第四十条  自治州人民政府可以依照本条例制定实施办法。
 第四十一条  本条例自2015年6月1日起施行，原《甘孜藏族自治州藏族语言文字使用条例》同时废止。
+—9 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市工会劳动法律监督条例
@@ -30,3 +31,4 @@
 第二十四条  本条例自2005年11月15日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区养犬管理条例
@@ -179,3 +180,4 @@
 第五十七条  市人民政府可以设定养犬管理过渡期，采取减免养犬管理费等措施鼓励养犬人履行犬只登记义务。
 第五十八条  本条例自2015年6月1日起施行。
 
+- 13 -

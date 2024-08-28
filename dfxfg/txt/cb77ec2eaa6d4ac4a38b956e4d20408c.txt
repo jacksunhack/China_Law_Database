@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省实施《中华人民共和国农业技术推广法》办法
@@ -97,3 +98,4 @@
 　　第三十八条　本办法自公布之日起施行。1987年浙江省第六届人民代表大会常务委员会第二十九次会议通过的《浙江省农业技术推广暂行条例》同时废止。
 
 
+— 9—

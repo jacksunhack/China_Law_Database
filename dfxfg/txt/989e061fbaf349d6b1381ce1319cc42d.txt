@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 西安市制止价格欺诈和牟取暴利条例
 
@@ -82,4 +83,3 @@
 （四）给国家、消费者造成重大经济损失或者严重后果的。
 第二十七条　市人民政府应当依据本条例制定实施办法。
 第二十八条　本条例自公布之日起施行。
-

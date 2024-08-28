@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁波市征收集体所有土地房屋拆迁条例
@@ -145,3 +146,4 @@
 　　本条例施行前已发布拆迁公告并开始实施拆迁的项目，按照原办法处理；但拆迁范围内所有被拆迁人均未签订拆迁补偿安置协议的，适用本条例。
 
 
+— 17—

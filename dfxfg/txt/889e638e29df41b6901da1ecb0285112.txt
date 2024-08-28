@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 渭南市地方立法条例
@@ -205,3 +206,4 @@
 第五章　附　　则
 ​
 第七十七条　本条例自公布之日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 百色市市容和环境卫生管理条例
@@ -160,3 +161,5 @@
 第七章  附则
 
 　　第五十一条  本条例自2019年1月1日起施行。
+#
+

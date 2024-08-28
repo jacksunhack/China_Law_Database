@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 深圳经济特区特种设备安全条例
 
 (2013年10月29日深圳市第五届人民代表大会
@@ -258,3 +260,4 @@
 
 
 
+#

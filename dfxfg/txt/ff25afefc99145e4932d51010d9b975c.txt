@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市机动车维修市场管理条例
@@ -116,3 +117,4 @@
 第四十五条　本条例自2004年9月1日起施行。
  
 
+— 11 —

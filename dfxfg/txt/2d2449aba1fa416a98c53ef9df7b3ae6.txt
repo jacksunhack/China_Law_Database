@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉林市立法条例
@@ -188,3 +189,4 @@
 第十章　附则
 	
 第八十条　本条例自2016年5月1日起施行。
+- 1 -  

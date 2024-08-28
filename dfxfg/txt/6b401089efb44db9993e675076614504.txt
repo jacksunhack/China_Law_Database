@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省职工代表大会条例
@@ -124,3 +126,4 @@
 第三十六条  企业、事业单位建立职工大会制度的，其职权适用本条例有关规定。
 第三十七条  本条例自2008年1月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施
@@ -77,3 +78,4 @@
 
 　　第三十条　本办法自2003年6月1日起施行。
 
+－ # －

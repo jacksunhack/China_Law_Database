@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莆田市莆仙戏保护传承条例
@@ -60,3 +61,4 @@
 第二十三条　本市行政区域内莆仙十音八乐等与莆仙戏相关的非物质文化遗产的保护传承，可以参照本条例的规定执行。
 第二十四条　本条例自2023年10月1日起施行。
 
+－1－　

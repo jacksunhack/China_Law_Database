@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新宾满族自治县清永陵保护管理条例
@@ -43,3 +44,4 @@
 第十四条  本条例自2003年6月1日起施行。
 
 
+— 1 —

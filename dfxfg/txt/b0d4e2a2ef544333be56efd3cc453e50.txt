@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 铜仁市红色遗址遗迹保护条例
@@ -112,3 +113,4 @@
 ​
 第三十二条　法律、法规对红色遗址遗迹中涉及文物、历史建筑和烈士纪念设施的保护已有规定的，从其规定。
 第三十三条　本条例自2024年1月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省合同监督管理条例
@@ -84,3 +86,4 @@
 　　有上述行为，情节严重，构成犯罪的，依法追究刑事责任。
 第三十条  本条例执行中的具体应用问题，由省工商行政管理部门负责解释。
 第三十一条  本条例自公布之日起施行。
+      — 1 —    

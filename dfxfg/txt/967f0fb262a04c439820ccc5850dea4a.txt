@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区实施
 《中华人民共和国全国人民代表大会
 和地方各级人民代表大会代表法》办法
@@ -158,3 +159,4 @@
 第五十一条 本办法自2012年10月1日起施行。
 
 
+#

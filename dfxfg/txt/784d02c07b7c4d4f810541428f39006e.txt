@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 四川省城市管理综合行政执法条例
 
@@ -117,3 +118,4 @@
 
 第四十四条  经省人民政府批准开展的其他领域的相对集中行政处罚权工作，参照本条例执行。
 第四十五条  本条例自2013年1月1日起施行。
+— 1 —  

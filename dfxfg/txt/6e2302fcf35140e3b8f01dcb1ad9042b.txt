@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 舟山市网格化服务管理条例
@@ -140,3 +141,4 @@
 
 第四十五条  功能区管委会参照本条例的规定,履行本区域内网格化服务管理职责。
 第四十六条  本条例自2023年7月1日起施行。
+－　#　－  

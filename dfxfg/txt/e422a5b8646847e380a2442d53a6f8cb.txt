@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 巴音郭楞蒙古自治州红枣产业促进条例
@@ -99,3 +100,4 @@
 第八章　附　　则
 ​
 第三十八条　本条例自2021年4月15日起施行。
+－1－　

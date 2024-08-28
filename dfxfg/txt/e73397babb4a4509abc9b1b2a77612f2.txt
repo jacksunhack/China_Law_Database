@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区气象条例
@@ -73,3 +74,4 @@
 （六）根据当地经济建设和社会发展需要建设的其他项目。
 第三十七条  本条例应用中的具体问题，由自治区气象主管机构负责解释。
 第三十八条  本条例自2002年9月1日起施行。
+#

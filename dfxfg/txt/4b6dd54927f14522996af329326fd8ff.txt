@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省价格条例
@@ -150,3 +151,4 @@
 第七章　附则
 
 　　第四十七条　本条例自2016年6月1日起施行。2000年6月1日湖北省第九届人民代表大会常务委员会第十八次会议通过的《湖北省实施〈中华人民共和国价格法〉办法》同时废止。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区实施《中华人民共和国
@@ -103,3 +104,4 @@
 第四十五条  本办法自1997年1月1日起施行。
 
 
+— 1 —

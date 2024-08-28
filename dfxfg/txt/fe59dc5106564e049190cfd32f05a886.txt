@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 信阳市河道采砂管理条例
@@ -145,3 +146,4 @@
     第三十九条  本条例所称采砂机具，包括挖掘机械、吊杆机械、分离机械等与采运砂石相关的机械和工具。
 第四十条  本条例自2020年1月1日起施行。
 
+― 1 ―

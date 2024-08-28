@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省林地保护管理条例
@@ -137,3 +138,4 @@
 
 第四十六条　本条例具体应用中的问题，由省人民政府林业行政主管部门负责解释。
 第四十七条　本条例自2000年10月1日起施行。
+- 28 -

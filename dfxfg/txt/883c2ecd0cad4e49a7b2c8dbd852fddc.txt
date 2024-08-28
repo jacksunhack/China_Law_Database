@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施
@@ -127,3 +128,4 @@
 
 　　第三十四条　省人民政府可以根据本办法制定具体实施办法。
 　　第三十五条　本办法自2009年3月1日起施行。
+1

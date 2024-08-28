@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 厦门市人民代表大会代表建议、批评和
 意见办理办法
 
@@ -64,3 +65,4 @@
 第三十一条  本市各区人民代表大会代表建议、批评和意见的办理工作，参照本办法执行。
 第三十二条  本办法自公布之日起施行。
 
+—1—

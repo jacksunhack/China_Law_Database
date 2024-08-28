@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市养犬管理条例
@@ -79,3 +81,5 @@
 （四）其他滥用职权、玩忽职守、徇私舞弊的。
 第三十条  本条例自2008年8月１日起施行。
 
+　— 1 —　
+　

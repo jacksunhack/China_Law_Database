@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国乡镇企业法》实施办法
@@ -99,3 +100,4 @@
 第三十七条  本实施办法应用中的具体问题，由省乡镇企业行政管理部门负责解释。
 第三十八条  本实施办法自公布之日起施行。
 
+— 7 —  

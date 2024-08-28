@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省教师条例
@@ -95,3 +97,4 @@
 （五）对提出申诉、控告、检举的教师进行打击报复的；
 （六）侮辱、殴打教师的；
 （七）其他侵犯教师合法权益的。
+— 9 —

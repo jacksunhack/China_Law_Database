@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区城市房地产价格评估管理规定
@@ -61,3 +63,4 @@
 第三十二条　本规定具体应用的问题由省人民政府负责解释。
 第三十三条　本规定自2005年5月1日起施行。
 
+- 5 -

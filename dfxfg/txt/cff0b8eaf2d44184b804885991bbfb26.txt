@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 
@@ -186,6 +187,5 @@
 第八章　附则
 
 第四十八条  本条例自2019年2月1日起施行。
-
 
 

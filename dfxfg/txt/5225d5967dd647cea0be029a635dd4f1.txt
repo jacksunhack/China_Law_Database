@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省工会劳动法律监督条例
@@ -64,3 +65,4 @@
 （二）无正当理由拒绝提供相关资料的；
 （三）提供虚假资料或者隐匿、毁灭资料的。
 第二十条　本条例自2022 年12月 1日起施行。
+－1－　

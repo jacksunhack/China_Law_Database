@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省旅游条例
@@ -164,3 +165,4 @@
 
 　　第五十九条　本条例所称的旅游经营者，是指旅行社、景区、网络旅游经营者以及为旅游者提供交通、住宿、餐饮、购物、娱乐等经营服务的单位或者个人。
 　　第六十条　本条例自2015年6月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城市供水管理办法
@@ -124,3 +125,4 @@
 
 第四十八条　本办法具体应用中的问题由市人民政府负责解释。
 第四十九条　本办法自公布之日起施行。 
+#　

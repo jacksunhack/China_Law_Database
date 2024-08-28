@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省人民代表大会常务委员会关于制止和查处违法建设的决定
@@ -37,3 +38,4 @@
 
 
 
+— 5 —  

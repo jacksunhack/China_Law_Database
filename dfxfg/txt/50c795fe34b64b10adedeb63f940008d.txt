@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 威海市节约用水条例
@@ -145,3 +146,4 @@
 第六十条 本条例自2017年9月1日起施行。
 
 
+1

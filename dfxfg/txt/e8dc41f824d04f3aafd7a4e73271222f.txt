@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 东莞市气象灾害防御条例
 （2022年2月28日东莞市第十七届人民代表大会

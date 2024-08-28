@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区科学技术普及条例
@@ -60,3 +61,5 @@
 　　第二十五条　弄虚作假，骗取名誉、荣誉、奖励的，由授奖单位予以撤销，并由有关部门或者所在单位依法给予行政处分。
 　　第二十六条　本条例自2005年9月1日起施行。
 
+1
+ 

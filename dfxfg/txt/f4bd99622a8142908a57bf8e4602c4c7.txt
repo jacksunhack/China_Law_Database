@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 抚顺市机动车停车条例
@@ -126,3 +127,4 @@
 第六章　附　　则
 ​
 第三十四条　本条例自2022年10月1日起施行。
+－1－　

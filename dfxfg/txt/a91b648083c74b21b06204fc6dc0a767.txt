@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南蒙古族自治县自治条例
@@ -92,3 +93,4 @@
 　　每年八月一日至八日为自治县蒙古族传统的“那达幕节”。
 　　第四十五条　本条例自1990年1月1日起施行。
 　　第四十六条　本条例由自治县人民代表大会常务委员会负责解释。
+#　

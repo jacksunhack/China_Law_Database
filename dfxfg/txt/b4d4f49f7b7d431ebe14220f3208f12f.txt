@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵阳市停车场条例
@@ -167,3 +168,4 @@
 ​
 第三十一条　市人民政府根据本条例制定具体办法。
 第三十二条　本条例自2023年7月1日起施行。
+－1－　

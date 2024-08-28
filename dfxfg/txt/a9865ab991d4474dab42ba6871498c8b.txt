@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 中卫市农作物秸秆处置条例
 
@@ -54,3 +56,4 @@
 
 
 
+- 3 -

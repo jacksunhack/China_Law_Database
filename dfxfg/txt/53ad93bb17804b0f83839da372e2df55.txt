@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省企业负担监督管理条例
@@ -108,3 +110,4 @@
     第三十三条  对违法增加个体工商户负担行为的监督管理，参照本条例执行。
     第三十四条  本条例自2006年1月1日起施行。 
 
+- 7 -

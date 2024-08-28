@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省促进科技成果转化条例
@@ -121,3 +122,4 @@
 第四十七条  本条例自2020年7月1日起施行。
 
 
+#

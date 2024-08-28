@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
                             
 宁夏回族自治区老年人权益保障条例
 
@@ -10,7 +12,7 @@
     第二章   家庭赡养与扶养 
     第三章   社会保障
     第四章   社会服务
-  社会优待
+第五章    社会优待
 第六章   宜居环境
 第七章   参与社会发展
 第八章   法律责任
@@ -134,3 +136,4 @@
      
 
                          
+#

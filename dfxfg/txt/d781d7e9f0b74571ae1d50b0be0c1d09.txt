@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 通化市社区治理促进条例
@@ -96,3 +97,4 @@
 ​
 第四十四条　乡镇社区治理工作可以参照本条例执行。
 第四十五条　本条例自2023年7月1日起施行。
+－1－　

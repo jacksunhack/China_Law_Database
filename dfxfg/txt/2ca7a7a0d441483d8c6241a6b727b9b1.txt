@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市文物保护管理规定
@@ -48,3 +50,4 @@
     第二十七条  本规定自公布之日起施行。
 
 
+　— 1 —　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市行政执法责任制条例
@@ -89,3 +90,4 @@
 
 第三十条  市人民政府依据本条例制定行政执法责任制的实施细则。
 第三十一条  本条例自2002年3月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省促进散装水泥发展和应用条例
@@ -106,3 +107,4 @@
 第五章　附　则
 
 第四十条　本条例自2013年11月1日起施行。
+1

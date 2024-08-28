@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广东省化妆品安全条例
 
@@ -9,8 +11,8 @@
 第二章  生产管理
 第三章  经营管理
 第四章  监督管理
- 法律责任
- 附则
+第五章   法律责任
+第六章   附则
 
 
 第一章  总则

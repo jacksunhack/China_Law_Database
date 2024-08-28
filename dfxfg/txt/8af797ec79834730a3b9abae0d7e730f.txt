@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区生态文明建设条例
 
@@ -221,3 +222,4 @@
 第十一章　附则
 第七十八条　本条例自2015年1月1日起施行。
 
+— # —

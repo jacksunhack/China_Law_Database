@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 益阳市农村村民住房建设管理条例
@@ -109,3 +110,4 @@
 第三十四条  大通湖区管理委员会及其他国有农场、林场、渔场的住房建设管理，可以参照本条例有关规定实施。
 第三十五条  本条例自2019年1月1日起施行。
 
+—9—

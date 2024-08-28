@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 景宁畲族自治县人民代表大会关于
@@ -67,3 +68,4 @@
 本决定自2021年8月1日起施行。
 《景宁畲族自治县水资源管理条例》根据本决定作相应的修正，重新公布。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 衢州市职业教育校企合作促进条例
 
@@ -85,4 +86,6 @@
 
 
 
+
+— # —
 

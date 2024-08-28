@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 福建省人民代表大会常务委员会关于
 革除滥食野生动物陋习、切实保障人民群众

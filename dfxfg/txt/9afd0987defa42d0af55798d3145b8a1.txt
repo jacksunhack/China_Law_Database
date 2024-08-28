@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市城市管理行政综合执法条例
@@ -103,3 +104,5 @@
 
 第三十三条  本条例自2011 年6 月1 日起施行。
 
+—#—      
+  

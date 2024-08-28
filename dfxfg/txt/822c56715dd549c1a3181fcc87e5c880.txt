@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南充市红色资源保护传承条例
@@ -129,3 +130,4 @@
 第五章　附则
 
 第四十二条  本条例自2023年1月1日起施行。
+— 13 —  

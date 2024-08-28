@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区财政监督条例
@@ -97,3 +98,4 @@
 （三）数额较小，情节轻微的。
 第二十七条  财政监督检查人员玩忽职守、滥用职权、徇私舞弊，依法给予行政处罚、处分；有犯罪嫌疑的，移送司法机关处理。
 第二十八条  本条例自2005年3月1日起施行。
+#

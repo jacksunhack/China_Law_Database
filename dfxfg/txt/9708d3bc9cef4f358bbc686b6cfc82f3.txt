@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区公司职工董事职工监事条例
@@ -51,3 +52,4 @@
 第十八条  公司的工会组织在职工董事、职工监事制度的建立和工作中，未按照本条例规定履行职责的，由上级工会责令改正。
 第十九条  本条例自2007年1月1日起施行。
 
+#

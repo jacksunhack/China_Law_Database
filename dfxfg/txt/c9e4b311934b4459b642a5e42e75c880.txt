@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省实施《中华人民共和国
@@ -99,3 +100,4 @@
 　　（四）其他玩忽职守、徇私舞弊，侵害农民土地承包权益的行为。
 　　第三十六条　居民委员会发包集体所有的土地的，参照本办法执行。
 　　第三十七条　本办法自2004年10月1日起施行。
+- 11 -

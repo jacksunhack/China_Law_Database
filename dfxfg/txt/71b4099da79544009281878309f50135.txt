@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖州市绿色金融促进条例
@@ -106,3 +107,4 @@
 
 第四十五条  本条例自2022年1月1日起施行。
 
+— 3 —

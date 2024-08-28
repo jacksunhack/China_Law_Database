@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市古树名木保护条例
@@ -68,3 +69,4 @@
 第三十一条　古树名木损失评估办法由市人民政府制定。
 第三十二条　本条例自2009年6月1日起施行。
 
+— 7 —

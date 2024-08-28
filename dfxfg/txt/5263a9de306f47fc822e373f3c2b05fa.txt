@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省乡村振兴促进条例
@@ -198,3 +200,4 @@
 第八十七条　街道办事处履行乡村振兴促进相关职责的，适用本条例关于乡镇人民政府的规定。
 第八十八条　本条例自2023年3月1日起施行。
 
+─ # ─  

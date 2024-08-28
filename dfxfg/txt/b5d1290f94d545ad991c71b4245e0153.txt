@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌兰察布市人民代表大会及其
@@ -178,3 +179,4 @@
 第八章  附  则
 
 第六十九条  本条例自2016年7月1日起施行。
+#

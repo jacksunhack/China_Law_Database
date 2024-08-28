@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市法律援助条例
@@ -186,3 +187,4 @@
     第五十八条  本条例规定由市人民政府和有关部门另行制定具体办法及标准的，市人民政府和有关部门应当在本条例施行之日起六个月内制定。
     第五十九条  本条例自2009年5月1日起施行。
 
+- 1 -

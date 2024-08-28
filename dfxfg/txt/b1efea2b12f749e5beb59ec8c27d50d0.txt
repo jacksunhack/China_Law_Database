@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -76,4 +77,6 @@
 （九）其他侵害承包方土地承包经营权的行为。
 第二十五条  本办法自2005年4月1日起施行。
 
+
+— 1 —
 

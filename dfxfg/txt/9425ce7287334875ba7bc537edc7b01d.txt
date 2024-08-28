@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省非煤矿山管理条例
@@ -123,3 +124,4 @@
 第七章  附  则
 
 第四十五条  本条例自2015年5月1日起施行。
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 曲靖市会泽历史文化名城保护条例
@@ -140,3 +142,4 @@
 第三十九条  本条例自2019年6月1日起施行。
 
  
+—— 6 ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区实施《中华人民共和国      水污染防治法》办法
@@ -115,3 +116,4 @@
 第七章  附则
 
 第四十二条  本办法自2023年6月1日起施行。
+#

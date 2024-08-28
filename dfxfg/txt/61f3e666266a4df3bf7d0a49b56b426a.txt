@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州生态环境
@@ -136,3 +138,4 @@
 第六十三条  本条例自2015年10月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁夏回族自治区清真食品管理条例
@@ -97,3 +98,4 @@
 
 第四十七条　电子商务经营主体经营清真食品的，应当遵守本条例的相关规定。
 第四十八条　本条例自2018年1月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市文物保护管理办法
@@ -79,3 +80,4 @@
 第三十九条  本办法自2014年12月1日起施行。
 
 
+1

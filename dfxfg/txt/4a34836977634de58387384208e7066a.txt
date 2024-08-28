@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市城市中小学幼儿园
@@ -47,3 +48,4 @@
 第二十四条  市人民政府可以依据本条例制定有关规定。
 第二十五条  本条例自2007年1月1日起施行。
 
+#

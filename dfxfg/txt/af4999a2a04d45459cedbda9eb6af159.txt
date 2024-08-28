@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丽水市烟花爆竹经营燃放管理规定
@@ -70,3 +71,4 @@
 
 
 
+*  1  —

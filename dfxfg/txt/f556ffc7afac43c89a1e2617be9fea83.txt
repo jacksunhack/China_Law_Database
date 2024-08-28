@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕尾市农村建房条例
@@ -177,3 +179,4 @@
 
 
 
+— 1 —

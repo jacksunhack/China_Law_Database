@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省工资支付条例
@@ -187,3 +189,4 @@
 第六十五条　本条例自2005年1月1日起施行。本条例施行前本省制定的有关工资支付的规定与本条例不一致的，以本条例为准。
 
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 兰州市城市安全发展条例
@@ -180,3 +181,4 @@
 第九章　附　　则
 ​
 第七十四条　本条例自2023年6月1日起施行。
+－1－　

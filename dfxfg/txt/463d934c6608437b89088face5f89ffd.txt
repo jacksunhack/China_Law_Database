@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吕梁市非物质文化遗产保护条例
@@ -69,3 +70,4 @@
 （九）截留、挪用、侵占非物质文化遗产保护专项资金的； 
 （十）其他玩忽职守、滥用职权、徇私舞弊行为的。
 第二十八条  本条例自2017年11月1日起施行。
+— # —

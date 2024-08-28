@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区气象灾害防御条例
@@ -108,3 +109,4 @@
 （五）隐瞒、谎报或者授意他人隐瞒、谎报气象灾害信息和灾情的。
 第七章　附　则
 第四十二条　本条例自2007年7月1日起施行。
+#

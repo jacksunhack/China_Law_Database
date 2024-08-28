@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省绿化条例
@@ -95,3 +97,4 @@
 第三十七条　本条例自公布之日起施行。
 我省在本条例公布前制定的有关法规、规章与本条例有关规定相抵触的，按本条例规定执行。
 
+#

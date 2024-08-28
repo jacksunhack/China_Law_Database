@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 伊通满族自治县城镇管理条例
@@ -98,3 +99,4 @@
 第二十九条　自治县各乡政府所在地集镇参照本条例执行。
 第三十条　本条例由自治县人民代表大会常务委员会解释。
 第三十一条　本条例自１９９９年９月１日起施行。
+#

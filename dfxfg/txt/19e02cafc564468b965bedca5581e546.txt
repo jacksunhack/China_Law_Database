@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -80,4 +81,6 @@
 （二）未按照总河长、河长要求依法履行处理或者查处职责的；
 （三）未对约谈提出的问题进行整改的。
 第二十六条  本条例自2019年10月1日施行。
+
+#
 

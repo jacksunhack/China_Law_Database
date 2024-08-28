@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保定市养犬管理条例
@@ -218,3 +220,4 @@
 
 
 
+#

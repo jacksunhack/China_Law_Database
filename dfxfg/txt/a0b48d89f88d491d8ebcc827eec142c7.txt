@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 承德市旅游市场管理条例
@@ -110,3 +111,4 @@
 
 第三十七条　本条例自2022年9月1日起施行。
 
+－　#　－  

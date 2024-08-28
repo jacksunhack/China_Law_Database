@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省中小企业促进条例
@@ -152,3 +153,4 @@
 第八章　附　　则
 ​
 第六十五条　本条例自2022年10月1日起施行。
+－1－　

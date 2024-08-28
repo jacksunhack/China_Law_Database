@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省邮政条例
@@ -146,3 +147,4 @@
 第八章　附　则
 
 第六十三条　本条例自2011年3月1日起施行。2003年11月22日贵州省第十届人民代表大会常务委员会第五次会议通过的《贵州省邮政条例》同时废止。
+— 1 —

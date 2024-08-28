@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 肇庆市制定地方性法规条例
@@ -157,3 +158,4 @@
 第八章　附则
 
 第六十九条　本条例自2016年6月3日起施行。
+- 1 - 

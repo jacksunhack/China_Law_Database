@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省数据条例
@@ -190,3 +191,4 @@
 
 第七十条  本条例自2023年1月1日起施行。
 
+— 23 —

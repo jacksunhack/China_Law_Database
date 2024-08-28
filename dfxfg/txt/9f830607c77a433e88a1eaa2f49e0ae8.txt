@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广元市白龙湖亭子湖保护条例
@@ -127,3 +129,4 @@
 第四十三条  本条例自2018年9月1日起施行。
 
 
+— 1 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区气象条例
@@ -63,3 +64,5 @@
 　　（三）涂改、伪造气象资料的；
 　　（四）不符合资质、资格条件予以核准、同意、确认的。
 　　第三十六条　本条例自2002年1月1日起施行。
+1
+ 

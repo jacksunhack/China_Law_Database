@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市实施《长江三峡工程建设移民条例》
@@ -173,3 +174,4 @@
 
 第七十一条  本办法自2002年7月1日起施行。
 
+— 3 —

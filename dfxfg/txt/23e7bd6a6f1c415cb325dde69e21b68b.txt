@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 松桃苗族自治县苗医药发展条例
@@ -62,3 +63,4 @@
 第二十七条  自治县人民政府可以根据本条例制定实施细则。
 第二十八条  本条例自2021年11月1日起施行。    
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省河湖保护和治理条例
@@ -150,3 +151,5 @@
 
 第六十四条　本条例自2020年3月22日起施行。
 
+— 1 —
+		

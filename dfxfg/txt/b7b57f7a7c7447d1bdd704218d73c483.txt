@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区社会工作者条例
@@ -170,3 +171,4 @@
 社会工作服务机构，是指以社会工作者为主体，不以营利为目的，提供专业社会工作服务的社会组织。
 第五十四条　本条例自2015年3月1日起施行。
 
+1

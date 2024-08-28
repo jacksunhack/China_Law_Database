@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆塔城重点开发开放试验区条例
@@ -110,3 +111,4 @@
 
 第五十二条  本条例自2023年1月1日起施行。
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省泸沽湖保护条例
@@ -234,3 +235,4 @@
 ​
 第七十六条　市人民政府应当根据本条例制定具体实施措施。
 第七十七条　本条例自2023年12月1日起施行。
+－1－　

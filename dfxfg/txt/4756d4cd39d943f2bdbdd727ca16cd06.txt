@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 深圳经济特区外商投资条例
 （2022年8月30日深圳市第七届人民代表大会
@@ -115,3 +117,4 @@
 
 
 
+10

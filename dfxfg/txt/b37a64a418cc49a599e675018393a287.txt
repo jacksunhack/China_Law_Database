@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市人民建议征集若干规定
@@ -59,3 +60,4 @@
 第二十一条  本市人民团体和承担社会公共管理职能的企事业单位的人民建议征集工作，参照本规定执行。
 第二十二条  本规定自2021年7月1日施行。
 
+- 1 -

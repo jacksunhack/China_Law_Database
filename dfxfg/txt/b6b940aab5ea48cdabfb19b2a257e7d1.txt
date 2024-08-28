@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省信访条例
@@ -192,3 +194,4 @@
 涉外信访事项参照本条例执行，国家另有规定的从其规定。
 第四十三条  本条例自公布之日起施行。
 
+      — 1 —      

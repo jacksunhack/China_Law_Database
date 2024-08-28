@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省实施《中华人民共和国民族区域自治法》
@@ -65,3 +67,4 @@
 第二十七条  本规定具体应用的问题由省人民政府负责解释。
 第二十八条  本规定自2005年7月1日起施行。
 
+1

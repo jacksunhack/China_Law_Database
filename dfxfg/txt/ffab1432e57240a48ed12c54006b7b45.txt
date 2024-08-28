@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 鄂温克族自治旗人民代表大会关于废止
 《鄂温克族自治旗草原管理条例》《鄂温克族
@@ -15,3 +17,4 @@
 本决定经内蒙古自治区人大常委会批准后,自公布之日起生效。
 
 
+#

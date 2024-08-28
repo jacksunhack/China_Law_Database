@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区水资源管理条例
@@ -127,3 +129,5 @@
 第七章  附    则
 
 第四十八条  本条例自1995年3月1日起施行。
+#
+

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国清洁生产促进法》
@@ -65,3 +66,4 @@
 第三十一条  本办法自2010年1月1日起施行。
 
 
+－1－  

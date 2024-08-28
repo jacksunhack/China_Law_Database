@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省政府非税收入管理条例
@@ -167,3 +168,4 @@
 第五十条  本条例自2015年1月1日起施行。
 
 
+- 1 -

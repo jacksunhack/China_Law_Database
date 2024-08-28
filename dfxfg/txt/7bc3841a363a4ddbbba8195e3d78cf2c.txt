@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省法律援助条例
@@ -163,3 +164,4 @@
 （三）人民检察院抗诉的；
 （四）案件具有重大社会影响的。
 第四十七条　本条例自2014年5月1日起施行。
+— 13 —  

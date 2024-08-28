@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 潍坊市文明行为促进条例
@@ -225,3 +226,4 @@
 第五十三条  本条例自2022年10月15日起施行。
 
 
+1

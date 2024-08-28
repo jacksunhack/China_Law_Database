@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省实施《中华人民共和国集会游行示威法》办法
@@ -81,3 +83,4 @@
 
 
 
+- 3 -

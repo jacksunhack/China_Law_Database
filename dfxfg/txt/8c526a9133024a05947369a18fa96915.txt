@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 天津市学校安全条例
 
@@ -107,3 +108,4 @@
 第六章  附  则
 第四十九条  中等职业学校学生实习实训期间的安全管理，按照国家有关规定执行。
 第五十条  本条例自2015年9月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省农产品质量安全条例
@@ -144,3 +145,4 @@
 第八章　附　　则
 ​
 第四十九条　本条例自2009年12月1日起施行。
+－1－　

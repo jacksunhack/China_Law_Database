@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市职业卫生监督管理条例
@@ -174,3 +175,4 @@
 第四十五条  本条例自2014年1月1日起施行。
 
 
+— 1 —

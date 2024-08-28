@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省楚雄彝族自治州自治条例
@@ -180,3 +182,4 @@
 第七十一条  本条例经自治州人民代表大会通过，报云南省人民代表大会常务委员会批准后生效。
 自治州人民政府应当根据本条例制定实施办法。
 
+—— 1 ——

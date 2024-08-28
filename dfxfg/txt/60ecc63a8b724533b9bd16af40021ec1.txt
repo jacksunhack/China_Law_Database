@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
  连南瑶族自治县民族文化遗产保护条例
@@ -125,7 +126,6 @@
 第六章　附则
 
 第三十二条　本条例自2018年3月1日起施行。
-
 
 
 

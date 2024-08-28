@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省人民代表大会常务委员会
 关于批准《宿州市采石场修复条例》的决议
@@ -78,3 +79,4 @@
 第二十四条  本条例自2017年11月1日起施行。
 
 
+— # —

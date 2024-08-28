@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 咸宁市农村生活垃圾治理条例
@@ -135,3 +137,4 @@
 第七章  附  则
 
 第四十五条  本条例自2020年1月1日起施行。
+— # —

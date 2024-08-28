@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区合同格式条款监督条例
@@ -81,3 +82,4 @@
 第二十八条  本条例自2010年8月1日起施行。本条例施行前制订并继续使用，依照本条例规定应当报送备案的合同文本，应当自本条例施行之日起30日内报送备案。
 
 
+— 1 —

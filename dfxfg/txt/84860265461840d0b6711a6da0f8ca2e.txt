@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市防御雷电灾害条例
@@ -89,3 +90,4 @@
 第三十四条 本条例所称防雷装置，是指用于对建筑物进行雷电防护的整套装置，由外部防雷装置和内部防雷装置组成。
 第三十五条 本条例自2017年9月1日起施行。
 
+- 1 -

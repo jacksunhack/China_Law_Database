@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省就业促进条例
@@ -140,3 +141,4 @@
 
 第六十条　本条例自2009年5月1日起施行。 
 
+－ 14 －

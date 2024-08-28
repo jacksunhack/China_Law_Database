@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省实施
@@ -368,3 +369,4 @@
 
 第九十二条　本办法所称校车，是指运送不少于5名幼儿园、中小学等教育机构的学龄前儿童、学生及其照管人员上下学的客车和乘用车。
 第九十三条　本办法自2010年4月1日起施行。
+— # —

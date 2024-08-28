@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省气象设施和气象探测环境保护条例
@@ -89,3 +90,4 @@
 
 
 
+1

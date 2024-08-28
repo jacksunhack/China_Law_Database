@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
  郑州市政府投资项目管理条例
@@ -147,3 +148,4 @@
 第四十七条　县（市）、区政府投资项目的管理，可参照本条例执行。
 第四十八条　本条例自2003年5月1日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市中新广州知识城条例
@@ -198,3 +199,4 @@
 知识城管委会可以根据知识城的发展和需要制定并实施与本条例有关的配套文件。
 第六十三条　本条例自2012年7月1日起施行。
 
+- 1 - 

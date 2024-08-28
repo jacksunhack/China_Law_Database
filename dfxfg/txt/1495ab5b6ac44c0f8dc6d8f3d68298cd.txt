@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 博尔塔拉蒙古自治州立法程序规定
@@ -80,3 +81,4 @@
 第三十七条  本规定自发布之日起施行，原颁布的《博尔塔拉蒙古自治州制定单行条例程序规定》废止。
 
 
+— 1 —

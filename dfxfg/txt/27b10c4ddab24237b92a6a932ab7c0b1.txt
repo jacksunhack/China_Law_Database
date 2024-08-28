@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长阳土家族自治县清江库区管理条例
@@ -110,3 +112,4 @@
 　　第三十六条　自治县人民政府依照本条例制定实施细则。
 　　第三十七条　本条例具体应用中的问题由自治县人民政府负责解释。
 　　第三十八条　本条例自公布之日起施行。
+1

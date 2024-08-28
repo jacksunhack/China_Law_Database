@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国种子法》办法
@@ -45,3 +46,4 @@
 　　（一）未经登记，引进非主要农作物、林木品种的；
 　　（二）擅自采集林木种子生产基地内的种子以及珍稀、濒危树种种子的。
 　　第二十四条　本办法自2001年10月1日起施行。
+1

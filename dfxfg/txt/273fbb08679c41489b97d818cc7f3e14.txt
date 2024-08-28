@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 遵义市市辖区集中式饮用水水源保护条例
@@ -134,3 +136,4 @@
 
 第四十四条  各县（市）集中式饮用水水源保护可以参照本条例的规定制定保护管理措施。
 第四十五条  本条例自2017年1月1日起施行。
+—1—

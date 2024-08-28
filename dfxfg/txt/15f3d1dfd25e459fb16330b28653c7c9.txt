@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
  
 海东市美丽乡村建设条例
@@ -148,3 +149,4 @@
 第八章  附则
  
 第五十七条  本条例自2021年1月1日起施行。
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长阳土家族自治县森林资源保护条例
@@ -47,3 +49,5 @@
 （五）执法不严，监管不力，导致本辖区内森林资源重大损失的；
 （六）徇私舞弊或者其他渎职、失职、滥用职权行为的。
 第二十四条  本条例自2018年9月1日起施行。
+
+— # —

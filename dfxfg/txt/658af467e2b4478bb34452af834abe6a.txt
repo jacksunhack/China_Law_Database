@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -130,3 +131,5 @@
 
 第三十五条  新乡市平原城乡一体化示范区管理委员会根据新乡市人民政府授权，依照本条例做好不可移动文物保护工作。
     第三十六条  本条例自2022年3月1日起施行。
+— 1 —
+  

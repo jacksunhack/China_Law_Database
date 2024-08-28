@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省大气污染防治条例
@@ -266,3 +268,4 @@
 第九十八条  本条例自2015年3月1日起施行。
 
 
+─ # ─  

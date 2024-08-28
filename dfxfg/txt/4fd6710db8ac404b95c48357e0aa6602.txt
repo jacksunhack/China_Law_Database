@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵阳市房屋专项维修资金管理条例
@@ -178,3 +179,4 @@
 第七章　附　　则
 ​
 第三十九条　本条例自2024年5月1日起施行。
+－1－　

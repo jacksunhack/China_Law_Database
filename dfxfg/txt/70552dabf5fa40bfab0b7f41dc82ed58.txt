@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 铜陵市城市绿化条例
@@ -132,3 +133,4 @@
 本条例所称重修剪，是指为消除树木对环境的不利影响而进行的超出常规修剪技术规范要求的重度修剪行为。
 第三十五条  本条例自2017年3月1日起施行。
 
+1

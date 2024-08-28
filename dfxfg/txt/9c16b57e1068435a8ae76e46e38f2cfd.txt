@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉屏侗族自治县乡村公路条例
@@ -82,3 +83,5 @@
 
 第三十七条  每年11月15日为自治县全民养护乡村公路义务日。
 第三十八条  本条例自2007年1月1日起施行。
+— 7 —
+

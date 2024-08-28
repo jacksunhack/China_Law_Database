@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大庆市物业管理条例
@@ -283,3 +284,6 @@
 
 
 
+
+#
+	

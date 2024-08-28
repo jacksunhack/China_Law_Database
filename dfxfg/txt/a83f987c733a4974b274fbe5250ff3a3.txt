@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州旅游资源管理条例
@@ -24,3 +25,4 @@
 第十七条  本条例自2004年5月1日起施行。
 
 
+— 1 —

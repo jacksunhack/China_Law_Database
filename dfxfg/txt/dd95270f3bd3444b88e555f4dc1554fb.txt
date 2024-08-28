@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 梅州市制定地方性法规条例
@@ -136,3 +137,4 @@
 
 第六十五条  常务委员会法制工作机构可以对有关具体问题的法律询问进行研究予以答复，并报常务委员会备案。
 第六十六条  本条例自2016年4月20日起施行。
+- 1 - 

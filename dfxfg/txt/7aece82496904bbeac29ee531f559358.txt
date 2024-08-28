@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 眉山市物业管理条例
@@ -408,3 +409,4 @@
 第九章　附　　则
 ​
 第七十九条　本条例自2021年1月1日起施行。
+－1－　

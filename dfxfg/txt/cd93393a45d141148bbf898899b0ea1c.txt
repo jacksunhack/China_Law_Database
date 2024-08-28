@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市妇女权益保障规定
@@ -96,3 +97,4 @@
 第四十一条　本规定自2010年6月1日起施行。《广州市妇女权益保障若干规定》同时废止。
 
 
+- 1 - 

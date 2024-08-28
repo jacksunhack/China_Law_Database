@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省农村能源建设与管理条例
@@ -87,3 +88,4 @@
 
 第三十八条　本条例具体应用中的问题，由省人民政府农村能源主管部门负责解释。 
 第三十九条　本条例自1998年10月1日起施行。
+- 28 -

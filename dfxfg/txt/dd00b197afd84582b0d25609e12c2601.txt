@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南通市城市绿化管理条例
@@ -55,3 +57,4 @@
 第十九条  本条例规定的行政处罚，按照相对集中行政处罚权等相关规定执行。
 第二十条  本条例自2020年1月1日起施行。
 
+─ # ─  

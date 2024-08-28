@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省人民代表大会常务委员会
@@ -43,3 +44,4 @@
 第十二条  主任会议讨论的重要问题和决定的事项，经主任会议同意，可以通过新闻媒介公开发布。
 第十三条  本规则自公布之日起施行。
 
+- 1 -

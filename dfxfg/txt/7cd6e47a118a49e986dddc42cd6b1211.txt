@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 徐州市人民代表大会关于修改《徐州市
@@ -92,3 +93,4 @@
 此外，对部分条款作了文字、技术修改，对条文顺序作了相应调整。
 本决定自2024年5月1日起施行。
 《徐州市制定地方性法规条例》根据本决定作相应修改，重新公布。
+－1－　

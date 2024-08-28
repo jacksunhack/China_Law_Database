@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省林地管理条例
@@ -97,3 +99,4 @@
 （三）临时占用林地超过批准期限，或者在临时占用林地上修筑永久性建筑物的；
 （四）将林地开垦为耕地的。
 
+—1—

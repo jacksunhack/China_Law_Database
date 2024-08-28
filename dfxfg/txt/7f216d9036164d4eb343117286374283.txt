@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省地震安全性评价管理条例
@@ -134,3 +136,4 @@
 三、其他建设工程
 （一）法律法规和省人民政府规定的其他需要进行地震安全性评价的工程；
 （二）建设单位或者设计单位要求进行地震安全性评价的工程。
+      — 1 —    

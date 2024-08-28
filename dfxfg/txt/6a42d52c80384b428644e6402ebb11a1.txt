@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州
@@ -117,3 +119,4 @@
 第六章　附则
 
 　　第三十三条　本条例自2015年10月1日起实施。
+1

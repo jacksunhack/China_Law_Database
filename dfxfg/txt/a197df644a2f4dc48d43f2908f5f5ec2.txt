@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保定市白洋淀上游生态环境保护条例
@@ -107,6 +108,5 @@
 第六章　附　　则
 
 　　第四十八条　本条例自2019年7月1日起施行。
-
 
 

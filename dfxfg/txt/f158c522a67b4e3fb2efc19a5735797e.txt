@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省实施《中华人民共和国
@@ -91,3 +92,4 @@
 
 第四十五条　本条例如有与国家规定相抵触时，按国家规定执行。 
 　　第四十六条　本条例自1986年7月1日起施行。
+1

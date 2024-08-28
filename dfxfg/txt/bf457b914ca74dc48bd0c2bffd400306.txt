@@ -1,8 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市经纪人条例
 
-（上海市第十一届人民代表大会
+（2000年12月15日上海市第十一届人民代表大会
 常务委员会第二十四次会议通过）
 
 目    录
@@ -122,3 +123,4 @@
 第七章　附则
 
 第三十八条　本条例自2001年5月1日起施行。
+- 9 -

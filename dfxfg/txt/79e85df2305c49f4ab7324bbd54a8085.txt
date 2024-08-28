@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 吉林省促进大数据发展应用条例
 
@@ -113,3 +114,4 @@
 第六十条 省人民政府可以根据促进大数据发展应用的实际需要，依据相关法律、法规和本条例，就相关方面制定具体规定。
 第六十一条 本条例自2021年1月1日起实施。
 
+#

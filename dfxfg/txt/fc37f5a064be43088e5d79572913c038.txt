@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 龙胜各族自治县森林资源管理条例
@@ -135,3 +137,4 @@
 　　第四十条 本条例由自治县人民代表大会常务委员会负责解释。
 　　第四十一条 本条例自公布之日起施行。
 
+1

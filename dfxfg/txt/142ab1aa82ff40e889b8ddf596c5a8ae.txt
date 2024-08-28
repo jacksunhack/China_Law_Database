@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 濮阳市地方立法条例
@@ -159,3 +160,4 @@
     第七十条  本条例自2017年7月1日起施行。
 
 
+― 1 ―

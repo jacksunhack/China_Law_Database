@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省人民代表大会常务委员会
@@ -70,4 +72,5 @@
 
 
 
-云南省人大常委会办公厅                    印  
+云南省人大常委会办公厅                    2020年12月7日印  
+—— 1 ——

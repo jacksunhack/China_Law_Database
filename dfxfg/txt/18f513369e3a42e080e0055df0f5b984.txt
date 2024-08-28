@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省动物防疫条例
@@ -122,3 +124,4 @@
 第七章　附则
 
 第四十三条　本条例自2002年12月1日起施行。 
+　— 1 —　

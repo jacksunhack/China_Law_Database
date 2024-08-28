@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省城市市容和环境卫生管理条例
@@ -202,3 +204,4 @@
 第九章  附则
 
 第五十六条  本条例自2004年2月1日起施行，江苏省人民政府1995年4月1日公布的《江苏省〈城市市容和环境卫生管理条例〉实施办法》同时废止。
+─ 1 ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市地方史志工作条例  
@@ -63,3 +64,4 @@
 第二十三条　本条例自2010年1月1日起施行。 
  
 
+— 1 —

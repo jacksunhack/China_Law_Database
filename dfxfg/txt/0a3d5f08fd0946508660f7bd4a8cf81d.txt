@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳经济特区国际船舶条例
@@ -178,3 +179,4 @@
 ​
 第六十四条　游艇申请“中国前海”船籍港登记的，参照适用本条例。
 第六十五条　本条例自2024年3月1日起施行。
+－1－　

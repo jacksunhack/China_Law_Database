@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 通化市国有土地上房屋征收与补偿条例
 
@@ -186,3 +187,4 @@
 
 
 
+#

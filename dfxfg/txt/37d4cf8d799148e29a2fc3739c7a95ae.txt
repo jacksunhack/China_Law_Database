@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 温州市荣誉市民条例
@@ -44,3 +45,4 @@
 　　第十五条  市人民政府根据本条例制定实施细则。
 　　第十六条  本条例自2020年10月1日起施行。本条例施行前已获得荣誉市民称号的，适用本条例。
 
+— 1—

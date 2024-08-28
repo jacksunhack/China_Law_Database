@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 中国（黑龙江）自由贸易试验区条例
@@ -118,3 +119,4 @@
 第八章　附　　则
 ​
 第四十九条　本条例自2024年6月1日起施行。
+－1－　

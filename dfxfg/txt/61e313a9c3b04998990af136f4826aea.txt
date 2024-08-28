@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济宁市水环境保护条例
@@ -152,3 +153,4 @@
 第七十五条  街道办事处按照县（市、区）人民政府的要求，做好水环境保护相关工作。
 第七十六条  本条例自2021年3月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市水上交通安全管理条例
@@ -179,3 +180,4 @@
 （五）乡镇自用船舶是指村（居）民个人或者家庭所有，用于农副业生产和生活服务，航行于本乡镇或者相邻乡镇水域的船舶。
 第五十条  本条例自2012年1月1日起施行。
 
+— 1 —

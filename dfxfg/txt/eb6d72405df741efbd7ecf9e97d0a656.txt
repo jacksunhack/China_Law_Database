@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -67,3 +68,4 @@
 第二十五条  国家机关工作人员在土壤污染防治工作中徇私舞弊、滥用职权、玩忽职守的，依法给予处分。
 第二十六条  本办法自2020年7月1日起施行。
 
+－1－  

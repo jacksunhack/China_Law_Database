@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市城乡规划条例
@@ -221,3 +222,4 @@
 第七十五条　市人民政府可以根据国家标准和技术规范制定城乡规划管理技术规定。
 第七十六条　本条例自2010年6月1日起实施。《呼和浩特市城市规划管理办法》同时废止。
 
+#

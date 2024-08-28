@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国
@@ -81,3 +82,4 @@
 第三十七条  本办法具体应用中的问题，由省烟草专卖行政主管部门负责解释。 
 第三十八条  本办法自2002年1月1日起施行。
 
+1

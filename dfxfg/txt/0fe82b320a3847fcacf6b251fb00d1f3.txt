@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省人民代表大会常务委员会关于
@@ -82,3 +83,4 @@
 本决定自2022年11月1日起施行。 
 《山东省人口与计划生育条例》根据本决定作相应修改并对个别文字和条文顺序进行调整，重新公布。
 
+1

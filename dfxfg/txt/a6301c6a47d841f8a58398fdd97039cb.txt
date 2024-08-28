@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区海岸带保护与开发管理规定
@@ -61,3 +63,4 @@
 第三十条  本规定自2013年5月1日起施行。
 
 
+1

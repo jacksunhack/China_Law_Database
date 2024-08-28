@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省气象灾害防御条例
@@ -108,3 +109,4 @@
 第六章　附　　则
 ​
 第四十七条　本条例自2013年7月1日起施行。
+－1－　

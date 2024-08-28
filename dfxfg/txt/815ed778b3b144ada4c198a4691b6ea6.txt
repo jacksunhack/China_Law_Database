@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区促进两岸区域性金融
@@ -134,3 +135,4 @@
 
 第五十三条　市人民政府应当依据本条例制定促进两岸区域性金融服务中心建设的优惠政策、奖励措施及具体管理办法。
 第五十四条　本条例自2014年3月1日起施行。
+#

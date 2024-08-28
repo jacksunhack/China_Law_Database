@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 金华市养犬管理规定
@@ -84,3 +85,4 @@
 （五）未按规定开展犬只收容；
 （六）其他不依法履行管理职责的行为。
 第三十条  本规定自2018年12月31日起施行。
+  — # —  

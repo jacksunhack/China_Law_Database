@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省学校安全条例
@@ -167,3 +169,4 @@
 第五十一条  本条例自2008年3月1日起施行。
 
 
+—— 1 ——

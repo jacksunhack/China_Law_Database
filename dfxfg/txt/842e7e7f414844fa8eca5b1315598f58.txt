@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鸡西市城市市容和环境卫生管理条例
@@ -192,3 +194,4 @@
 
 第五十条  本条例自2019年3月1日起施行。
 
+- 19 -

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省林木种苗管理条例
@@ -52,3 +54,4 @@
 第二十八条  农村村民出售自产自用剩余的少量林木种苗，不适用本条例。
 第二十九条  本条例自发布之日起施行。
 
+      — 1 —    

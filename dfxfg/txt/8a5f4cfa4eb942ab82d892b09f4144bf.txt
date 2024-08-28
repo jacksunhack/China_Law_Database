@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市户外广告设施、牌匾标识和
 标语宣传品设置管理条例
@@ -189,3 +190,4 @@
 第七章　附　　则
 
 第五十七条　本条例自2021年9月1日起施行。
+－19－

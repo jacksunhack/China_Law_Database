@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长春市森林资源管理条例
@@ -139,3 +140,4 @@
 
 第六十条 本条例由长春市人大常委会负责解释。执行中的具体应用问题由长春市林业局负责解释。 
 第六十一条 本条例自公布之日起施行。
+#

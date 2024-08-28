@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市档案管理条例
 
@@ -124,3 +125,4 @@
 
 第四十五条　外资企业的档案管理，按照国家有关规定执行。
 第四十六条　本条例自公布之日起施行。
+#

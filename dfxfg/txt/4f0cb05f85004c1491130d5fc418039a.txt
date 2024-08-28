@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州幼儿园规划
@@ -73,3 +74,4 @@
 第三十八条  自治州人民政府可以根据本条例规定制定具体实施细则。
 第三十九条  本条例自2021年12月1日起施行。
 
+— 1 —

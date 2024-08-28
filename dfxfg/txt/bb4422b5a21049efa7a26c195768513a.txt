@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 泰州市优化营商环境条例
@@ -170,3 +171,4 @@
 第七章　附　　则
 ​
 第五十九条　本条例自2024年1月1日起施行。
+－1－　

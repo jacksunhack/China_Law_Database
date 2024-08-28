@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福州市人民代表大会常务委员会
 立法听证办法
 (2003年8月28日福州市第十二届人民代表大会常务委员会第五次会议通过  2003年9月24日福建省第十届人民代表大会常务委员会第五次会议批准)
@@ -55,3 +56,4 @@
 
 
 
+—1—

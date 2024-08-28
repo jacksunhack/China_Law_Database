@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省行政执法条例
@@ -105,3 +106,4 @@
 
 第三十五条  本条例自1997年1月1日起施行。
 
+1

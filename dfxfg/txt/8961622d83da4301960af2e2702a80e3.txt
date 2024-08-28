@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市燃气管理条例
@@ -8,6 +9,9 @@
 目    录
 　　第一章　总则
 　　第二章  规划与建设管理
+
+
+- 1 -
 
 　　第三章　经营管理
 　　第四章  燃气燃烧器具管理
@@ -142,3 +146,4 @@
     
     第三十八条  本条例自2004年1月1日起施行。
 
+- 3 -

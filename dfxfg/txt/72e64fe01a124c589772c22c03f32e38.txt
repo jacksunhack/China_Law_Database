@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 楚雄彝族自治州乡村清洁条例
@@ -82,3 +84,4 @@
 第二十五条  本条例自2021年1月1日起施行。
 
  
+—— 7 ——

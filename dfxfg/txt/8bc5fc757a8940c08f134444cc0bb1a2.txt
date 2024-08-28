@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 宁波市公路养护管理条例
 
@@ -104,4 +105,3 @@
 
        第三十六条  街道办事处对其管辖区域内乡道和村道的养护管理，依照本条例有关乡（镇）人民政府职责的规定执行。
         第三十七条  本条例自2005年9月1日起施行。
-

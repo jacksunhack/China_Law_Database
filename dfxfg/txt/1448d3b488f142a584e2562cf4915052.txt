@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰州市献血条例
@@ -109,3 +111,4 @@
 第三十五条　本条例自2022年3月1日起施行。
 
 
+─ # ─  

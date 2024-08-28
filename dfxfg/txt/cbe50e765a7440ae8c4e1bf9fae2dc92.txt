@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保亭黎族苗族自治县水库工程管理条例
@@ -97,3 +99,4 @@
 第三十六条　本条例具体应用的问题由自治县人民政府解释。
 第三十七条　本条例自公布之日起施行。
 
+1

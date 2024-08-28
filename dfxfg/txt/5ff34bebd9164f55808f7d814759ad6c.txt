@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省人民代表大会常务委员会任免
@@ -94,3 +95,4 @@
     第四十三条　本办法自通过之日起施行。1982年1月8日青海省第五届人民代表大会常务委员会第十五次会议通过的《青海省人民代表大会常务委员会人事任免暂行办法》同时废止。
 
 
+1

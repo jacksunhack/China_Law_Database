@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省保护性开采的特定矿种管理条例
@@ -45,3 +46,4 @@
 第二十七条  共生、伴生的保护性矿种，其矿产品的运输、收购、销售适用本条例。
 第二十八条  本条例自2005年1月1日起施行。 
 
+- 1 -

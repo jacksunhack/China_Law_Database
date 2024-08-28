@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省农业机械管理条例
@@ -128,3 +129,4 @@
 第九章  附  则
 
  第五十条 本条例自公布之日起施行。
+— 1 —

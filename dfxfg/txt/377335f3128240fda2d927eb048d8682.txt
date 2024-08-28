@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市公园条例
@@ -161,3 +162,4 @@
 
 第六十一条  本条例自2003年1月1日起施行。
 
+—1—  

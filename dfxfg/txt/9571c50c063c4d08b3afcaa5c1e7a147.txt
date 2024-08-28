@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阜新市农村垃圾治理条例
@@ -60,3 +61,4 @@
 （四）畜禽养殖散养户，是指未达到养殖小区、养殖场规模以及辽宁省养殖专业户确认标准的，从事畜禽养殖活动的家庭或者个人。
 第三十二条  本条例自2022年1月1日起施行。
 
+空— 1 —空

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省节约能源条例
@@ -155,3 +156,4 @@
 ​
 第五十四条　本条例所称能源利用状况，包括能源消费情况、能源利用效率、节能目标完成情况和节能效益分析、节能措施等内容。
 第五十五条　本条例自2020年9月1日起施行。
+－1－　

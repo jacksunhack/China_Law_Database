@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 赤峰市农村牧区人居环境治理条例
 
@@ -123,3 +125,4 @@
 
 第四十九条  本条例自2021年5月1日起实施。
 
+#

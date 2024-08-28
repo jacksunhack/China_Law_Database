@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省爱国卫生条例
@@ -199,3 +201,4 @@
 
 第五十九条　本条例自2013年12月1日起施行。
 
+─ 1 ─  

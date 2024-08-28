@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省人民代表大会常务委员会
@@ -23,4 +24,6 @@
 第十一条  常委会组成人员违反本守则的，应当根据主任会议的要求，向主任会议或者常委会会议作出说明。
 第十二条  本守则自2013年6月1日起施行。
 
+
+— 1 —
 

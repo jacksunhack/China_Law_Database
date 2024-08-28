@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省农村集体资产管理条例
@@ -88,3 +89,4 @@
 （四）非法改变集体资产产权的；
 （五）违反有关规定低价处理、转让集体资产的；
 （六）在发包、折股、租赁和出售集体资产时徇私舞弊的。
+— 1 —

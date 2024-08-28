@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 山西省农作物种子条例
 
@@ -111,7 +112,6 @@
 
 第四十六条　转基因农作物品种的选育、试验、审定、生产经营和推广，应当依照国家有关法律、行政法规规定执行。
 第四十七条　本条例自2019年3月1日起施行。
-
 
 
 

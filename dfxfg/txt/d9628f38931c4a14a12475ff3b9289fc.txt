@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省商品质量监督条例
@@ -87,3 +89,4 @@
 第三十三条  与本条例配套实施的商品质量报验办法由省人民政府制定。
 第三十四条  本条例应用解释权属福建省人民政府。
 第三十五条  本条例自1992年9月1日起实施。
+—1—

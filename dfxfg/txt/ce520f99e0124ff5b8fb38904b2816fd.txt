@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 江苏省生态环境保护条例
@@ -208,3 +209,4 @@
 第七章　附　　则
 ​
 第八十四条　本条例自2024年6月5日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 附件2
 
 福建省生态文明建设促进条例
@@ -159,3 +160,4 @@
 第七十四条　省人民政府可以根据本条例有关规定，制定相应的具体实施办法。
 第七十五条  本条例自2018年11月1日起施行。
 
+— 1 —

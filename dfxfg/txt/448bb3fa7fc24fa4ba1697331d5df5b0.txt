@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省计算机信息系统安全保护条例
@@ -151,3 +152,4 @@
 本条例所称的重大突发事件，是指有害信息大范围传播、大规模网络攻击、计算机病毒疫情等危害计算机信息系统安全的重大事件。
 第四十六条  本条例自2008年4月1日起施行。
 
+1

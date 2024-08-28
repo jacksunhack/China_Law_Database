@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 盐城市养老服务条例
@@ -195,3 +197,4 @@
 第七十七条  本条例自2022年1月1日起施行。
 
 
+─ # ─  

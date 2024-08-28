@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市河道管理条例
@@ -104,3 +106,4 @@
 
 第四十二条  黄河干流及其它跨盟市河道的管理按照国家、自治区的有关规定执行。
 第四十三条  本条例自2013年3月1日起施行。
+#

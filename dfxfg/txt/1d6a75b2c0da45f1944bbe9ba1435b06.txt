@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市城市中小学校用地保护规定
@@ -45,3 +46,4 @@
 第二十条　社会力量举办的中小学校用地的保护，可以参照本规定执行。
 第二十一条　本规定具体应用中的问题，由市人民政府负责解释。
 第二十二条　本规定自公布之日起施行。
+—1—  

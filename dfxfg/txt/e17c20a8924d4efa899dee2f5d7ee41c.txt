@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 龙胜各族自治县民族民间传统文化保护条例
@@ -108,3 +110,4 @@
 第三十三条  自治县国家工作人员在民族民间传统文化保护传承工作中玩忽职守、滥用职权、徇私舞弊的，依法给予处分。
 第三十四条  本条例自2020年11月1日起施行。
 
+#

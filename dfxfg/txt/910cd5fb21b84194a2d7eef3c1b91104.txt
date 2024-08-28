@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市公共消火栓建设维护管理条例
@@ -55,3 +56,4 @@
 第二十一条 本条例自2009年10月1日起施行。
 
 
+#

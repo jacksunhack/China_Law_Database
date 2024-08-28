@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市城市供热条例
@@ -193,3 +194,4 @@
 第四十七条  本条例自2014年11月1日起施行。2006年11月1日公布施行的《抚顺市城市供热条例》同时废止。
 
 
+— 1 —

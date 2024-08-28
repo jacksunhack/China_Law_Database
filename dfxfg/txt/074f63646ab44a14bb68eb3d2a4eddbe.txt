@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市物业管理条例
@@ -340,3 +342,4 @@
 
 第七十三条  本条例自2021年1月1日起施行。
 
+1  

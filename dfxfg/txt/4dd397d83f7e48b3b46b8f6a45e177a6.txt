@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市城市公共交通客运管理条例
@@ -167,3 +169,4 @@
 第五十六条  本条例自2008年3月1日起施行。本条例实施前本市有关公交客运管理的规定与本条例规定不一致的，以本条例规定为准。
 
 
+1

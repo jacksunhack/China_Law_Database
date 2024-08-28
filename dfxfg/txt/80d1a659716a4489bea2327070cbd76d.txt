@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区集体林地和林木流转规定
@@ -110,3 +112,4 @@
 第三十一条  本规定具体应用问题由省人民政府负责解释。
 第三十二条  本规定自2009年12月1日起施行。
 
+- 5 -

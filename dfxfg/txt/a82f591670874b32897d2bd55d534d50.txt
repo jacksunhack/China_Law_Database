@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
                             
                                                               
 山西省体育设施条例
@@ -73,3 +74,4 @@
 
 第二十九条  本条例自2011年1月1日起施行。1996年9月23日山西省第八届人民代表大会常务委员会第二十四次会议通过的《山西省体育设施管理条例》同时废止。
        
+#　

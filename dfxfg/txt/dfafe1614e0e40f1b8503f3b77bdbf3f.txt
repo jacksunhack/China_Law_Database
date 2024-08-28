@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区村民委员会选举办法
@@ -161,3 +162,4 @@
 　　第四十条　本办法自2013年11月1日起施行。
 
 
+- 1 -

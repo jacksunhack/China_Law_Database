@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丰宁满族自治县矿产资源管理条例
@@ -96,3 +97,4 @@
 第六章　附　　则
 
 第三十六条　本条例自公布之日起施行。
+－1－　

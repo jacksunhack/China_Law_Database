@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市户外广告和招牌设置管理条例
@@ -189,3 +190,4 @@
 条款顺序根据本决定作相应修改。
 本决定自公布之日起施行。
 《成都市户外广告和招牌设置管理条例》根据本决定作相应的修改，重新公布。
+— 17 — 

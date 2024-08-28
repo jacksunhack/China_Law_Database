@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市不可移动文物保护条例
@@ -132,3 +134,4 @@
 第七章  附  则
 
 第五十六条  本条例自2017年12月1日起施行。
+— # —

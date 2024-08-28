@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新宾满族自治县县城市容和
@@ -82,3 +83,4 @@
 第二十五条  本条例自2014年10月1日起施行。2003年12月28日第六届新宾满族自治县人民代表大会第二次会议通过的《新宾满族自治县县城市容和环境卫生管理条例》同时废止。
 
 
+— 1 —

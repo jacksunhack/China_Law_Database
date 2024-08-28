@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 新疆维吾尔自治区村民委员会选举办法
 
@@ -170,3 +171,4 @@
 
 第四十九条　村务监督委员会成员的选举参照本办法执行。
 第五十条　本办法自2014年10月1日起施行。
+2

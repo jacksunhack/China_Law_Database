@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市出租汽车管理条例
@@ -213,3 +215,5 @@
 
 第五十九条  本条例自2011年1月1日起施行。
 
+　— 1 —　
+　

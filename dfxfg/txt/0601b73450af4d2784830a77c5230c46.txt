@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区加快经济发展方式转变促进条例
@@ -157,3 +159,4 @@
     第五十四条  本条例规定市政府另行制定具体办法的，市政府应当在本条例施行之日起一年内制定，并报市人大常委会备案。
     第五十五条  本条例自2011年1月1日起实施。
 
+- 1 -

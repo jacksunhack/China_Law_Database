@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区计量条例
@@ -122,3 +123,5 @@
 
 　　第三十八条　在本自治区行政区域内的部队对外从事经营活动中的计量行为适用于本条例。
 　　第三十九条　本条例自1996年11月30日起施行。
+1
+ 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 西安市城市地下综合管廊条例
 
@@ -98,3 +99,4 @@
 第四十条  本条例自2021年8月1日起施行。
 
 
+— 9 —

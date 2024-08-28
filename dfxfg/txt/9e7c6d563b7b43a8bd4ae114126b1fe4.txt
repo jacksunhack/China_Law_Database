@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市公园管理条例
@@ -112,3 +113,5 @@
 第五章  附 则
 
 第三十六条  本条例自2015年 1月 1日起施行。
+#
+

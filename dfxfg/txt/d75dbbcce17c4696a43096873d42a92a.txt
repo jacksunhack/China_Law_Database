@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省消防条例
@@ -302,3 +304,4 @@
 第九十三条　符合消防安全重点单位界定标准的个体工商户，应当依法履行消防安全重点单位的消防安全职责，承担单位法律责任。
 第九十四条　本条例自2023年5月1日起施行。
 
+─ # ─  

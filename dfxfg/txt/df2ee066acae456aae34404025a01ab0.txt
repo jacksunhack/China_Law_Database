@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省涉案物品估价管理条例
@@ -63,4 +64,6 @@
 第二十三条  本条例应用中的具体问题，由省物价局负责解释。
 第二十四条  本条例自公布之日起施行。
 
+
+— 1 —
 

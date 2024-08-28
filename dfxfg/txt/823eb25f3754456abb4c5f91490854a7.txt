@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省实施《中华人民共和国
@@ -59,3 +60,4 @@
 对违反《教师法》和本办法的行为，《教师法》和有关法律、法规没有处理规定的，由人民政府或者有关主管部门责令其限期改正，并对有关责任人员给予处分。
 第二十三条　本办法自公布之日起施行。
 
+- 1 -

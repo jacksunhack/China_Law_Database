@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市龙门石窟保护管理条例
@@ -94,3 +96,5 @@
 　　（九）发现违法行为不予查处的；
 　　（十）滥用职权、玩忽职守、徇私舞弊的其他行为。
 　　第三十一条　本条例自2013年1月1日起实施。
+  — 1 —    
+     

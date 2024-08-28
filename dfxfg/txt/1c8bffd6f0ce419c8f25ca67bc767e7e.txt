@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市城市房地产开发经营管理条例
@@ -119,3 +120,4 @@
 
 　　第四十条　本条例应用中的具体问题，由西宁市人民政府负责解释。
 　　第四十一条　本条例自2005年7月1日起施行。
+#　

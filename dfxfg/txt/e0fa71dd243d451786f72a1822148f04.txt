@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 平凉市地方立法条例
@@ -168,3 +170,4 @@
 　　第六十七条  地方性法规按照审查意见、研究意见需要修改或者废止的，依照本条例第二章相关规定进行修改或者废止。
 第五章  附则
 　　第六十八条  本条例自公布之日起施行。
+      — 1 —    

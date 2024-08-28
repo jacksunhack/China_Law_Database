@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市民用建筑节能条例
@@ -72,3 +73,4 @@
 第三十九条  本条例自2009年3月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头市人民代表大会常务委员会
@@ -14,3 +15,4 @@
 六、《汕头经济特区城市房屋拆迁管理规定》第七条第一款第六项关于“周转房数量证明”的规定。
 本决定自2004年7月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连山壮族瑶族自治县人民代表大会关于
@@ -53,7 +54,6 @@
 三十九、将第五十六条删除。
 四十、对有关条文顺序作相应调整。 
 本决定自公布之日起施行。《连山壮族瑶族自治县森林资源保护管理条例》根据决定作相应修改，重新公布。
-
 
 
 

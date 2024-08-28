@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省实施《中华人民共和国防洪法》办法
@@ -140,3 +141,4 @@
 ​
 第五十一条　本办法具体应用中的问题，由省人民政府水行政主管部门负责解释。
 第五十二条　本办法自2001年1月1日起施行。
+－1－　

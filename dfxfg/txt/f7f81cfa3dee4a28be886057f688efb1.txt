@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省民办教育促进条例
@@ -65,4 +66,6 @@
 第三十三条  依法在工商行政管理部门登记的经营性民办培训机构的管理，按照国家有关规定执行。
 第三十四条  本条例自2007年2月1日起施行。
 
+
+— 1 —
 

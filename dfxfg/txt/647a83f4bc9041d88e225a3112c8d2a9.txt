@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 菏泽市地下管线管理条例
@@ -110,3 +111,4 @@
 ​
 第四十二条　本市行政区域内其他地下管线的管理，可以参照本条例执行。
 第四十三条　本条例自2024年1月1日起施行。
+－1－　

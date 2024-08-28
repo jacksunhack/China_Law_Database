@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市国家建设项目审计条例
@@ -167,3 +169,5 @@
 （八）有其他滥用职权、徇私舞弊、玩忽职守等违法行为的。
 第四十九条  本条例自2010年6月1日起施行。
 
+　— 1 —　
+　

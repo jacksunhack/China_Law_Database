@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市养犬管理条例
@@ -31,3 +32,4 @@
 第二十四条  本条例自2011年5月1日起施行。
 
 
+— 1 —

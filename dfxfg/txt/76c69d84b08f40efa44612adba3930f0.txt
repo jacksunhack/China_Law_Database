@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连南瑶族自治县保障青少年儿童入学权利条例
@@ -127,3 +128,4 @@
 第八章　附则
 
 第四十一条　本条例自2013年9月1日起实施。
+- 1 -

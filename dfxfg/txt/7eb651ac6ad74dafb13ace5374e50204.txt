@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市土地储备条例
@@ -87,3 +88,4 @@
 　　第二十五条　本条例自2004年1月1日起施行。
 
 
+— 5 —

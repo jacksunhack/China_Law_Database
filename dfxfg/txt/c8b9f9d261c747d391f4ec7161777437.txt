@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州藏语言文字条例
@@ -85,3 +86,4 @@
 第四十条  本条例自2018年9月1日起实施。
 
 
+— 1 —  

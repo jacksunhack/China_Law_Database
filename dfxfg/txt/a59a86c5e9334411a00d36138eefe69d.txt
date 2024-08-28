@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 固原市红色文化遗址保护条例
@@ -112,6 +114,7 @@
 第四十二条　本条例自2020年1月1日起施行。
  
  
+
 
 
 

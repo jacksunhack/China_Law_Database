@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湘西土家族苗族自治州农村集体经济促进
@@ -118,3 +119,4 @@
 第六章　附则
  
 第三十六条　本条例自2022年5月1日起施行。
+－　1　－  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门市荣誉市民称号授予办法
@@ -28,3 +29,4 @@
 　　第九条　本办法由市人民政府组织实施，在实施过程中，市人民政府可以根据本市的实际和需要，作出具体规定，并报市人民代表大会常务委员会备案。
 　　第十条　本办法自颁布之日起施行。
 
+— # —

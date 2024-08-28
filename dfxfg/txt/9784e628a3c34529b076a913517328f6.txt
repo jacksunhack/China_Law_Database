@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省人口与计划生育条例
@@ -109,3 +110,4 @@
 （二）侮辱、威胁、殴打或者报复计划生育工作人员的。
 第四十九条  公民、法人或者其他组织认为行政机关在实施计划生育管理过程中侵犯其合法权益，可以依法申请行政复议或者提起行政诉讼。
 
+— 1 —

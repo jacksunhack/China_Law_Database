@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 楚雄彝族自治州城乡规划建设管理条例
@@ -192,3 +194,4 @@
 
 第六十条  州人民政府可以根据本条例制定具体的实施办法。
 第六十一条  本条例自2017年1月1日施行。
+—— - 1 - ——

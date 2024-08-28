@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区道路运输条例
@@ -94,3 +96,5 @@
 第四十一条  本条例自2008年2月1日起施行。1998年9月28日内蒙古自治区第九届人民代表大会常务委员会第五次会议通过的《内蒙古自治区道路运输管理条例》同时废止。
 
 
+
+#

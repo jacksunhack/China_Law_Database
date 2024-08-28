@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省人民代表大会常务委员会
@@ -79,3 +80,4 @@
 （五）对人民代表大会选举的国家机关工作人员向本级人民代表大会提出罢免案。
 有关机关、单位对责任人员的处理，应于交办之日起三十日内向常务委员会报告处理情况。
 
+1

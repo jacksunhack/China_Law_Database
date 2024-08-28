@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湘潭市平安建设条例
@@ -119,3 +120,4 @@
 第七章  附 则
 
 第五十条  本条例自2023年1月1日起施行。
+#

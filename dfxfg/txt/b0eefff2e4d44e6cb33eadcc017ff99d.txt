@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省农业技术推广条例
@@ -133,3 +135,4 @@
 第四十三条  本条例自公布之日起施行。
 
 
+      — 1 —      

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 哈密市经营主体政务服务条例
@@ -81,3 +82,4 @@
 第六章　附　　则
 ​
 第三十三条　本条例自2024年3月1日起施行。
+－1－　

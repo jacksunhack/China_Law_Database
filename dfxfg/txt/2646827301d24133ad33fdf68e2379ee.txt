@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省森林和野生动物类型
@@ -69,3 +70,4 @@
 第二十五条　本办法自公布之日起施行。
 
 
+1

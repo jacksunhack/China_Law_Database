@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
   
 
 四川省《中华人民共和国农民专业合作社法》实施办法
@@ -65,3 +66,4 @@
 （六）为农民专业合作社登记注册提供虚假证明材料的;
 （七）其他侵害农民专业合作社及其成员合法权益的行为。
 第三十七条  本实施办法自2010年11月1日起施行。
+— 9 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省城乡居民补充养老保险条例
@@ -50,3 +52,4 @@
 （四）其他滥用职权、玩忽职守、徇私舞弊的。
 第二十五条 本条例自2021年1月1日起施行。
 
+1

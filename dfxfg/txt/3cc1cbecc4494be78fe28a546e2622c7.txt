@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区高速公路条例
 
@@ -160,3 +162,5 @@
 高速公路建筑控制区，是指高速公路用地外缘起向外各三十米以及立交桥匝道、高速公路连接线两侧、收费站周围各一百米范围内的区域。
 第六十一条  本条例自2015年6月1日起施行。
 
+
+#

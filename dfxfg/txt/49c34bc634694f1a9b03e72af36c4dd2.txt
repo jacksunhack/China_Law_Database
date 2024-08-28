@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省实行宪法宣誓制度组织办法
@@ -19,3 +20,4 @@
 集体宣誓的领誓人，由宣誓仪式组织者在宣誓人中确定。
 九、宣誓仪式的具体程序，由宣誓仪式的组织机关结合本办法制定。
 十、本办法自2016年1月1日起施行。
+－1－　

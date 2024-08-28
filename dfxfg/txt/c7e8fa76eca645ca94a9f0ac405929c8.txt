@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省流动人口服务管理条例
@@ -104,3 +105,4 @@
 第三十六条  已经办理暂住证的流动人口办理居住证的，其居住期限连续计算。
 第三十七条  本条例自2010年1月1日起施行。
 
+- 1 - 

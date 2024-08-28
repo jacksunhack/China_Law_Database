@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市宗教事务管理条例
@@ -89,3 +90,4 @@
 第九章　附　则
 
 　　第四十五条　本条例自公布之日起施行。
+— 8 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门市国民经济和社会发展计划审查
@@ -96,3 +97,4 @@
 　　第二十八条　本条例由市人大常委会负责解释。
 　　第二十九条　本条例自颁布之日起施行。
 
+— # —

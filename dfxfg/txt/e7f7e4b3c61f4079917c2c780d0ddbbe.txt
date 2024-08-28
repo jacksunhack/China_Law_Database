@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区测绘管理条例
@@ -143,3 +144,4 @@
 第十章  附  则
 
 第五十四条  本条例自2005年9月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莱芜市既有多层住宅增设电梯规定
@@ -47,3 +48,4 @@
 第二十一条 其他住宅或者非住宅既有建筑增设电梯参照本规定执行。
 第二十二条 本规定自公布之日起施行。
 
+1

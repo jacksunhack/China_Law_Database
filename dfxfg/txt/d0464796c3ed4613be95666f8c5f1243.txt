@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
  
 青海省高原美丽城镇建设促进条例
@@ -100,3 +101,4 @@
  
 第五十四条  本条例自2021年3月1日起施行。
 
+#

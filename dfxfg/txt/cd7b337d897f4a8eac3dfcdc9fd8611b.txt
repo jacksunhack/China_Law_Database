@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市农村集体资产管理条例
@@ -120,3 +122,5 @@
 第三十八条  实行独立核算的村民小组的集体资产管理参照本条例执行。
 第三十九条  本条例自2003年7月1日起施行。
 
+　— 1 —　
+　

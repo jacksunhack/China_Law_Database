@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市物业管理规定
@@ -63,3 +65,4 @@
 （四）授权委托书；
 （五）其他相关的文本。
 第十九条　本规定自2004年1月1日起施行。
+—1—

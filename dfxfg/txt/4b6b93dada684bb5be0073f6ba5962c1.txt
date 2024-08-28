@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 重庆市实施《中华人民共和国公共文化
 服务保障法》办法
 
@@ -147,3 +148,4 @@
 第五十三条  本办法自2020年8月 1日起施行。
 
 
+— # — 

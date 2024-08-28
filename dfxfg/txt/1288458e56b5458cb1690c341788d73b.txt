@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市全民义务植树条例
@@ -53,3 +54,4 @@
 第二十二条　本条例自公布之日起施行。
 
 
+1

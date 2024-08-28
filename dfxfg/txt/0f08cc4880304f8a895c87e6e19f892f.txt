@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市城市绿化管理条例
@@ -103,3 +104,4 @@
 第三十三条  本条例自2001年3月12日起施行。
 
 
+— 1 —

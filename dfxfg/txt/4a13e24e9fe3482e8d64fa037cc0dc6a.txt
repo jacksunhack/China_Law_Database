@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 吉林省统计管理条例
 
@@ -123,3 +125,5 @@
 个体工商户有本条第一款所列行为之一的，由县级以上人民政府统计机构责令改正，给予警告，可以并处一万元以下罚款。
 第七章   附  则
 第四十四条   本条例自2018年12月1日起施行。
+#
+

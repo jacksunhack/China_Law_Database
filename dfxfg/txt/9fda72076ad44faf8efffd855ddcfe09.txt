@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -68,3 +69,4 @@
 当事人对行政处罚不服的，可以依法申请行政复议或者直接向人民法院提起行政诉讼。
 第三十七条 本办法自2003年9月1日起施行。
 
+— 1 —

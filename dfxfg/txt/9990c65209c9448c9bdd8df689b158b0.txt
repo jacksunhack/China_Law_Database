@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市禁止燃放烟花爆竹规定
@@ -62,3 +63,4 @@
 第二十六条  本规定自2021年5月1日起施行。
 
 
+1

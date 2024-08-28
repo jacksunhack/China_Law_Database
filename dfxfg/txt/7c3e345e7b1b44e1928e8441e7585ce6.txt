@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 金华市城市市容和环境卫生管理规定
@@ -65,3 +66,4 @@
 （三）包庇、纵容违法行为的；
 （四）有其他玩忽职守、滥用职权或者徇私舞弊行为的。
 第二十四条  本规定自2019年5月1日起施行。
+  — # —  

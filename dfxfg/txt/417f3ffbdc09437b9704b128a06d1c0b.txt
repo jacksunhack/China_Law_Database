@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省宗教事务条例
@@ -193,3 +195,4 @@
 第七十条  本条例自2020年3月1日起施行。
 
 
+─ # ─  

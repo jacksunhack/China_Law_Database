@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 宿迁市制定地方性法规条例
@@ -184,3 +185,4 @@
 第八章　附　　则
 ​
 第七十七条　本条例自2017年6月1日起施行。
+－1－　

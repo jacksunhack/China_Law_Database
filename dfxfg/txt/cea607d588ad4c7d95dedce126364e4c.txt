@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省重大建设项目稽察条例
@@ -99,3 +100,4 @@
 
 第三十二条　〔参照执行〕财政部门对重大建设项目财政资金使用情况和绩效的监督检查以及稽察特派员的管理，参照本条例执行。
 第三十三条　〔施行日期〕本条例自2013年1月1日起施行。
+— 1 —

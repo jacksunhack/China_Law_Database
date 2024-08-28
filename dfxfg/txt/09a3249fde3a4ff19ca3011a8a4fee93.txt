@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市人民代表大会常务委员会关于促进和
 保障制造业立市推动高质量发展的决定
@@ -28,3 +29,4 @@
 十六、本决定自公布之日起施行。
 
 
+#

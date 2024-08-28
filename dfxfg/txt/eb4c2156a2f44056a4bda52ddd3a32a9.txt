@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省科学技术普及条例  
@@ -94,3 +95,4 @@
 第七章　附则 
 
 第三十一条　本条例自2004年1月1日起施行。
+－ 8 －

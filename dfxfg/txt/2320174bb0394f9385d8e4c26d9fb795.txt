@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市社区教育促进条例
@@ -97,3 +98,4 @@
 第六章  附  则
 
 第三十八条   本条例自2017年2月1日起施行。
+— 1 —  

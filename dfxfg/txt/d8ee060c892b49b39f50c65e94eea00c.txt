@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 果洛藏族自治州文化市场管理条例
@@ -101,3 +102,4 @@
 
 　　第三十四条　本条例由州人民政府负责解释。
 　　第三十五条　本条例自2004年1月1日起施行。
+- 9 -　

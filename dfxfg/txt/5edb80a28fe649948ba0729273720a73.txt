@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 六盘水市文明行为促进条例
@@ -153,3 +154,4 @@
 第六章  附  则
 第四十九条  本条例自2022年1月10日起施行。
 
+— 1 —

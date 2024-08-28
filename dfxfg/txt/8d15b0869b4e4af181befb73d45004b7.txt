@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 务川仡佬族苗族自治县农村消防条例
@@ -147,4 +148,6 @@
 （五）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第三十八条　违反本条例的其他违法行为，法律、法规有处罚规定的，从其规定。
 第三十九条   本条例自2015年5月1日起施行。
+
+— 13 —
 

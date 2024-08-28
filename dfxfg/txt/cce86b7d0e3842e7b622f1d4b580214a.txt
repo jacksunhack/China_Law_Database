@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省专业技术人员继续教育条例
@@ -62,3 +64,4 @@
     第二十六条  本条例自2007年8月1日起施行。
 
 
+      — 1 —    

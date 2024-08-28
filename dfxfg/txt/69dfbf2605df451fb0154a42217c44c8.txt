@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 巴中市乡村清洁条例
@@ -101,3 +102,4 @@
 ​
 第四十条　乡村生活污水的排放、处理和设施建设等适用《巴中市城乡污水处理条例》的有关规定。
 第四十一条　本条例自2024年1月1日起施行。
+－1－　

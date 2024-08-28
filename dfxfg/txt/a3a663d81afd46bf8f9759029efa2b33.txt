@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市物业管理条例
@@ -301,3 +302,4 @@
 第七章　附　　则
 
 第七十五条　本条例自2019年6月1日起施行。
+－1－　

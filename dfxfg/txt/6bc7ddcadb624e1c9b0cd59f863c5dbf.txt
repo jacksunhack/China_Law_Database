@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鹰潭市信江饮用水水源保护条例
@@ -117,4 +119,6 @@
 
 第四十二条  本条例所称管委会是指鹰潭市龙虎山风景名胜区管委会、鹰潭高新技术产业开发区管委会、鹰潭市信江新区管委会。
 第四十三条  本条例自2019年6月1日起施行。
+
+- 17 -
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南阳市城市管理综合执法条例
@@ -124,3 +125,5 @@
 第七章  附则
     第四十条  本条例自2022年7月1日起施行。
 
+— 1 —
+  

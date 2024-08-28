@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 东莞市饮用水源水质保护条例
@@ -168,3 +169,4 @@
 ​
 第四十七条　具备饮用水功能的地下水源地及水质的保护、监督和管理依据有关法律法规执行。
 第四十八条　本条例自2018年7月1日起施行。
+－1－　

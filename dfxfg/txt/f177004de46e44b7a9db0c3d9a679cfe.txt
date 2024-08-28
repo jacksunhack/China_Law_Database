@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
   　　
 江西省水资源条例
@@ -197,3 +198,4 @@
 第六十三条  本条例自2016年6月1日起施行。
 
 
+- 1 -

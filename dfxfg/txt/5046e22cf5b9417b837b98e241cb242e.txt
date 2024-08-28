@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市公益林保护条例
@@ -98,3 +99,4 @@
 
 第四十六条　本条例具体应用中的问题，由市林业主管部门负责解释。
 第四十七条　本条例自2001年6月1日起施行。
+—1—  

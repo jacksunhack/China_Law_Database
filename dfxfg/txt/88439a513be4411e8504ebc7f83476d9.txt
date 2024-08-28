@@ -1,4 +1,5 @@
-﻿
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 江西省产品质量监督管理条例
 
@@ -134,3 +135,5 @@
 第四十五条  本条例自1995年1月1日起施行。
 
 
+
+- 1 -

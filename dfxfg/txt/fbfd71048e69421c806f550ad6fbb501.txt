@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省无线电管理条例
@@ -120,3 +121,4 @@
 第八章  附则
 
 第三十九条  本条例自2015年9月1日起施行。
+－1－  

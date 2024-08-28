@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 南平市朱子文化遗存保护条例
 （2017年3月28日南平市第五届人民代表大会

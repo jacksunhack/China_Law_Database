@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽宁省矿产资源管理条例
 
@@ -123,4 +124,3 @@
 第六章  附则
 
 第五十二条 本条例自1998年1月1日起施行，《辽宁省集体和个体采矿条例》同时废止。
-

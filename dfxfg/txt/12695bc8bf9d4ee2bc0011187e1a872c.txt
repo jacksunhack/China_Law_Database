@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国水土保持法》办法
@@ -96,3 +97,4 @@
 第四十六条　本办法具体应用中的问题，由省人民政府水行政主管部门负责解释。
 　　第四十七条　本办法自公布之日起施行。
 
+1

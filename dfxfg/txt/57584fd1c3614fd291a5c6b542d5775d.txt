@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省禁毒条例
@@ -80,3 +81,4 @@
 罚没收入一律上缴国库。 
 第三十四条  本条例具体应用中的问题，由省人民政府负责解释。
 第三十五条  本条例自公布之日起施行。         
+#  

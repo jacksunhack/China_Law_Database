@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省红河哈尼族彝族自治州建水
@@ -57,3 +58,4 @@
 本条例的具体实施办法，由建水县人民政府制定。
 第二十二条　本条例报云南省人民代表大会常务委员会批准后公布施行。
 ​
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 庆阳市人民代表大会及其常务委员会
@@ -165,3 +167,4 @@
 第七十一条  本规则自2016年5月1日起施行。
 
                                          
+      — 1 —      

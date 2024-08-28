@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市税收保障条例
@@ -95,3 +97,4 @@
 
 　　第三十二条　本条例自2014年10月1日起施行。
 
+— 9 —

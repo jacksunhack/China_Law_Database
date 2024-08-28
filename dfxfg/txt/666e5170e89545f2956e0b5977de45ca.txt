@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 门源回族自治县
@@ -163,3 +164,4 @@
 　　第五十六条　其他独立工矿区、产业园区，可以参照本条例执行。
 　　第五十七条　本条例应用中的具体问题由县人民政府负责解释。
 　　第五十八条　本条例自2011年1月1日起施行。
+- 3 -　

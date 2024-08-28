@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 江苏省海洋环境保护条例
 
@@ -115,3 +117,4 @@
 第六章　附  则
 
 第四十五条　本条例自2007年12月1日起施行。
+─ 1 ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 衢州市人民代表大会常务委员会关于
@@ -50,3 +51,4 @@
 此外，根据本决定对相关条款的个别文字表述和条文顺序作修改和调整。
 本决定自2023年9月1日起施行。
 《衢州市市区电动自行车管理规定》根据本决定作相应修改，重新公布。
+－1－　

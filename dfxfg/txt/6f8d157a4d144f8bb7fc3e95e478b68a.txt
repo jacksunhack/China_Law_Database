@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区民用机场保护条例
@@ -177,3 +178,4 @@
 
 第七十四条  军民合用机场民用部分的保护，除适用本条例的规定外，还应当遵守国务院、中央军事委员会的规定。
 第七十五条  本条例自2011年3月1日起施行。
+#

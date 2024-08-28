@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市公共场所禁止吸烟规定
@@ -35,3 +36,4 @@
 第十四条  本规定自1998年3月1日起施行。
 
 
+— 1 —

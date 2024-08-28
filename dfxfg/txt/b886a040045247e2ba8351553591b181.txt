@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 六安市物业管理条例
 
@@ -219,3 +220,4 @@
 第五十三条　本条例所称电动车，包括电动自行车、电动摩托车和电动三轮车等。
 第五十四条　本条例自2020年1月1日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区生活垃圾分类管理条例
@@ -122,3 +123,4 @@
 
 
 
+#

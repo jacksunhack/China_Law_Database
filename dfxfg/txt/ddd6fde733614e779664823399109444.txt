@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市清真食品管理条例
@@ -100,3 +101,4 @@
 
 第三十三条  本条例自2011年3月1日起施行。
 
+—— 2 ——

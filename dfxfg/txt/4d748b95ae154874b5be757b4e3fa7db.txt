@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市人民代表大会常务委员会关于修改和
@@ -53,3 +54,4 @@
 （四）对条款序号进行相应修改。
 四、废止《长春市土地管理细则》
 五、废止《长春市农村土地承包经营权流转条例》
+－1－　

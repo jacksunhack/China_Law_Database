@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区促进科技创新若干规定
 
@@ -66,3 +67,4 @@
 
 
 
+— # —

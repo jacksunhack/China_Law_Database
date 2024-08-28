@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省大理白族自治州
@@ -66,3 +68,4 @@
 第二十六条  当事人对行政处罚决定不服的，可依法申请行政复议或者提起行政诉讼。
 第二十七条  本条例经自治州人民代表大会审议通过，报云南省人民代表大会常务委员会批准后生效。
 
+—— 1 ——

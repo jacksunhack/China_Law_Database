@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 茂名市高州水库水质保护条例
@@ -151,3 +152,4 @@
 第六章  附则
 
 第四十二条  本条例自2017年3月1日起施行。
+1

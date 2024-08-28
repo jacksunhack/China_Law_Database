@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市公共卫生应急管理条例
@@ -238,3 +239,4 @@
 
 第八十五条  本条例自2020年11月1日起施行。
 
+- 1 -

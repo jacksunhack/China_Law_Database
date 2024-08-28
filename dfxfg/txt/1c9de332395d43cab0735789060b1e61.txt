@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省水文条例
@@ -85,3 +87,4 @@
 第三十一条  本条例规定的行政处罚，由县级以上人民政府水行政主管部门依据职权决定。
 第三十二条  本条例自 2015年 10月 1日起施行。
 
+#

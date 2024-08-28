@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市建设工程勘察设计管理条例
@@ -178,3 +179,4 @@
 第四十九条  本条例自2005年12月1日起施行。
 
 
+  — 17 —  

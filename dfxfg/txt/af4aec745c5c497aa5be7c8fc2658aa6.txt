@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省惩治生产销售假冒伪劣商品行为条例
@@ -96,3 +98,4 @@
 第三十三条　本条例所称假冒伪劣商品货值金额，以违法经营商品的标价计算；没有标价的，按照同类商品的市场价格计算。 
 第三十四条　本条例自2001年1月10日起施行。
 
+─ 1 ─  

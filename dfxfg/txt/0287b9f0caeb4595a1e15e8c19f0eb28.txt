@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区农村集体资金资产资源管理条例
@@ -187,3 +188,4 @@
 第六十一条　市农业、财政、国土行政管理部门应当根据本条例，结合各自职责制定本部门具体实施办法。
 第六十二条　本条例自2016年11月1日起施行。
 
+1

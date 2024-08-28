@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省档案管理条例
@@ -107,3 +108,4 @@
 
 　　第三十八条　本条例自2004年3月1日起施行。
 
+－ # －

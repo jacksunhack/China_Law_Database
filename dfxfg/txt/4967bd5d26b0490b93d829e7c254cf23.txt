@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市台湾同胞投资保护条例
@@ -116,3 +117,4 @@
 
 第三十七条  台湾同胞在港澳地区或境外投资的公司、企业或其他经济组织在本市投资的，依照本条例规定实施保护。
 第三十八条  本条例自1998年9月1日起施行。
+— 1 —

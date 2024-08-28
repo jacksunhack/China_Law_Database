@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保山市龙陵松山战役战场遗址保护条例
@@ -65,3 +67,4 @@
 第十九条  违反本条例规定的行为，法律、法规已有处罚规定的，从其规定。
 第二十条  本条例自2019年1月1日起施行。
 
+—— 6 ——

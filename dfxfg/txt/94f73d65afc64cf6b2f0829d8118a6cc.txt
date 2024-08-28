@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省水利工程设施管理保护条例
@@ -58,3 +60,4 @@
 第五章  附则
 
 第二十九条  本条例自公布之日起施行。
+      — 1 —    

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黑龙江双河国家级自然保护区管理条例
 
@@ -51,3 +52,4 @@
 　　（三）发现违法行为不及时查处的；
 　　（四）违反本条例的其他行为。
 　　第二十四条  本条例自2013年2月1日起施行。
+#

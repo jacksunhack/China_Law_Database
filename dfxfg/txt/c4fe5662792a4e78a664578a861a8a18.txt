@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省出租汽车客运条例
@@ -177,3 +178,4 @@
 第七章　附　　则
 
 第六十条  本条例自2006年3月1日起施行。
+— 1 —

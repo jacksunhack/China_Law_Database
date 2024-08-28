@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省人民代表大会代表议案工作条例
@@ -46,4 +47,6 @@
 代表大会代表建议、批评和意见工作条例》的规定办理。
 第二十条  本条例自2001年3月1日起施行。
 
+
+— 1 —
 

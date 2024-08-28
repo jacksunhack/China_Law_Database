@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵州省各级人民代表大会常务委员会
@@ -117,3 +118,4 @@
 ​
 第三十八条　市州、县级人大常委会可以根据本条例规定和本地实际情况，制定本级人大常委会规范性文件备案审查工作具体办法。
 第三十九条　本条例自2022年10月1日起施行。
+－1－　

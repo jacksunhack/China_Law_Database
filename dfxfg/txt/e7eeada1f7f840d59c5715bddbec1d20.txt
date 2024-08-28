@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省教育督导条例
@@ -108,3 +109,4 @@
 （五）发现违法违规办学行为或者危及师生生命安全隐患而未及时督促学校和相关部门处理的。
 第六章  附则
 第三十六条  本条例自2017年6月1日起施行。
+	

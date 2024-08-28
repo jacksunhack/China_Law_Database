@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 云南省公安机关警务辅助人员管理条例
@@ -171,3 +172,4 @@
 ​
 第四十四条　本省审判机关、检察机关和司法行政部门警务辅助人员的招聘、管理、监督和保障，参照本条例执行。
 第四十五条　本条例自2024年7月1日起施行。
+－1－　

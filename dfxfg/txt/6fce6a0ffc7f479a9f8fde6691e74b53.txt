@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省价格条例
@@ -134,3 +135,4 @@
 
 　　第三十八条　本条例自2014年1月1日起施行。
 
+— 1—

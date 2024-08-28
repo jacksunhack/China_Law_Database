@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州行政执法条例
@@ -211,3 +213,4 @@
 
 　　第五十四条　本条例规定的事项，法律、法规有明确规定的，从其规定。
 　　第五十五条　本条例自2014年7月1日起实施。
+1

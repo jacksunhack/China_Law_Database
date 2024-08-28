@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省土壤污染防治条例
@@ -216,3 +218,4 @@
 
 第七十一条  本条例自2021年5月1日起施行。
 
+      — 1 —    

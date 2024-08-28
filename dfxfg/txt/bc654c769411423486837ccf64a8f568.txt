@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市献血条例
 （2021年11月26日北京市第十五届人民代表大会
@@ -111,3 +112,4 @@
 第六章　附　　则
 
 第四十九条　本条例自2022年2月1日起施行。
+－23－

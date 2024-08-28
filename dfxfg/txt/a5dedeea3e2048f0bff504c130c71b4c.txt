@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 果洛藏族自治州个体医疗机构管理条例
@@ -89,3 +90,4 @@
 
 　　第三十六条　本条例应用中的具体问题由果洛州人民政府负责解释。
 　　第三十七条　本条例自2003年3月1日起施行。
+- 3 -　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市投资环境保障条例
@@ -204,3 +205,5 @@
 第六十八条  本条例自2005 年7 月1 日起施行。
 
 
+—#—      
+  

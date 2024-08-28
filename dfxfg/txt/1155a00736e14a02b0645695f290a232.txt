@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宽甸满族自治县水资源保护条例
@@ -60,3 +61,4 @@
 第二十条  本条例自2010年9月1日起施行。
 
 
+— 1 —

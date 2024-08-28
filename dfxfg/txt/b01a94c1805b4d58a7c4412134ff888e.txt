@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
                             
                             
 武汉市防洪管理规定
@@ -61,3 +62,4 @@
     违反前款规定的，给予行政处分；构成犯罪的，依法追究刑事责任。
     第二十四条　本规定自公布之日起施行。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪市城市市容和环境卫生管理条例
@@ -168,3 +169,4 @@
 第六十八条  本条例自2005年3月1日起施行。《本溪市城市市容管理条例》同时废止。
 
 
+— 1 —

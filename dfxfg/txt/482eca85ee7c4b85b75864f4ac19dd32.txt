@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省外商投资企业工会条例
@@ -77,3 +78,4 @@
 第六章　附则
 
 第三十九条  本条例自公布之日起施行。          
+#  

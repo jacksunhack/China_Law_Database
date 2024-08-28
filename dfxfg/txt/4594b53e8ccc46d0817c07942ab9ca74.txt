@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省秦岭生态环境保护条例
@@ -264,3 +265,4 @@
 第八十八条  本省行政区域内的巴山属于国家确定的秦巴山区生物多样性主体功能区，其生态环境保护办法，由省人民政府参照本条例制定。 
 第八十九条  本条例自2019年12月1日起施行。
 　　
+1

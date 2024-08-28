@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮安市大运河文化遗产保护条例
@@ -102,3 +104,4 @@
 
 第三十九条  本条例自2020年6月1日起施行。
 
+─ # ─  

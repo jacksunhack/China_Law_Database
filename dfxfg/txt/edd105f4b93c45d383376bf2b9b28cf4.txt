@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省城市供热条例
@@ -170,3 +171,4 @@
 本条例所称热用户，是指消费供热单位热能的单位和个人。
 第四十九条  本条例自2014年8月1日起施行。
 
+#

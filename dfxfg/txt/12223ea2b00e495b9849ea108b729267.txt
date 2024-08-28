@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广东省林木林地权属争议调解处理条例
 
@@ -5,12 +6,12 @@
 
 目    录
 
- 总则
- 调处依据
- 管辖受理
- 调解处理
- 法律责任
- 附则
+第一章   总则
+第二章   调处依据
+第三章   管辖受理
+第四章   调解处理
+第五章   法律责任
+第六章   附则
 
 第一章  总则
 

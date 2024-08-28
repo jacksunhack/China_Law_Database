@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省社会科学普及促进条例
@@ -102,3 +104,4 @@
 
 第三十五条  本条例自2016年9月1日起施行。
 
+─ # ─

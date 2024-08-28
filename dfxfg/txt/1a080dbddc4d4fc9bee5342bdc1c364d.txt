@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州水资源管理条例
@@ -109,3 +110,4 @@
 第八章  附  则
  
 第三十八条  本条例由自治州人民代表大会常务委员会公布施行。
+— 13 —  

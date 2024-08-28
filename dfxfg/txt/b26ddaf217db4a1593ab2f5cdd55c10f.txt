@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市无公害蔬菜管理条例
@@ -109,3 +111,4 @@
 　　第四十四条  无公害瓜果、百合、马铃薯、食用菌等农产品的生产、经营和管理，参照本条例执行。
 第四十五条本条例自2010年1月1日起施行。《兰州市蔬菜基地管理办法》同时废止。
 
+      — 1 —      

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区限制养犬规定
@@ -48,3 +49,4 @@
 第二十五条　本规定自1997年3月1日起施行。
 
 
+1

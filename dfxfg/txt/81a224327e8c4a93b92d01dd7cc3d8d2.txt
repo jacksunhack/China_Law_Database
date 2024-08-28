@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省预算审查监督条例
@@ -111,3 +112,4 @@
 省人大常委会依照有关法律、行政法规的规定，对预算外资金的使用和管理进行监督。
 第四十四条  各市（州）的预算审查监督可参照本条例执行。
 第四十五条  本条例自公布之日起施行。
+— 11 —

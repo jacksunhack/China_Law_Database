@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州航空港经济综合实验区条例
@@ -177,3 +178,4 @@
 第十章  附则
 
 第六十四条  本条例自2021年3月1日起施行。
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省建设工程勘察设计管理条例
@@ -143,3 +145,4 @@
 第五十三条　抢险救灾工程、军事设施、小型临时性建筑和农民自建低层住宅的勘察、设计活动，不适用本条例。
 第五十四条　本条例自公布之日起施行。
 
+　— 1 —　

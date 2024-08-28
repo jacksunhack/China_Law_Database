@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省计量监督管理条例
@@ -145,3 +146,4 @@
 
 第五十三条　本条例应用中的具体问题，由省技术监督行政管理部门负责解释。
 第五十四条　本条例自1996年9月1日起施行。
+- 28 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省消防条例
@@ -234,3 +235,4 @@
 对小旅馆、小餐饮、小商店，可以优化办理公众聚集场所投入使用、营业前消防安全检查手续，具体办法由省人民政府消防救援机构制定，报省人民政府批准。
 第七十三条　本条例自2023年9月1日起施行。
 
+－1－　

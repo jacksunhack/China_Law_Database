@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 上海市出租汽车管理条例
@@ -185,3 +186,4 @@
 ​
 第五十二条　本条例的具体应用问题，由市交通行政管理部门负责解释。
 第五十三条　本条例自1995年9月1日起施行。
+－1－　

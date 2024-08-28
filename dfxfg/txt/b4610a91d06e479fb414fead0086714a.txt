@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 松原市网络文明建设条例
@@ -46,3 +47,4 @@
 第六章　附　　则
 ​
 第十五条　本条例自2023年8月1日起施行。
+－1－　

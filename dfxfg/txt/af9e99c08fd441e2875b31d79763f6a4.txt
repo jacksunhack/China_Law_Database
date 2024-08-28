@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市教育设施规划建设管理条例
@@ -105,3 +107,5 @@
 第五十二条  井陉矿区的教育设施规划管理适用本条例对县域教育设施规划的规定。
 第五十三条  本条例自2015年1月1日起施行。
 
+　— 1 —　
+　

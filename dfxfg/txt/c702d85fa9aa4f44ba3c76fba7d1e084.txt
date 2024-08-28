@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省计划免疫条例
@@ -93,3 +94,4 @@
 
     第三十一条  本条例执行中的具体应用问题，由省卫生行政部门负责解释。
     第三十二条  本条例自1995年4月25日起施行。
+－ 8 －

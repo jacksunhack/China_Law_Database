@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市邮政管理条例
@@ -132,3 +134,4 @@
 第七章　附  则
 
 第五十七条　本条例自公布之日（2001年4月6日）起施行。
+#

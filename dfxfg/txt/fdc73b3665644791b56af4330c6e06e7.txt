@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -50,3 +51,4 @@
 　　第二十三条　外籍华人、港澳同胞在本省的眷属合法权益的保护，参照本办法执行。
 　　第二十四条　本办法的具体应用问题由青海省人民政府侨务行政管理部门负责解释。
 　　第二十五条　本办法自1997年1月1日起施行。
+#　

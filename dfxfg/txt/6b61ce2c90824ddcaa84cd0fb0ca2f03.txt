@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市技术市场条例
@@ -82,3 +83,4 @@
 第二十九条  本条例自1996年8月30日起施行。
 
 
+— 1 —

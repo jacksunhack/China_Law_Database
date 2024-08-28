@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市市政工程设施管理办法
@@ -154,3 +155,4 @@
 
 第四十四条　各县市政工程设施和单位自建的市政工程设施，参照本办法执行。 
 第四十五条　本办法自一九九六年六月一日起施行。
+— 1 —

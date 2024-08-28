@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省绿色建筑发展条例
@@ -156,3 +158,4 @@
 鼓励工业厂房参照本条例实施。
 第六十一条  本条例自2015年7月1日起施行。
 
+─ # ─  

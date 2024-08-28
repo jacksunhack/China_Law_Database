@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖州市客运出租汽车管理条例
@@ -182,3 +183,4 @@
 第七章　附　　则
 
 第四十一条　本条例自2023年10月1日起施行。
+－1－　

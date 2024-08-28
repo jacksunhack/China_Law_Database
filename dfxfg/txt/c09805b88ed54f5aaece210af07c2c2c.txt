@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省档案条例
@@ -108,3 +109,4 @@
 
 第三十八条  外商投资企业档案管理按照国家有关规定执行。
 第三十九条  本条例自2004年5月1日起施行。
+- 3 -

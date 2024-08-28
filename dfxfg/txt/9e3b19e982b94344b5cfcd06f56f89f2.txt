@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区乡村清洁条例
@@ -129,3 +130,5 @@
 
 　　第四十四条　本自治区城市建成区以外的工矿区开展乡村清洁工作，参照本条例执行。
 　　第四十五条　本条例自2016年7月1日起施行。
+1
+ 

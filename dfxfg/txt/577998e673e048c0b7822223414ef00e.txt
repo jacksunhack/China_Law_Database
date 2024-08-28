@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省军事设施保护条例
@@ -146,3 +147,4 @@
 
 第五十四条　国防科技工业重要武器装备的科研、生产、试验、存储等设施的保护，参照本条例有关规定执行。
 第五十五条  本条例自2019年1月1日起施行。
+1

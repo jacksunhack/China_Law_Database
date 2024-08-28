@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省扶持革命老区发展条例
@@ -34,3 +35,4 @@
 第十六条  贪污、挪用扶持革命老区发展资金的，依照《财政违法行为处罚处分条例》和其他有关法律、法规的规定追究法律责任。
 第十七条  本条例自2009年1月1日起施行。
 
+1

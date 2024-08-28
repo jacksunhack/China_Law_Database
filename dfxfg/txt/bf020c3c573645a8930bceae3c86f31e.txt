@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省企业工资集体协商条例
@@ -128,3 +129,4 @@
 
 第四十四条  企业化管理的事业单位、民办非企业单位和个体经济组织参照本条例开展工资集体协商。
 第四十五条  本条例自2015年1月1日起施行。
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省实施《中华人民共和国矿山安全法》办法
 （1994年1月20日福建省第八届人民代表大会常务委员会第七次会议通过）
 
@@ -92,3 +94,4 @@
 第三十八条　本办法的应用解释权属福建省人民政府。 
 第三十九条　本办法自公布之日起施行。 
 
+—1—

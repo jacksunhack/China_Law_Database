@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 吉林省农村审计条例
@@ -130,3 +131,4 @@
 第三十四条　农村审计人员的职称评聘、外勤补贴等待遇，比照国家审计人员的有关规定执行。
 第三十五条　农村有关部门的内部审计按有关规定执行。
 第三十六条　本条例自公布之日起施行。
+— 9 —

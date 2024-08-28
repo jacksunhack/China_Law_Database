@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省人民代表大会常务委员会
@@ -17,3 +18,4 @@
 同一排放口征收环境保护税的应税污染物项目数，按照《中华人民共和国环境保护税法》第九条第一、二款规定执行。
 本决定自2018年1月1日起施行。
 
+1

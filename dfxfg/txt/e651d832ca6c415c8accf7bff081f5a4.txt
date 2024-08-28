@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省公共图书馆条例
@@ -135,3 +136,4 @@
 第五十二条  违反本条例规定的其他行为，法律、法规有处罚规定的，从其规定。
 第六章  附  则
 第五十三条  本条例自2021年1月1日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 肇庆市星湖风景名胜区七星岩景区
@@ -121,4 +122,3 @@
 第六章  附  则
 
 第三十六条  本条例自2021年1月1日起施行。
-

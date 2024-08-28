@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 酒泉市住宅物业管理条例
@@ -184,3 +185,4 @@
 ​
 第四十二条　业主自行管理的住宅物业和非住宅物业的管理服务及其监督活动，参照本条例执行。
 第四十三条　本条例自2024年1月1日起施行。
+－1－　

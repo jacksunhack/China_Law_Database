@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莫力达瓦达斡尔族自治旗
@@ -80,3 +82,4 @@
 第三十五条  本条例中所称的达斡尔民族民间传统文化资料、实物和场所等，已被确定为文物的，适用文物保护法律法规。
 第三十六条  本条例自2015年10月1日起施行。
 
+#

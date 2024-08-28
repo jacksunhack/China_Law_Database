@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区建筑节能条例
@@ -113,3 +115,4 @@
     第五十五条　本条例自2006年11月1日起施行。
 
 
+#

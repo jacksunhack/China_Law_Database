@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 围场满族蒙古族自治县畜牧业管理条例
@@ -84,3 +86,4 @@
 第七章　附　　则
 
 第四十三条　本条例自公布之日起施行。
+　— 1 —　

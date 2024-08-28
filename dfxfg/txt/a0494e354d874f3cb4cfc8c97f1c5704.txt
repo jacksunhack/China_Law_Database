@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省农业投资条例
@@ -52,3 +53,4 @@
 　　第三十一条　违反本条例、构成犯罪的，依法追究刑事责任。
 　　第三十二条　县级以上人民代表大会及其常务委员会，可以根据本条例，结合本地实际，作出决议或决定。
 　　第三十三条　本条例自公布之日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 张家口市地下水管理条例
@@ -66,3 +67,4 @@
 第三十二条  本条例所称地下水，指赋存于地表以下的水体（含地热水、矿泉水）。
 第三十三条  本条例自2020年1月1日起施行。
 
+—#—  

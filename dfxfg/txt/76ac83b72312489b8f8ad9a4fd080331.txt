@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市河道管理条例
@@ -109,3 +111,5 @@
 
 第三十六条  本条例自2002年7月1日起施行。
 
+　— 1 —　
+　

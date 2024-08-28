@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省人民代表大会及其常务委员会
@@ -108,3 +110,4 @@
 解释地方性法规比照立法法中关于全国人民代表大会常务委员会解释法律的程序办理。 
 第四十五条　本条例自公布之日起施行。 
 
+—— 1 ——

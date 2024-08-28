@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省企业国有资产监督管理条例
@@ -167,3 +168,4 @@
 第九章　附则
 
 　　第五十六条　本条例自2011年8月1日起施行。
+1

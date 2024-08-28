@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南充市海绵城市建设管理条例
@@ -119,3 +120,4 @@
 5.植草沟、渗管（渠）、管渠及附属构筑物等转输设施；
 6.具有渗、滞、蓄、净、用、排等功能的其他设施。
 第三十八条　本条例自2023年7月1日起施行。
+－1－　

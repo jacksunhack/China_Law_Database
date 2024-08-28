@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区人工影响天气管理条例
 
@@ -74,3 +76,4 @@
 
 
 
+#

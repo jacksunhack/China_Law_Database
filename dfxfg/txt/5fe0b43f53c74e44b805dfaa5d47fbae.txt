@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市燃气管理条例
@@ -146,3 +147,4 @@
 　　第五十六条　本条例自2019年7月1日起施行。《邯郸市城市燃气管理条例》同时废止。
 
 
+1

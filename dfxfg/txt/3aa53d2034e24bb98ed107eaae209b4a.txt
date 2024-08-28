@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省实施《中华人民共和国价格法》
@@ -158,3 +159,4 @@
 第五十一条  行政事业性收费适用其他有关法律、法规和《广东省行政事业性收费管理条例》。
 第五十二条  本办法自2008年7月1日起施行。
 
+- 1 - 

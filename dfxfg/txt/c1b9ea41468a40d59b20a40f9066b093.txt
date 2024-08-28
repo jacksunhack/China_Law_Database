@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丽水市城市市容和环境卫生管理条例
@@ -167,3 +168,4 @@
 第三十九条本条例规定的主要街道和重点区域的范围，由市、县人民政府确定并公布。
 第四十条本条例自2017年3月1日起施行。
 
+— 1—

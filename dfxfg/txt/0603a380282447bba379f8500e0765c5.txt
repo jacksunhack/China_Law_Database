@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 玉林市绩效管理条例
@@ -86,3 +87,4 @@
 ​
 第三十三条　市、县（市、区）绩效管理工作机构确定的实行绩效管理的单位参照本条例执行。
 第三十四条　本条例自2024年1月1日起施行。
+－1－　

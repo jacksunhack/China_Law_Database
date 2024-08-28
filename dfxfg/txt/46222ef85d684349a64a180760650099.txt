@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 山南市雅鲁藏布江保护条例
 
@@ -116,4 +117,3 @@
 本条例所称雅鲁藏布江重要支流，是指流域面积超过一千平方公里以上的一级支流。
 第四十九条  本市行政区域内非雅鲁藏布江流域河流参照本条例加以保护。
 第五十条  本条例自2023年5月1日起施行。
-

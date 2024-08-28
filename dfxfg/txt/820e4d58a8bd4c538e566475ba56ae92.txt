@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北川羌族自治县实施
@@ -28,3 +29,4 @@
 第十一条  每年为已婚育龄妇女免费提供不少于两次环孕监测服务。
 第十二条  本变通规定自2011年1月1日起施行。
 
+— 1 —  

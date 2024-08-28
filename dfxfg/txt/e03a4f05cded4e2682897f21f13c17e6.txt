@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省制止不正当价格行为和
@@ -52,3 +53,4 @@
 第二十条　本条例的具体应用问题，由省价格管理部门负责解释。
 省价格管理部门可以依照本条例制定具体实施办法报省人民政府批准实施。
 第二十一条　本条例自1995年8月1日起施行。
+－1－　

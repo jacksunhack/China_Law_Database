@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南充市城市道路车辆通行管理条例
@@ -91,3 +92,4 @@
 第三十八条  违反本条例规定的行为，法律法规已有处罚规定的，从其规定。
 第三十九条  本条例自2019年3月1日起施行。
 
+— 9 —  

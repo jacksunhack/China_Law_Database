@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 潍坊市禁用限用剧毒高毒农药条例
@@ -109,3 +111,4 @@
 第五章  附    则
 
 第四十一条  本条例自2016年12月1日起实施。
+— 1 —

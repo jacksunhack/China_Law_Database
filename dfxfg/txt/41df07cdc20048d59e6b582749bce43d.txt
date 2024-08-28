@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省玉龙纳西族自治县
@@ -55,3 +57,4 @@
 第二十条  本条例经自治县人民代表大会通过，报云南省人民代表大会常务委员会批准后生效。
 第二十一条  本条例由自治县人民代表大会常务委员会负责解释。
 
+—— 1 ——

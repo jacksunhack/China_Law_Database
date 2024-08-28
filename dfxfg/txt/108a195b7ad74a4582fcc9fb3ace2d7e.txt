@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长治市辛安泉饮用水水源地保护条例
@@ -119,3 +121,8 @@
 第五章  附  则
 
 第四十三条  本条例自2018年7月1日起施行。
+—#—
+
+
+
+               

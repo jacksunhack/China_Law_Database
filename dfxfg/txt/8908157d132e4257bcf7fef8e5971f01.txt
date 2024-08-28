@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沧州市地方立法条例
@@ -148,3 +150,4 @@
 第八章　附　　则
 
 第七十二条　本条例自2018年7月1日起施行。
+　- 1 -

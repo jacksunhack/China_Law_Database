@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -195,3 +196,4 @@
  
 第七十四条 本办法规定县级以上人民政府及其有关部门制定具体措施或者办法的，应当在本办法施行一年内制定。
 第七十五条 本办法自2015年3月1日起施行。
+— 1 —

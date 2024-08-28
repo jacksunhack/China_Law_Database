@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省公证条例
@@ -126,3 +127,4 @@
 第四十一条　公证员因玩忽职守、徇私舞弊出具错证、假证，尚不构成犯罪的，由主管的司法行政部门依法给予处分。
 
 
+— 1 —

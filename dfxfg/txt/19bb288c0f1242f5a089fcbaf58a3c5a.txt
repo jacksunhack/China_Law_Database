@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 杭州市人民代表大会常务委员会关于
@@ -9,3 +10,4 @@
 二、删去第四十五条第二款。
 本决定自公布之日起施行。
 《杭州市城市国际化促进条例》根据本决定作相应修改，重新公布。
+－1－　

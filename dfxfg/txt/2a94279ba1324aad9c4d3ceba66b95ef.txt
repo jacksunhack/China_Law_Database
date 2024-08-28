@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 辽宁省大气污染防治条例
@@ -207,3 +208,4 @@
 ​
 第六十六条　省人民政府及其有关部门应当根据《中华人民共和国大气污染防治法》和本条例规定，制定具体落实措施和行政处罚裁量标准。
 第六十七条　本条例自2017年8月1日起施行。
+－1－　

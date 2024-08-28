@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 东莞市养犬管理条例
@@ -155,3 +156,5 @@
 第四十三条  按照规定设立的松山湖高新技术产业开发区和滨海湾新区管理委员会参照镇人民政府（街道办事处）职责，管理辖区范围内的养犬活动。
 第四十四条  本条例自2021年6月1日起施行。
 
+#                    
+                                                                                

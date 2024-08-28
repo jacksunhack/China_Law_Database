@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市工业热力管理条例
@@ -60,3 +61,4 @@
 第二十八条  本条例自2012年9月1日起施行。
 
 
+— 1 —

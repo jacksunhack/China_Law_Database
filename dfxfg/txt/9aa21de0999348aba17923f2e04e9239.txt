@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州大气污染防治办法
@@ -127,3 +128,5 @@
 第八章  附  则
 
 第三十九条  本办法自2019年10月1日起施行。
+#
+

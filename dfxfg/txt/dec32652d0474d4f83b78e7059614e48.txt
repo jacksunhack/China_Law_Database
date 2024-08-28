@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省地质环境管理条例
@@ -117,3 +119,4 @@
 （二）侵占、挪用地质灾害防治专项资金或者矿山地质环境治理恢复保证金的；
 （三）不按规定公布地质环境状况公报的；
 （四）有其他玩忽职守、滥用职权、徇私舞弊行为的。
+—1—

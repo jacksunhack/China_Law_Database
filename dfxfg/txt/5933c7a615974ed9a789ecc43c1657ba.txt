@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 台州市养犬管理条例
@@ -175,4 +176,8 @@
 
 第四十六条  本条例所称流浪犬只，是指未被有效管控、无法现场查明养犬人身份信息或者无法联系到养犬人的犬只。
 第四十七条  本条例自2022年5月1日起施行。
+
+  — #—
+
+
 

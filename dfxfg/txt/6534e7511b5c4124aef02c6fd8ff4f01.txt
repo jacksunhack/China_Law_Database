@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
       
 山西省人民代表大会常务委员会
@@ -75,3 +76,4 @@
 
 　　第三十七条　本办法自2006年5月1日起施行。1993年9月29日山西省第八届人民代表大会常务委员会第五次会议通过的《山西省人民代表大会常务委员会人事任免办法》同时废止。
 
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 长春市城市供水条例
 
@@ -143,3 +144,4 @@
 第六章 附 则
 第五十条 各县（市）城市供水管理可以参照本条例执行。
 第五十一条 本条例自2005年9月1日起施行。《长春市城市供水管理条例》同时废止。
+#

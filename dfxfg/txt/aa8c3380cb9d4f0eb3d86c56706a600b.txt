@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省国防教育条例
@@ -57,3 +58,4 @@
     第二十一条　本条例适用于本省行政区域内的国家机关、人民武装部门、社会团体、企业事业单位、居(村)民委员会和公民。
     第二十二条　本条例自公布之日起施行。
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丽水市文明行为促进条例
@@ -141,3 +142,4 @@ A级旅游景区（点）的旅游厕所及公共服务配套设施应当按照�
 第六章  附  则
 
 第三十六条  本条例自2020年11月1日起施行。
+— 1—

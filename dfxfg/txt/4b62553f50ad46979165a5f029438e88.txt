@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市社会急救医疗条例
@@ -102,3 +103,4 @@
 第六章　附则
 
 　　第三十一条　本条例自2003年12月1日起施行。
+— 7 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 保定市城市公共汽车客运条例
 
@@ -194,3 +196,4 @@
 第九章  附  则
 第六十四条  本条例自2021年2月1日起施行。
 
+#

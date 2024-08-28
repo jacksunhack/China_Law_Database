@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市地名管理条例
@@ -101,3 +102,4 @@
 第三十六条  本条例自2012年6月1日起施行。 
 
 
+#

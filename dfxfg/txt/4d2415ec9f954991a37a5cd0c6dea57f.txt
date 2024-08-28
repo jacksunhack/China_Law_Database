@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区农村牧区公路条例
 （2020年11月26日内蒙古自治区第十三届人民代表大会常务委员会第二十三次会议通过）
@@ -152,3 +153,4 @@
 第九章　附　则
 第六十条　本条例自2021年1月1日起施行。
  
+#

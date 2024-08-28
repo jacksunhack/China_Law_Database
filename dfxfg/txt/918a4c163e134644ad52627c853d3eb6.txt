@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市家畜屠宰管理条例
@@ -102,3 +103,4 @@
 
 
 
+— 11—

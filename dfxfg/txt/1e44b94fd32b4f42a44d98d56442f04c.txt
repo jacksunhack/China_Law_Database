@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区人民代表大会代表
 建议、批评和意见办理办法
 
@@ -60,3 +61,4 @@
 第二十九条  设区的市、旗县级和苏木乡级人民代表大会代表的建议、批评和意见的办理工作可以参照本办法执行。
 第三十条  本办法自2002年1月1日起施行。
 
+#

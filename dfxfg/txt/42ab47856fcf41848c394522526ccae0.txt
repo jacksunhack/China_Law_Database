@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市城市供水用水条例
@@ -174,3 +175,4 @@
 第七十五条  本条例自2016年3月1日起施行。
  
 
+#

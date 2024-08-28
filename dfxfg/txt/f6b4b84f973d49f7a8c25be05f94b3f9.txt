@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省人民代表大会常务委员会
 关于批准《宣城市人民代表大会常务委员会
@@ -167,3 +168,4 @@
 第五章  附  则
 
 第三十九条  本条例自2016年10月1日起施行。
+— # —

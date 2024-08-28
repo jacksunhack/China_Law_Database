@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国国防动员法》办法
@@ -156,3 +157,4 @@
 第十章　附则
 
 　　第六十条　本办法自2013年2月1日起施行。
+1

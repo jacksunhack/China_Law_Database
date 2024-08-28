@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 镇宁布依族苗族自治县自治条例
@@ -137,4 +138,6 @@
 第五十八条  每年9月11日为自治县成立纪念日，举行纪念活动，放假1天。
 每年9月为自治县民族团结进步宣传月。
 第五十九条  本条例自1990年1月1日起施行。
+
+— 15 —
 

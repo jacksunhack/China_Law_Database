@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上饶市历史建筑保护条例
@@ -132,3 +133,4 @@
 第四十三条  市人民政府可以根据本条例制定实施办法或者配套规定。
 第四十四条  本条例自2019年5月1日起施行。
 
+- 1 -

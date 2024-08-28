@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省人民代表大会常务委员会
@@ -48,3 +49,4 @@
 
 
 
+10

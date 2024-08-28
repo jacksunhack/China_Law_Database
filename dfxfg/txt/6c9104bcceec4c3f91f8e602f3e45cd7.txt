@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市保护城市重点公共绿地的规定
@@ -23,3 +25,4 @@
 第十条  永登、榆中、皋兰县和红古区城镇重点公共绿地的保护和管理，可参照本规定执行。
 第十一条  本规定自公布之日起施行。
 
+      — 1 —      

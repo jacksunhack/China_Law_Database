@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区元上都遗址保护条例
 
 （2016年5月30日内蒙古自治区第十二届
@@ -80,3 +81,4 @@
 （五）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第六章 附 则
 第三十七条  本条例自2016年7月1日起施行。
+#

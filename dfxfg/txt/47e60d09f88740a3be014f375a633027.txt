@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省建筑市场管理条例
@@ -139,3 +140,4 @@
     第四十三条  本条例具体应用中的问题，由省人民政府建设行政主管部门负责解释。    
 第四十四条  省人民政府可以根据本条例制定实施办法。
     第四十五条  本条例自一九九四年十一月一日起施行。      
+#  

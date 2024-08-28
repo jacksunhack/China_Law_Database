@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市户外广告设置管理条例
@@ -207,3 +209,4 @@
 　　第六十五条　机动车车身广告设置管理办法，由市人民政府制定。
 　　第六十六条　本条例自2014年6月1日起施行。
 
+— 9 —

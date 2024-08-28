@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市房产管理条例
@@ -200,3 +202,4 @@
 　　第七十四条　实施本条例的有关办法，由市人民政府另行制定。
 　　第七十五条　本条例实施中的具体问题由市房地产管理局负责解释。
 　　第七十六条　本条例自公布之日起施行。
+1

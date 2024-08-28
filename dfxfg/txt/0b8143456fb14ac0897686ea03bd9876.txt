@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省扶贫资金审计条例
@@ -61,3 +63,4 @@
 第二十一条　审计人员滥用职权、徇私舞弊、玩忽职守，尚不构成犯罪的，依法给予行政处分。
 第二十二条　本条例自2005年1月1日起施行。
 
+— 1 —

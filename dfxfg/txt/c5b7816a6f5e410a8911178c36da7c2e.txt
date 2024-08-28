@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林市高危体育经营活动管理条例
@@ -50,3 +51,4 @@
     第十七条  本条例自2009年7月1日起施行。
 
 
+#

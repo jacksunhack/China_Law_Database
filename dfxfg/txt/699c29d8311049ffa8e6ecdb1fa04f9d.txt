@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市地方立法条例
@@ -182,3 +184,4 @@
 
 第五十九条　本条例自2018年7月1日起施行。2002年4月2日公布施行的《唐山市地方立法条例》同时废止。
 
+　- 1 -

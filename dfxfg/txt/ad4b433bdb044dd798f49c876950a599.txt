@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市流动人口服务管理条例
@@ -124,3 +126,4 @@
 第四十一条  外国人、无国籍人和香港、澳门特别行政区居民、台湾地区居民按照国家有关规定办理。
 第四十二条　本条例自2013年7月1日起施行。
 
+#　

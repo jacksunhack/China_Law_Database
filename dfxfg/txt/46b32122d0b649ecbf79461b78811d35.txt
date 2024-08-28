@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北海市涠洲岛生态环境保护条例
@@ -108,3 +109,5 @@
 第五章  附则
 
     第四十八条  本条例自2018年7月1日起施行。
+#
+

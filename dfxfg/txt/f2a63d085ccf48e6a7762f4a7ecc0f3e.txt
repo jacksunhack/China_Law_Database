@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贺州市销售燃放烟花爆竹管理条例
@@ -82,3 +83,4 @@
 （三）不依法查处违法销售、燃放烟花爆竹的行为的；
 （四）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第三十条　本条例自2023年12月15日起施行。
+－1－　

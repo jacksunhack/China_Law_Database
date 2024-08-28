@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市城市道路照明设施
@@ -50,3 +51,4 @@
   第二十四条  本条例自2003年11月1日起施行。
 
 
+— 1 —

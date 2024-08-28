@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区救助人权益保护规定
@@ -18,3 +19,4 @@
     第九条  对救助人的奖励和其他保护，适用见义勇为法律、法规的相关规定。
     第十条  本规定自2013年8月1日起施行。
 
+- 1 -

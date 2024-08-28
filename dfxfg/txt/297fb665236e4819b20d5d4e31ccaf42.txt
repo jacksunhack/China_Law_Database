@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 玉树藏族自治州藏传佛教事务条例
@@ -214,3 +215,4 @@
 第七章　附　　则
 ​
 第七十一条　本条例自2024年1月1日起施行。
+－1－　

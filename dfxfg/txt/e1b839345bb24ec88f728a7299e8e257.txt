@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 山西省开发区条例
 
 （2019年1月30日山西省第十三届人民代表大会

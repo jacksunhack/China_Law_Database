@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区航道管理条例
@@ -110,3 +111,5 @@
 
 　　第四十五条　本条例自2002年10月1日起施行。1994年4月11日自治区人民政府发布的《广西壮族自治区航道管理办法》同时废止。
 
+- 1 -
+ 

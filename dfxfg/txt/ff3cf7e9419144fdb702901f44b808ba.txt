@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 宿迁市人民代表大会关于修改《宿迁市
@@ -73,3 +74,4 @@
 此外，对部分条款作文字修改，并对条文顺序作相应调整。
 本决定自2024年4月15日起施行。
 《宿迁市制定地方性法规条例》根据本决定作相应修改，重新公布。
+－1－　

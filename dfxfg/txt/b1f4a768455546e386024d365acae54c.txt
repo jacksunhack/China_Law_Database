@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰州市垛田保护条例
@@ -112,3 +114,4 @@
 
 
 
+─ # ─  

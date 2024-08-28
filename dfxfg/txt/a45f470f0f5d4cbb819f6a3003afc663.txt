@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区港口管理条例
@@ -112,3 +113,4 @@
 　　第四十九条　本条例的具体应用问题由厦门市人民政府负责解释。
 　　第五十条　本条例自２０００年３月１日起施行。
 
+— # —

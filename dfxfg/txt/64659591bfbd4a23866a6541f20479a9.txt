@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 永州市乡村房屋建设管理条例
@@ -94,3 +95,4 @@
 第二十九条  本条例自2020年3月1日起施行。
 
 
+- 7 -

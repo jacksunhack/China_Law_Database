@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市太河水库饮用水源地保护管理条例
@@ -217,3 +218,4 @@
 2、淄博市人大法制委员会关于《淄博市太河水库保护管理条例(修订草案)》审议结果的报告  
 3、关于《淄博市太河水库保护管理条例(修订草案)》的说明  
 
+— 1 —

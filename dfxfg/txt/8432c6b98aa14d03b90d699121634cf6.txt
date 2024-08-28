@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市住房公积金管理若干规定
@@ -84,3 +85,4 @@
 第二十九条  本规定自2009年1月1日起施行。
 
 
+— 1 —

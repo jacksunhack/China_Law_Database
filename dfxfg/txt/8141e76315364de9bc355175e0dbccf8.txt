@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门市禁止燃放烟花爆竹规定
@@ -21,3 +22,4 @@
 　　第十一条　当事人对行政机关依照本规定作出的行政处罚不服的，可以依法申请行政复议或者提起诉讼。
 　　第十二条　本规定的具体应用问题由厦门市人民政府负责解释。
 　　第十三条　本规定自公布之日起施行。
+— # —

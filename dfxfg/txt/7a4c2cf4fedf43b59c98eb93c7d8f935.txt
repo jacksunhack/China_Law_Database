@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城乡建设档案管理条例
@@ -87,3 +88,4 @@
 第三十三条　开发区（园区）管委会等市人民政府派出机构管辖区域内的城乡建设档案按照本条例进行管理。
 房产权属档案的管理，按照国家有关规定执行。
 第三十四条　本条例自2012年3月1日起施行。
+#　

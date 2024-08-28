@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省人民代表大会代表议案处理办法
@@ -64,3 +65,4 @@
 
 第二十条　本条例自公布之日起施行。
 
+——1——

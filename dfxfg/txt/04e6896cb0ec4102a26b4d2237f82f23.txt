@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 那曲市市容和环境卫生管理条例
@@ -212,3 +213,4 @@
 第八章　附　　则
 ​
 第六十二条　本条例自2024年5月1日起施行。
+－1－　

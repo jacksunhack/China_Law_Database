@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 柳州市农贸市场管理条例
@@ -134,3 +135,4 @@
 ​
 第三十八条　各县对其他乡（镇）农贸市场的监督管理可参照本条例执行。
 第三十九条　本条例自2023年7月1日起施行。
+－1－　

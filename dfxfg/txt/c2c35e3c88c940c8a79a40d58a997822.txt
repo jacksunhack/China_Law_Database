@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市优化营商环境条例
@@ -176,3 +178,4 @@
 第六十三条  本条例自2022年3月1日起施行。
 
 
+─ # ─  

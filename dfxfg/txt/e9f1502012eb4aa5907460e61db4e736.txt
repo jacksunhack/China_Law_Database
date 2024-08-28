@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区户外广告设施和招牌设置
@@ -131,3 +132,4 @@ javascript:void(0);
 第三十八条  本条例自2022年8月1日起施行。
 
 
+#

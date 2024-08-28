@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 甘肃省电网建设与保护条例
 
 （2012年11月28日甘肃省第十一届人民代表大会常务委员会第三十次会议通过）
@@ -127,4 +128,3 @@
 第七章  附则
 
 　　第四十八条  本条例自2013年1月1日起施行。
-

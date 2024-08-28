@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 葫芦岛市畜禽养殖污染防治条例
@@ -107,4 +108,6 @@
 其他畜禽养殖量以折算成猪的当量确定养殖规模。
 第四十一条 本条例自2020年3月1日起施行。
 
+
+#           
 

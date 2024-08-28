@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 青海省公共信用信息条例
@@ -152,3 +153,4 @@
 第六章  附则
  
 第三十八条  本条例自2021年5月1日起施行。
+#  

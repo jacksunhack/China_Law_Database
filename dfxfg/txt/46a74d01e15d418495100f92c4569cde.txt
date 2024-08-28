@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市出租汽车客运管理条例
@@ -125,3 +126,4 @@
 
 　　第三十五条　本条例应用中的具体问题由西宁市人民政府负责解释。
 　　第三十六条　本条例自2003年2月1日起施行。
+#　

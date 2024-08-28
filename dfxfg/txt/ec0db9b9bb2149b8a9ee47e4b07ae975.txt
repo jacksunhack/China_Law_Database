@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市夏玉米制种管理条例
@@ -47,3 +48,5 @@
 　　第二十二条　农业行政主管部门工作人员违反本条例规定，滥用职权、徇私舞弊、玩忽职守的，依照有关规定处理。 
 　　第二十三条　本条例自2002年2月1日起施行。
 
+  — 1 —    
+     

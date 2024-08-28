@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省遗体和眼角膜捐献条例
@@ -93,3 +94,4 @@
     第三十九条  本条例自2010 年3月1日起施行。
  
 
+1

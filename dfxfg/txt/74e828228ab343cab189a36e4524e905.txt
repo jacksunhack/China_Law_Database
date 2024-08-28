@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 阜新蒙古族自治县蒙古族文化工作条例  
@@ -33,3 +34,4 @@
     第二十七条  本条例自颁布之日起施行。
 
 
+— 1 —

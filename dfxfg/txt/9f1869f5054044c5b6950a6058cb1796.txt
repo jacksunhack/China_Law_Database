@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 秀山土家族苗族自治县锰矿资源管理条例
@@ -26,3 +27,4 @@
 第十四条  本条例自2003年1月1日起施行。
 
 
+- 1 -

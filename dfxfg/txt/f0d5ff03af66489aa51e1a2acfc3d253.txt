@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市新型墙体材料与建筑保温材料促进条例
@@ -50,3 +52,4 @@
 第十八条  本条例自2015年9月1日起施行。
 
 
+　— 1 —　

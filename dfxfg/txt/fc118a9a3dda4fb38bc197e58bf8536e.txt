@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省涉案财物价格鉴证条例
@@ -131,3 +132,4 @@
 第五章　附则
 
 　　第三十六条　本条例自2009年12月1日起施行。
+1

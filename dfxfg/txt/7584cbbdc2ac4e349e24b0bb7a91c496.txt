@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 江西省水产种苗管理条例
 
@@ -98,3 +100,4 @@
 第三十八条  检测费的收费标准，由省渔业主管部门会同省财政、物价主管部门提出意见，报省人民政府审批。
 第三十九条  本条例自公布之日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区统计条例
@@ -91,3 +92,4 @@
 第三十五条　本条例自2023年8月1日起施行。
 
 
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽宁省矿产资源管理条例
 
@@ -136,3 +137,5 @@
 
 
  
+#
+

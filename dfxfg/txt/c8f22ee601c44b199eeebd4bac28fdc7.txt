@@ -1,8 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市民兵预备役工作条例
 
-（上海市第十二届人民代表大会
+（2007年10月10日上海市第十二届人民代表大会
 常务委员会第三十九次会议通过）
 
 目    录
@@ -107,3 +108,4 @@
 第八章　附则
 
 第三十六条　本条例自2008年1月1日起施行。
+- 9 -

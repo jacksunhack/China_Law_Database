@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 长春市旅游促进条例
 
@@ -111,3 +112,4 @@
 
 
 
+1

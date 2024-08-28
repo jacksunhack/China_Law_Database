@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市乡村振兴促进条例
@@ -222,3 +223,4 @@
 
 第七十四条  街道办事处履行乡村振兴促进工作相关职责的，适用本条例关于乡镇人民政府的规定。
 第七十五条  本条例自2022年9月1日起施行。
+- 1 -

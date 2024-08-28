@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 新余市城乡供水一体化管理条例
@@ -93,3 +94,4 @@
 第七章　附　　则
 ​
 第二十四条　本条例自2024年1月1日起施行。
+－1－　

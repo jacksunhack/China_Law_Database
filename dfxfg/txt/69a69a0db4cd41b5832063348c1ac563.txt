@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 芷江侗族自治县自治条例
@@ -136,3 +137,4 @@
 
 第五十六条  每年九月二十二日为自治县成立纪念日。
 第五十七条  本条例自湖南省人民代表大会常务委员会批准之日起施行。
+1

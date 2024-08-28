@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施
@@ -188,3 +189,4 @@
 
 第六十条  本办法所称“木材”，是指原木、锯材、竹材、木片、椽子木、下浆木等。
 第六十一条  本办法自2006年10月1日起施行。
+#

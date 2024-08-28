@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市城市市容管理条例
@@ -160,3 +161,4 @@
 
     第六十八条  县（市）参照本条例执行。   
     第六十九条  本条例自2016年1月1日起施行。
+— 1 —

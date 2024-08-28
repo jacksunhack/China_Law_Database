@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省水文条例
@@ -107,3 +109,4 @@
                第七章   附则
 
 第三十一条 本条例自2011 年10月1日起施行。
+                                                        #

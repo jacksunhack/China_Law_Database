@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省人民代表大会常务委员会
@@ -42,3 +43,4 @@
 第十七条　专题询问应当向社会公开。
 第十八条　对在本行政区域内设立的不属于省人民政府管理的国家机关进行专题询问，适用本办法。
 第十九条  本办法自2014年1月1日起施行。
+1

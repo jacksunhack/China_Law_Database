@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 北京国际科技创新中心建设条例
@@ -156,3 +157,4 @@
 ​
 第七十五条　市、区人民政府和有关部门应当根据本条例的规定，制定具体政策措施。
 第七十六条　本条例自2024年3月1日起施行。
+－1－　

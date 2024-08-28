@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区梧桐山风景名胜区条例
@@ -109,3 +111,4 @@
 
     第三十一条  市政府应当自本条例实施之日起六个月内就本条例第二十条第一款制定具体的实施办法。
     第三十二条  本条例自2009年5月1日起施行。
+- 1 -

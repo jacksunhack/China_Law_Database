@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州古树名木保护条例
@@ -62,3 +64,4 @@
 第二十三条 自治州人民政府应当根据本条例制定实施细则。
 第二十四条 本条例自2016年7月1日起施行。
 
+— 1 —

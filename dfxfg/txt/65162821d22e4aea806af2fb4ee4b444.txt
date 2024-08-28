@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《中华人民共和国
@@ -129,3 +131,4 @@
 第六十条  本办法所称留守未成年人，是指因父母外出半年以上，不能得到法定监护的未成年人。
 第六十一条  本办法自2010年1月1日起施行。
 
+      — 1 —      

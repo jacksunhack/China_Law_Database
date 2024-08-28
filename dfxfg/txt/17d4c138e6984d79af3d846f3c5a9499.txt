@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市科学技术进步条例
@@ -132,3 +134,4 @@
 
 
 
+      — 1 —    

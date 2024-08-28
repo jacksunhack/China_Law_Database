@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南昌市城市出租汽车管理条例
@@ -152,3 +153,4 @@
 第七章　附　则
 
 第四十七条　本条例自发布之日起施行。
+—1—  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省人民代表大会代表建议、批评和
@@ -115,3 +116,4 @@
 
 第四十五条  本条例自公布之日起施行。
 
+— 1 —

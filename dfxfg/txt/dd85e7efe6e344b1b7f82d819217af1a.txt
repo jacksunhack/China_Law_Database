@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 六安市城市管理行政执法条例
@@ -139,3 +140,4 @@
 第七章　附　　则
 ​
 第三十七条　本条例自2021年1月1日起施行。
+－1－　

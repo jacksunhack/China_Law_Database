@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省国防教育条例
@@ -89,3 +90,4 @@
 　　第二十一条　中外合资、合作经营企业和外商独资企业的中国职工的国防教育，由企业工会负责组织实施。
 　　第二十二条　本条例自公布之日起施行。
 
+1

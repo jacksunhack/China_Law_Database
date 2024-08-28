@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省通信基础设施建设与保护条例
@@ -141,3 +142,4 @@
 第四十九条  本条例自2021年1月1日起施行。
 
 
+1

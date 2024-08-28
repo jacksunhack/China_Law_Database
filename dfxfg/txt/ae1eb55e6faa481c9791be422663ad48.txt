@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省质量促进条例
 
@@ -88,3 +89,4 @@
 建立并实施质量守信激励和失信惩戒制度，对守信主体按照规定予以激励，对严重失信主体依照法律、行政法规规定予以惩戒。
 第六章  附    则
 第四十五条  本条例自2023年3月1日起施行。
+— 1 —

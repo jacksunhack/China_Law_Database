@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连南瑶族自治县森林资源保护管理条例
@@ -109,4 +110,3 @@
 第七章  附  则
 
 第五十条   本条例自公布之日起施行。
-

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省顶效经济开发区管理条例
@@ -79,3 +81,4 @@
 
 第三十条  黔西南州认民政府可根据本条例制定具体办法。
 第三十一条  本条例自公布之日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北京市志愿服务促进条例
@@ -83,3 +84,4 @@
 第三十一条  志愿者、志愿者组织、接受志愿服务的组织或者个人在志愿服务活动中发生争议的，可以协商解决，也可以依法向人民法院提起诉讼。
 第三十二条  本条例自2007年12月5日起施行。
 
+—1—  

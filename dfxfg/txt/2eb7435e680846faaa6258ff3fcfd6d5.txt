@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省人民代表大会常务委员会
 公       告
@@ -159,3 +160,4 @@
 第六十四条  本条例自2017年7月1日起施行。
 
 
+— # —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福州市专利保护与促进若干规定
@@ -47,3 +49,4 @@
 
 
 
+—1—

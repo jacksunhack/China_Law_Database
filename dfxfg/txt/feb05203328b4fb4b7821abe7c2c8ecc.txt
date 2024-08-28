@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区物业管理条例
@@ -380,3 +381,4 @@
 第一百一十七条　业主自行管理或者聘请其他管理人管理物业的，参照本条例有关规定执行。
 第一百一十八条　本条例自2012年12月1日起施行。
 
+1

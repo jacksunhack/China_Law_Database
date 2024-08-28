@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉屏侗族自治县促进油茶产业发展条例
@@ -85,3 +86,4 @@
 
 第三十三条　本条例自2023年10月1日起施行。
 
+－1－　

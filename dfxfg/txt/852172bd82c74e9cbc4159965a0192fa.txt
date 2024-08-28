@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省公路路政管理条例
@@ -130,3 +131,4 @@
 第七章　附　　则
 
 第四十条　本条例自2002年1月1日起施行。
+— 1 —

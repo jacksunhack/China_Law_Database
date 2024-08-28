@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省迪庆藏族自治州自治条例
@@ -179,3 +181,4 @@
 本条例由自治州人民代表大会常务委员会负责解释。
 第七十条  自治州人民政府应当根据本条例制定实施办法。
 
+—— 20 ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市教育督导条例
@@ -100,3 +101,4 @@
 
 第二十八条　本条例自2001年12月1日起施行。
 
+— 6 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省村民委员会选举办法
@@ -141,3 +142,4 @@
 ​
 第四十六条　〔援用规定〕城市街道办事处所辖的村，适用本办法。
 第四十七条　〔施行时间〕本办法自公布之日起施行。
+－1－　

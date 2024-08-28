@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省实施《中华人民共和国电力法》办法
 
@@ -162,3 +163,4 @@
 供电企业，指拥有电网资产并从事电力供应的企业，包含增量配电企业等。
 售电企业，指从事市场化售电业务的企业。
 第六十三条  本办法自2023年3月1日起施行。
+— 1 —

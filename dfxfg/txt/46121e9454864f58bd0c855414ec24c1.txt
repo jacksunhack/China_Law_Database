@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桓仁满族自治县五女山山城保护管理条例
@@ -41,3 +42,4 @@
 
 
 
+— 1 —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安顺市地方立法条例
@@ -167,3 +169,4 @@
 第八章  附  则
 
 第六十四条  本条例自公布之日起施行。
+—1—

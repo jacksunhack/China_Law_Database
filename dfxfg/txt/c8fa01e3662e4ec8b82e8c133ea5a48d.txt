@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂温克族自治旗民族教育条例
@@ -54,3 +55,4 @@
 第三十一条 违反本条例的组织和个人，依据有关法律、法规承担法律责任。
 第三十二条 自治旗人民政府根据本条例制定实施细则。
 第三十三条 本条例自2003年9月1日起执行。
+#

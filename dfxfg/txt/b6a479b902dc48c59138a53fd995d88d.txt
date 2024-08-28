@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 内蒙古自治区农村牧区扶贫开发条例
 
 （2012年11月29日内蒙古自治区第十一届
@@ -102,3 +104,4 @@
 第六章 附  则
 第五十条 本条例自2013年1月1日起施行，有效期为《中国农村扶贫开发纲要(2011—2020年)》的实施期限。
 
+#

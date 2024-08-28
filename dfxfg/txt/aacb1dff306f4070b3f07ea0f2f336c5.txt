@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区地名管理条例
@@ -205,3 +206,4 @@
 第五十五条　海岛名称的确定、发布和地名标志的设置，按照《中华人民共和国海岛保护法》及有关规定执行。
 第五十六条　本条例自2017年1月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 忻州市有机旱作农业发展促进条例
@@ -43,3 +44,4 @@
 
 
 
+- 5 -

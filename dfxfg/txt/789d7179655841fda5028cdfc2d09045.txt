@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省科学技术协会条例
@@ -63,3 +65,4 @@
 （七）科协工作人员因玩忽职守，徇私舞弊或者采用其他非法手段给国家和社会造成损失的。
 第二十四条  本条例自2000年7月1日起施行。
 
+      — 1 —    

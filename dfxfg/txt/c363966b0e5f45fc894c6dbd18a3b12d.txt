@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市渡运安全管理条例
@@ -71,3 +72,4 @@
 第三十四条  本条例自2004年12月1日起施行。
 
 
+— 1 —

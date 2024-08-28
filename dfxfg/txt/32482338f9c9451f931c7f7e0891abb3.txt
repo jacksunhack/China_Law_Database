@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国森林法》办法
@@ -98,3 +99,4 @@
 第四十五条　本省林业重点县（市、区）的名录由省人民政府确定。
 第四十六条　本办法自公布之日起施行。《河北省森林资源管理条例》同时废止。
 
+1

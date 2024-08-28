@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区地质环境保护条例
@@ -57,3 +58,5 @@
 　　（三）侵占、挪用矿山生态环境恢复保证金或者应当退还采矿权人而不予及时退还的；
 　　（四）其他徇私舞弊、滥用职权、玩忽职守的行为。
 　　第二十五条　本条例自2006年5月1日起施行。
+1
+ 

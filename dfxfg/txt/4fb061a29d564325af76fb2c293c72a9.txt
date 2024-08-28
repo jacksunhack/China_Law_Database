@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省职工劳动权益保障条例
@@ -119,3 +121,4 @@
 第五章　附则
 
 第四十八条　本条例自2005年5月1日起施行。　
+—— 1 ——

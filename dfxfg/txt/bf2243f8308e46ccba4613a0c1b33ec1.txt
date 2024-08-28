@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鞍山市节约用水条例
@@ -97,3 +98,4 @@
 第三十六条  本条例自2007年1月1日起施行。
 
 
+— 1 —

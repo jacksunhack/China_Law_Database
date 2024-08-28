@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湘西土家族苗族自治州
@@ -128,3 +129,4 @@
 第四十一条  古丈县行政区域内的栖枫湖景区、红石林景区、坐龙峡景区等的保护和管理，由古丈县人民政府及其有关部门参照本条例执行。
 第四十二条  本条例自2007年7月1日施行。
 
+#

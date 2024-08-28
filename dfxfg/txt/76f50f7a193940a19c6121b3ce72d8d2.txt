@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省万泉河流域生态环境保护规定
@@ -83,3 +85,4 @@
 （四）其他滥用职权、玩忽职守、徇私舞弊、索贿受贿的行为。
 第三十九条  本规定具体应用问题由省人民政府负责解释。
 第四十条  本规定自2009年8月1日起施行。
+- 13 -

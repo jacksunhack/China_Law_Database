@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省征兵工作条例
@@ -95,3 +96,4 @@
 第七章　附  则
 
 　　第三十六条　本条例自1999年10月20日起施行。
+— 1 —

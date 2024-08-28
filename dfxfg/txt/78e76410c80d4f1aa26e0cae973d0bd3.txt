@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 成都市人民代表大会常务委员会关于废止
@@ -9,3 +10,4 @@
 ​
 成都市第十八届人民代表大会常务委员会第八次会议决定：废止《成都市环境噪声（震动）管理条例》。
 本决定自公布之日起施行。
+－1－　

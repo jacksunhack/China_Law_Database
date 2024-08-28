@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市废弃食用油脂管理条例
@@ -55,3 +56,4 @@
 （四）有其他不履行环境保护监督管理职责，失职、渎职造成后果的；
 （五）有其他滥用职权、循私舞弊行为的。
 第十五条  本条例自2007年3月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 甘肃省非物质文化遗产条例
 
 （2015年3月27日甘肃省第十二届人民代表大会常务委员会第十五次会议通过
@@ -159,4 +160,3 @@
 第六章  附则
 
 　　第五十五条  本条例自2015年6月1日起施行。
-

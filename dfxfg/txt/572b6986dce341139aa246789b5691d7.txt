@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 玉溪市新平哀牢山县级自然保护区条例
 
@@ -99,3 +101,4 @@
 第五章  附则
 
 第二十九条  本条例自2017年6月1日起施行。
+—— 10 ——

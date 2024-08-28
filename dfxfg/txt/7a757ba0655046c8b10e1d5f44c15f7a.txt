@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省促进皖江城市带承接产业
@@ -59,3 +60,4 @@
 法律、行政法规另有规定的，从其规定。
 第二十七条  省人民政府可以根据示范区建设和发展的实际需要，制定相关具体办法。
 第二十八条  本条例自2011年8月1日起施行。
+- 28 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省村集体财务管理条例
@@ -123,3 +124,4 @@
 ​
 第四十七条　省农业行政主管部门可以根据本条例会同财政部门制定实施办法，报省人民政府批准后施行。
 第四十八条　本条例自1997年1月1日起施行。
+－1－　

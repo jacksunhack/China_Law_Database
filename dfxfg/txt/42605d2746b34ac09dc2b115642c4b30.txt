@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄冈市饮用水水源地保护条例
@@ -151,3 +153,5 @@
 
 　　第四十二条　本条例施行前已设置的排污口、其他不符合要求的设施及污染物，由有关县级以上人民政府限期拆除或者治理。
 　　第四十三条　本条例自2017年5月1日起施行。
+- 13 -
+

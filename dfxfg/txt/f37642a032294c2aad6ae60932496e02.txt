@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省人工影响天气条例
@@ -60,3 +61,4 @@
 （四）不依法履行本条例规定的其他职责行为的。
 第三十一条  本条例自2018年1月1日起施行。
 
+— 1 —

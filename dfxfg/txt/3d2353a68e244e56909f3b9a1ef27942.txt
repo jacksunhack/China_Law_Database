@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市政府投资项目审计条例
@@ -88,3 +90,4 @@
 　　（六）违反法律、法规规定的其他行为。
 　　第二十六条　本条例第二条第二款规定以外的政府与社会资本合作项目的审计监督，参照本条例执行。
 　　第二十七条　本条例自2006年6月1日起施行。
+1

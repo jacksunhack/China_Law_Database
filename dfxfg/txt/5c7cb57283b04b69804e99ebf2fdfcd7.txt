@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 拉萨市物业管理条例
@@ -337,3 +338,4 @@
 第八十一条  市人民政府可以根据本条例制定配套制度。
 第八十二条  2009年10月16日拉萨市人民政府制定的《拉萨市物业管理办法》自行废止。
 第八十三条  本条例自2015年12月1日起施行。
+#

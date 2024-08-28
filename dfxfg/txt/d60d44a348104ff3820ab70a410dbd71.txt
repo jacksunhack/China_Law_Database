@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 青海省治理货物运输车辆超限超载条例
@@ -105,3 +106,4 @@
 ​
 第四十一条　危险货物运输车辆超限超载治理，依照有关危险货物运输安全管理的法律、行政法规的规定执行。
 第四十二条　本条例自2024年1月1日起施行。
+－1－　

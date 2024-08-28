@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市客运公共交通管理条例
@@ -140,3 +141,4 @@
 
 　　第四十六条  本条例自2015年12月1日起施行。市人民政府1991年4月12日公布的《天津市维护公共交通车辆运营秩序的规定》(1991年市人民政府令第34号)同时废止。
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

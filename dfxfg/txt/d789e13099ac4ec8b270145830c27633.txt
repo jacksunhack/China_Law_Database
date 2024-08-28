@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 吉林省气象信息服务条例
@@ -42,3 +43,4 @@
 （四）传播虚假的或者通过非法渠道获取的气象灾害预警信息的。
 第二十五条　违反本条例规定的行为，法律、行政法规已有法律责任规定的，从其规定。
 第二十六条　本条例自2024年5月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省产品质量条例
@@ -129,5 +130,4 @@
 第五章 附 则
 
     第五十一条  本条例自2001年12月1日起实施。1995年6月30日黑龙江省第八届人民代表大会常务委员会第十六次会议通过的《黑龙江省产品质量监督管理条例》同时废止。
-
 

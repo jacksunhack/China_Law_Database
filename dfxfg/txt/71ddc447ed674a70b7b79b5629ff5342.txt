@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市清真食品管理办法
@@ -28,3 +29,4 @@
 第十六条  本办法自公布之日起施行。
 
 
+— 1 —

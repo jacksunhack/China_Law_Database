@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施宪法宣誓制度办法
@@ -23,3 +24,4 @@
     第十一条  本办法自2016年1月1日起施行。
 
 
+- 1 -

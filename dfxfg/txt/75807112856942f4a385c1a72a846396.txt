@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州城乡环境卫生
@@ -218,3 +220,4 @@
 
 　　第七十九条  本条例由甘南藏族自治州人大常委会负责解释。
 　　第八十条  本条例自公布之日起施行。 
+      — 1 —    

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省企业民主管理条例
@@ -119,3 +121,4 @@
 
 第三十六条　事业单位和民办非企业单位实行民主管理，参照本条例执行。
 第三十七条　本条例自2009年1月1起施行。
+— 1 —

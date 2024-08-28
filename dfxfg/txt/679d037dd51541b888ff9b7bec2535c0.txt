@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省肃南裕固族自治县城镇市容和
@@ -57,3 +59,4 @@
 第三十二条  本条例实施中的具体应用问题由自治县建设行政主管部门负责解释。
 第三十三条  本条例自颁布之日起施行。
 
+      — 1 —      

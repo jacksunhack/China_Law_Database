@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》实施办法
@@ -188,3 +189,4 @@
 
 第六十条  本实施办法自公布之日起施行。
 
+— 1 —

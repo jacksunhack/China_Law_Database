@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
                 
 连山壮族瑶族自治县村容镇貌条例
@@ -128,6 +129,5 @@
 第六章  附则
 
 第四十一条  本条例自2019年12月1日起施行。
-
 
 

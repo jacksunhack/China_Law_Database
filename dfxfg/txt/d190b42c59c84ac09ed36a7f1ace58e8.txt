@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施《中华人民共和国
@@ -183,3 +185,4 @@
 第八章  附则
 
 第八十二条  本办法自2009年12月30日起施行。
+#

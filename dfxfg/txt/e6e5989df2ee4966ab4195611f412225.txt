@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市物业管理条例
@@ -285,3 +286,4 @@
 第七十七条　本条例自2008年12月1日起施行。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

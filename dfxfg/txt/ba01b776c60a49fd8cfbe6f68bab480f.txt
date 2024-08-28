@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国水法》办法
@@ -114,3 +115,4 @@
 第七章　附则
 
 第四十三条　本办法自2006年10月1日起施行。
+— # —

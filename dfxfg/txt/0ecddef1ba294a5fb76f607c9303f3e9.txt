@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国野生动物保护法》实施办法
@@ -109,3 +110,4 @@
 第四十九条  本实施办法自公布之日起施行。
 
 
+— 1 —

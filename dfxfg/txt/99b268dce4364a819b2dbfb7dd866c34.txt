@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 台州市传统村落保护和利用条例
@@ -115,3 +116,4 @@
 本市行政区域内历史文化村落的保护和利用，参照本条例执行。
 第三十九条  本条例自2019年3月1日起施行。
 
+— #—

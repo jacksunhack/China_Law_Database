@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省劳动监察条例
@@ -119,3 +121,4 @@
 
 第三十三条　本条例自1999年1月1日起施行。
 
+—— 1 ——

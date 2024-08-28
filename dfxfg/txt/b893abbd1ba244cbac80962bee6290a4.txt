@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市司法鉴定管理条例
 
@@ -194,3 +195,5 @@
 第七章　附则
 第四十五条　从事本条例第三条规定以外的鉴定活动，由有关部门依法按照各自职责进行管理。
 第四十六条　本条例自2019年11月1日起施行。
+#
+

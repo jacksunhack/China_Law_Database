@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市服务行业环境保护管理条例
@@ -67,3 +68,4 @@
 　　第二十八条　市辖县可以参照本条例执行。
 　　第二十九条　本条例应用中的具体问题由西宁市人民政府负责解释。
 　　第三十条　本条例自2007年4月1日起施行。
+#　

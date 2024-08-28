@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海西蒙古族藏族自治州沙区植物保护条例
@@ -52,3 +53,4 @@
 　　（十一）对破坏沙区植被的行为，监督、管理、查处不力的。
 　　第十七条　本条例的具体应用问题由自治州人民政府负责解释。
 　　第十八条　本条例自1997年1月1日起施行。
+- 1 -　

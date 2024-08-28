@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市城市绿线管理办法
@@ -65,3 +67,4 @@
 第二十六条  本办法具体应用问题由市人民政府负责解释。
 第二十七条  本办法自2011年11月1日起施行。
 
+1

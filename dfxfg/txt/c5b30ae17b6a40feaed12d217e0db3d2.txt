@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市市场中介组织管理条例
@@ -84,3 +85,4 @@
    第二十九条  本条例自2017年3月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省计量监督管理条例
@@ -173,3 +174,4 @@
 
 
 
+— 17—

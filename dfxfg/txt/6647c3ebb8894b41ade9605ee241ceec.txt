@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省大中型水库移民条例
@@ -139,3 +140,4 @@
 第五十四条本条例自2003年3月1日起施行。
 
 
+— 1 —

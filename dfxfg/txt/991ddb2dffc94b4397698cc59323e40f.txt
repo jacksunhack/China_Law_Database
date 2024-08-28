@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市会展业促进条例
@@ -119,3 +120,4 @@
 
 第三十条  本条例自2017年12月1日起施行。
 
+— 1—

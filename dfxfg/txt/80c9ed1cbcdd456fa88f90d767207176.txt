@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州生态环境保护条例
@@ -175,3 +176,4 @@
 
 第六十三条  自治州人民政府应当根据本条例制定实施办法。
 第六十四条　本条例自2010年9月1日起施行。
+— # —

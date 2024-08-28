@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省老年人权益保障条例
@@ -165,3 +166,4 @@
 第八章  附则
 
 第六十二条  本条例自2015年1月1日起施行。
+- 15 -

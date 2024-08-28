@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄南藏族自治州水利工程设施管护条例
@@ -60,3 +61,4 @@
 　　（六）不履行监督职责，或者发现违法行为不予查处或者查处不力的。
 　　第二十五条　本条例应用中的具体问题由自治州人民政府负责解释。
 　　第二十六条　本条例自2004年7月1日起施行。
+- 1 -　

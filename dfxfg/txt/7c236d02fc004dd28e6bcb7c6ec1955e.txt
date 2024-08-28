@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省农业集体经济承包合同条例
@@ -117,3 +118,4 @@
 第三十九条  农业集体经济组织内部的独立企业的承包经营不适用本条例。
 第四十条  本条例应用中的具体问题，由省农业厅负责解释。
 第四十一条  本条例自公布之日起施行。
+— # —

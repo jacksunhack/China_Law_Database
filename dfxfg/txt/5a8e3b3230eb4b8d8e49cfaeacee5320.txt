@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 新疆维吾尔自治区实施《中华人民共和国
 城市居民委员会组织法》办法
@@ -65,3 +66,4 @@
 第二十九条  本办法自公布之日起施行。
 
 
+— 1 —

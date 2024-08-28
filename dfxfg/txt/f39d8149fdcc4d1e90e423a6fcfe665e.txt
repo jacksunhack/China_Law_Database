@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市城市绿化条例
@@ -103,3 +104,4 @@
 的林地。
 本条例所称古树名木是指：百年以上树木，稀有、珍贵树木，具有历史价值或重要纪念意义的树木。
 第四十一条　本条例自2002年8月1日起施行
+1

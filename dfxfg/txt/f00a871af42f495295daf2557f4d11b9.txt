@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 淮北市文明行为促进条例
@@ -139,3 +140,4 @@
 第六章　附　　则
 ​
 第三十六条　本条例自2020年3月1日起施行。
+－1－　

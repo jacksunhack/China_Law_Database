@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省矿产资源管理条例
@@ -150,3 +152,4 @@
 1994年7月27日云南省第八届人民代表大会常务委员会第八次会议通过的《云南省集体矿山企业、私营矿山企业和个体采矿管理条例》同时废止。
 
 
+—— 1 ——

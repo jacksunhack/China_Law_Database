@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 赤峰市禁牧休牧和草畜平衡条例
@@ -62,3 +63,4 @@
 第五章  附  则
 第二十四条  本条例自2018年7月1日起施行。
 
+#

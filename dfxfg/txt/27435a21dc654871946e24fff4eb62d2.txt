@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省韶山风景名胜区条例
@@ -109,3 +110,4 @@
 
 第四十二条  本条例自2012年12月26日起施行。
 
+－11－  

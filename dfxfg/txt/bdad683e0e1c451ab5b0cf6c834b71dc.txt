@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省企业和企业经营者权益保护条例
@@ -62,3 +63,4 @@
 第二十八条  实行企业化管理的事业单位参照本条例执行。
 第二十九条  本条例自2006年1月1日起施行。
 
+1

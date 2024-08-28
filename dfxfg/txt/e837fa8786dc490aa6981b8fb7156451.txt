@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区建筑市场管理条例
@@ -181,3 +182,4 @@
 
 第六十二条  军事工程、抢险救灾工程、个人自建自用住宅房以及临时性建筑等不适用本条例。
 第六十三条  本条例自2004年4月1日起施行。
+#

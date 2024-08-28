@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 长沙市城市道路车辆通行若干规定
 
@@ -84,3 +86,4 @@
 第二十四条  本市市区以外具备实施条件的区域，经市人民政府依法批准后可以参照本条例执行。
 第二十五条  本规定自2009年5月1日起施行。
 
+- 9 -

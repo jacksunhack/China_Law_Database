@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 温州市全民健身促进条例
@@ -123,3 +124,4 @@
 第六章　附　　则
 ​
 第三十八条　本条例自2023年7月1日起施行。
+－1－　

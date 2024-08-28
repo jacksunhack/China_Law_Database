@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广东省食品安全条例
@@ -178,3 +179,4 @@
 第六章　附　　则
 ​
 第七十五条　本条例自2016年9月1日起施行。
+－1－　

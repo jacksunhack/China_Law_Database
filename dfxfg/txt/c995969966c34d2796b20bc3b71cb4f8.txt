@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 海南省人民代表大会常务委员会
 关于海南自由贸易港洋浦经济开发区等
 重点园区管理体制的决定
@@ -16,3 +17,4 @@
 七、本决定自公布之日起施行。
 
 
+2

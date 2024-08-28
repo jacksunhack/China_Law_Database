@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔西南布依族苗族自治州农作物种子
@@ -64,3 +66,4 @@
 第二十九条　本条例未规定处罚的其他违法行为，法律法规有规定的，从其规定。
 第三十条　自治州人民政府可以根据本条例制定实施细则。
 第三十一条　本条例自2010年7月1日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 保亭黎族苗族自治县城乡容貌和环境卫生
@@ -168,3 +169,4 @@
  
 第四十八条  本条例的具体应用问题由自治县人民政府负责解释。
 第四十九条  本条例自2019年7月1日起施行。
+－5－  

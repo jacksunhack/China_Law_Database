@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市粉煤灰综合利用条例
@@ -49,3 +50,4 @@
 第二十四条  本条例自2005年7月1日起施行。
 
 
+— 1 —

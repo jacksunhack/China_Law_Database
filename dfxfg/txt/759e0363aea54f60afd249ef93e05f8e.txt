@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市专利促进与保护条例
@@ -80,3 +81,4 @@
 第六章  附则
 
 第三十三条  本条例自2007年9月15日起施行。
+— 3 —

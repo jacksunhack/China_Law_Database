@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南藏族自治州藏语言文字工作条例
@@ -86,3 +88,4 @@
 　　第三十八条　自治州人民政府负责本条例的贯彻实施。
 　　第三十九条　本条例由自治州人民代表大会常务委员会解释。
 　　第四十条　本条例自批准之日起施行。
+- 9 -　

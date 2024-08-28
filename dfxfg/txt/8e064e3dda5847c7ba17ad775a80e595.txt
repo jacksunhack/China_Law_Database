@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州实施
@@ -45,3 +47,4 @@
     第十五条  本变通规定自2004年8月1日起施行，原《阿坝藏族羌族自治州计划生育办法》同时废止。
 
 
+—3 —

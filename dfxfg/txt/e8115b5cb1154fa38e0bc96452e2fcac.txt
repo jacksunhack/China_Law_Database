@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区实施
@@ -46,3 +47,4 @@
 第二十六条  本办法自2004年9月1日起施行。
  
 
+—1 —

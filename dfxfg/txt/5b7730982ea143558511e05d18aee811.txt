@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省矿产资源管理条例
@@ -192,3 +193,4 @@
 　　第六十六条　本条例自１９９８年１１月１日起施行。《黑龙江省集体和个体采矿管理条例》同时废止。
 
 
+1

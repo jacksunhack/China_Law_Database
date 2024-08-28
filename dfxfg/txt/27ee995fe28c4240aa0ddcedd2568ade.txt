@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连南瑶族自治县森林资源保护管理条例
@@ -136,3 +137,4 @@
 第五十七条　自治县境内的广东省连山林场森林资源管理，依照省有关规定执行。
 第五十八条　本条例由自治县人民代表大会常务委员会负责解释。
 第五十九条　本条例自公布之日起施行。
+- 1 -

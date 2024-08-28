@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省各级人民代表大会常务委员会
@@ -85,3 +86,4 @@
 第七章　附则
 
 第三十一条  本条例自2015年7月1日起施行。
+- 1 -

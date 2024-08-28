@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省文明行为促进条例
@@ -193,3 +194,4 @@
 第五章  附则
 
     第五十三条  本条例自2021年1月1日起施行。
+― 1 ―

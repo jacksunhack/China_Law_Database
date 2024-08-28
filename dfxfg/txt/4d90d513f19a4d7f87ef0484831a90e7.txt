@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 牡丹江市住宅物业管理条例
 
@@ -66,3 +67,4 @@
 第三十一条  非住宅物业管理，参照本条例执行。
 第三十二条  本条例自2022年6月1日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区港口条例
@@ -132,6 +133,8 @@
 　　（四）参与或者变相参与港口经营的；
 （五）其他玩忽职守、滥用职权、徇私舞弊的行为。
 
-  附则
+第七章    附则
 
 　　第四十七条　本条例自2011年1月1日起施行。
+1
+ 

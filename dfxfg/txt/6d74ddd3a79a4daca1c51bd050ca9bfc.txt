@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市水域市容环境卫生管理条例
@@ -178,3 +179,4 @@
 （四）用于行政管理的船舶、码头。
 第五十一条　本条例自2014年5月1日起施行。2000年7月1日起施行的《广州市市区水域市容环境卫生管理规定》同时废止。
 
+- 1 - 

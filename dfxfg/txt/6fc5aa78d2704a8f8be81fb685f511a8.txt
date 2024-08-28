@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市养犬管理条例
@@ -172,3 +173,4 @@
 第六十一条　本条例自2009年7月1日起施行。1997年1月1日起施行的《广州市养犬管理规定》同时废止。
 
 
+- 1 - 

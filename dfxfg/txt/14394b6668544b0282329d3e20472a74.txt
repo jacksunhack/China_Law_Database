@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区处理历史遗留违法私房若干规定
@@ -52,3 +53,4 @@
 　　第十七条　本规定自2002年3月1日起施行。 
     本规定施行以前处理违法私房的有关规定与本规定不一致的，以本规定为准。 
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 辽源市养犬管理条例
 
@@ -141,3 +142,5 @@
 本条例实施前，养犬人已饲养的符合规定的犬只，自条例实施之日起四十日内，依照本条例规定办理养犬登记。
 第四十二条  本条例自2019年11月1日起施行。
 
+#
+ 	 

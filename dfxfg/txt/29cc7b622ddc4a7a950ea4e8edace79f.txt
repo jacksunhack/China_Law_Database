@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省反不正当竞争条例
@@ -135,3 +136,4 @@
 本条例所称滥收费用，是指经营者超出商品价款以外的收费项目或标准收取费用。
 第四十五条　本条例的具体应用问题，由省工商行政管理部门负责解释。
 第四十六条　本条例自公布之日起施行。
+－1－　

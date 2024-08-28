@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国
@@ -108,3 +109,4 @@
 第七章  附则
   
     第三十六条  本办法自2000年12月1日起施行。
+- 1 -

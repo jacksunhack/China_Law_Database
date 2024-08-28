@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市学校校园和周边环境保护条例
@@ -93,3 +94,4 @@
 
 第三十八条　本条例具体应用中的问题由市人民政府负责解释。
 第三十九条　本条例自2003年１月１日起施行。
+#

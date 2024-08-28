@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省促进大别山等革命老区振兴发展条例
@@ -109,3 +110,4 @@
 ​
 第四十五条　红色资源的保护和利用，依照《安徽省红色资源保护和传承条例》和有关法律法规规定执行。
 第四十六条　本条例自2022年7月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市建筑节能条例
@@ -116,3 +117,4 @@
 第四十一条  鼓励临时性房屋建筑和农民自建自用住宅建筑采用建筑节能措施。
 第四十二条  本条例自2008年1月1日起施行。
 
+— 3 —

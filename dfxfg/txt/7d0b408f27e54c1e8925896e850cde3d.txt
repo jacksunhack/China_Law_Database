@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南周口国家农业高新技术产业示范区
@@ -115,3 +116,4 @@
 第七章　附　　则
 ​
 第五十条　本条例自2024年3月1日起施行。
+－1－　

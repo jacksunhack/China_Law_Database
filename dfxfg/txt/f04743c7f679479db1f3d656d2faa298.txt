@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴里坤哈萨克自治县旅游发展促进条例
@@ -46,4 +47,6 @@
 
 
 
+
+— # —
 

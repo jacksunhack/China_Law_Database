@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市湾长制规定
@@ -59,3 +60,4 @@
 （四）其他违反湾长制规定的行为。
 第二十四条  本规定具体应用问题由市人民政府负责解释。
 第二十五条  本规定自2019年11月1日起施行。
+－1－  

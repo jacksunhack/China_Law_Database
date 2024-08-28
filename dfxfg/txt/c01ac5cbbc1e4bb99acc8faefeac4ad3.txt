@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市御河流域生态保护条例
@@ -91,3 +92,4 @@
 
 
 
+—14—

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市医疗卫生设施规划建设管理条例
@@ -60,3 +62,4 @@
 第二十七条  本条例自2012年1月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 武汉市献血条例
 
@@ -109,3 +110,4 @@
 
 第三十八条  本条例自2023年6月14日起施行。
 
+— # —

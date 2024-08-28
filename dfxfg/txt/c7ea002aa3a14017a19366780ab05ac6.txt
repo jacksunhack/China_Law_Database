@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大亚湾核电厂周围限制区安全保障
@@ -45,3 +47,4 @@
 　　对维护核电厂安全运行和限制区公众安全及环境保护作出突出贡献的组织和个人，由市人民政府根据有关规定给予表彰或者奖励。
 　　第二十七条　本条例自公布之日起施行。
 
+#

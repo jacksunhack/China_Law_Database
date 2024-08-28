@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省社会科学普及条例
@@ -108,3 +110,4 @@
 第六章  附  则
 
 第三十九条  本条例自2019年12月1日起施行。 
+—— 10 ——

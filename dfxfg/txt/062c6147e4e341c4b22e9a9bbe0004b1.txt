@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 中国（湖北）自由贸易试验区条例
@@ -172,3 +173,4 @@
 第八章  附则
 
 第六十九条  本条例自2019年1月1日起施行。
+— # —

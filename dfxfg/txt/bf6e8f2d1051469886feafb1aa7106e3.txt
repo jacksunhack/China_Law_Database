@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省人民代表大会关于
@@ -82,3 +83,4 @@
 此外，对条文顺序和部分文字作相应调整和修改完善。
 本决定自公布之日起施行。
 《陕西省地方立法条例》根据本决定作相应修改，重新公布。
+－1－　

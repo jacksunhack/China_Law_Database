@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省临夏回族自治州
@@ -64,3 +66,4 @@
     第三十三条  本条例自发布之日起施行。
 
 
+      — 1 —      

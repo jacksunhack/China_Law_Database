@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 徐州市节约用水条例
@@ -122,3 +124,4 @@
 第四十六条  本条例自2008年3月1日起施行。
 
 
+─ # ─  

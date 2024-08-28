@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 门源回族自治县
@@ -150,3 +151,4 @@
 第三十八条  乡人民政府所在地市容和环境卫生管理参照本条例执行。
 第三十九条  本条例自2020年1月1日起施行。
 
+1

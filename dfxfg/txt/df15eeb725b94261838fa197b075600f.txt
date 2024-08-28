@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 梅州市人民代表大会常务委员会关于修改
@@ -19,3 +20,4 @@
 此外，对条文顺序作相应调整。
 本决定自公布之日起施行。
 《梅州市农村生活垃圾管理条例》根据本决定作相应修改后，重新公布。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 包头市城市公共汽车客运条例
@@ -157,3 +158,4 @@
 第九章　附　　则
 ​
 第五十六条　本条例自2024年6月1日起施行。
+－1－　

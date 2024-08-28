@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 赤峰市辽代都城州城帝陵遗址保护条例
@@ -76,3 +77,4 @@
 第六章　附　则
 第三十二条　本条例自2020年1月1日起施行。
 
+#

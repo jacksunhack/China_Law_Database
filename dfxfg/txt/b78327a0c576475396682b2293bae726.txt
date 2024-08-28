@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市人民调解条例
@@ -123,3 +125,4 @@
 第六章　附　则
 
 第三十三条　本条例自2010年3月1日起施行。
+— 1 —

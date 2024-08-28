@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市医疗卫生设施规划建设
@@ -86,3 +88,5 @@
 第二十九条  本条例所称都市区包括市内五区、正定县、栾城县、鹿泉市、藁城市。
 第三十条  本条例自2013年6月1日起施行。
 
+　— 1 —　
+　

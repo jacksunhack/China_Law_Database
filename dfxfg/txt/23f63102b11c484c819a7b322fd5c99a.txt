@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省中小企业促进条例
@@ -72,3 +74,4 @@
 第三十四条　中小企业违反本条例第三十一条规定的，依照有关法律、法规处理。
 第三十五条　本条例自2007年7月1日起施行。
 
+— 1 —

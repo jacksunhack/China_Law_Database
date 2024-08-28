@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长沙市灰汤地热资源保护条例
@@ -81,4 +83,6 @@
 第三十九条  本条例所称原批准的采矿权人合法权益是指合法的采矿权、财产权、地热资源开采方式和经营管理模式。
 第四十条　本条例自2010年10月1日起施行。
 
+
+- 8 -
 

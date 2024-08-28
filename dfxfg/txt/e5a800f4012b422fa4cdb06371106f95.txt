@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省集体合同条例
@@ -166,3 +167,4 @@
     第四十九条  本省行政区域内的企业分支机构和民办非企业单位进行平等协商和签订、履行集体合同依照本条例的规定执行。
 第五十条 本条例自2010年10月1日起施行。
 
+1

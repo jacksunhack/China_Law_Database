@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区农业环境保护条例
@@ -85,3 +86,5 @@
 第五章  附则
 
 　　第三十条　本条例自1995年5月30日起施行。
+- 1 -
+ 

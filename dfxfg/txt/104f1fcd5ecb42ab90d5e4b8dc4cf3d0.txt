@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市古树名木保护管理规定
@@ -92,3 +93,4 @@
 第三十六条  本规定自2021年6月1日起施行。
  
 
+— 11 —  

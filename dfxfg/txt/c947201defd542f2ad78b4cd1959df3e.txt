@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 自贡市建设施工现场管理条例
@@ -238,3 +239,4 @@
 噪声敏感建筑物集中区域，是指医疗区、文教科研区和以机关或者居民住宅为主的区域。
 第五十四条  本条例自2021年1月1日起施行。
 
+— 23 —  

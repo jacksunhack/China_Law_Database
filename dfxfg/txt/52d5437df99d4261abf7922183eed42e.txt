@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 浙江省人民代表大会常务委员会关于修改
@@ -45,3 +46,4 @@
 此外，还作了个别文字修改和条款顺序的调整。
 本决定自2023年10月1日起施行。
 《浙江省实施〈中华人民共和国工会法〉办法》根据本决定作相应修改，重新公布。
+－1－　

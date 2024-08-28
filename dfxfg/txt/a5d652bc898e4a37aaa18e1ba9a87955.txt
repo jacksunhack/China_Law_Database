@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市农村公路养护管理条例
@@ -113,3 +114,4 @@
 
 第四十一条  本市行政区域内专用公路的养护管理参照本条例执行。
 第四十二条  本条例自2008年7月1日起施行。
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮安市农贸市场管理条例
@@ -93,3 +95,4 @@
 第二十六条　本市行政区域内经营食用农产品的生鲜超市、社区菜店的管理，参照本条例有关规定执行。
 第二十七条　本条例自2022年9月1日起施行。
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市城镇房地产交易管理条例
@@ -245,3 +246,4 @@
 （八）售后包租，是指房地产开发企业以一定期限内承租或者代为出租买受人所购该企业商品房的方式销售商品房的行为。
 第七十三条  本条例自2012年1月1日起施行。
 
+— 3 —

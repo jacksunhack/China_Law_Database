@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省志愿服务条例
@@ -162,3 +163,4 @@
 　　志愿服务组织以外的其他组织和个人开展志愿服务的，参照本条例执行。
 　　第五十条　本条例自2017年3月1日起施行。 
 
+1

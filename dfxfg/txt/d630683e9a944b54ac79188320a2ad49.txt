@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 莫力达瓦达斡尔族自治旗旅游条例
 
@@ -44,3 +46,6 @@
 第二十四条  本条例自2020年9月1日起施行。
 
 
+
+
+#

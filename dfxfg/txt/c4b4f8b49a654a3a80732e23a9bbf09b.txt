@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省高危险性体育项目经营
@@ -69,3 +70,4 @@
 （四）利用职权收受、索取、变相索取财物的；
 （五）有其他滥用职权、徇私舞弊行为的。
 第二十七条  本规定自2007年5月1日起施行。
+1

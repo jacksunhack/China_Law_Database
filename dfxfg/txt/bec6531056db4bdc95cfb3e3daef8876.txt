@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市文明行为促进条例
@@ -177,3 +179,4 @@
 
 第五十条  本条例自2020年8月20日起施行。
 
+─ # ─  

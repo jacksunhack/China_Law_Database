@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省道路运输条例
@@ -258,3 +259,4 @@
 第七十五条　本条例自2011年3月1日起施行。1996年2月9日山东省第八届人民代表大会常务委员会第二十次会议通过的《山东省道路运输管理条例》同时废止。
 
 
+1

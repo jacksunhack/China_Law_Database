@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省合同格式条款监督条例
@@ -68,4 +69,3 @@
 　　( 五 ) 其他应当依法给予行政处分的行为。 
 　　第二十二条  农民购买直接用于农业生产的生产资料，与经营者订立含有格式条款的合同，参照本条例执行。 
 　　第二十三条  本条例自二 OO 三年十月一日起施行。 
-

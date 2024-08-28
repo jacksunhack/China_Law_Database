@@ -1,4 +1,6 @@
 ﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 江西省反窃电办法
 
@@ -116,3 +118,5 @@
 第四章  附则
 
     第三十四条  本办法自2013年1月1日起施行。
+
+- 7 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 渭南市海绵城市建设管理条例
@@ -82,3 +83,4 @@
 （六）具有控制城市雨水径流功能的其他设施。
 第三十条　镇级规划建设管理可以参照本条例有关规定执行。
 第三十一条　本条例自2023年12月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省林业管理办法
@@ -114,3 +115,4 @@
 第八章　附则
 
 　　第三十二条　本办法自公布之日起施行。省内有关规定与本办法相抵触的，按本办法执行。
+1

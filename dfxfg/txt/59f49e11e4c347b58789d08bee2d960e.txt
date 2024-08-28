@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市市容和环境卫生管理办法
@@ -141,3 +142,4 @@
 
 第六十一条　本办法具体应用中的问题，由市人民政府负责解释。
 第六十二条　本办法自公布之日起施行。
+#　

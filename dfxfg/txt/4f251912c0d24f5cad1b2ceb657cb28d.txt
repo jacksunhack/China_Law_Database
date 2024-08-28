@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 峨边彝族自治县移风易俗条例
@@ -98,3 +99,4 @@
 （四）积分超市，是指“以表现换积分、以积分换物品”的积分奖励平台。
 第四十一条　自治县人民政府可以根据本条例制定实施细则。
 第四十二条　本条例自2024年6月1日起施行。
+－1－　

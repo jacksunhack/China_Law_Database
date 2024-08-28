@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州文物保护条例
@@ -92,3 +93,4 @@
 
 第三十三条  本条例自2020年8月1日起施行。
 
+— 9 — 

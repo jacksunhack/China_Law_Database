@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市人民代表大会常务委员会
@@ -11,3 +13,5 @@
 二、废止《唐山市技术市场管理办法》第十二条规定的“技术贸易机构设立（前置）许可”；
 本决定自河北省人大常委会批准之日起施行。
 
+　— 1 —　
+　

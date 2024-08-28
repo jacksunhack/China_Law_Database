@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珲春边境经济合作区管理条例
@@ -90,3 +91,4 @@
 
 第二十九条　本条例自公布之日起施行。
 省内过去有关规定与本条例有抵触的，按本条例执行。
+— 6 —

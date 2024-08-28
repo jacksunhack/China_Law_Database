@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省县乡两级人民代表大会选举实施细则
@@ -152,3 +153,4 @@
 　　第五十八条　本细则自公布之日起施行。
 
 
+1

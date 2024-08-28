@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市法律援助条例
@@ -174,3 +175,4 @@
 第七章　附则
 
 第四十一条　本条例自2014年7月1日起施行。
+#　

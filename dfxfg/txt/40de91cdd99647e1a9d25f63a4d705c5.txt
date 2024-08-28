@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市促进开放条例
@@ -121,3 +122,4 @@
 第四十八条  本条例所称公立非营利机构，是指由政府出资兴办、向社会提供公共服务且不以营利为目的的国家机关以外的组织。
 第四十九条  本条例自2009年1月1日起施行。
 
+— 3 —

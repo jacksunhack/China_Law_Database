@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市社会信用体系建设促进条例
@@ -113,3 +114,4 @@
 
 第四十四条  法律、法规对社会信用体系建设有规定的，从其规定。
 第四十五条  本条例自2021年2月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省人民政府关于稳定山权林权
 若干具体政策的规定
 （1981年6月26日福建省第五届人民代表大会常务委员会第十次会议批准  1981年7月1日福建省人民政府公布施行）
@@ -14,3 +15,4 @@
 
 
 
+—1—

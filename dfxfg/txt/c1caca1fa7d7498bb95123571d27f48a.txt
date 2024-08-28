@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省实施《中华人民共和国土壤
 污染防治法》办法
@@ -154,3 +155,4 @@
 
 第四十五条  本办法自2023年1月1日起施行。
 
+— # —

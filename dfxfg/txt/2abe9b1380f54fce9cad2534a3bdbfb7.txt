@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省大运河文化遗产保护利用条例
@@ -153,3 +154,4 @@
 第八章　附　　则
 ​
 第六十五条　本条例自2022年6月1日起施行。
+－1－　

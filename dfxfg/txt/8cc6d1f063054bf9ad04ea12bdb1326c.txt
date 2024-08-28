@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂伦春自治旗立法条例
@@ -55,3 +56,4 @@
 第二十八条　自治旗人民代表大会制定的自治条例和单行条例的解释权属于自治旗人民代表大会常务委员会。
 第二十九条　本条例自2004年5月1日起施行。
 
+#

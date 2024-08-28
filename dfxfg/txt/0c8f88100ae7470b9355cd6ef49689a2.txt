@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区文明行为促进条例
@@ -262,4 +263,6 @@
 
 第七十四条 本条例自2019年9月1日起施行。
 
+
+- 13 -
 

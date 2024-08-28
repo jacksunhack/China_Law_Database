@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区残疾人扶助条例
@@ -174,3 +175,4 @@
 第五十七条　本条例相关配套制度，由市人民政府另行制定。
 第五十八条　本条例自2016年8月1日起施行。
 
+1

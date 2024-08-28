@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省征兵工作条例
@@ -117,3 +118,4 @@
 第六章　附　　则
 ​
 第四十三条　本条例自2024年2月1日起施行。
+－1－　

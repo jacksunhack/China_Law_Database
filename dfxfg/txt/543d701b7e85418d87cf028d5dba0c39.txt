@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省会计条例
@@ -128,3 +130,4 @@
 第三十六条  本条例自2004年9月1日起施行。1997年1月14日云南省第八届人民代表大会常务委员会第二十五次会议通过的《云南省会计条例》同时废止。
 
 
+—— 1 ——

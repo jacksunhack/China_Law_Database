@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安顺市农村公路条例
@@ -128,3 +129,4 @@
 第八章　附　　则
 ​
 第四十三条　本条例自2024年1月1日起施行。
+－1－　

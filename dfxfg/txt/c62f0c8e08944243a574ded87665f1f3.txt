@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 新疆维吾尔自治区人民代表大会常务委员会
 关于自治区人民政府机构改革涉及自治区
@@ -19,3 +21,4 @@
 
 
 
+1

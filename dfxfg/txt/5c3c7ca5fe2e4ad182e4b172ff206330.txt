@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市生活垃圾分类管理条例
@@ -181,3 +183,4 @@
 
 　　第五十三条  本条例自2020年8月1日起施行。
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市人民代表大会议事规则
@@ -168,3 +170,4 @@
 第五十九条  本规则自2013年10月1日起施行。
 
 
+1

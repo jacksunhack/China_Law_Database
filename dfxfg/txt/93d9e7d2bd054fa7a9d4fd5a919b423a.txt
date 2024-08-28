@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市文物保护管理办法
@@ -77,3 +78,4 @@
 （五）贪污、挪用文物保护经费的； 
 （六）其他滥用职权、玩忽职守、徇私舞弊的。 
 第三十九条　本办法自2014年12月1日起施行。
+— 1 —

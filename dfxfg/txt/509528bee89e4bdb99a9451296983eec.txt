@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省人民代表大会常务委员会
@@ -43,3 +44,4 @@
 第十八条  地区人大工委的经费列入地区财政预算。
 第十九条  地区人大工委可以根据本条例制定具体实施办法。
 第二十条  本条例自公布之日起施行。
+- 5 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市养犬管理条例
@@ -122,3 +123,4 @@
 
     第五十二条  本条例自2006年7月1日起施行。
 
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州农村公路
@@ -103,6 +104,5 @@
 
 　　第三十九条  本条例由甘南藏族自治州人大常务委员会负责解释。
 　　第四十条  本条例自公布之日起施行。
-
 
 

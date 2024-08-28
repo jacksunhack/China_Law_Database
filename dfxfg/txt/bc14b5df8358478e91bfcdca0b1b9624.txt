@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市城市轨道交通管理条例
@@ -171,3 +172,4 @@
 第五十二条　本条例自2008年1月1日起施行。1999年10月27日颁布的《广州市地下铁道管理条例》同时废止。
 
 
+- 1 - 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市中医药条例
@@ -160,3 +161,4 @@
 
 第五十八条  本条例自2021年5月1日起施行。1998年9月22日上海市第十一届人民代表大会常务委员会第五次会议通过的《上海市发展中医条例》同时废止。
 
+- 17 -

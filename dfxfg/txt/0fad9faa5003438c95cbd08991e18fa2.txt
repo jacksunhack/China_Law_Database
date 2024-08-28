@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省人民代表大会代表建议、
@@ -70,3 +72,4 @@
 
 第二十七条  本办法自2010年1月1日起施行。1989年3月5日通过的《江苏省人民代表大会常务委员会关于办理省人大代表的建议、批评和意见的办法》同时废止。
 
+─ # ─  

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 临夏回族自治州古树名木保护管理条例
@@ -113,3 +115,4 @@
 第三十九条  自治州人民政府可以依照本条例制定实施办法。
 第四十条  本条例自2021年8月1日起施行。
 
+      — # —    

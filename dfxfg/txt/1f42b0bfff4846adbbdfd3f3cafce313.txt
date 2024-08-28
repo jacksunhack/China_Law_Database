@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安阳市大气污染防治条例
@@ -181,3 +182,4 @@
 第六章  附则
 
     第六十二条  本条例自2019年7月1日起施行。
+― 1 ―

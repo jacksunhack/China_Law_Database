@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 庆阳市人民代表大会常务委员会关于修改
@@ -24,3 +26,4 @@
 本决定自省人大常委会批准后，公布之日起施行。
 《庆阳市烟花爆竹燃放管理条例》根据本决定修改后重新公布。
 
+      — 1 —    

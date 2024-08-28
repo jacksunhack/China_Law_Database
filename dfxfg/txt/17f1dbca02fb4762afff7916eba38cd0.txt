@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂尔多斯市集中式饮用水水源保护条例
@@ -123,3 +124,4 @@
 第三十七条  本条例自2020年1月1日起施行。
 
 
+#

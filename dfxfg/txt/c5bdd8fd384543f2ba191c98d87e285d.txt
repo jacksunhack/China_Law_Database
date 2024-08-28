@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 聊城市禁止燃放烟花爆竹条例
@@ -55,3 +56,4 @@
 第二十三条  本条例自2019年1月1日起施行。
 
 
+1

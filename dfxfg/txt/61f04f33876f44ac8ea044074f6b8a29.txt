@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黑河市网格化管理服务条例
 
@@ -103,3 +104,4 @@
 
 第三十三条 五大连池风景名胜区自然保护区网格化管理服务以及相关活动，依照本条例执行。
 第三十四条 本条例自2023年6月1日起施行。
+- 1 -

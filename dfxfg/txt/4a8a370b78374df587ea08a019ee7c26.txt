@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市畜牧条例
 
@@ -151,3 +152,4 @@
 第七章　附则
 
 第四十八条　本条例自2009年9月1日起施行。2006年8月1日起实施的《天津市畜禽养殖管理办法》（2006年市人民政府令第104号）同时废止。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 浙江省科学技术进步条例
@@ -216,3 +217,4 @@
 ​
 第八十条　本条例关于研究开发机构、高等学校的规定，适用于政府设立的医疗卫生机构。
 第八十一条　本条例自2023年12月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省实施《中华人民共和国
@@ -229,3 +230,4 @@
 第六十条　本办法自2003年3月1日起施行。
 本办法施行前本省有关规定与本办法相抵触的，以本办法为准。
 
+－ 19 －

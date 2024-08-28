@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 孟村回族自治县县城规划建设管理条例
@@ -95,3 +97,4 @@
 
 第五十五条　本条例自公布之日起施行。一九九三年八月一日公布的《孟村回族自治县人民政府关于县城规划区内建设管理的规定》同时废止。
 
+　— 1 —　

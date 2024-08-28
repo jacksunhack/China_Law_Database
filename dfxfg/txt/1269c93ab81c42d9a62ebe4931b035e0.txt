@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省辐射污染防治条例
@@ -102,3 +103,4 @@
 　　2000年12月23日河北省人民政府公布的《河北省电磁辐射环境保护管理办法》和2001年11月15日河北省人民政府公布的《河北省放射性污染防治管理办法》同时废止。
 
 
+1

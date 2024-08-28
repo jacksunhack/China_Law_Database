@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省涉案财产价格鉴定条例
@@ -100,3 +101,4 @@
 第五章  附  则
  
 第三十三条  本条例自2008年12月1日起施行。
+- 28 -

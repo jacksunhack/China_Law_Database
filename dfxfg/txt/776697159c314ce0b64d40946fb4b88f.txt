@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市中小学校学生
@@ -124,3 +125,4 @@
 第四十三条　本条例自2007年1月1日起施行。
  
 
+— 1 —

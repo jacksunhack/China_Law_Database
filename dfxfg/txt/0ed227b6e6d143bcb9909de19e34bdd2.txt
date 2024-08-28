@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市电梯安全条例
 
@@ -179,3 +180,5 @@
 第九章  附 则
 
 第四十三条  本条例自2018年 6月1 日起施行。
+—#—
+ 

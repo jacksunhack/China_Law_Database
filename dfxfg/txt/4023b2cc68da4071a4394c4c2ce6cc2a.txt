@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市地下空间规划管理条例
 
@@ -112,3 +113,4 @@
 第五十一条　地下空间的范围通过三维空间坐标确定。
 第五十二条　本条例对地下空间规划管理未作规定的，依照有关规划管理的法律、法规规定办理。
 第五十三条　本条例自2009年3月1日起施行。
+#

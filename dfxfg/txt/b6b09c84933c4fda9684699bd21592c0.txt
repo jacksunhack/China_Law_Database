@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 嘉峪关市物业服务管理条例
@@ -365,3 +367,4 @@
 第七章  附    则
 
 第七十五条  本条例自2023年5月1日起施行。
+      — 1 —    

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省爱国卫生条例
@@ -85,5 +86,4 @@
 　　　
 第六章　附 则
 　　第三十五条　本条例自1995年10月1日起施行。1979年黑龙江省革命委员会颁布的《黑龙江省城乡公共卫生管理暂行条例》同时废止。 
-
 

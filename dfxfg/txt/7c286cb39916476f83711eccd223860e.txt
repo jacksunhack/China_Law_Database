@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省抗旱条例
@@ -104,3 +105,4 @@
 第五章　附　　则
 ​
 第三十五条　本条例自2003年2月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城市绿化条例
@@ -126,3 +127,4 @@
 第四十一条　城市绿化工作中，城市绿化主管部门与林业等主管部门的职能交叉，由市人民政府协调。
 第四十二条　县（市）的城镇绿化参照本条例执行。
 第四十三条　本条例自公布之日起施行。
+#　

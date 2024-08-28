@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -193,3 +194,4 @@
 
 　　第七十五条　本办法应用中的具体问题由省人民政府公安行政管理部门负责解释。
 　　第七十六条　本办法自2007年8月1日起施行。
+#　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省大理白族自治州湿地保护条例
@@ -123,3 +125,4 @@
 自治州人民政府可以根据本条例制定实施办法。
 第三十五条  本条例由自治州人民代表大会常务委员会负责解释。
 
+—— 1 ——

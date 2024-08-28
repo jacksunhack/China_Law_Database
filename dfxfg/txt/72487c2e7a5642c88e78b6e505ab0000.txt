@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省水文条例
@@ -116,3 +117,4 @@
 第七章  附  则
 
 第三十八条  本条例自2019年3月1日起施行。
+— 1 —

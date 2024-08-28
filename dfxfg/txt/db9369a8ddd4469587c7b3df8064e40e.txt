@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 资阳市大气污染防治条例
@@ -158,3 +159,4 @@
 （三）城市建成区，是指本市行政区内实际已成片开发建设、市政公用设施和公共设施基本具备的地区。
 第五十七条  本条例自2021年12月1日起施行。
 
+— 17 — 

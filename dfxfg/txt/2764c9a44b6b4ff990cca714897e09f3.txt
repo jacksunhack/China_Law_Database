@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省地质环境管理条例
@@ -91,3 +92,4 @@
 第七章　附则
 
 　　第三十条　本条例自2001年8月1日起施行。
+1

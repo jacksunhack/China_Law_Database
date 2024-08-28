@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省计算机信息系统安全保护条例
@@ -107,3 +108,4 @@
 
 第三十条  本条例自2009年1月1日起施行。     
        
+#  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 益阳市城市规划区山体水体保护条例
@@ -81,3 +82,4 @@
 第五章  附则
 
 第二十八条  本条例经省人民代表大会常务委员会批准，由市人民代表大会常务委员会公布，自2017年7月1日起施行。
+— # —

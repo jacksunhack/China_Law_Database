@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉溪市人民代表大会及其常务委员会
@@ -134,3 +136,4 @@
 第四十九条  本条例自公布之日起施行。
 
 
+—— 15 ——

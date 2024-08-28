@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省公共资源招标投标监督管理条例
@@ -131,3 +132,4 @@
 第七章　附则
 
 　　第四十二条　本条例自2015年8月1日起施行。
+1

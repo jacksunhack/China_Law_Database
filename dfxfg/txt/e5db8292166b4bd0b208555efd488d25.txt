@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区人民代表大会常务委员会
 任免工作办法
@@ -52,3 +54,5 @@
 第三十九条  本办法自公布之日起施行。
 
 
+
+#

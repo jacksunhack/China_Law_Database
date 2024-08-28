@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省城镇国有土地使用权
@@ -165,3 +166,4 @@
 第五十七条　区人民政府实施本规定的权限，由省辖市人民政府确定。
 第五十八条　本规定执行中的具体问题由省人民政府土地管理部门负责解释。
 第五十九条　本规定自公布之日起施行。
+－1－　

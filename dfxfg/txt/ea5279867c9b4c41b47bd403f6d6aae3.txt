@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 自贡市井盐历史文化保护条例
@@ -92,3 +94,5 @@
 第五章  附  则
 
 第三十六条  本条例自2019年3月1日起施行。
+— # —
+

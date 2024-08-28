@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省江城哈尼族彝族自治县自治条例
@@ -143,3 +145,4 @@
 本条例由自治县人民代表大会常务委员会负责解释。
 
 
+—— 1 ——

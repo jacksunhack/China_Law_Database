@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省村民委员会选举办法
@@ -126,3 +127,4 @@
 ​
 第三十一条　辖有村的街道办事处，在村民委员会选举中履行本办法规定的应当由乡、民族乡、镇人民政府履行的职责。
 第三十二条　本办法自1999年2月1日起施行。
+－1－　

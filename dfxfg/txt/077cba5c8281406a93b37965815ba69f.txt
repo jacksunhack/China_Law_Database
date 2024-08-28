@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鞍山市预防和制止家庭暴力办法
@@ -25,3 +26,4 @@
 第十五条  本办法自2008年8月1日起施行。
 
 
+— 1 —

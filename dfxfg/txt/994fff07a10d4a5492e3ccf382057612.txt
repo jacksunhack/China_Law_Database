@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州人民代表大会
@@ -8,7 +9,6 @@
 
 甘孜藏族自治州第十三届人民代表大会第二次会议决定：废止《甘孜藏族自治州集体人工商品林管理条例》。
 本决定自公布之日起施行。
-
 
 
 

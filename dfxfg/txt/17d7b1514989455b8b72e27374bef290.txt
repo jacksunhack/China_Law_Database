@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市城市居民委员会组织条例
@@ -64,3 +65,4 @@
 　　第二十八条　本条例具体应用中的问题，由市民政局负责解释。
 第二十九条　本条例自1997年10月1日起施行。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省粮食作物生长期保护规定
 
@@ -28,3 +29,4 @@
 前款规定的毁粮价值，按照所在县（市、区）前三个年度同类作物平均产量和价格计算。
 第十二条  本规定自2022年8月10日起施行。
 
+— # —

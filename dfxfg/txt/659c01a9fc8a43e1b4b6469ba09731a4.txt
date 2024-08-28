@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 黄山市养犬管理条例
 
@@ -93,3 +94,4 @@
 第三十七条　本条例所称的养犬人，是指饲养犬只的单位和个人。
 第三十八条　本条例自2020年1月1日起施行。
 
+— # —

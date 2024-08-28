@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市再生水利用管理条例
@@ -67,3 +68,4 @@
 第二十七条　水行政主管部门以及其他部门的工作人员玩忽职守、滥用职权、徇私舞弊的，依法给予政务处分；构成犯罪的，依法追究刑事责任。
 第二十八条　本条例自2020年1月1日起施行。
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国
@@ -59,3 +61,4 @@
 第三十五条　省人民政府确定的“民族县”在经济社会发展方面适用本规定。
 第三十六条　本规定所称“上级”是指省及辖有自治县的市。
 第三十七条　本规定自2007年11月1日起施行。
+　— 1 —　

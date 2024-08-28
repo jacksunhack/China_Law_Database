@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 沈阳市优化营商环境条例
@@ -124,3 +125,4 @@
 第六章　附　　则
 ​
 第六十条　本条例自2024年1月1日起施行。
+－1－　

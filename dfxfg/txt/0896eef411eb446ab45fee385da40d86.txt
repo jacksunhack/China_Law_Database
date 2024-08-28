@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市特种海产品资源保护管理条例
@@ -86,3 +87,4 @@
 第二十八条  本条例自2005年9月1日起施行。
 
 
+１

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 洛阳市住宅物业管理条例
@@ -233,3 +234,4 @@
 第八章　附　　则
 ​
 第六十二条　本条例自2023年11月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省社会治安综合治理条例
@@ -78,3 +79,4 @@
 （六）在社会治安综合治理工作中玩忽职守，徇私舞弊的。
 第三十二条  本条例自1993年10月1日起施行。
 
+－1－  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省固体废物污染环境防治条例
@@ -150,3 +151,4 @@
 第六十三条  本条例自2014年1月1日起施行。
 
 
+— 1 —  

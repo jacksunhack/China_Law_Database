@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省预防和制止家庭暴力规定
@@ -19,4 +20,6 @@
 第十二条  家庭暴力的受害人提出请求的，公安机关应当依照治安管理处罚的法律规定予以行政处罚。
 第十三条  本规定自2005年8月1日起施行。
 
+
+— 1 —
 

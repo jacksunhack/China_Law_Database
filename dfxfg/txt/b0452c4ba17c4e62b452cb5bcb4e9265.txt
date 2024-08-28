@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连云港市河长制工作条例
@@ -152,3 +154,4 @@
  
 第四十三条  本条例自2023年4月1日起施行。
 
+─ # ─  

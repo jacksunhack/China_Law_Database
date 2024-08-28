@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区学校用地保护规定
@@ -47,3 +48,4 @@
 　　第二十二条　本规定自２０１０年１月１日起施行。
 
 
+— # —

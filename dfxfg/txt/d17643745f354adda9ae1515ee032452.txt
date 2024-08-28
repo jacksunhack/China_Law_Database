@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区建筑外立面管理若干规定
 
@@ -88,3 +89,4 @@
 农村自建住房的建筑外立面装饰装修、改造、维护活动，参照本规定执行，市人民政府可以制定具体实施办法。
 第三十四条 本规定自2020年4月1日起施行。
 
+— 2 —

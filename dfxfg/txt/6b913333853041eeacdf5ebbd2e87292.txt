@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省人民代表大会常务委员会
@@ -50,3 +51,4 @@
 　　第二十五条　较大的市的人民代表大会常务委员会举行立法听证会参照本规定执行。　　 
 　　第二十六条　本规定自2002年11月1日起施行。
 
+- 5 -

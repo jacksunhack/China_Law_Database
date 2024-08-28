@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -89,3 +90,4 @@
 
 　　第三十三条　本办法的具体应用问题由省农林厅负责解释。
 　　第三十四条　本办法自1995年11月1日起施行。原《青海省野生动物资源保护管理条例》即行废止。
+#　

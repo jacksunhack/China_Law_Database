@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省乡镇人民代表大会工作若干规定
@@ -73,3 +74,4 @@
 第三十二条  乡镇人民代表大会及代表活动所需经费，列入本级财政。
 第三十三条  本规定自公布之日起施行。 
 
+- 1 -

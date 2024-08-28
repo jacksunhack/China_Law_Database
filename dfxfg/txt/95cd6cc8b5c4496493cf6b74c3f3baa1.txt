@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 云冈石窟保护条例
  
@@ -96,3 +97,4 @@
 第五章  附  则
  
 第四十六条  本条例自2018年8月1日起施行。《大同市云冈石窟保护管理条例》同时废止。
+—#—

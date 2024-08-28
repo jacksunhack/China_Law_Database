@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市资源综合利用条例
@@ -123,3 +124,4 @@
 第六章  附则
 
     第五十七条  本条例自2003年8月1日起施行。
+- 1 -

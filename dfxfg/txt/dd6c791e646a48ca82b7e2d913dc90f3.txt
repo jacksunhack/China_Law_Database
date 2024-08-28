@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市优化营商环境条例
@@ -144,3 +145,4 @@
 第八章  附  则
 第七十二条  本条例所称政务服务事项，包括行政权力事项和公共服务事项。
 第七十三条  本条例自2019年9月1日起施行。
+#

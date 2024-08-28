@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大连市华侨权益保护条例
 
@@ -69,3 +71,4 @@
 第三十四条  除法律、法规规定不可享有的特定权利外，外籍华人在本市的有关权益保护，可以参照本条例执行。
 第三十五条  本条例自2019年7月1日起施行。
 
+—#—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 西藏自治区实施《中华人民共和国全国
 人民代表大会和地方各级人民代表
 大会选举法》细则
@@ -204,4 +205,3 @@
 第十二章  附  则
 
 第七十条  本细则自公布之日起施行。
-

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 桓仁满族自治县旅游条例
@@ -49,3 +50,4 @@
 第二十条  本条例自2006年7月1日起施行。
 
 
+— 1 —

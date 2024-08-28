@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 深圳经济特区授予荣誉市民称号规定
 
 (2000年3月3日深圳市第二届人民代表大会
@@ -54,3 +55,4 @@
 第十八条 本规定自二○○○年五月一日起施行。
 
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省实施《中华人民共和国
@@ -51,3 +52,4 @@
 　　第二十四条　人民防空主管部门实施行政处罚时，应按《中华人民共和国人民防空法》和《中华人民共和国行政处罚法》的规定执行。
 　　第二十五条　本办法自公布之日起施行。
 
+- 1 - 

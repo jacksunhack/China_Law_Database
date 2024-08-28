@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市农村集体资产管理条例
@@ -104,3 +105,4 @@
 第三十六条  国家法律、行政法规对农村集体所有的土地、林木等资产的管理有明确规定的，从其规定。
 第三十七条  本条例自2000年5月1日起施行。
 
+— 3 —

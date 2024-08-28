@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省家庭教育促进条例
@@ -111,3 +112,4 @@
 第三十五条  本条例自2020年1月1日起施行。
 
 
+— 9—

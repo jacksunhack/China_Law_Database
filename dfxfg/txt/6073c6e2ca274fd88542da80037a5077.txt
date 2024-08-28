@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市实施全民义务植树条例
@@ -69,3 +70,4 @@
 第二十七条  人民解放军驻渝部队、人民武装警察部队开展义务植树，按国务院和中央军委的规定执行。
 第二十八条  本条例自1998年7月1日起施行。
 
+— 3 —

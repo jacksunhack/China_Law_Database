@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市电动车管理条例
 
@@ -100,3 +101,4 @@
 
 第二十八条  电动独轮车、电动摇摆车、电瓶车等车种，按照法律法规的有关规定监管。
 第二十九条  本条例自2017年6月1日起施行。
+—#—

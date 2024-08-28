@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 三都水族自治县水库保护管理条例
@@ -108,3 +110,4 @@
 
 第二十九条  本条例自2014年5月1日起施行。
 
+— 1 —

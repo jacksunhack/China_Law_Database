@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市建筑废弃物管理条例
@@ -132,3 +133,4 @@
 第三十七条  古交市、清徐县、阳曲县、娄烦县对建筑废弃物的产生、运输、中转、消纳、利用等的管理，参照本条例执行。
 第三十八条  本条例自2018年5月1日起施行。
 
+1

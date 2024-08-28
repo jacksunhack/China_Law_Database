@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 昆明市户外广告管理条例
 
@@ -107,3 +109,4 @@
 第三十五条  本条例自2011年1月1日起施行。
 
 
+—— - 9 - ——

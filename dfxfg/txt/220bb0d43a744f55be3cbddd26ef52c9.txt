@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市大气污染防治条例
@@ -96,3 +98,5 @@
 第三十六条  本条例自2001年1月1日起施行。
 
 
+　— 1 —　
+　

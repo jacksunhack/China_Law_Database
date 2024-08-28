@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省城乡供水管理条例
@@ -164,3 +166,4 @@
 第五十九条  本条例自2011年3月1日起施行。
 
 
+─ # ─  

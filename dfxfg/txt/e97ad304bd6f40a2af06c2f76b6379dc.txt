@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省实施宪法宣誓制度办法
@@ -19,3 +21,4 @@
 第十条   本办法自2016年1月1日起施行。
 
 
+─ # ─  

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州剑江河流域
@@ -127,3 +129,4 @@
 
 第四十二条  自治州人民政府应当根据本条例制定实施细则。
 第四十三条  本条例自2015年8月8日起施行。
+— 1 —

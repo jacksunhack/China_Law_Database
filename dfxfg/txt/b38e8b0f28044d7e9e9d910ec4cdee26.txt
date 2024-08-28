@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 靖州苗族侗族自治县自治条例
@@ -129,3 +130,4 @@
     第六十一条  每年的九月二十七日为自治县成立纪念日，全县休假一天。
     第六十二条  本条例自湖南省人民代表大会常务委员会批准之日起施行。
 
+#

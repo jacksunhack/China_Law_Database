@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省劳动保护条例
@@ -108,3 +110,4 @@
 第五十六条  省人民政府可以根据本条例制定实施办法。
 第五十七条  本条例自1994年1月1日起施行。
 
+─ 1 ─  

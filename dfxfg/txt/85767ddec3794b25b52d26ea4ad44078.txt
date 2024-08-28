@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁夏回族自治区农村集体经济审计条例
@@ -85,5 +86,4 @@
 
 第二十三条  乡（镇）人民政府指定的机构和村民委员会代行农村集体经济组织职能的，适用本条例。
 第二十四条  本条例自2000年7月1日起施行。
-
 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市建设工程安全生产管理条例
@@ -144,3 +146,4 @@
 军事建设工程安全生产的监督管理，不适用本条例。
 第五十五条  本条例自2009年5月1日起施行。
 
+─ # ─  

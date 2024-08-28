@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 兰州市城市园林绿化管理办法
@@ -80,3 +82,4 @@
 
 　　第二十七条  本办法规定的绿化补偿费由市人民政府依据有关规定确定后，报省物价行政主管部门审批。
 　　第二十八条  本办法自公布之日起施行。
+      — 1 —    

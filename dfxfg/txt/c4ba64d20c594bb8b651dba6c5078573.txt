@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省档案条例
@@ -123,3 +124,4 @@
 第六章  附则
 
 第四十条  本条例自1999年1月1日起施行。
+— # —

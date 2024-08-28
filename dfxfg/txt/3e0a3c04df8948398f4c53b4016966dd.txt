@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 昆明市生猪屠宰管理条例
@@ -116,3 +117,4 @@
 ​
 第三十八条　本条例所称生猪产品，是指生猪屠宰后未经加工的胴体、肉、脂、脏器、血液、骨、头、蹄、皮。
 第三十九条　本条例自2012年7月1日起施行。
+－1－　

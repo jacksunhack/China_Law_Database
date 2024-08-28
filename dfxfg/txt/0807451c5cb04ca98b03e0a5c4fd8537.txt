@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区乌兰牧骑条例
@@ -54,3 +55,4 @@
 （四）有其他玩忽职守、滥用职权、徇私舞弊行为的。
 第二十七条  本条例自2019年11月1日起施行。
 
+#

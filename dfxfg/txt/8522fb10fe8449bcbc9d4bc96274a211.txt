@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省著作权保护条例
@@ -90,3 +91,4 @@
 第六章　附则
 
     第三十八条　本条例自2004年7月1日起施行。
+- 9 -

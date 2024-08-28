@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 甘肃省集体合同条例
 
 （2011年7月29日甘肃省第十一届人民代表大会常务委员会第二十二次会议通过）
@@ -184,4 +185,3 @@
 第九章  附则
 
 　　第五十三条  本条例自2011年10月1日起施行。
-

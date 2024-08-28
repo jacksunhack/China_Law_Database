@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁夏回族自治区公证条例
@@ -10,8 +11,8 @@
 第三章　公证效力
 第四章  公证管辖
 第五章　公证程序
-　法律责任
-  附    则
+第六章  　法律责任
+第七章    附    则
 
 第一章  总则
 

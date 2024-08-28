@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省地质灾害防治条例
@@ -177,3 +178,4 @@
 　　防洪法律、法规对洪水引发的崩塌、滑坡、泥石流的防治有规定的，从其规定。
 第五十二条  本条例自2013年10月1日起施行。
 
+- 1 -

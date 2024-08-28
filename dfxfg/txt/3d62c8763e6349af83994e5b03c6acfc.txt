@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市禁止开山采石条例
@@ -32,3 +34,4 @@
 违反本条例规定颁发的采矿许可证，依法予以撤销。
 第十四条  本条例自2000年2月1日起施行。
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省军事设施保护办法
@@ -95,3 +96,4 @@
 第六章　附则
 
 　　第三十五条　本办法自公布之日起施行。
+1

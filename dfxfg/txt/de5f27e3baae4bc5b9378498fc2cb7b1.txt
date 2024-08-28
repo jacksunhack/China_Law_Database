@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南阳市优化营商环境条例
@@ -122,3 +123,5 @@
 第四十七条  本条例自2022年10月1日起施行。
 
 
+— 1 —
+  

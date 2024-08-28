@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区建筑条例
@@ -192,3 +193,4 @@
 　　第六十六条　本条例的具体应用问题由厦门市人民政府负责解释。
 　　第六十七条　本条例自１９９７年１０月１日起施行。
 
+— # —

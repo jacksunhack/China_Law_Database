@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市志愿服务条例
@@ -80,3 +81,4 @@
 第七章  附  则
     
     第三十一条  本条例自2005年6月6日起施行。
+— 5 —  

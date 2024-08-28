@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省长征国家文化公园条例
@@ -100,3 +101,4 @@
 第五十一条  本条例所称的县级以上人民政府，是指长征国家文化公园所在地人民政府。
 第五十二条  本条例自2021年7月1日起施行。
 
+— 1 —

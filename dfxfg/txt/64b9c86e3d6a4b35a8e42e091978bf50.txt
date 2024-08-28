@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区预防未成年人犯罪条例
@@ -123,3 +124,4 @@
 
 　　第四十二条  本条例自2016年11月1日起施行。
 
+— 1 —

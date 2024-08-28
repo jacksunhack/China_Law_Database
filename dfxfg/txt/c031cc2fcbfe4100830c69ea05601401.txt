@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 山东省农村供水条例
@@ -140,3 +141,4 @@
 ​
 第五十条　本条例所称规模化供水工程，是指设计日供水一千立方米以上或者设计供水人口一万人以上的集中供水工程。
 第五十一条　本条例自2024年1月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省人大常委会同省人民代表大会
@@ -53,3 +54,4 @@
 
 　　第二十三条　省人大代表如有变动时，应当及时报告原选举单位转报省人大常委会备案。
 　　第二十四条　本办法自公布之日起施行。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市优化行政审批条例
@@ -56,3 +57,4 @@
 （五）要求申请人购买指定商品或者接受指定的与行政审批有关服务的；
 （六）擅自收费或者未按照法定项目和标准收费的。
 第二十二条  本条例自2014年10月1日起施行。
+1

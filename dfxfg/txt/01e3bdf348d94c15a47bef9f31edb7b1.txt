@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市海域使用管理条例
@@ -133,3 +134,4 @@
 第四十五条　本条例自2008年4月1日起施行。市人民政府1999年11月5日发布的《天津市海域使用管理办法》，同时废止。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 岫岩满族自治县岫玉资源保护条例
@@ -30,3 +31,4 @@
 第二十一条  本条例自1999年7月1日起施行。
 
 
+— 1 —

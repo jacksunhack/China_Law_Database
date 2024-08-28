@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 马边彝族自治县施行
@@ -24,3 +25,4 @@
 第十三条　本规定自1992年9月26日起施行。
 
 
+— 1 —

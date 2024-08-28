@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施《中华人民共和国
@@ -63,3 +64,4 @@
 第三十一条  本办法自公布之日起施行。
 
 
+#

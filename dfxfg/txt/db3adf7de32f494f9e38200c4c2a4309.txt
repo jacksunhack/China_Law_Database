@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市人民代表大会常务委员会关于进一
@@ -37,3 +38,4 @@
 　　十、违反本决定，未向市人大常委会报告整改情况或者整改不力的，由市人大常委会责成有关机关依法追究相关责任人的责任。
 　　十一、本决定自公布之日起施行。
 
+- 1 -

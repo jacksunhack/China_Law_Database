@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区环境保护条例
@@ -188,3 +189,5 @@
 　　（三）采样平台，是指供环境监测工作人员安全、方便地操作仪器的空间；
 　　（四）城市市区，是指城市规划区的建成区域。
 　　第六十九条　本条例自2016年9月1日起施行。
+1
+ 

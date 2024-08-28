@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 石家庄市优化营商环境条例
@@ -138,3 +139,4 @@
 第八章　附　　则
 ​
 第六十六条　本条例自2023年5月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省土地管理实施办法
@@ -170,3 +171,4 @@
 
 　　第五十三条　本实施办法有关数额表述的“以上”、“以下”均含本数。
 　　第五十四条　本实施办法自公布之日起施行。
+1

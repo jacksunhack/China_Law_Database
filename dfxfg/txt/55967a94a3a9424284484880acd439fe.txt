@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 柳州市城市绿化条例
@@ -150,3 +151,5 @@
 
 　　第四十五条  县辖区域的建制镇规划区范围内绿化管理可以参照本条例执行。
 　　第四十六条  本条例自2018年5月1日起施行。
+#
+

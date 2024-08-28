@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省凌家滩遗址保护条例
@@ -91,3 +92,4 @@
 
 第三十二条  马鞍山市人民政府可以依照本条例制定实施细则。
 第三十三条  本条例自2016年5月1日起施行。
+1

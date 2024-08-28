@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市实施《中华人民共和国
@@ -227,3 +228,4 @@
 第五十八条  居民委员会发包农村土地的，按照本办法执行。
 第五十九条  本办法自2007年7月1日起施行。
 
+— 4 —

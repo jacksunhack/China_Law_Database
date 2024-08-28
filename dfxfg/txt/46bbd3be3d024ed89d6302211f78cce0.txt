@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 漳州市农用地土壤污染防治办法
@@ -51,3 +52,4 @@
 第二十七条　本办法关于县（区）人民政府职责的规定，适用于市属开发区（投资区）管理委员会。
 第二十八条　本办法自2023年10月1日起施行。
 
+－1－　

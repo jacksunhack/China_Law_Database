@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省食品小作坊小经营店小摊点
@@ -183,3 +185,4 @@
 
     第四十九条  中小学生校外托餐场所、社区老年人日间照料餐厅等的监督管理依照本条例小餐饮的有关规定执行。
     第五十条  本条例自2016年12月1日起施行。
+      — 1 —    

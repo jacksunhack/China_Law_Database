@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省公共法律服务条例 
@@ -126,3 +128,4 @@
 第五十条　本条例自2022年12月1日起施行。
 
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省雷电灾害防御条例
@@ -65,3 +66,4 @@
 第二十七条  本条例所称防雷装置，是指接闪器、引下线、接地装置、电涌保护器及其他连接导体的总称。
 第二十八条  本条例自2009年3月1日起施行。
 
+1

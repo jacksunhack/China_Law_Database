@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 海口市人民代表大会议事规则
@@ -186,3 +187,4 @@
 ​
 第六十六条　本规则的解释，在市人民代表大会会议期间，由主席团解释；在闭会期间，授权常务委员会解释。
 第六十七条　本规则自公布之日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南充市乡村污水处理条例
@@ -119,3 +120,4 @@
 第五十五条  县（市、区）人民政府所在地城市建成区以外的街道办事处的污水处理参照本条例执行。
 第五十六条  本条例自2021年 12月1日起施行。
 
+— 15 —  

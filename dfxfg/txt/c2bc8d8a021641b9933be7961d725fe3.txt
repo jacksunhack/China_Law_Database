@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国国家
@@ -94,3 +95,4 @@
 　　第二十九条  地名用字违反本办法规定的，由主管地名工作的部门或者机构责令改正；拒不改正的，予以警告，并督促其限期改正。
 　　第三十条  本办法自2011年1月1日起施行。
 
+- 1 -

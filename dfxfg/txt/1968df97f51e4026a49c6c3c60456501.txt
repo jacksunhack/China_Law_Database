@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 江门市华侨华人文化交流合作促进条例
@@ -92,3 +93,4 @@
 ​
 第二十四条　除法律、法规另有规定外，港澳同胞在本市开展文化交流合作活动及其促进保障工作，可以参照本条例执行。
 第二十五条　本条例自2024年1月1日起施行。
+－1－　

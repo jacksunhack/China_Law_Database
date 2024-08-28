@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省实施《中华人民共和国
@@ -111,3 +112,4 @@
 第八章  附则
 
 第三十九条  本办法自2007年1月1日起施行。
+— 1 —

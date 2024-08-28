@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州突发事件应对条例
@@ -158,3 +159,4 @@
 
 第四十五条  本条例自2009年9月1日起施行。
 
+— 3 —  

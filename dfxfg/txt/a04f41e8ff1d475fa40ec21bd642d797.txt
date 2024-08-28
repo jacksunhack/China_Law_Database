@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市客运出租汽车管理条例
@@ -182,3 +183,4 @@
 第五十一条  本条例自2011年2月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市绿化条例
@@ -239,3 +240,4 @@
 本条例所称绿地率，是指绿化用地占建设工程项目可建设用地面积的比例。
 第七十五条　本条例自2012年7月1日起施行。《广州市城市绿化管理条例》和《广州地区古树名木保护条例》同时废止。
 
+- 1 - 

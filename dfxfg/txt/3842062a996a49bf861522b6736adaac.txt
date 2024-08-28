@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 长阳土家族自治县自治条例
@@ -197,3 +199,4 @@
 　　第七十七条　本条例由自治县人民代表大会常务委员会负责解释。
 　　自治县人民政府按照本条例制定其职权范围内的实施办法。
 　　第七十八条　本条例自2011年11月1日起施行。
+1

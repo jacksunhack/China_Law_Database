@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 温州市物业管理条例
@@ -268,3 +269,4 @@
 ​
 第七十四条　市物业管理主管部门应当制定临时管理规约、业主大会议事规则、管理规约、物业服务合同等示范文本。
 第七十五条　本条例自2023年5月1日起施行。
+－1－　

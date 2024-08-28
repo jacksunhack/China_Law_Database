@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
  
  
 海西蒙古族藏族自治州文明行为促进条例
@@ -179,3 +180,4 @@
  
 第五十条  本条例自2021年7月1日起施行。
 
+#  

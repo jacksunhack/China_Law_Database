@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市公共场所治安管理规定
@@ -89,3 +91,4 @@
 
 　　第二十二条　本规定的具体应用问题由公安局负责解释。
 　　第二十三条　本规定自公布之日起施行。本市过去发布的有关规定与本规定不符的，按本规定执行。
+1

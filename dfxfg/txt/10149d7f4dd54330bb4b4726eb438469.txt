@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 上海市建设工程质量和安全管理条例
 
@@ -213,3 +214,4 @@
 第八章  附则
 
 第七十条  本条例自2012年3月1日起施行。
+- 23 -

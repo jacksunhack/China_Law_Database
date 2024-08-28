@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州邛海保护条例
@@ -152,3 +153,4 @@
 第八章  附  则
     
 第五十七条  本条例自2015年10月1日起施行。自治州人民政府可以根据本条例制定实施细则。
+— 1 —  

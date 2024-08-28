@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市残疾人保障条例
@@ -56,3 +57,4 @@
 （三）租借残疾人证件虚假安排残疾人就业的；  
 （四）损毁、违法占用无障碍设施或者改变无障碍设施用途的。
 第三十一条  本条例自2010年3月1日起施行。
+#

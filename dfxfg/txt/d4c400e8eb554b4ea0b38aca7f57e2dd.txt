@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 连南瑶族自治县村镇规划建设管理条例
@@ -102,3 +104,4 @@
 
 
 
+	— 1 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沧州市快递条例
@@ -47,3 +48,4 @@
 第二十六条  其他违反本条例规定的行为，本条例未作出处罚规定的，依照相关法律、法规、规章的规定执行。
 第二十七条  本条例自2020年1月1日起施行。
 
+3

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省人民代表大会常务委员会
@@ -83,3 +85,4 @@
 此外，相关法规的法律责任中“行政处分”统一修改为“处分”。
 相关法规根据本决定作相应修改，条款顺序作相应调整，并重新公布。
 本决定自公布之日起施行。
+— # —

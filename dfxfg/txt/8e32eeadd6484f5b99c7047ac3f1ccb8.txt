@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 海南省人民代表大会常务委员会
 关于依法防控新型冠状病毒肺炎疫情 坚决打赢疫情防控阻击战的决定
@@ -34,3 +35,4 @@
 
 
 
+5

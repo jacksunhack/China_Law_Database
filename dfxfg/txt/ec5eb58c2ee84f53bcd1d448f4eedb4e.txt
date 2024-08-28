@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省非物质文化遗产条例
@@ -145,3 +146,4 @@
 第七章　附  则
 
 第四十七条　本条例自2014年10月1日施行。
+1

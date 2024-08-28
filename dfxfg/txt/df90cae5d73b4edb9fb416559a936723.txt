@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区农村扶贫开发条例
@@ -166,3 +167,5 @@
 第八章  附  则
 
 第六十一条  本条例自2018年8月1日起施行。
+- 1 -
+

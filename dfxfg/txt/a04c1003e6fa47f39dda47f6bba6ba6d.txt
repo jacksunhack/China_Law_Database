@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市供热用热条例
@@ -139,3 +141,5 @@
 本条例所称热用户，是指消费供热单位热能的单位和个人。
 第五十五条  本条例自2013年9月1日起施行。
 
+　— 1 —　
+　

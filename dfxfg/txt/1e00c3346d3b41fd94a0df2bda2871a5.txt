@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 本溪环城国家森林公园管理条例
@@ -100,3 +101,4 @@
 第三十二条  本条例自公布之日起施行。《本溪环城森林公园管理条例》同时废止。
 
 
+— 1 —

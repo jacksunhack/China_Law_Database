@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市实施《中华人民共和国
 母婴保健法》办法
@@ -116,3 +117,4 @@
 第九章　附　　则
 
 第四十条　本办法自1995年6月1日起施行。
+－1－

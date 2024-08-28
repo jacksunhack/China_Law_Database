@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省森林条例
@@ -138,3 +140,4 @@
 第四十九条  本条例自2003年2月1日起施行。
 1987年9月23日云南省第六届人民代表大会常务委员会第二十九次会议通过的《云南省施行森林法及其实施细则的若干规定》同时废止。
 
+—— 1 ——

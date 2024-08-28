@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省水利工程管理条例
@@ -156,3 +157,4 @@
 本条例所称水利工程建设，包括新建、改建、扩建和维修。
 第六十条  本条例自公布之日起施行。
 
+— # —  

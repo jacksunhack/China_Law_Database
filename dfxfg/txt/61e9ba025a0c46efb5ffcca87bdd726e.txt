@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市水资源管理条例
@@ -129,3 +131,5 @@
 本条例所称再生水，是指污水经处理后达到一定的水质标准，可在一定范围内重复使用的水。
 第六十条  本条例自2011年5月1日起施行。
 
+　— 1 —　
+　

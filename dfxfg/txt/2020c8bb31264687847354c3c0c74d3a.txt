@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 合肥市居家养老服务条例
@@ -114,3 +115,4 @@
 第三十二条  市人民政府应当依据本条例制定居家养老服务实施细则。
 第三十三条  本条例自2017年1月1日起施行。
 
+1

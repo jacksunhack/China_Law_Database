@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门市人民代表大会常务委员会
 关于废止《厦门经济特区公共资源市场配置
@@ -11,3 +12,4 @@
 
 
 
+— 3 —

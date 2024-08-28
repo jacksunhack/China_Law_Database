@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市消防条例
@@ -206,3 +207,4 @@
 
 第六十条  国家及省的法律、法规对铁路、民航、林业、军事设施、矿井地下部分等消防工作另有规定的，从其规定。
 第六十一条  本条例自2013年1月1日起施行。
+—— 7 ——

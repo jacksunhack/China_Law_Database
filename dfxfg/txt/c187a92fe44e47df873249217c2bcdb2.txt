@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市水资源管理条例
@@ -105,3 +106,4 @@
 第三十七条  本条例自2018年1月1日起施行。1994年8月30日大连市第十一届人民代表大会常务委员会第十二次会议通过的《大连市水资源管理条例》同时废止。
 
 
+- 1 -

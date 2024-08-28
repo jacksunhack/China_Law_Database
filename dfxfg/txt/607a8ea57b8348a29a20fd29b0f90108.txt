@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 厦门经济特区无偿献血条例
 
@@ -123,3 +124,4 @@
 第四十一条　本条例自1997年4月1日起施行。
 
 
+— 110 —

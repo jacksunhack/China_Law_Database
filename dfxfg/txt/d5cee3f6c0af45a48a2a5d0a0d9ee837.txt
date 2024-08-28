@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省水文管理条例
@@ -107,3 +108,4 @@
 第八章　附　　则
 ​
 第三十八条　本条例自2003年1月1日起施行。
+－1－　

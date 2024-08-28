@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市城市房屋租赁条例
@@ -137,3 +138,4 @@
 本条例实施前已经建立房屋租赁关系的，应当在本条例生效
 之日起九十日内依照本条例的规定进行登记。
 
+— 1 —

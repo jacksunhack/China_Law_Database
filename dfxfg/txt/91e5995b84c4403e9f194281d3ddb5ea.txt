@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区粮食安全保障条例
@@ -143,5 +144,8 @@
 
 第五十五条  大豆、油料、食用植物油的生产、收购、储存、加工、销售、运输等经营活动适用本条例。
 第五十六条  本条例自2022年11月1日起施行。
+
+
+- 1 -
 
 

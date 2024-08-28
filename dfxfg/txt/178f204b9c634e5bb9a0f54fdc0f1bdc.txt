@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市水资源节约利用条例
@@ -110,3 +112,4 @@
 
 第四十五条  本条例自2014年1月1日起施行。
 
+─ # ─  

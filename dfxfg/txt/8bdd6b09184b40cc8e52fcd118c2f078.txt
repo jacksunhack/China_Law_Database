@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省殡葬管理条例
@@ -149,3 +151,4 @@
 
 第五十四条  本条例自2021年6月1日起施行。
 
+─ # ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 上海市体育发展条例
@@ -188,3 +189,4 @@
 第十二章　附　　则
 ​
 第六十九条　本条例自2024年1月1日起施行。
+－1－　

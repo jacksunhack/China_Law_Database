@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省多元化解纠纷促进条例
@@ -123,3 +124,4 @@
 第六章　附　　则
 ​
 第五十二条　本条例自2019年1月1日起施行。
+－1－　

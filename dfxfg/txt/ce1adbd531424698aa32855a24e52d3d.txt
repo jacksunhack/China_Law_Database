@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市企务公开办法
@@ -27,3 +28,4 @@
 第十条　职工依照本办法对企务公开实施监督应当保护。对参与监督的职工打击报复造成后果的，依法追究其责任。
 第十一条　本办法自公布之日起施行。
 
+#　

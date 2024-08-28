@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省残疾预防和残疾人康复条例
@@ -171,3 +172,4 @@
 
 
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区基层卫生服务条例
@@ -116,3 +117,4 @@
 
 　　第四十六条　本条例自２０１１年５月１日起施行。
 
+— # —

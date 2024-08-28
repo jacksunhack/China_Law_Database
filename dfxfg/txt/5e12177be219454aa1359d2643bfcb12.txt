@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北川羌族自治县投资促进条例
@@ -100,4 +101,3 @@
 
 第三十六条  自治县人民政府根据本条例规定，制定实施办法。
 第三十七条  本条例自2022年8月1日起施行。
-

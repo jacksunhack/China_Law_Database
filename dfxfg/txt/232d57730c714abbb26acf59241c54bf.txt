@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省中医药条例
@@ -152,3 +153,4 @@
 第九章　附　　则
 ​
 第六十九条　本条例自2020年6月1日起施行。2001年7月28日安徽省第九届人民代表大会常务委员会第二十四次会议通过的《安徽省发展中医条例》同时废止。
+－1－　

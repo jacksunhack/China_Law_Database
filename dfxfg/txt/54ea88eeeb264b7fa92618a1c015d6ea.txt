@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区实施
 《中华人民共和国环境影响评价法》办法
@@ -90,3 +91,4 @@
 第三十八条　本办法自2012年8月1日起施行。
 　　　　
 
+#

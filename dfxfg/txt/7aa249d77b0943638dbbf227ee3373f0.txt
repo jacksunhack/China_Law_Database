@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市农业投资条例
@@ -79,3 +80,4 @@
 第三十四条  重庆市人民政府根据本条例制定实施办法。
 第三十五条  本条例自1998年3月1日起施行。
 
+— 3 —

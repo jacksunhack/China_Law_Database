@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市专利管理若干规定  
@@ -63,3 +64,4 @@
 （四）泄露举报人信息的； 
 （五）其他玩忽职守、滥用职权、徇私舞弊的行为。 
 第三十五条　本规定自2015年1月1日起施行。
+— 1 —

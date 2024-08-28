@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省建筑市场管理条例
@@ -69,3 +70,4 @@
 第六章　附　　则
 
 第三十三条　本条例自1995年1月1日起施行。
+－1－　

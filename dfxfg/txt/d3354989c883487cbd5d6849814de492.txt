@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市禁止猎捕陆生野生动物条例
@@ -30,3 +32,4 @@
 第十二条  本条例自2001年2月1日起施行。
 
 
+─ # ─  

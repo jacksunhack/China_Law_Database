@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
                                                                                    
 贵州省未成年人家庭教育促进条例
@@ -78,3 +79,4 @@
 （二）违反有关规定收取家庭教育服务费用的；
 （三）泄露未成年人及家庭隐私的。
 第四十一条  违反本条例规定的其他行为，法律、法规有处罚规定的，从其规定。
+— 1 —

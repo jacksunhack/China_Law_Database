@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邵阳市城市公园广场管理条例
@@ -99,3 +101,4 @@
 第三十一条  本条例自2018年1月1日起施行。
 
 
+- 1 -  

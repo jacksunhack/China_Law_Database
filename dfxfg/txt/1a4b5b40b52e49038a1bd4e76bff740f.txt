@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 聊城市失能老年人照护服务条例
@@ -102,3 +103,4 @@
 第七章　附　　则
 ​
 第三十四条　本条例自2023年5月1日起施行。
+－1－　

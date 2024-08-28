@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安历史文化名城保护条例
@@ -109,3 +110,4 @@
 第七章　附  则
 
 　　第四十二条　本条例自2002年8月1日起施行。
+— # —

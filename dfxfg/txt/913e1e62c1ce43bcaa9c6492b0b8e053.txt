@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福州市殡葬管理办法
 （1997年4月30日福州市第十届人民代表大会常务委员会第二十八次会议通过  1997年10月25日福建省第八届人民代表大会常务委员会第三十五次会议批准）
 
@@ -49,3 +50,4 @@
 
 
 
+—1—

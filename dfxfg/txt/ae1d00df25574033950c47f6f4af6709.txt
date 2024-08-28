@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省知识产权保护和促进条例
@@ -151,3 +152,4 @@
 第六章　附　　则
 ​
 第六十二条　本条例自2024年4月26日起施行。
+－1－　

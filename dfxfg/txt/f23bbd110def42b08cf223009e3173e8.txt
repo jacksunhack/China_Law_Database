@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省企业工资集体协商条例
@@ -159,3 +160,4 @@
 
 第五十三条 民办非企业单位、实行企业化管理的事业单位等开展工资集体协商，可以参照本条例执行。
 第五十四条 本条例自2019年3 月 1日起施行。
+— 1 —

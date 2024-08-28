@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 沈阳市城市建设档案管理条例
 
@@ -96,3 +98,4 @@
 
 第四十一条  乡村建设工程档案的管理，可以参照本条例执行。
 第四十二条  本条例自2022年1月1日起施行。
+— # —

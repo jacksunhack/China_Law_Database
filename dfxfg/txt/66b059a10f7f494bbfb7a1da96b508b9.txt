@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市城市公园和广场管理条例
@@ -71,3 +73,5 @@
 　　本市森林公园、洛浦公园的管理按照国家有关法律和本市有关法规执行。
 　　第二十三条　本条例自2010年3月1日起施行。
 
+  — 1 —    
+     

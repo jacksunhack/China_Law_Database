@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省企业民主管理条例
@@ -149,3 +150,4 @@
 
 　　第四十五条　事业单位、民办非企业单位的民主管理参照本条例的规定执行。
 　　第四十六条　本条例自2009年8月1日起施行。
+#　

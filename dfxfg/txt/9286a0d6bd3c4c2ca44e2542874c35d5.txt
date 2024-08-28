@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市大武水源地水资源管理办法
@@ -63,3 +64,4 @@
 当事人逾期不申请复议也不向人民法院起诉、又不履行处罚决定的，作出处罚决定的机关可以申请人民法院强制执行。 
 第二十九条　本办法自2003年12月1日起施行。 
 
+— 1 —

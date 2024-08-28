@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省股份合作企业条例
@@ -166,3 +167,4 @@
 第八章    附  则
 
 第四十五 条本条例自公布之日起施行。
+1

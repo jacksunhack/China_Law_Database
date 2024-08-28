@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 江苏省人民代表大会常务委员会关于
 在长江江苏水域严禁非法采砂的决定
@@ -25,3 +27,4 @@
 七、本决定自公布之日起施行。
 
 
+─ # ─  

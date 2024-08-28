@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市中小企业促进条例
@@ -124,3 +125,4 @@
 
 第四十条  本条例自2008年1月1日起施行。
 
+— 3 —

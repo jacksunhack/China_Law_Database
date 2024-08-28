@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省宗教事务管理若干规定
@@ -28,3 +29,4 @@
 第十四条   本规定自2023年1月1日起施行。
 
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省建筑市场管理条例
@@ -135,3 +136,4 @@
 第八章　附　　则
 ​
 第五十二条　本条例自2021年3月1日起施行。
+－1－　

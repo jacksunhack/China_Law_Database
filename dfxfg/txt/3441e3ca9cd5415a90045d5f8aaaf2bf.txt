@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省人民代表大会常务委员会关于批准
@@ -153,3 +154,4 @@
 第五十五条  市人民政府应当依据本条例制定相应的实施细则。
 第五十六条  本条例自2017年10月1日起施行。
 
+— # —

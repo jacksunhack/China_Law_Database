@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 峨边彝族自治县施行《中华人民共和国民法典》婚姻家庭编的补充规定
@@ -15,3 +16,4 @@
 第九条  本补充规定由峨边彝族自治县人民代表大会常务委员会负责解释。
 第十条  本补充规定自公布之日起施行。
 
+— 1 —  

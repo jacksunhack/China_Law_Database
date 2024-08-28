@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国未成年人保护法》办法
@@ -81,3 +83,4 @@
 第二十九条　本办法自公布之日起施行，1990年6月20日河北省第七届人民代表大会常务委员会第十四次会议通过的《河北省未成年人保护条例》同时废止。
 
 
+　— 1 —　

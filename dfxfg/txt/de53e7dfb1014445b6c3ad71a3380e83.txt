@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市城市出租汽车客运管理条例
@@ -242,3 +244,4 @@
 
 第六十二条  阿城区、呼兰区和各县（市）的出租汽车客运管理，可以参照本条例执行。
 第六十三条  本条例自2010年5月1日起施行。
+— # —

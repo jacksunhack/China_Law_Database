@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 海南省实施《中华人民共和国
 村民委员会组织法》办法
@@ -158,3 +160,4 @@
 城镇街道办事处及其上一级人民政府承担《村民委员会组织法》和本办法规定的乡镇人民政府的相应职责。
 第三十七条  本办法自公布之日起施行。
 
+1

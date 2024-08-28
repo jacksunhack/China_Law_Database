@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑洛新国家自主创新示范区条例
@@ -157,3 +158,4 @@
     第六十八条  本条例自2020年9月1日起施行。
 
 
+― 1 ―

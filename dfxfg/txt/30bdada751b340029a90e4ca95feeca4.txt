@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -46,4 +47,6 @@
 第二十五条  违反本规定有关条款的，依照《中华人民共和国体育法》及有关法律的规定予以处罚。
 第二十六条  本规定自公布之日起施行。
 
+
+— 1 —
 

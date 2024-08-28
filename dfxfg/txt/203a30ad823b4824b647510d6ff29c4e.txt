@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市预算审批监督条例
@@ -77,3 +78,4 @@
 第三十九条  本条例自2005年1月1日起施行。《沈阳市财政预算决算审批监督条例》同时废止。
 
 
+— 1 —

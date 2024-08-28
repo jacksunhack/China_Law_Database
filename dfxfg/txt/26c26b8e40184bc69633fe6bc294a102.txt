@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省爱国卫生条例
@@ -152,3 +153,4 @@
 （八）候车（机、船）室、公共交通工具；
 （九）法律、法规、规章规定的其他公共场所。
 第五十条　本条例自2021年3月1日起施行。
+－1－　

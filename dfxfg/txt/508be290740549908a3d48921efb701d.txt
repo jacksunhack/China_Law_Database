@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 东营市城市供水条例
@@ -176,3 +177,4 @@
 
 第五十六条  本条例自 2020年10月1日起施行。
 
+1

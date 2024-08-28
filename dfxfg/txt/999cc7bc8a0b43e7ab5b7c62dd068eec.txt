@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区养犬管理办法
@@ -82,3 +83,4 @@
 　　第三十七条　军、警等用犬，科研、医疗实验用犬，专业表演团体演出用犬，动物园观赏用犬，不适用本办法。
 　　第三十八条　本办法自２００７年４月１日起施行。
 
+— # —

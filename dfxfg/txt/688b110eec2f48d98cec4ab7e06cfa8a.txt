@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省西双版纳傣族自治州人民代表大会
@@ -16,3 +17,4 @@
 六、删去第十九条。
 七、删去第二十二条。
 
+—— 1 ——

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市未成年人保护条例
 
@@ -176,3 +177,4 @@
 第八章　附　　则
 
 第七十七条　本条例自2004年1月1日起施行。
+－1－

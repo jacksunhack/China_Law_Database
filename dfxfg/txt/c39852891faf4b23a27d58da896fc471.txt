@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 吉林省人口与计划生育条例
@@ -150,3 +151,4 @@
 第八章　附　　则
 ​
 第六十条　本条例自2011年9月1日起施行。
+－1－　

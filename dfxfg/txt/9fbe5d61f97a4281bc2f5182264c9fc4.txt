@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省公共场所治安管理条例
@@ -90,3 +91,4 @@
 
     第二十一条  本条例自1996年10月1日起施行。
 
+－ 7 －

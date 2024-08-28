@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 随州市曾随文化遗址保护条例
 
@@ -76,3 +77,4 @@
 第五章  附则
 
 第二十七条  本条例自2021年7月1日起施行。
+— # —

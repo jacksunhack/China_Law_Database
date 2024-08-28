@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区煤炭管理条例
 
@@ -118,3 +120,4 @@
 第五十条  本条例自2023年1月1日起施行。
 
 
+#

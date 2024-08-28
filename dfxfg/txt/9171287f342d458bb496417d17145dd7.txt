@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市促进企业技术进步条例
@@ -86,3 +87,4 @@
 第六章　附　则
 
 　　第三十七条　本条例自公布之日起施行。
+- 2 -

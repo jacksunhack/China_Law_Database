@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市城市景观风貌保护条例
@@ -156,3 +157,4 @@
 第六十条  本条例自2019年8月1日起施行。
 
 
+— 1 —  

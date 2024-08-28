@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省突发事件应对条例
@@ -185,3 +186,4 @@
 　　省人民政府有关部门接到国务院有关部门指令参与突发事件应对工作的，应当及时报告省人民政府。
 第六十二条  本条例自2013年9月1日起施行。
 
+- 1 -

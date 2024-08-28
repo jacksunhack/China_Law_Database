@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 白银市爱国卫生条例
@@ -127,3 +129,4 @@
 第七章  附    则
 
 第三十二条  本条例自2022年9月1日起施行。
+      — 1 —    

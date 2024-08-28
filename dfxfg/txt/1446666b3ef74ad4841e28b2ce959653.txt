@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省信息化条例
@@ -123,3 +124,4 @@
 第四十八条  本条例的具体应用问题由省人民政府负责解释。
 本条例自2013年11月1日起施行。
 
+2

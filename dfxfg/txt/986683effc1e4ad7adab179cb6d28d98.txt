@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 呼和浩特市街道办事处工作条例
@@ -108,3 +109,4 @@
 ​
 第四十八条　街道办事处辖区内设有村民委员会的，本条例关于居民委员会和居民的规定适用于村民委员会和村民。
 第四十九条　本条例自2023年7月1日起施行。
+－1－　

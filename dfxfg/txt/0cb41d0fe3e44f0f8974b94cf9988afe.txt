@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 咸宁市文明行为促进条例
@@ -178,3 +180,4 @@
 
 第五十六条  本条例自2022年10月1日起施行。
 
+*  15 —

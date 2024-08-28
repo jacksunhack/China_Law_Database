@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 锦州市海岸带保护与利用管理条例
@@ -73,3 +74,4 @@
 
 第二十六条 本市海岸带的具体范围和海岸带严格保护区、限制开发区、优化利用区的划分，由市人民政府批准并公布的海岸带保护与利用规划确定。
 第二十七条 本条例自2018年3月1日起施行。
+#

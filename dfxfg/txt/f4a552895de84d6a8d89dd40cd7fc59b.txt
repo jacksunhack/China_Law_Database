@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 印江土家族苗族自治县法制宣传教育条例
@@ -70,3 +71,5 @@
 考试不合格者，当年年度考核不得评为优秀等次。
 第三十二条  妨碍、干扰正常法制宣传教育的，由有关部门依照有关法律规定处罚。
 第三十三条  本条例自公布之日起施行。
+— 7 —
+

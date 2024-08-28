@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省基本农田保护条例
@@ -48,3 +49,4 @@
 第二十四条  当事人对行政处罚决定不服的，可以依法向本级人民政府和上一级行政主管部门申请复议，也可以依法向人民法院提起诉讼。
 第二十五条  本条例自公布之日起施行。
 
+— 1 —

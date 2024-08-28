@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省企业民主管理条例
@@ -170,3 +172,4 @@
 第五十六条　本条例自2015年11月1日起施行。《河北省企业职工代表大会条例》《河北省厂务公开条例》《河北省公司制企业职工董事职工监事条例》同时废止。
 
 
+　— 1 —　

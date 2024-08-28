@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省畜产品质量安全管理条例
@@ -106,4 +107,3 @@
 
 第三十六条   合法捕获、经人工饲养并用于食用的野生动物及其产品的质量安全管理，参照本条例执行。
 第三十七条   本条例自2004年5月1日起施行。
-

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区艾滋病防治条例
@@ -139,3 +140,5 @@
 第八章  附则
 
 　　第五十条　本条例自2013年7月1日起施行。2004年12月31日自治区人民政府发布的《广西壮族自治区艾滋病防治办法》同时废止。
+1
+ 

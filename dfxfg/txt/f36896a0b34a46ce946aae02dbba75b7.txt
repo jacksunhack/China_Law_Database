@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 上海市种子条例
@@ -134,3 +135,4 @@
 ​
 第四十八条　食用菌菌种、中药材种、草种的种质资源管理和选育、生产经营、管理等活动，参照本条例执行。
 第四十九条　本条例自2023年11月1日起施行。
+－1－　

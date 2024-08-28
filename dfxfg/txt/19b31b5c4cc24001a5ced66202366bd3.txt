@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 长春市电梯安全管理条例
@@ -215,3 +216,4 @@
 （四）国家明令淘汰的电梯；
 （五）因电梯设备本体原因导致检验不合格的电梯。
 第五十三条　本条例自2020年3月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区价格管理条例
@@ -127,3 +128,4 @@
 
 　　第六十三条　本条例的具体运用问题由厦门市人民政府负责解释。
 　　第六十四条　本条例自１９９７年１月１日起施行。
+— # —

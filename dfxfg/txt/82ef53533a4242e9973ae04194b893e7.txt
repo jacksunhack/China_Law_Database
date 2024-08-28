@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 保定国家高新技术产业开发区条例
@@ -82,3 +83,4 @@
 ​
 第三十九条　市人民政府确定由高新区管委会实行管理的其他区域，参照本条例执行。
 第四十条　本条例自2023年5月1日起施行。
+－1－　

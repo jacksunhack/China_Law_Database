@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省风景名胜区条例
@@ -159,3 +160,4 @@
 第六十一条  本条例自2010年8月1日起施行。1994年5月28日四川省第八届人民代表大会常务委员会第九次会议通过的《四川省风景名胜区管理条例》同时废止。
 
 
+— 17 —  

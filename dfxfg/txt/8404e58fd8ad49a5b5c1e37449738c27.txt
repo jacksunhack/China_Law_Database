@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 隆林各族自治县古茶树资源保护条例
@@ -119,3 +120,4 @@
 第六章　附　　则
 ​
 第三十八条　本条例自2024年6月1日起施行。
+－1－　

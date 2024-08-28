@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国体育法》办法
@@ -135,3 +136,4 @@
 第八章　附  则
 
 第五十三条　本办法自2003年1月1日起施行。
+- 28 -

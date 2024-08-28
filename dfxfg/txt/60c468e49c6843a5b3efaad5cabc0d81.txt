@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州
@@ -54,3 +55,4 @@
 第十八条  本补充规定未作规定的，按照《四川省世界遗产保护条例》执行。
 第十九条  本补充规定自2019年7月1日起施行。
 
+— 5 —  

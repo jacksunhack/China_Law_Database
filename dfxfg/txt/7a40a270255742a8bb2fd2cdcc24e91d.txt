@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区计量条例
@@ -142,3 +143,4 @@
 
     第五十七条  本条例未予规定的，按计量法律、行政法规及国务院技术监督行政部门制定的规章执行。
     第五十八条  本条例从1994年5月1日起施行。
+1

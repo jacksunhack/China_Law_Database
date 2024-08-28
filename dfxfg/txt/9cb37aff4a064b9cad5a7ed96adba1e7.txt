@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市荣誉市民称号授予办法
@@ -37,3 +38,4 @@
 第十一条　本办法自2009年5月1日起施行。
 
 
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 道真仡佬族苗族自治县自治条例
@@ -142,3 +144,4 @@
 
 第六十条  每年公历11月29日为自治县成立纪念日。
 第六十一条  本条例自1991年1月1日起施行。
+— 1 —

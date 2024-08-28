@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区地质环境管理条例 
@@ -101,3 +102,4 @@
 第七章  附则
 
 第三十条  本条例自2003年5月1日起施行。
+- 9 -

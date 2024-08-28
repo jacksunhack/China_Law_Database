@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省蚕种管理条例
@@ -111,3 +112,4 @@
 （三）原种，是指供生产一代杂交种用的蚕种；
 （四）一代杂交种，是指用原蚕按规定组合杂交繁育的蚕种。
 第四十一条　本条例自2009年1月1日起施行。
+- 28 -

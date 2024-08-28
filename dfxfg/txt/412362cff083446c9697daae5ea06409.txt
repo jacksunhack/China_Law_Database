@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省红河哈尼族彝族自治州
@@ -62,3 +64,4 @@
 （四）以殴打、辱骂、体罚等手段惩罚职工的。
 第二十八条  本条例经自治州人民代表大会通过，报云南省人民代表大会常务委员会批准，由自治州人民代表大会常务委员会公布施行。
 
+—— 1 ——

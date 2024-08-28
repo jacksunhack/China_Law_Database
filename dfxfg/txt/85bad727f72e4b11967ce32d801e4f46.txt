@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 烟台市燃放烟花爆竹管理条例
@@ -48,3 +49,4 @@
 第十九条  本条例自公布之日起施行。
 
 
+1

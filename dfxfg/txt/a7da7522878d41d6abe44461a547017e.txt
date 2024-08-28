@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省促进科学技术进步条例
@@ -125,3 +127,4 @@
 第五十二条　本条例具体应用的问题由省人民政府解释。
 第五十三条　本条例自公布之日起施行。
 
+- 7 -

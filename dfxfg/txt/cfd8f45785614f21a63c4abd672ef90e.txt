@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市劳动保障监察条例
@@ -132,3 +133,4 @@
 第三十七条　本条例自2004年7月1日起施行。
 
 
+#

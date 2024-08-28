@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省会计管理条例
@@ -138,4 +139,6 @@
 
 第三十七条  本条例自2010年10月1日起施行。1998年9月25日辽宁省第九届人民代表大会常务委员会第五次会议通过的《辽宁省会计管理条例》同时废止。
 
+
+— 1 —
 

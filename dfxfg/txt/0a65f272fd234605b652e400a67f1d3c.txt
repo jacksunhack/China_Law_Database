@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宿州市农村垃圾治理条例
@@ -124,3 +125,4 @@
 废弃电器电子产品污染环境防治依照《废弃电器电子产品回收处理管理条例》和《电子废物污染环境防治管理办法》的有关规定处理。
 第三十八条  本条例自2017年4月1日起施行。
 
+1

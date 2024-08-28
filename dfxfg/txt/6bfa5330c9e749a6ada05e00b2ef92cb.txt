@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省岭南中药材保护条例
@@ -165,3 +166,4 @@
     第六十七条  保护的岭南中药材种类名称，应当沿用《中华人民共和国药典》及其他法定名录中的名称。
     第六十八条  本条例自2017年3月1日起施行。
 
+1

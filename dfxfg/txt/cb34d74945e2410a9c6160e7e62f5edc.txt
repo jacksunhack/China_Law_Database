@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省植物检疫条例
@@ -99,3 +100,4 @@
 第四十四条  本条例自公布之日起施行。1984年公布的《四川省植物检疫实施办法》同时废止。
 
 
+— 11 —

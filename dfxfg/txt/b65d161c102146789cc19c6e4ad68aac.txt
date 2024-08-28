@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区建设工程安全生产管理条例
@@ -147,3 +148,4 @@
 
 第五十七条  抢险救灾和农牧民自建低层住宅的安全生产管理，不适用本条例。
 第五十八条  本条例自2015年4月1日起施行。
+- 1 -

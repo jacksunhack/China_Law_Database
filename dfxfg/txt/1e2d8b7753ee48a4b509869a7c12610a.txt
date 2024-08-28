@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省人体器官捐献条例
@@ -72,3 +73,4 @@
 第三十五条  公民死亡后捐献人体眼角膜、血管、骨骼等组织的，参照本条例执行。
 第三十六条  本条例自2015年11月1日起施行。
 
+— 1 —

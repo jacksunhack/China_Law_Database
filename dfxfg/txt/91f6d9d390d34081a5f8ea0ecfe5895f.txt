@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省气象条例
@@ -94,3 +95,4 @@
 第七章　附则
 
 第三十六条　本条例自2005年1月1日起施行。1996年10月4日吉林省人大常委会公布的《吉林省气象管理条例》同时废止。
+— 9 —

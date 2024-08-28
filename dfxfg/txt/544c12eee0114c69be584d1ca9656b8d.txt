@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区人民代表大会议事规则
@@ -142,3 +143,6 @@
 第十章  附  则
  
 第五十四条  本规则自公布之日起施行。
+- 1 -
+
+

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市村集体财务管理条例
@@ -137,3 +138,4 @@
 
 　　第四十一条　行政村建立了统一的集体经济组织的，村集体财务由其负责管理。
 　　第四十二条　本条例自2001年1月1日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 西藏自治区文化市场管理条例
 
@@ -160,4 +161,3 @@
 第七十三条　违反本条例规定构成犯罪的，依法追究刑事责任。
 第六章　附　则
 第七十四条　本条例自2009年12月30日起施行。
-

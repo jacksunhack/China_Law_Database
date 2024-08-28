@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区布达拉宫文化遗产保护管理条例
@@ -96,3 +98,4 @@
 第五章  附则
 
 第三十四条  本条例自2015年11月1日起施行。
+#

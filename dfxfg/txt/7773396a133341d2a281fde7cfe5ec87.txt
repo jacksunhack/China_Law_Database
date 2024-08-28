@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -83,4 +84,6 @@
 
 第三十九条  本办法自公布之日起施行。1987年7月25日辽宁省人民代表大会常务委员会公布施行的《辽宁省职业技术教育条例》同时废止。
 
+
+— 1 —
 

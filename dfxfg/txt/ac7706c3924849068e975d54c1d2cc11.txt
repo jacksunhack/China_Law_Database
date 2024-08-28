@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市人民防空工程建设管理办法
@@ -70,3 +71,4 @@
 第三十六条  市人民政府可以根据本办法制定实施细则。
 第三十七条  本办法自公布之日起施行。本市原发布的有关规定，凡与本办法不一致的，一律以本办法为准。
 
+— 1 —

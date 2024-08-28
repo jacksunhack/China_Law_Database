@@ -1,5 +1,5 @@
 ﻿
-Created with an evaluation copy of Aspose.Words. To remove all limitations, you can use Free Temporary License https://products.aspose.com/words/temporary-license/
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省气象灾害防御条例
@@ -164,6 +164,4 @@ Created with an evaluation copy of Aspose.Words. To remove all limitations, you 
 第四十三条  本条例自2014年12月1日起施行。
 
 
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2024 Aspose Pty Ltd.
 - 1 -
-

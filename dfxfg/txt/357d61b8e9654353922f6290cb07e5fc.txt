@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市爱国卫生条例
@@ -107,3 +108,4 @@
 
 第四十条  本条例所称病媒生物,是指能直接或者间接传播人类疾病,危害、威胁人类健康的生物,包括鼠、蚊、蝇、蟑螂等有害生物。
 第四十一条  本条例自2022年5月1日起施行。
+— 1 —

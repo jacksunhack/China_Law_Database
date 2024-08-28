@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 平凉市古树名木保护条例
@@ -109,3 +111,4 @@
 第四十一条  违反本条例规定，损害古树名木的，应当向所有者赔偿损失。
 古树名木损失鉴定办法由市绿化委员会协调相关部门制定。
 第四十二条  本条例自2022年11月1日起施行。
+      — 1 —    

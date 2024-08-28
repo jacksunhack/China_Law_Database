@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市晋祠保护条例
@@ -48,3 +50,4 @@
 第二十三条　本条例自公布之日起施行。
 
 
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省乡镇人民代表大会工作条例
@@ -112,3 +113,4 @@
   　1987年10月31日江西省第六届人民代表大会常务委员会第二十六次会议通过的《江西省乡镇人民代表大会工作暂行条例》同时废止。
 
 
+- 1 -

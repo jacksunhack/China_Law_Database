@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市基本农田保护规定
@@ -97,4 +98,6 @@
 
     第三十九条  基本农田保护区中蔬菜地的保护、建设、管理，按《银川市蔬菜基地管理暂行规定》执行。
 第四十条  本规定自1998年1月1日起施行。
+
+#
 

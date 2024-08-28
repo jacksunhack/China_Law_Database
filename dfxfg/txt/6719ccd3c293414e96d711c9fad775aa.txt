@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 大同市户外广告管理规定
 
@@ -65,3 +66,4 @@
 （二）擅自在大型文化、体育、公益活动或者各类商品交易会、展销会等活动上设置临时性户外广告的；
 （三）擅自张贴、散发、刻画、喷涂广告的。
 第二十九条　本规定自公布之日起施行。
+—#—

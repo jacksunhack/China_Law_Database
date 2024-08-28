@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮安市建筑垃圾管理条例
@@ -107,3 +109,4 @@
 第三十四条  本条例自2023年1月1日起施行。
 
 
+─ # ─  

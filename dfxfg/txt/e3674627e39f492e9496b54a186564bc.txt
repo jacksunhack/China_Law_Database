@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省人民代表大会常务委员会
@@ -64,3 +65,4 @@
 《海南省人口与计划生育条例》《海南省村民委员会选举办法》根据本决定作相应修改，并对章、条、款、项序号和顺序作相应调整，重新公布。
 
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 三都水族自治县民族文化村寨保护条例
@@ -84,3 +86,4 @@
 第三十二条  县人民政府可以根据本条例制定实施细则。
 第三十三条  本条例自2015年 5月1日起施行。
 
+— 1 —

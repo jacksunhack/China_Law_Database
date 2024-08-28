@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市平安建设条例
@@ -146,3 +147,4 @@ javascript:void(0);
 第七章  附则
 
 第六十八条  本条例自2022年8月1日起施行。2004年1月6日天津市第十四届人民代表大会常务委员会第八次会议通过、2016年3月30日天津市第十六届人民代表大会常务委员会第二十五次会议修正的《天津市社会治安综合治理条例》同时废止。
+#

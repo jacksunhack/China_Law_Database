@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省预算审查监督条例
@@ -158,3 +160,4 @@
     第五十一条  乡镇预算的审查监督参照本条例执行。
     第五十二条  本条例自2006年7月1日起施行。 
 
+- 7 -

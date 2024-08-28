@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市电梯安全管理条例
@@ -218,6 +219,5 @@
 第九章　附　　则
 
 　　第六十二条　本条例自2019年7月1日起施行。
-
 
 

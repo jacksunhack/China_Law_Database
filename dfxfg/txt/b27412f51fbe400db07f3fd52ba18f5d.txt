@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福州市气象探测环境和设施保护规定
@@ -34,3 +35,4 @@
 
 
 
+—1—

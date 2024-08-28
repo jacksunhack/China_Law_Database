@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省积石山保安族东乡族撒拉族自治县
@@ -145,3 +147,4 @@
 第六章  附则
 
     第四十六条  本条例自公布之日起施行。
+      — 1 —      

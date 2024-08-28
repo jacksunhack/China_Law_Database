@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省老年人权益保障条例
@@ -192,3 +193,4 @@
 第六十六条  本条例自2018年10月1日起施行。1989年3月10日四川省第七届人民代表大会常务委员会第八次会议通过的《四川省老年人合法权益保护条例》同时废止。
 
 
+— # —

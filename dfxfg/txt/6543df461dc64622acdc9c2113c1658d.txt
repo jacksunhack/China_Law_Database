@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市矿山地质环境保护条例
@@ -94,3 +95,4 @@
 
 
 
+— 1 —

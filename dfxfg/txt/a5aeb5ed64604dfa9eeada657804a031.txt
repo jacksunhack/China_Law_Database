@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省人口与计划生育条例
@@ -122,3 +123,4 @@
 　　第五十二条　省人民政府可以根据本条例制定实施细则和相关办法。
 　　第五十三条　本条例自2021年11月23日起施行。
 
+－1－

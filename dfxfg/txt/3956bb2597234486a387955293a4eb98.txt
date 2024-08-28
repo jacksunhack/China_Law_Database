@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区实施《中华人民共和国
@@ -45,3 +46,4 @@
 第二十五条  违反本办法规定应当给予处罚的其他行为，依照《渔业法》和有关法律、法规规定予以处罚。
 第二十六条  本办法自2004年9月1日起施行。
 
+#

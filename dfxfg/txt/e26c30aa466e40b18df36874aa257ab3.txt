@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区地方金融监督管理条例
@@ -131,3 +133,4 @@
 第七章  附则
 
 第四十六条  本条例自2020年12月1日起施行。
+#

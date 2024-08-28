@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省民兵预备役工作条例
@@ -103,3 +104,4 @@
 第九章　附则
 
 　　第三十五条　本条例自2003年11月1日起施行。
+1

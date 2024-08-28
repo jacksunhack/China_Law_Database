@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 景宁畲族自治县促进惠明茶产业发展条例
@@ -65,3 +66,4 @@
 
 
 
+— 7—

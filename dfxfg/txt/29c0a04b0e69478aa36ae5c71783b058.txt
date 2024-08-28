@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 鄂尔多斯市大气污染防治条例
@@ -132,3 +133,4 @@
 （五）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第五章　附　则
 第六十二条　本条例自2020年1月1日起施行。
+#

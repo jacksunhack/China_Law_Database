@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省保障税收服务发展条例
@@ -87,3 +88,4 @@
 第六章　附　　则
 ​
 第三十六条　本条例自2023年12月1日起施行。
+－1－　

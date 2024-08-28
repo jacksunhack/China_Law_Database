@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省统计管理条例
@@ -139,3 +141,4 @@
 第五十二条  本条例应用中的具体问题由省统计管理部门负责解释。
     第五十三条  本条例自公布之日起施行。1990年9月21日省人大常委会通过的《辽宁省统计监督检查条例》同时废止。
 
+                                                        #

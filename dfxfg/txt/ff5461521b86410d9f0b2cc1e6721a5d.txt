@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省呼中国家级自然保护区管理条例
@@ -51,3 +52,4 @@
 　　第二十五条　违反本条例规定，构成犯罪的，依法追究刑事责任。
 　　第二十六条　本条例自2002年12月1日起施行。
 
+1

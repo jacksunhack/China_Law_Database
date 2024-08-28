@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 徐州市城市重点绿地保护条例
@@ -47,3 +48,4 @@
 （四）违法办理行政许可手续的；
 （五）对发现或者举报的违反本条例行为，依照职责应予查处而不予查处的。
 第十九条　本条例自2011年1月1日起施行。
+－1－　

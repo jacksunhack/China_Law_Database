@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省促进政务服务便利化条例
@@ -139,3 +141,4 @@
 第七章　附则
 
     第五十八条　本条例自2020年7月1日起施行。
+─ # ─  

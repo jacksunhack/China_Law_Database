@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市物业管理条例
@@ -189,3 +190,4 @@
 第六十八条  本条例自2011年6月1日起施行。
 
 
+— 1 —

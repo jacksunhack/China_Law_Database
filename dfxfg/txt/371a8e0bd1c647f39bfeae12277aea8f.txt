@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区河道管理条例
@@ -108,3 +109,4 @@
 　　第三十八条  对本条例规定的罚款处罚，市水务主管部门应当在本条例施行之日起六个月内制定具体实施标准。
 　　第三十九条  本条例自2011年6月1日起施行。
 
+- 1 -

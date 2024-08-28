@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 江苏省安全生产条例
@@ -214,3 +215,4 @@
 ​
 第七十六条　本条例所称的小型、微型企业，按照国家有关中小企业划型标准执行。
 第七十七条　本条例自2023年7月1日起施行。
+－1－　

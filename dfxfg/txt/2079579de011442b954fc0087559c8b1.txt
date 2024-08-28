@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州个体工商户
@@ -83,3 +85,4 @@
 
 第三十二条  其他非公有制企业合法权益的保护适用本条例。
 第三十三条  本条例自公布之日起施行。
+— 1 —

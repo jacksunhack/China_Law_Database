@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区台湾同胞投资保障条例
@@ -159,3 +160,4 @@
 　　第五十四条　市人民政府根据本条例制定实施细则。
 　　第五十五条　本条例自２０１１年１月１日起施行。
 
+— # —

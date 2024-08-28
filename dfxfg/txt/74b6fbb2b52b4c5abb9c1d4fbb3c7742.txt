@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南京市促进中医药传承创新发展条例
@@ -146,3 +147,4 @@
 第六章　附　　则
 ​
 第四十七条　本条例自2023年11月16日起施行。
+－1－　

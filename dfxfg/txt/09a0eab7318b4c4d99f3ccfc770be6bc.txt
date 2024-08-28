@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 白沙黎族自治县特定林木保护管理条例
@@ -79,3 +81,4 @@
 第二十八条  本条例具体应用问题由自治县人民政府负责解释。
 第二十九条  本条例自公布之日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 阳泉市城市绿化条例
@@ -143,3 +144,4 @@
 （三）绿线，是指城市各类绿地范围的控制线。
 （四）绿化季节，本市绿化季节为每年的3月份至4月份、10月份至11月份。
 第五十二条　本条例自2018年7月1日起施行。
+－1－　

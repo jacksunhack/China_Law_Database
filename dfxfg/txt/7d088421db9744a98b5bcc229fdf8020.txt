@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省封山育林条例
@@ -75,3 +76,4 @@
 （四）利用职权非法干涉、阻挠封山育林工作实施的；
 （五）其他违法行为的。
 第三十一条  本条例自2008年1月1日起施行。
+1

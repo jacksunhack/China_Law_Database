@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省就业促进条例
@@ -143,3 +145,4 @@
 第八章  附则
 
 第五十八条  本条例自2010年5月1日起施行。
+      — 3 —    

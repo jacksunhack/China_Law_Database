@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省肃南裕固族自治县草原防火条例
@@ -60,3 +62,4 @@
 
 
 
+      — 1 —      

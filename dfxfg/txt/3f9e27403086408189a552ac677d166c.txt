@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -130,3 +131,4 @@
 第九章　附　　则
 
 第五十一条　本办法自2007年1月1日起施行。
+— 1 —

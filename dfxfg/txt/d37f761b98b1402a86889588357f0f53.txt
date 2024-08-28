@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市养犬管理条例
@@ -182,3 +183,4 @@
 第五十条  盲人、肢体重残人士携带的导盲犬、扶助犬，不受本条例关于禁养犬、禁止携带犬只进入有关场所和乘坐公共交通工具的限制。
 第五十一条  本条例自2022年6月15日起施行。
 
+— 1 —

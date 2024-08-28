@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省地下水资源保护条例
@@ -62,4 +63,6 @@
 （五）有其他滥用职权、徇私舞弊、玩忽职守行为的。
 第三十三条  本条例自2003年10月1日起施行。
 
+
+— 1 —
 

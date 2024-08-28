@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市土地管理条例
 
@@ -253,3 +254,4 @@
 第八十八条　本条例所称的城市发展控制区，是指中心城区和市人民政府确定的特定区域。
 第八十九条　国家对滨海新区土地管理另有规定的，从其规定。
 第九十条　本条例自2007年3月1日起施行。
+#

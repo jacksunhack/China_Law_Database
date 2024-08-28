@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省征兵工作条例
@@ -124,3 +126,4 @@
 
 第四十四条　本条例自2006年1月1日起施行。
 
+—— 4 ——

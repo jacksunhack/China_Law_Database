@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 天津市人民代表大会常务委员会
 关于推进实施国土空间发展战略的决定
 
@@ -17,3 +19,4 @@
 十、本决定施行前本市公布的其他法规与本决定规定不一致的，以本决定的规定为准。
 十一、本决定自公布之日起施行。
 
+#

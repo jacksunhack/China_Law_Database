@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省计量监督管理条例
@@ -109,3 +110,4 @@
 　　第三十九条 在本行政区域内的部队系统及军工国防企事业单位从事民品生产中的计量行为适用本条例。
 　　第四十条 本条例自1998年1月1日起施行。
 
+— 9 —  

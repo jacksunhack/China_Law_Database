@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市《文物保护法》实施细则
@@ -174,3 +175,5 @@
 　　第五十七条　本细则自公布之日起施行。本市过去颁布的有关文物保护的规定，凡与本细则相抵触的，以本细则为准。
 
 
+  — 1 —    
+     

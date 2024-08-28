@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省通用航空条例
@@ -121,3 +122,4 @@
 第八章　附  则
  
 第四十八条　本条例自2022年10月1日起施行。
+－1－　

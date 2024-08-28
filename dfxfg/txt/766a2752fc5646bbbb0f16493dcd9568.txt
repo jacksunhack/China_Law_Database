@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄山风景名胜区管理条例
@@ -91,3 +92,4 @@
 （六）其他滥用职权、玩忽职守、徇私舞弊行为的。
 第三十二条　黄山市人民政府依照本条例的规定，可以制定实施办法。
 第三十三条　本条例自2014年7月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省县乡两级人民代表大会
@@ -194,3 +195,4 @@
 第十章　附则
 
 　　第五十七条　本细则自2011年5月3日起施行。
+— # —

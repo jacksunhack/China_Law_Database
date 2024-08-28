@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国水法》办法
@@ -112,4 +113,3 @@
    第四十一条 本办法自公布之日起施行。
  
  
-

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁波市人民代表大会常务委员会
@@ -79,3 +80,4 @@
     此外，根据本决定对条文顺序和个别文字表述作相应调整。
 本决定自公布之日起施行。
 《宁波市机动车维修业管理条例》根据本决定作相应修改，重新公布。
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《中华人民共和国防沙
@@ -74,3 +76,4 @@
 　　第三十七条  法律法规对防沙治沙已有规定的，依照其规定执行。
     第三十八条  本办法自2018年9月1日起施行。
 
+      — 1 —    

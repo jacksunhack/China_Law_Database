@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市石林风景名胜区保护条例
@@ -117,3 +118,4 @@
 
 第四十七条  本条例自2008年7月1日起施行。
 
+—— 8 ——

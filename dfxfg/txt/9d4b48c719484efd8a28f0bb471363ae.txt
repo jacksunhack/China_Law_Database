@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省建设工程质量条例
@@ -128,3 +129,4 @@
 第五十三条  本条例自公布之日起施行。
 
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区城市绿化条例
@@ -188,3 +189,4 @@
 第五十八条　城市、镇规划区外的村庄可以根据当地实际情况科学布局绿化用地，改善生态环境，提高绿化水平。
 第五十九条　本条例自2012年1月1日起施行。
 
+1

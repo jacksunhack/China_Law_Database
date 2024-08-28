@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 铜陵市优化营商环境条例
@@ -62,3 +63,4 @@
 （四）主动挽回损失或者有效阻止危害结果发生；
 （五）法律、法规规定的其他情形。
 第二十五条　本条例自2023年7月1日起施行。
+－1－　

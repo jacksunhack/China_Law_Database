@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市实施《江苏省大气污染防治条例》办法
@@ -166,3 +168,4 @@
 
 第六十三条  本办法自2017年5月1日起施行。
 
+─ # ─

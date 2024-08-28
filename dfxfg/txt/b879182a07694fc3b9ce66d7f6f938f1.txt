@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区统计管理条例
@@ -48,3 +49,4 @@
  第二十九条  本条例自公布之日起施行。
 
 
+— 1 —

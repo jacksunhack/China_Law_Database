@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省非物质文化遗产保护条例
@@ -186,3 +188,4 @@
 第八章  附则
 
 第五十九条  本条例自2013年4月1日起施行。
+─ 1 ─  

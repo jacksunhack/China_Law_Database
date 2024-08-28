@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区烟草专卖管理条例
@@ -143,3 +144,5 @@
 第八章  附则
 
 　　第五十六条　本条例自1997年7月25日起施行。
+1
+ 

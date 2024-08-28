@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 昌江黎族自治县人民代表大会
@@ -23,3 +24,4 @@
 “自治县禁止家庭暴力，保护妇女、儿童、残疾人和老年人的合法权益。”
 本决定自公布之日起施行。
 《昌江黎族自治县自治条例》根据本决定作相应修改，重新公布。
+－1－　

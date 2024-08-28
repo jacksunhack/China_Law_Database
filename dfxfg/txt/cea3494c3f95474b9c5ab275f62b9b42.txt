@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省气候资源开发利用和保护条例
@@ -51,3 +52,4 @@
 （二）未在规定期限内出具书面评审意见的；
 （三）其他玩忽职守、滥用职权、徇私舞弊的。    
 第二十五条  本条例自2012年12月1日起施行。
+- 1 -

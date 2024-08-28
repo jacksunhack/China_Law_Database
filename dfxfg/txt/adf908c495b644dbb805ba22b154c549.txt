@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 来宾市秸秆露天禁烧和综合利用管理条例
@@ -107,3 +109,4 @@
     第三十五条  本条例自2021年11月1日起施行。
 
 
+#

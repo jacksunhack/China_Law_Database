@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 邯郸市减少污染物排放条例
@@ -95,7 +96,6 @@
 
 第五章 附则
 第三十四条 本条例自2014年7月1日起施行。
-
 
 
 

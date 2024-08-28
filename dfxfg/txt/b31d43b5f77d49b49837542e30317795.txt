@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 山西省人民代表大会
 代表议案的提出和处理办法
@@ -79,4 +80,3 @@
 第六章  附  则
 
 第二十七条  本办法自2021年3月1日起施行。
-

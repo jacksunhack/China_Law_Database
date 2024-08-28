@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市电梯安全条例
@@ -170,3 +172,4 @@
 第九章  附  则
 
 第四十九条  本条例自2021年1月1日起施行。
+— # —  

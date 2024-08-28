@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区城市绿化条例
@@ -145,3 +146,4 @@
 第三十九条　本条例自2021年1月1日起施行。
 
 
+- 23 -

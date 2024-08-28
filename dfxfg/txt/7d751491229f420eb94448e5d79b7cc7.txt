@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市旅游促进条例
@@ -72,3 +73,4 @@
 第六章  附则
 
 第三十条  本条例自2014年10月1日起施行。2007年7月1日起施行的《银川市旅游条例》同时废止。 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省司法鉴定管理条例
@@ -107,3 +108,4 @@
 
 第三十六条  仲裁活动中的鉴定，参照本条例执行。
 第三十七条  本条例自2002年9月1日起施行。
+— 5 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省矿产资源监督检查条例
@@ -57,3 +58,4 @@
 (二)不配合矿产资源监督检查工作的；
 (三)超越法定职权作出准予行政许可决定或者其他滥用职权、玩忽职守、徇私舞弊的。
 第二十三条　本条例自2013年3月1日起施行。
+— 1 —

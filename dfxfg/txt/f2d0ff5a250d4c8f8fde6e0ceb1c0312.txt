@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 日照市全域旅游促进条例
@@ -123,3 +124,4 @@
 第七章　附　　则
 ​
 第五十五条　本条例自2024年5月1日起施行。
+－1－　

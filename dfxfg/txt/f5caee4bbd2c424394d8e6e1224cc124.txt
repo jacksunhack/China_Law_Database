@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省人民代表大会常务委员会
@@ -39,3 +41,4 @@
 十二、本决定自2020年2月10日起施行，终止日期由云南省人民代表大会常务委员会另行公布。
 
 
+—— 1 ——

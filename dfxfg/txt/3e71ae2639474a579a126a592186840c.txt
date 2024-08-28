@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省实施《中华人民共和国
@@ -159,3 +160,4 @@
     第四十四条  本办法自1994年12月１日起施行。
 
 
+- 3 -

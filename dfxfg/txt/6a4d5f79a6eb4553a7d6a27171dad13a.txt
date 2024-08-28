@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区华侨房地产权益保护办法
@@ -120,3 +121,4 @@
 第四十六条　本办法自1997年10月1日起施行。
 
 
+1

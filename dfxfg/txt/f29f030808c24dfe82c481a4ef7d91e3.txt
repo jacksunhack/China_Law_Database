@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省档案管理条例
@@ -68,3 +69,4 @@
 有违法所得的，没收违法所得；造成损失的，责令赔偿损失。
 第三十四条  当事人对行政机关作出的具体行政行为不服的，可以依法申请行政复议或者提起行政诉讼。
 第三十五条  本条例自公布之日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区气候资源条例
@@ -127,3 +128,4 @@
 第六章  附则
 
 第五十条  本条例自2013年1月1日起施行。
+#

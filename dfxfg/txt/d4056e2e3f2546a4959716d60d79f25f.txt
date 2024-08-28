@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省侨属企业条例
@@ -34,3 +35,4 @@
 　　第二十条　香港特别行政区居民中的中国公民眷属和澳门同胞眷属以及本省各级归国华侨联合会在本省境内兴办的企业，参照本条例执行。
 　　第二十一条　本条例自公布之日起施行。
 
+－ # －

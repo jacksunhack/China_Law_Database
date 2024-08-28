@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省中小企业促进条例
@@ -138,3 +140,4 @@
 
     第四十三条  本条例自2008年9月1日起施行。
 
+- 7 -

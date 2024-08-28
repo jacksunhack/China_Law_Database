@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 广西壮族自治区开发区条例
 
 （2020年7月24日广西壮族自治区第十三届
@@ -167,3 +168,4 @@
 第五十七条  海关特殊监管区和设区的市、县级人民政府批准设立的开发区可以参照本条例执行。
 第五十八条  本条例自2020年9月1日起施行。
 
+1

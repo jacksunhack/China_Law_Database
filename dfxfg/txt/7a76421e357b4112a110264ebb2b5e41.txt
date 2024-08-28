@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省基本农田保护条例
@@ -103,3 +104,4 @@
 ​
 第三十三条　本条例具体应用中的问题由省土地管理部门负责解释。
 第三十四条　本条例自一九九六年九月一日起施行。
+－1－　

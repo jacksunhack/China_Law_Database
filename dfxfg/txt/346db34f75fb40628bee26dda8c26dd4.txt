@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省乡村振兴促进条例
@@ -224,3 +225,4 @@
 ​
 第九十五条　街道办事处、居民委员会履行乡村振兴促进工作相关职责的，适用本条例。
 第九十六条　本条例自2023年1月1日起施行。
+－1－　

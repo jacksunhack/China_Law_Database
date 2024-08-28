@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陇南市机动车停车场管理条例
@@ -126,3 +127,4 @@
 ​
 第四十三条　市、县（区）人民政府依照本条例，结合当地实际，可以制定具体的管理办法。
 第四十四条　本条例自2023年12月1日起施行。
+－1－　

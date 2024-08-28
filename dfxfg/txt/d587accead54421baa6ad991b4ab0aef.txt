@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省渔业条例
@@ -161,3 +163,4 @@
 第六十一条　本条例自2008年1月1日起施行。1990年9月8日河北省第七届人民代表大会常务委员会第十六次会议公布的《河北省渔业管理条例》同时废止。
 
 
+　— 1 —　

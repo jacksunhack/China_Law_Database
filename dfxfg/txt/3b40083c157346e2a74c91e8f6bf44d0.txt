@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省红十字会条例
@@ -157,3 +158,4 @@
 第五十二条  本条例自2022年5月8日起施行。《四川省〈中华人民共和国红十字会法〉实施办法》同时废止。
 
 
+— 17 —

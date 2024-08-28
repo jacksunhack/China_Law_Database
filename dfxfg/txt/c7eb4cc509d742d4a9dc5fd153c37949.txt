@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 中国（上海）自由贸易试验区
@@ -149,3 +150,4 @@
 
 第五十四条  本市制定的浦东新区法规和管理措施，在临港新片区的浦东新区范围内可以适用。
 第五十五条  本条例自 2022年3月1日起施行。
+- 1 -

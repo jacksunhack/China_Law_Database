@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 拉萨市市容环境卫生管理条例
 
@@ -188,3 +189,4 @@
 第七十五条  本条例自2011年12月1日起施行。1997年3月29日西藏自治区第六届人大常委会第二十三次会议批准的《拉萨市城市市容环境卫生管理条例》同时废止。
 
 
+—#—

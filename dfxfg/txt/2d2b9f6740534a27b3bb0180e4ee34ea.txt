@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省饮用水水源保护条例
@@ -153,3 +155,4 @@
 第四十七条  本条例具体应用的问题由省人民政府负责解释。
 第四十八条  本条例自2013年8月1日起施行。
 
+1

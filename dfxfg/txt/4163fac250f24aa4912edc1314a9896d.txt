@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省社会养老保险条例
@@ -106,3 +107,4 @@
     第三十九条  省人民政府根据本条例制定实施细则。
 　　第四十条  本条例自1998年11月1日起施行。
 
+- 1 - 

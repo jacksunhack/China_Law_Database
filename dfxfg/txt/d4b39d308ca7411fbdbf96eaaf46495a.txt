@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -171,3 +172,4 @@
 
 第五十八条　常务委员会立法、讨论决定重大事项、监督、任免等工作，本规则未作规定的，按照有关法律、法规规定执行。 
 第五十九条　本规则自通过之日起施行。
+1

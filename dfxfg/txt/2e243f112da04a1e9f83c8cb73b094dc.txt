@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市集会游行示威规定
@@ -127,3 +128,4 @@
 第三十七条　本规定自公布之日起施行。1986年12月31日郑州市第八届人民代表大会常务委员会第十六次会议通过的《郑州市关于游行示威的暂行规定》同时废止。
  
 
+— 3 —

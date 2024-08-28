@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 许昌市机动车和非道路移动机械
@@ -75,3 +76,4 @@
     第三十条  本条例自2020年6月1日起施行。
 
 
+― 1 ―

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 孝感市城乡规划条例
@@ -215,3 +216,4 @@
 第八章　附则
 
 　　第六十五条　本条例自2017年4月1日起施行。
+－ 1 －

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 兰州市殡葬管理办法
 
@@ -90,4 +91,3 @@
 第六章  附则
     
    第二十九条  本办法自1998年9月1日起施行。
-

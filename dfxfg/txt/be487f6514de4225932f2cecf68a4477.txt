@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省食盐加碘消除碘缺乏
@@ -88,3 +89,4 @@
 第三十一条  碘缺乏危害是指由自然环境(水、土壤等)缺碘、人体摄碘不足所引起的地方性甲状腺肿、地方性克汀病和儿童智力发育的潜在性损伤。
 第三十二条  本条例自公布之日起施行。
 
+- 1 -

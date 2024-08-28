@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉树藏族自治州民族团结进步条例
@@ -72,3 +74,5 @@
 
 
 
+#　
+		

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区企业集体合同条例
@@ -103,3 +104,4 @@
 
 第三十二条  签订区域性、行业性集体合同以及实行企业化管理的事业单位签订集体合同，可以参照本条例执行。
 第三十三条  本条例自公布之日起施行。
+#

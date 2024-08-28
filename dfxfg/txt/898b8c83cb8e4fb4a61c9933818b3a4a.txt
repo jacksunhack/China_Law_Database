@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省水文条例
@@ -62,3 +64,4 @@
 第二十七条  本条例自2010年6月1日起施行。
 
 
+—— 4 ——

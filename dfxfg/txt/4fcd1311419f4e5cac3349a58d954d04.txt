@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省防沙治沙条例
@@ -70,4 +71,6 @@
 第三十六条  对本省境内荒漠化土地的治理，由省人民政府参照本条例制定具体办法。
 第三十七条  本条例自2009年8月1日起施行。
 
+
+— 1 —
 

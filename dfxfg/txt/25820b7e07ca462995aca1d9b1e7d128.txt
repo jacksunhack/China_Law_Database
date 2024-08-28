@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市固体废物污染环境防治条例
@@ -139,3 +141,4 @@
 
 第四十三条  有害废物，是指未列入国家危险废物名录，但含有毒有害物质，或者在利用和处置过程中必然产生有毒有害物质的固体废物。  
 第四十四条  本条例自2009年7月1日起施行。
+─ # ─  

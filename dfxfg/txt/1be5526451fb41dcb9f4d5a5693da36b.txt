@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市物业管理条例
@@ -250,3 +251,4 @@
 第七章  附则
 
 第六十二条  本条例自2006年12月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市献血管理若干规定
@@ -40,3 +41,4 @@
 　　第十五条　本规定自2001年11月1日起施行。1995年8月16日济南市人民代表大会常务委员会公布的《济南市公民义务献血办法》同时废止。
 
 
+— 4 —

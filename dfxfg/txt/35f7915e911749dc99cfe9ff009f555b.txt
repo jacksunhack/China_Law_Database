@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市技术市场条例
@@ -82,3 +83,4 @@
 
 第三十五条　本条例自2003年10月1日起施行。
 市人大常委会1996年11月18日公布的《哈尔滨市技术市场管理条例》同时废止。
+— # —

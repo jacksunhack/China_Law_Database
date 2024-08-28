@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省城市建设监察条例
@@ -95,3 +97,4 @@
 
 第三十六条　对风景名胜区的规划、市政管理、公用事业、环境卫生和园林绿化方面的监察，参照本条例执行。
 第三十七条　本条例自2003年12月1日起施行。
+　— 1 —　

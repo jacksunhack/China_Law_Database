@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省耕地质量保护条例
@@ -92,3 +93,4 @@
 第六章　附则
 
 　　第三十八条　本条例自2014年2月1日起施行。
+1

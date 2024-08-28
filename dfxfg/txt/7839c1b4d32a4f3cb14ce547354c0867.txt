@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南京市科学技术进步条例
@@ -169,3 +170,4 @@
 第十章　附　　则
 ​
 第七十四条　本条例自2024年3月1日起施行。
+－1－　

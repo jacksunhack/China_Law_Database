@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国
@@ -69,3 +70,4 @@
 外国人在本省行政区域内未经主管机关批准不得参加本省公民举行的集会、游行、示威。
 第二十六条  本办法自公布之日起施行。
 
+1

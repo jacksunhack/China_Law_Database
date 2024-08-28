@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省预算审查监督条例
@@ -189,3 +190,4 @@
 第七章　附  则
 
 第五十三条　本条例自2016年1月1日起施行。
+1

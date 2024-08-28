@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省体育市场管理条例
@@ -109,3 +110,4 @@
 第十章　附则
 
 　　第三十五条　本条例自公布之日起施行。
+1

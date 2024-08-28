@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省社会信用信息管理条例
@@ -160,3 +161,4 @@
 
 第四十三条  本条例所称征信业监督管理机构，是指中国人民银行及其派出机构。
 第四十四条  本条例自2017年7月1日起施行。
+－ 1 －

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市特种行业治安管理条例
@@ -161,3 +162,4 @@
 （二）“机动车专项维修业”，指从事涉及更换发动机或者车身（架）、改装车型、改变车身颜色等专项维修项目的行业。
 第四十一条  本条例自2012年1月1日起施行。
 
+- 1 -

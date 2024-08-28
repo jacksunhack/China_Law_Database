@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市森林防火条例
@@ -46,3 +47,4 @@
 第二十二条 市人民政府应当按照本条例关于区森林防火工作的规定，赋予其派出机构相应的管理职责。
 第二十三条 本条例自1997年9月1日起施行。
 
+- # -

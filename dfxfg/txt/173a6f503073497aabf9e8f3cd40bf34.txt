@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天祝藏族自治县藏语言文字工作条例
@@ -45,3 +47,4 @@
 第二十五条  本条例自公布之日起施行。
 
 
+      — 1 —      

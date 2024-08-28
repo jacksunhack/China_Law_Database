@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区土地管理若干规定
@@ -98,3 +99,4 @@
 　　第三十五条　本规定的具体应用问题由厦门市人民政府负责解释。
 　　第三十六条　本规定自２０００年１０月１日起施行。
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省人口与计划生育条例
@@ -133,3 +134,4 @@
 第六章　附　　则
 ​
 第四十五条　本条例自2022年1月1日起施行。
+－1－　

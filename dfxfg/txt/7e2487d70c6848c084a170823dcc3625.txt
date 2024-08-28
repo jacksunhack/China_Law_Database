@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 大同市地下空间规划管理条例
@@ -68,3 +69,4 @@
 第六章　附　　则
 ​
 第二十八条　本条例自2024年4月1日起施行。
+－1－　

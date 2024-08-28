@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
    
 
    沈阳市农田水利设施条例
@@ -90,3 +92,4 @@
 
 第二十六条　本条例自2017年1月1日起施行。
 
+1

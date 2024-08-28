@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 拉萨市物业管理条例
@@ -363,3 +364,4 @@
 第七十九条　本条例自2023年8月1日起施行。
 
 
+－1－　

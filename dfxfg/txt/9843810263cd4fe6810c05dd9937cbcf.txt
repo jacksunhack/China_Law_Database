@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省种子条例
@@ -142,3 +144,4 @@
 第七章  附则
 
 第五十一条  本条例自2004年2月1日起施行。1996年6月11日江苏省人民政府发布的《江苏省农作物种子管理办法》同时废止。
+─ 1 ─  

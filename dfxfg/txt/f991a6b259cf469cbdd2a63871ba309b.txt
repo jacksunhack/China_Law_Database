@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 昌江黎族自治县自治条例
@@ -157,3 +158,4 @@
 第六十二条　自治县人民政府应当根据本条例制定其职权范围内的实施办法。
 第六十三条　自治县人民代表大会常务委员会对本条例负责解释并监督实施。
 第六十四条　本条例自公布之日起施行。
+－1－　

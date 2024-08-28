@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市未成年人保护条例
@@ -58,3 +59,4 @@
 
 
 
+— 1 —

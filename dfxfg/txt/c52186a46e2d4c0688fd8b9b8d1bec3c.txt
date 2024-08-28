@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 承德市水源涵养功能区保护条例
 
 （2018年4月27日承德市第十四届人民代表大会
@@ -105,4 +106,3 @@
 
 第四十条 市人民政府可以根据本条例制定实施办法或者配套规定。
 第四十一条  本条例自2018年10月1日起施行。
-

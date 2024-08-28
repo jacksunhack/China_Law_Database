@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省高速公路管理条例
@@ -146,3 +147,4 @@
     第五十四条  本条例所称高速公路经营者，是指依法取得政府还贷高速公路收费权的事业单位和依法取得经营性高速公路收费权的企业。
     第五十五条  本条例自2014年1月1日起施行。
 
+#　

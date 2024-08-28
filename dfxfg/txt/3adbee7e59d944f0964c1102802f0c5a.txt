@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国教师法》实施办法
@@ -129,3 +130,4 @@
 第四十八条  本实施办法自公布之日起施行。本实施办法公布前我省颁发的有关规定与本实施办法不一致的，以本实施办法为准。
 
 
+— 19 —

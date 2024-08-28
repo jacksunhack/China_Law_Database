@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省企业职工代表大会条例
@@ -103,3 +104,4 @@
 
 第三十条　事业单位建立职工代表大会或者职工大会制度的参照本条例执行。
 第三十一条　本条例自2006年1月1日起施行。
+- 1 -

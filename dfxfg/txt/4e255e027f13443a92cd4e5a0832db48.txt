@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市合同格式条款监督条例
@@ -79,3 +80,4 @@
 第二十八条  本条例自2006年1月1日起施行。
 本条例第十三条第一款规定应当备案的合同文本，在本条例施行前已经使用的，提供方应当自本条例施行之日起九十日内报工商行政管理部门备案。
 
+— 3 —

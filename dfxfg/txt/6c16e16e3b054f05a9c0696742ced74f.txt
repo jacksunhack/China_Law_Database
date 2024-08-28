@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区公路建设工程
@@ -139,3 +140,4 @@
 第八章  附  则
 
 第四十九条  本条例自2019年7月1日起施行。
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 延边朝鲜族自治州土地资产管理条例
@@ -108,3 +109,4 @@
 第四十条　本条例实施办法由自治州人民政府制定并公布实施。
 第四十一条　本条例解释权属自治州人民代表大会常务委员会。
 第四十二条　本条例自公布之日起施行。
+－1－　

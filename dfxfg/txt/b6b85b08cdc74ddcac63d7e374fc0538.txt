@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市扬尘污染防治办法
@@ -100,4 +101,3 @@
 　　第三十七条  本市主城区范围以外的扬尘污染防治，参照本办法执行。
 　　第三十八条  本办法具体应用问题由市人民政府负责解释。
 　　第三十九条  本办法自2017年7月1日起施行。
-

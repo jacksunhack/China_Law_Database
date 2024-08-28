@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 无锡市外送快餐卫生管理规定
@@ -75,3 +77,4 @@
 违反本规定，有关法律法规有处罚规定的，从其规定。
 第二十六条  本规定自2006年3月1日起施行。
 
+─ # ─

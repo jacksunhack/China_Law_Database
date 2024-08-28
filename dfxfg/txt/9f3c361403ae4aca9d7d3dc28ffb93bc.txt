@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省老年人权益保障条例
@@ -106,3 +108,4 @@
 第七章  附  则
 第四十二条  本条例自2017年1月1日起施行。1990年5月12日贵州省第七届人民代表大会常务委员会第十三次会议通过的《贵州省老年人保护条例》同时废止。
 
+— 1 —

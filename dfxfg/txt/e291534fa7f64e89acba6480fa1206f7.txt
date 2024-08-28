@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 白沙黎族自治县自治条例
@@ -151,3 +152,4 @@
 第五十二条　自治县人民政府根据本条例制定其职权范围内的实施办法。
 第五十三条　本条例由自治县人民代表大会常务委员会负责解释。
 第五十四条　本条例自公布之日起施行。
+#

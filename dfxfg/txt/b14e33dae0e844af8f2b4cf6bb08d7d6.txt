@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省村民委员会选举办法
@@ -178,3 +179,4 @@
 
 　　第四十六条　辖有村的街道办事处，在村民委员会选举中履行本办法规定的应当由乡级人民政府履行的职责。
 　　第四十七条　本办法自公布之日起施行。
+1

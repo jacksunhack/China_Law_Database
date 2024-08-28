@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省农产品质量安全条例
@@ -152,3 +154,4 @@
 第四十七条  本条例自2011年9月1日起施行。
 
 
+─ # ─  

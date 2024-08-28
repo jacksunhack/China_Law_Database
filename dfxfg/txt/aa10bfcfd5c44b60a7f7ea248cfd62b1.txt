@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑河市城市供热用热办法
@@ -54,3 +55,4 @@
 第二十三条 五大连池风景名胜区自然保护区供热用热以及相关活动，按照本办法执行。
 经济开发区、工业园区和乡镇集中供热用热，可以参照本办法执行。
 第二十四条 本办法自公布之日起施行。
+- 2 -

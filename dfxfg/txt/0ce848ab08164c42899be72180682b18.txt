@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市民兵预备役工作条例
@@ -127,3 +128,4 @@
 第三十九条  本条例自2001年8月1日起施行。
 
 
+— 1 —

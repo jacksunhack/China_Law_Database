@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区促进新型墙体材料
@@ -67,3 +68,4 @@
 （六）对投诉和控告不按规定受理和处理的；
 （七）其他玩忽职守、滥用职权、徇私舞弊、贪赃枉法的行为。
 　　第二十七条  本条例自2008年4月1日起施行。
+— 1 —

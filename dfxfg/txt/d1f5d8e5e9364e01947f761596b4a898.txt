@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 马鞍山市养老服务促进条例
 
@@ -156,3 +157,4 @@
 （七）特困人员，是指无劳动能力、无生活来源且无法定赡养、扶养义务人，或者其法定赡养、扶养义务人无赡养、扶养能力的老年人。
 第六十条  本条例自2022年5月1日起施行。
 
+— # —

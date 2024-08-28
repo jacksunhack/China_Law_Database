@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 菏泽市供热条例
@@ -171,3 +172,4 @@
 第五十八条  生产用热、公共建筑用热依照供热用热双方合同约定执行。
 第五十九条  本条例自公布之日起施行。
 
+1

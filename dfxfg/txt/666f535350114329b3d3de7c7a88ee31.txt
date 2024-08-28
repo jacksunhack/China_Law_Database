@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市城市轨道交通条例
@@ -168,3 +169,4 @@
 第五十五条  违反本条例规定的其他行为，依照有关法律、法规的规定予以处罚。
 第八章  附  则
 第五十六条  本条例自2018年6月1日起施行。
+— 1 —

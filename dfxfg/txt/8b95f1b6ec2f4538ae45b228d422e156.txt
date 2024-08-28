@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省节约用水条例
@@ -95,3 +96,4 @@
 第四十二条  违反本条例规定的其他行为,法律、法规有处罚规定的,从其规定。
 第六章  附  则
 第四十三条  本条例自2020年9月1日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市物业管理条例
@@ -210,3 +211,4 @@
 
 
 
+— 1 —

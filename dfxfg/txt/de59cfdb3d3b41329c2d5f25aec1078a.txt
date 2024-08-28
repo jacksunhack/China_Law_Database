@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州非物质文化遗产保护条例
@@ -136,3 +137,4 @@
 
 第四十条  本条例中所称的非物质文化遗产资料、实物和场所等，已被确定为文物的，适用文物保护法律、法规。
 第四十一条  本条例自2010年7月1日起施行。
+— 13 —  

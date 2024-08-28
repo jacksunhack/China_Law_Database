@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省人民代表大会议事规则
@@ -160,3 +162,4 @@
 第五十八条  本规则在省人民代表大会会议期间，由省人民代表大会主席团负责解释；在省人民代表大会闭会期间，授权省人民代表大会常务委员会负责解释。
 第五十九条  本规则自通过之日起施行。
 
+11

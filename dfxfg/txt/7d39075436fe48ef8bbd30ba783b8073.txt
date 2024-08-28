@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 红河哈尼族彝族自治州
@@ -133,3 +135,4 @@
 
 第三十四条  本条例自2020年3月1日起施行。
  
+—— 13 ——

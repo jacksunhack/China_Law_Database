@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 石家庄市生活垃圾分类管理条例
@@ -180,3 +181,4 @@
 　　第五十九条　危险废物、医疗废物、工业废物、建筑垃圾、绿化作业垃圾、农业生产废物的收集、运输和处置按照相关规定执行。
 　　第六十条　本条例自2021年5月1日起施行。
 
+— # —

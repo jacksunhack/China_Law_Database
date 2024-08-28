@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省燃气管理条例
@@ -166,3 +167,4 @@
 　　第五十四条　本条例自2007年1月1日起施行。1997年1月15日浙江省人民政府发布的《浙江省液化石油气管理办法》同时废止。
 
 
+— 17—

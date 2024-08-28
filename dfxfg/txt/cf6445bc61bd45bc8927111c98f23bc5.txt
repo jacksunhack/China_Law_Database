@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省地方病防治条例
@@ -87,3 +88,4 @@
 
 　　第四十条　本条例应用中的具体问题由省人民政府负责解释。
 　　第四十一条　本条例自2004年3月1日起施行。
+#　

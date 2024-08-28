@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省节约用水条例
@@ -150,3 +152,4 @@
 第六章  附  则
 
 第五十七条  本条例自2020年9月1日起施行。
+      — 1 —    

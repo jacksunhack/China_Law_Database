@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州森林草原防灭火条例
@@ -186,3 +187,4 @@
 第五十一条 自治州人民政府应当根据本条例制定实施办法。
 第五十二条 本条例自2021年2月1日起实施。
 
+— 3 —

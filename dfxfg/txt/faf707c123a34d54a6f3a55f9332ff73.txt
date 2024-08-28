@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市大遗址保护条例
@@ -81,3 +82,4 @@
 第二十九条  违反本条例规定的其他行为，法律、法规已有处罚规定的，从其规定。
 第三十条  本条例自2023年2月1日起施行。2013年5月1日起施行的《成都市大遗址保护管理办法》同时废止。
 
+— # —

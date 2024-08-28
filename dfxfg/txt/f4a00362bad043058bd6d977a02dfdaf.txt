@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔东南苗族侗族自治州苗医药侗医药
@@ -108,3 +110,4 @@
 第四十一条  自治州行政区域内的瑶医药、壮医药以及其他民族医药发展管理工作参照本条例执行。
 第四十二条  本条例自2014年10月1日起施行。
 
+— 1 —

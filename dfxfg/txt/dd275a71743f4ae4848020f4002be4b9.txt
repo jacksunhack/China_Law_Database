@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 白银市城市绿地管理条例
@@ -102,3 +103,4 @@
 ​
 第三十四条　本条例中的绿地分类与国家有关绿地分类标准的调整保持一致。
 第三十五条　本条例自2023年11月1日起施行。
+－1－　

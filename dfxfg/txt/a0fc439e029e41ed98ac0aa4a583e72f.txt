@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市技术市场条例
@@ -72,3 +73,4 @@
 
 　　第三十条　本条例应用中的具体问题由西宁市人民政府负责解释。
 　　第三十一条　本条例自2005年7月1日起施行。
+#　

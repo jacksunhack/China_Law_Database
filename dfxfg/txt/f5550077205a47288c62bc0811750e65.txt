@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市预防职务犯罪工作条例
@@ -83,3 +84,4 @@
 第二十三条  预防职务犯罪工作联席会议制度、考评制度由市人民检察院制定并报市人大常委会备案。
 第二十四条  本条例自2004年5月1日起实施。
 
+#

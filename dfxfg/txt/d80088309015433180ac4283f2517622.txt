@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省公路条例
@@ -129,3 +130,4 @@
 　　第四十七条　本条例由省交通主管部门负责应用解释。
 　　第四十八条　本条例自１９９９年７月１日起施行。１９９３年５月１６日黑龙江省第八届人大常委会第三次会议通过的《黑龙江省公路管理条例》同时废止。
 
+1

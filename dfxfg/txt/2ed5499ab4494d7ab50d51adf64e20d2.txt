@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿坝藏族羌族自治州红色资源保护传承条例
@@ -126,3 +127,4 @@
 第五章  附  则
 
 第四十七条  本条例自2023年6月1日起施行。
+— 1 —

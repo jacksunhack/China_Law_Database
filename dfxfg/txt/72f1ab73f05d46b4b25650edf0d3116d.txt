@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区见义勇为人员奖励和保护条例
@@ -93,3 +94,4 @@
 第七章  附  则
 
 第二十七条  本条例自2002年1月1日起施行。
+#

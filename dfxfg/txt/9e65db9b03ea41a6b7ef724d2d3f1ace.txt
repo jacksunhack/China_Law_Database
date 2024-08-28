@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省实施《中华人民共和国
@@ -88,3 +90,4 @@
 （八）侵害归侨、侨眷其他合法权益的。　
 第三十条　香港、澳门特别行政区居民及外籍华人居住在本省的眷属，参照本办法执行。　
 第三十一条　本办法自1993年11月1日起施行。
+—— 1 ——

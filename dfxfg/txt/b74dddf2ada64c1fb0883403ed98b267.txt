@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 合肥市公共资源交易管理条例
 
@@ -147,3 +148,4 @@
 
 第四十条　市人民政府依据本条例制定实施细则。
 第四十一条　本条例自2020年1月1日起施行。
+— # —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 龙岩市文明行为促进条例
 （2018年7月31日龙岩市第五届人民代表大会
@@ -204,3 +206,4 @@
 第六章  附    则
 第五十二条  本条例自2019年1月1日起施行。
 
+— 5 —

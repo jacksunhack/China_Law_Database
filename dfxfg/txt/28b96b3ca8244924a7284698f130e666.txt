@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘 肃 省 草 原 条 例
@@ -103,3 +105,4 @@
 
 第四十二条  本条例所称羊单位是指一只体重四十五公斤、日消耗一点八公斤标准干草的成年绵羊，或者与此相当的其他家畜。
 第四十三条  本条例自2022年5月1日起施行。
+      — 1 —    

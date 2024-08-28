@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市开发区条例
@@ -74,3 +75,4 @@
 　　第二十九条　市人民政府根据本条例制定有关具体管理规定。
 　　第三十条　本条例自2003年5月1日起施行。
 
+— 5 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市城市供热条例
@@ -112,4 +113,6 @@
 本条例所称热用户自用供热设施是指用户室内支管、散热器及其附属设备。
 本条例所称二部制热价是指基础热价和计量热价。
 第四十四条  本条例自2005年9月1起施行。
+
+#
 

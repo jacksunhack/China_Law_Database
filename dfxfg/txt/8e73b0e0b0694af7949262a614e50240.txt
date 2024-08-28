@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省人民代表大会常务委员会关于
@@ -15,3 +16,4 @@
 纳税人符合以上规定的，可申报享受税收优惠政策，并将相关材料留存备查。
 三、本决定自2021年9月1日起施行。
 
+— # —

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市养犬管理条例
@@ -93,3 +95,4 @@
 　　3、贝林登梗（Bedlington Terrier）、边境梗（Border Terrier）、牛头梗（Bull Terrier）、凯丽蓝梗（Kerry Blue Terrier）、美国斯塔福郡梗（American Staffordshire Terrier）等梗犬；
 　　4、比特犬（Pit Bull Terrier）、斗牛犬（Bull Dog）、松狮犬（Chow Chow）、大麦町犬（Dalmatian）等非运动犬；
 　　5、土佐犬（Tosa）、秋田犬（Akita）、雪达犬（Setter）等其他类别的犬。
+1

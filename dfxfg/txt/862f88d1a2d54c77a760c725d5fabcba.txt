@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市突发公共卫生事件应急条例
@@ -134,3 +135,5 @@
 
 第四十九条　本条例自2021年11月1日起施行。
 
+—#—      
+  

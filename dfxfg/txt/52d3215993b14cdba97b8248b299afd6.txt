@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 莆田市东圳库区水环境保护条例
 （2018年8月30日莆田市第七届人民代表大会
@@ -140,3 +141,4 @@
 
 
 
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 福建省人民代表大会常务委员会
 关于福建省人民代表大会常务委员会
 平潭综合实验区工作委员会的若干规定  
@@ -21,3 +22,4 @@
 第七条　实验区人大工委的工作经费列入实验区财政预算。 
 第八条　本规定自公布之日起施行。 
 
+— 1 —

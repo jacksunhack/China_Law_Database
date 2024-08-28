@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市档案管理条例
@@ -176,3 +177,4 @@
 
 　　第四十五条　本条例自2006年7月1日起施行。
 
+— 1 —

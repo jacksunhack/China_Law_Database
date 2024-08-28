@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福建省实施《中华人民共和国道路
@@ -335,3 +337,4 @@
 第九章　附则 
 第八十二条　本办法自2008年5月1日起施行。 
 
+—1—

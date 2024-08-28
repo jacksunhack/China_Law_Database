@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省盐业管理条例
@@ -101,3 +102,4 @@
 
 第四十六条  盐政执法的罚没收入和没收的盐产品、其它财物，按照有关法律、法规和省人民政府有关规定执行。
 第四十七条  本条例自公布之日起施行。
+— 9 —

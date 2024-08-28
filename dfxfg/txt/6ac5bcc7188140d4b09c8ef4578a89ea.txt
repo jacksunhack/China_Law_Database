@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 开都河流域生态环境保护条例
@@ -109,3 +110,4 @@
 第六章  附  则
 
 第四十条  本条例自2019年6月1日起施行。
+#

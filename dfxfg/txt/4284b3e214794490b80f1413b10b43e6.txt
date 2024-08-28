@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 深圳经济特区消费者权益保护条例
@@ -182,3 +183,4 @@
 ​
 第七十一条　国家对证券、保险、银行等金融服务的消费者权益保护另有规定的，从其规定。
 第七十二条　本条例自2024年1月1日起施行。
+－1－　

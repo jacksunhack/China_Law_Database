@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省全面深化改革促进条例
@@ -121,3 +122,4 @@
 第八章　附则
 
 　　第三十九条　本条例自2016年3月1日起施行。
+1

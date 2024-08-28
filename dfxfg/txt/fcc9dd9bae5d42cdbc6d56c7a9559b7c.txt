@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省河道管理条例
@@ -113,3 +114,4 @@
 第六章  附则
 
 第三十八条  本条例自2013年2月1日起施行。1984年6月9日辽宁省第六届人民代表大会常务委员会第八次会议通过的《辽宁省河道管理条例》同时废止。
+#

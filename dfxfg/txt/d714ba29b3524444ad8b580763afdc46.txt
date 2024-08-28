@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 常州市生活垃圾分类管理条例
@@ -191,3 +192,4 @@
 ​
 第五十七条　食品加工、餐饮服务、集体供餐等活动中产生的食物残余和废弃食用油脂等餐厨垃圾的管理，按照有关法律、法规和规章执行。
 第五十八条　本条例自2024年9月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宜宾市李庄古镇保护条例
@@ -115,3 +116,4 @@
 第六章  附  则
 
 第四十六条 本条例自2021年6月1日起施行。
+— 3 —

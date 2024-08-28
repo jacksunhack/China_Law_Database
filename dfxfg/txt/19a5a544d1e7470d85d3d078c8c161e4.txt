@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 孝感市人民代表大会
@@ -136,3 +138,4 @@
 第六章　附则
 
 　　第五十七条　本条例自公布之日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省预算执行审计条例
@@ -58,3 +59,4 @@
     （三）隐瞒或者捏造、歪曲事实的；
     （四）其他滥用职权、徇私舞弊、玩忽职守的。
     第二十四条  本条例自2009年5月1日起施行。
+1

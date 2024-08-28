@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海西蒙古族藏族自治州自治条例
@@ -180,3 +181,4 @@
 第八十七条  本条例自2021年12月1日起施行。
 
 
+1    

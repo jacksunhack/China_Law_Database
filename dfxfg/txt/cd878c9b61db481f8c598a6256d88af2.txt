@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省人民代表大会常务委员会
@@ -37,3 +38,4 @@
 本决定自公布之日起施行。
 《海南省规章设定罚款限额规定》《海南省企业和企业经营者权益保护条例》根据本决定作相应修改，重新公布。
 
+#

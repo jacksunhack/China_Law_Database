@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵州省电梯条例
@@ -258,3 +259,4 @@
 （五）因电梯设备本体原因导致检验不合格的电梯；
 （六）法律、法规规定的其他情形。
 第七十七条　本条例自2020年1月1日起施行。
+－1－　

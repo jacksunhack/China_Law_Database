@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市城市房地产开发经营管理条例
@@ -131,3 +132,4 @@
 
 　　第四十四条　在城市规划区外国有土地上从事房地产开发经营活动的，参照本条例执行。
 　　第四十五条　本条例自公布之日（1998年8月28日）起施行。
+#

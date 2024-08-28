@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 沧州市爱国卫生条例
@@ -68,3 +69,4 @@
 ​
 第三十二条　本条例所称病媒生物，是指能够将病原体从人或者其他动物传播给人的蚊、蝇、蟑螂、鼠和省级以上爱卫会规定的其他病媒生物。
 第三十三条　本条例自2024年7月1日起施行。
+－1－　

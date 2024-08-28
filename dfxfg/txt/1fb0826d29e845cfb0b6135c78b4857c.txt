@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 西藏自治区水污染防治条例
@@ -169,3 +170,4 @@
 第七章　附　　则
 ​
 第六十三条　本条例自2024年8月1日起施行。
+－1－　

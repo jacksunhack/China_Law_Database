@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河北省防汛避险人员转移条例
@@ -118,3 +119,4 @@
 ​
 第三十四条　因应对暴雨、洪水灾害等造成的城市内涝和其他极端天气采取的避险人员转移，参照本条例执行。
 第三十五条　本条例自公布之日起施行。
+－1－　

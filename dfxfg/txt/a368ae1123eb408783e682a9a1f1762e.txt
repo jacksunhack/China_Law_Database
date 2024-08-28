@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省人民代表大会常务委员会关于
@@ -97,3 +98,4 @@
 根据修改情况，对条文顺序、文字表述作了相应调整和完善。
 本决定自公布之日起施行。
 《陕西省地下水条例》根据本决定作相应修改，重新公布。
+－1－　

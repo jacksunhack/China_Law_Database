@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州高新技术产业开发区条例
@@ -98,3 +99,4 @@
 　　第四十六条　市政府应当依据本条例制定有关实施细则。
 　　第四十七条　本条例自2005年1月1日起施行。
 
+— 9—

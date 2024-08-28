@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市南沙新区条例
@@ -191,3 +192,4 @@
 第七十六条  南沙新区获得的优惠政策适用于南沙新区范围内的经济技术开发区、保税港区和高新技术产业园区。
 第七十七条  本条例自2014年9月1日起施行。
 
+1

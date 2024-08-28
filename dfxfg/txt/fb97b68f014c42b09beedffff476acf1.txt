@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省会计管理条例
@@ -95,3 +97,4 @@
 第六章  附    则
 
 第三十条  本条例自2022年12月1日起施行。
+      — 1 —    

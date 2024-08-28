@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 广东省气候资源保护和开发利用条例
 
 （2022年11月30日广东省第十三届人民代表大会常务委员会第四十七次会议通过）
@@ -87,3 +88,4 @@
 
 
 
+	— 1 —

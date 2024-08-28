@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 湖北省水利工程管理条例
@@ -135,3 +136,4 @@
 第七章　附　　则
 ​
 第三十九条　本条例自2024年3月1日起施行。
+－1－　

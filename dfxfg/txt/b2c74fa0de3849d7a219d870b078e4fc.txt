@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省技术市场条例
@@ -76,3 +77,4 @@
 
 
 
+— 7—

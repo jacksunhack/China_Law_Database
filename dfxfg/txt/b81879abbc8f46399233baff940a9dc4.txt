@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 安徽省学校安全条例
 
@@ -153,3 +154,4 @@
 
 第五十三条  经批准设立的其他教育机构的安全工作，参照本条例执行。
 第五十四条  本条例自2023年1月1日起施行。
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省档案条例
@@ -94,3 +95,4 @@
 第四十二条　本条例适用中的具体问题由省档案行政管理部门负责解释。 
 第四十三条　外商投资企业档案的管理按国家有关规定执行。 
 第四十四条　本条例自1998年1月1日起施行。
+- 28 -

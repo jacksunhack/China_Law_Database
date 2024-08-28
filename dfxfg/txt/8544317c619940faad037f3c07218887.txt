@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省景谷傣族彝族自治县自治条例
@@ -147,3 +149,4 @@
 
 
 
+—— 1 ——

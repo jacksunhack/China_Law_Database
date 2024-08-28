@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 扬州市大运河文化遗产保护条例
@@ -133,3 +134,4 @@
 ​
 第四十七条　与大运河相关的非物质文化遗产的保护、传承和利用，本条例未规定的，依照《扬州市非物质文化遗产保护条例》执行。
 第四十八条　本条例自2023年6月22日起施行。
+－1－　

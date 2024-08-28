@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 威海市饮用水水源地保护条例
@@ -119,3 +120,4 @@
 第四十二条  本条例自2017年11月1日起施行。
 
 
+1

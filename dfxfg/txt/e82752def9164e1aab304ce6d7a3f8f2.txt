@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省集体林业管理条例
@@ -95,3 +97,4 @@
 
 第三十四条  本条例自公布之日起施行。
 第三十五条  本省过去发布的有关规定与本条例有抵触的，一律按本条例执行。
+#

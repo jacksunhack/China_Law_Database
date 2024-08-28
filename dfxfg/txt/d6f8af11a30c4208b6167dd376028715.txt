@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市城镇养犬规定
@@ -48,3 +49,4 @@
 （五）滥用职权、玩忽职守、徇私舞弊的。
 第十三条  本规定自2005年1月1日起施行。
 
+— 1 —

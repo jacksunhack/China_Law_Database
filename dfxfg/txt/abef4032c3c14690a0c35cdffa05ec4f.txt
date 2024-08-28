@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 凉山彝族自治州大桥水库工程管理条例
@@ -101,3 +102,4 @@
 第七章  附  则
 
 第四十一条  本条例自2011年5月1日施行。
+— 11 —  

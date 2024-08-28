@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 资阳市中心城区市容和环境卫生管理条例
@@ -156,3 +157,4 @@
 第四十二条  本条例所称的主、次干道的范围，由市人民政府按照城市道路标准划定并公告。
 第四十三条  本条例自2020年6月1日起施行。
 
+— 15 —  

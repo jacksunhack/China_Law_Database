@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长沙市公路管理规定
@@ -59,3 +60,4 @@
 第二十八条  本规定经湖南省人民代表大会常务委员会批准后，由长沙市人民代表大会常务委员会公布实施。
 
 
+— 1 —

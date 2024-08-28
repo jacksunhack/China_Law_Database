@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 盐城市制定地方性法规条例
@@ -161,3 +162,4 @@
 第八章　附　　则
 ​
 第七十条　本条例自2016年5月1日起施行。
+－1－　

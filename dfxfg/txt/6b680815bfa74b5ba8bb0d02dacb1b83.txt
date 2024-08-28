@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省实施《中华人民共和国
@@ -70,3 +71,4 @@
 第二十四条　本实施办法具体应用中的问题由省人民政府主管部门负责解释。
 第二十五条　本实施办法自公布之日起施行。
 
+- 1 -

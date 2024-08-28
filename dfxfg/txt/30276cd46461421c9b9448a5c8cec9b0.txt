@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 白城市市政设施保护条例
@@ -142,3 +144,4 @@
 第四十三条  本条例自公布之日起施行。       
 
 
+#

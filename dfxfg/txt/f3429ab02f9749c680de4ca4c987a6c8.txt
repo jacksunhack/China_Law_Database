@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区消防条例
@@ -401,3 +402,4 @@
       本条例规定罚款处罚的，市公安机关消防机构应当制定具体处罚办法，与本条例同时施行。
       第一百条  本条例自2010年1月1日起施行。
 
+- 1 -

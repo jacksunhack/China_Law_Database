@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市保护和奖励维护社会治安
@@ -51,3 +53,5 @@
 　　第十九条　本条例自2003年2月1日起施行。
 
 
+  — 1 —    
+     

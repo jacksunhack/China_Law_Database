@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 
@@ -122,3 +124,6 @@
 本决定自2022年9月1日起施行。
 《内蒙古自治区法制宣传教育条例》《内蒙古自治区公共图书馆管理条例》《内蒙古自治区无线电管理条例》根据本决定作相应修改，重新公布。
 
+
+
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省人民代表大会常务委员会关于确定
@@ -13,3 +15,4 @@
 本决定自公布之日起施行。
 
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沧州市文明行为促进条例
@@ -84,3 +85,5 @@
 违反本条例，造成人身伤害或者财产损失的，依法承担民事责任；构成违反治安管理行为的，依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。
 第二十七条 本条例自2021年12月1日起施行。
 
+#
+ 

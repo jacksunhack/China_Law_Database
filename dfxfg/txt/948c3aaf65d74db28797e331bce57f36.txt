@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市人民代表大会常务委员会
@@ -17,3 +18,4 @@
 七、本市征收环境保护税后，不再征收排污费。
 八、本决定自2018年1月1日起施行。
 
+#

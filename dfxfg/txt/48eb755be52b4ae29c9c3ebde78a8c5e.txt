@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 河北省终身教育促进条例
 
@@ -85,3 +86,4 @@
 
 第四十条　本条例自2014年7月1日起施行。
 
+- 1 -

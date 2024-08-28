@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市公路管理条例
@@ -235,3 +236,4 @@
 第七十五条  本条例自2015年7月1日起施行。2002年3月27日重庆市第一届人民代表大会常务委员会第三十九次会议通过的《重庆市公路路政管理条例》同时废止。
 
 
+- 1 -

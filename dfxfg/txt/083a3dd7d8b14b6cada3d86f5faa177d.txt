@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区审计监督条例
@@ -91,7 +92,7 @@
 （一）全部使用财政性资金的；
 （二）未全部使用财政性资金，财政性资金占项目总投资的比例超过50%的；
 （三）财政性资金占建设项目总投资的比例在50%以下，但政府拥有项目建设、运营实际控制权的。
-监督的主要第二十二条市、区政府规定的达到一定投资限额以上的建设项目或者在限额以下但属于医疗、卫生、教育、城市基础设施等关系到国计民生的重点建设项目，审计机关对项目前期、项目预算执行和项目竣工决算进行审计监督。
+监督的主要XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX第二十二条市、区政府规定的达到一定投资限额以上的建设项目或者在限额以下但属于医疗、卫生、教育、城市基础设施等关系到国计民生的重点建设项目，审计机关对项目前期、项目预算执行和项目竣工决算进行审计监督。
 前款规定以外的建设项目，审计机关依法进行项目竣工决算审计。
 审计机关应当定期拟定审计投资限额标准和关系国计民生的重点项目名单，报本级政府行政首长批准后施行。
 第二十三条 审计机关对与政府投资项目直接有关的建设、设计、施工、监理、采购、供货等单位取得建设项目资金的真实性、合法性进行审计监督。
@@ -210,3 +211,4 @@
 本条例所称财务收支是指事业单位、国有及国有控股的企业和金融机构以及依法应当接受审计机关审计监督的其他单位，按照国家财务会计制度的规定，实行会计核算的各项收入和支出。
 第六十七条 市政府可以根据本条例制定实施细则。
 第六十八条 本条例自2014年10月1日起施行。
+1

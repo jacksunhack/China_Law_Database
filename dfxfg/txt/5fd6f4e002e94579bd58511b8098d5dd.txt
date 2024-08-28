@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市老年人权益保障条例
@@ -87,3 +88,4 @@
 第三十三条  本条例自2006年10月30日起施行。
 
 
+— 1 —

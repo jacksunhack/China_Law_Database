@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市义务教育条例
@@ -43,3 +44,4 @@
 第三十六条  本条例自2012年1月1日起施行。1995年3月1日起施行的《沈阳市九年制义务教育条例》同时废止。
 
 
+— 1 —

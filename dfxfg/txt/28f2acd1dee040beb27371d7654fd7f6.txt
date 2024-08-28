@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 门源回族自治县自治条例
@@ -128,3 +129,4 @@
 自治县回族的传统节日开斋节和古尔邦节放假，放假具体事宜由自治县人民政府另行规定。
 第六十八条  本条例自2022年1月1日起施行。
 
+1    

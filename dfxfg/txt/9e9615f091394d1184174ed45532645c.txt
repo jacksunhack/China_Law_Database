@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德宏傣族景颇族自治州人民代表大会
@@ -129,3 +131,4 @@
 第五十三条  本条例自公布之日起施行。
 
   
+—— 6 ——

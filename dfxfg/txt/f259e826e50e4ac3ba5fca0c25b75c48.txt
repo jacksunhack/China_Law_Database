@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宽城满族自治县地方公路条例
@@ -117,3 +119,4 @@
 第四十四条　自治县人民政府可以根据本条例制定实施办法。
 第四十五条　本条例具体应用中的问题，由自治县交通行政主管部门负责解释。
 第四十六条　本条例自发布之日起施行。
+　— 1 —　

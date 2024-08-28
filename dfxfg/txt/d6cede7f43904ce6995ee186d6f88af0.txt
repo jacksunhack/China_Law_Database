@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市制止价格欺诈和牟取暴利条例
@@ -112,3 +113,4 @@
 　　第二十八条　本条例自公布之日起施行。
 
 
+— 9 —

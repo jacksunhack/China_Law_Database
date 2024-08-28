@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市人民代表大会常务委员会
@@ -7,11 +8,11 @@
 
 目    录
 
- 总则
- 任免范围
- 任免程序
- 任免监督
- 附则
+第一章   总则
+第二章   任免范围
+第三章   任免程序
+第四章   任免监督
+第五章   附则
 
 第一章　总则
 

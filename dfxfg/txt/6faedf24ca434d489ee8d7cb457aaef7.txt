@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 洛阳市养犬管理条例
 （2022年8月26日洛阳市第十五届人民代表大会常务委员会第三十五次会议通过  2022年9月30日河南省第十三届人民代表大会常务委员会第三十五次会议批准）
@@ -82,3 +83,5 @@
 
 
 
+— 1 —
+  

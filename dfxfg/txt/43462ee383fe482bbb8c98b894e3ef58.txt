@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省气象管理规定
@@ -34,3 +35,4 @@
 　　第十七条  本规定自1997年3月23日起施行。
  
 
+- 1 - 

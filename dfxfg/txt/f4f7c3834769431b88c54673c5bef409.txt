@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 神农架国家公园保护条例
@@ -188,3 +189,4 @@
 第八章  附则
 
 第六十二条  本条例自2018年5月1日起施行。
+* 19 —

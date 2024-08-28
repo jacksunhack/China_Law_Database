@@ -1,4 +1,6 @@
 ﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 江西省电信条例
 
@@ -147,3 +149,5 @@
 第七章  附则
 
     第五十五条  本条例自2003年6月1日起施行。
+
+- 7 -

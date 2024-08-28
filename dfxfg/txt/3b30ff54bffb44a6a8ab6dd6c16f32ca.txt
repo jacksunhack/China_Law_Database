@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省城镇园林绿化条例
@@ -143,3 +145,4 @@
 第五十一条 本条例自2009年1月1日起施行。
 
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市性病防治条例
@@ -84,3 +85,4 @@
 
 　　第三十二条　本条例自1999年10月1日起施行。1991年6月7日市人民政府发布的《济南市性病防治管理办法》同时废止。
 
+— 8 —

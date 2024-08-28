@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州自治条例
@@ -185,3 +187,4 @@
 第七十二条  每年8月8日是自治州建州纪念日，全州放假1天。
 第七十三条  本条例自1987年1月1日起施行。
 
+— 1 —

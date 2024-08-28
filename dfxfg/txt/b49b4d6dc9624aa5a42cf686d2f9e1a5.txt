@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 达州市红色文化遗存保护利用条例
@@ -97,3 +98,4 @@
 第五章  附  则
 
     第三十五条  本条例自2021年11月1日起施行。
+— 3 — 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丰宁满族自治县矿产资源管理条例
@@ -97,3 +99,4 @@
 
 
 
+　— 1 —　

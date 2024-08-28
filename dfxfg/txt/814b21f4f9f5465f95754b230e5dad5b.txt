@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头稀土高新技术产业开发区条例
@@ -55,3 +56,4 @@
 　　科技创业服务中心及其入驻企业享受开发区的优惠政策。
 　　第二十八条　经海关批准，开发区可以设立保税仓库、保税工厂。
 　　第二十九条　本条例自公布之日（1999年10月20日）起施行。
+#

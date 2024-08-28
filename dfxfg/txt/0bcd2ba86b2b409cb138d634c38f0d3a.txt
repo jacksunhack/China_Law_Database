@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 榆林市节约用水条例
@@ -134,3 +135,4 @@
 抄  送：各县（市、区）人大常委会                                               
 榆林市人大常委会办公室         2020年6月25日印发
                
+1

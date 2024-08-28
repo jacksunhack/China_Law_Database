@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 梅州市客家菜传承发展促进条例
 
@@ -59,3 +61,4 @@
 鼓励单位和个人充分利用网络直播、短视频等大众传播方式以及博览会、展销会、商超等平台宣传推广客家菜。
 第二十一条  本条例自2023年5月1日起施行。
 
+— - 1 - —

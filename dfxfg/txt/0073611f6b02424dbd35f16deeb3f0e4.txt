@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省安全生产条例
@@ -208,3 +209,4 @@
 
     第七十一条  本省行政区域内非生产经营单位涉及安全生产活动的，依照本条例执行。
 第七十二条  本条例自2017年10月1日起施行。
+1

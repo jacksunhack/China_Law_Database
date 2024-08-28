@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市人民代表大会常务委员会
@@ -45,3 +46,4 @@
 修改后的条、款、项序号依次顺延，名称作统一表述。
 本决定自公布之日起施行。
 《呼和浩特市人民代表大会常务委员会讨论决定重大事项的规定》根据本决定作相应的修改，重新公布。 
+#

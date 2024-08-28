@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区规章设定罚款限额规定
@@ -10,3 +12,4 @@
 　　第四条  对违反行政管理秩序的同一行为，设区的市人民政府制定的规章设定的罚款数额，不得超过自治区人民政府制定的规章设定的罚款数额。
     第五条  本规定自公布之日起施行。　
 
+#

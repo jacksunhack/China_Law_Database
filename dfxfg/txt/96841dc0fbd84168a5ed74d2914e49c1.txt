@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市海洋环境保护条例
@@ -101,3 +102,4 @@
 第七章  附则
 
 第四十三条  本条例自2012年5月1日起施行。市人民政府1996年1月9日发布的《天津市海域环境保护管理办法》（市人民政府令第54号）同时废止。
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

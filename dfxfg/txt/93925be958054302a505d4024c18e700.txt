@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市燃气管理条例
@@ -144,3 +146,4 @@
 第五十九条  本条例具体应用问题由市人民政府负责解释。
 第六十条  本条例自公布之日起施行。一九九二年十月十二日由市人民政府颁布的《海口市煤气管理暂行规定》同时废止。
 
+1

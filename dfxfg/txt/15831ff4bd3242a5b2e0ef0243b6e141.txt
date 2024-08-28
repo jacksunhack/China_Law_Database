@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 伊犁哈萨克自治州全域旅游促进条例
@@ -137,3 +139,4 @@
 第九章  附  则
 
 第六十三条  本条例自2021年3月1日起施行。
+1

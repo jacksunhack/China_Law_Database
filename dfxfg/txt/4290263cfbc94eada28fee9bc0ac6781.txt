@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阜新市辽代城址塔墓葬保护条例
@@ -48,3 +49,4 @@
 第二十一条  公职人员违反本条例规定，滥用职权、玩忽职守、徇私舞弊的，由有关机关依法给予政务处分。
 第二十二条  本条例自2023年5月1日起施行。
 
+空— 1 —空

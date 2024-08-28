@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 临沧市人民代表大会及其常务委员会
@@ -150,3 +152,4 @@
 第七章  附  则
 
 第五十三条  本条例自公布之日起施行。
+—— 19 ——

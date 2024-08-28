@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区无线电管理条例
@@ -164,3 +165,4 @@
 第九章  附则
 
 第五十八条  本条例自2014年6月1日起施行。
+#

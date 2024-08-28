@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省计量监督管理条例
@@ -127,3 +128,4 @@
 第四十四条  本条例自1998年1月1日起施行。
 
 
+— 9 —  

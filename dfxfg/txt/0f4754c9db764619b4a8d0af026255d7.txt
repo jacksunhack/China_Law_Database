@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市科学技术普及条例
@@ -123,3 +124,4 @@
 第四十三条  本条例自2022年3月1日起施行。
 
 
+- 1 -

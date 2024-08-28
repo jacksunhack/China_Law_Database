@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市水利工程管理条例
@@ -145,7 +146,6 @@
 
 第五十六条  本条例所称公益性任务，是指承担防洪、排涝、抗旱、灌溉、原水供应、生态保护等任务。
 第五十七条  本条例自2019年12月1日起施行，《重庆市农村机电提灌管理条例》同时废止。
-
 
 
 

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施《集会游行示威法》办法
@@ -70,3 +72,4 @@
 外国人在本省行政区域内未经主管机关批准不得参加中国公民举行的集会、游行、示威。
 第二十四条  本办法执行中的具体问题由省公安厅负责解释。
 第二十五条  本办法自公布之日起施行。
+      — 1 —    

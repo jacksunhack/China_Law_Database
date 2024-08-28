@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省个体工商户
@@ -79,3 +81,4 @@
 
 第三十六条　本省的有关法规与本条例相抵触的，以本条例为准。
 第三十七条　本条例自公布之日起施行。
+—— 1 ——

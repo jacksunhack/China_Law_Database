@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省各级人民代表大会常务委员会
@@ -74,3 +75,4 @@
 第二十六条　本条例自2020年5月1日起施行。
 
 
+1

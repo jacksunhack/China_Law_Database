@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省人口与计划生育条例
@@ -156,3 +157,4 @@
 1999年12月18日黑龙江省第九届人民代表大会常务委员会第十三次会议通过的《黑龙江省计划生育条例》同时废止。
 
 
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 常州市历史文化名城保护条例
@@ -234,3 +236,4 @@
 第六十七条  本条例自2017年6月1日起施行。
 
 
+─ # ─

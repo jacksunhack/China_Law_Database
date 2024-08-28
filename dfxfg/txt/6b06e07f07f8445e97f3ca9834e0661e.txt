@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区消防条例
@@ -211,3 +212,4 @@
 本条例中的以上、以下包括本数。
 第六十一条  横琴新区以及经济功能区管理机构履行区人民政府的消防工作职责。
 第六十二条  本条例自2014年1月1日起施行。
+- 1 -

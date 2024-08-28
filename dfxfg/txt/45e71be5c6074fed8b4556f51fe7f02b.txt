@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 拉萨市水利工程管理条例
@@ -110,3 +111,4 @@
 
 第三十九条  本条例施行中的具体问题由拉萨市人民政府负责解释。
 第四十条  本条例自2000年7月1日起施行。
+- 1 -

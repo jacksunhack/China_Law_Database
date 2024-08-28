@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 博尔塔拉蒙古自治州农田防护林保护条例
@@ -72,4 +73,6 @@
 第二十八条  本条例自2023年1月1日起施行。
 
 
+
+#
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 潍坊市燃放烟花爆竹管理条例
@@ -53,3 +54,4 @@
 
 
 
+1

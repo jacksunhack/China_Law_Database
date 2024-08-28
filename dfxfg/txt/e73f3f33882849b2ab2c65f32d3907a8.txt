@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市建设工程安全生产管理规定
@@ -75,3 +76,4 @@
 第三十一条  本规定自2009年7月1日起施行。
 
 
+— 1 —

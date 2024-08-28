@@ -1,5 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
+
+
                
  
+
 南平市人民代表大会常务委员会关于
 加强闽江流域水生态环境协同保护的决定
 （2022年8月2日南平市第六届人民代表大会常务

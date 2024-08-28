@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区河湖保护和管理条例
 
@@ -82,3 +84,4 @@
 
 
 
+#

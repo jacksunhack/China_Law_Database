@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国城市居民
@@ -88,3 +89,4 @@
 第三十三条  乡、民族乡、镇人民政府所在地设立的居民委员会适用本办法。
 第三十四条  本办法适用中的具体问题由四川省民政厅解释。
 第三十五条  本办法自公布之日起施行。
+— 7 —  

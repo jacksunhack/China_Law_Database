@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市劳动争议调解条例
@@ -98,3 +100,4 @@
 
 第三十四条  本市行政区域内的国家机关、事业单位、社会团体等实行聘用制的工作人员与本单位发生人事争议的，可以依照本条例执行。
     第三十五条  本条例自2017年1月1日起施行。
+1

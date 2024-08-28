@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 无锡市公路条例
@@ -161,3 +162,4 @@
 ​
 第六十六条　法律、法规对高速公路、农村公路、收费公路有特别规定的，从其规定。
 第六十七条　本条例自2023年6月1日起施行。
+－1－　

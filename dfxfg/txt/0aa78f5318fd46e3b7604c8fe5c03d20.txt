@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市阳澄湖水源水质保护条例
@@ -152,3 +154,4 @@
 第四十一条  本条例自2007年3月1日起施行。
 
 
+─ # ─  

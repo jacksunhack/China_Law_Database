@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省肃北蒙古族自治县蒙古语言
@@ -67,3 +69,4 @@
 第二十七条  本条例实施中的具体应用问题，由自治县人民政府蒙古语言文字工作部门解释。
 第二十八条  本条例自颁布之日起施行。
 
+      — 1 —      

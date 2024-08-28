@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区立法条例
@@ -193,3 +194,5 @@
 第十章  附则
 
 　　第八十三条　本条例自2001年2月1日起施行。
+1
+ 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省林业有害生物防治检疫条例
@@ -54,3 +55,4 @@
 第三十条  本条例自2009年3月1日起施行。
 
 
+－1－  

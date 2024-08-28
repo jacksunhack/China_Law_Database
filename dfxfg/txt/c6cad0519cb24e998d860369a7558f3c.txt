@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市政府数据共享开放条例
@@ -84,3 +85,4 @@
 供水、供电、供气、通信、民航、铁路、道路客运等公共服务企业数据的共享开放，可以参照本条例执行。
 第三十三条  本条例自2017年5月1日起施行。
 
+— 1 —

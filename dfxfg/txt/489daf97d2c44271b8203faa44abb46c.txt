@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省民用机场净空及电磁环境保护条例
@@ -72,3 +73,4 @@
 
 第二十八条  军民合用机场民用部分的净空及电磁环境保护，适用于本条例。
 第二十九条  本条例自公布之日起施行。
+— 7 —  

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄石市工业遗产保护条例
@@ -108,3 +110,4 @@
 第五章　附则
 
 　　第三十九条　本条例自2017年1月1日起施行。
+1

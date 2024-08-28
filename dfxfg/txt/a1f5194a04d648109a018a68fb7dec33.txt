@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省劳动保障监察条例
@@ -107,3 +108,4 @@
 
     第二十八条  本条例自2003年3月1日起施行。1998年4月1日河南省人民政府发布的《河南省劳动监察规定》同时废止。
 
+－ 10 －

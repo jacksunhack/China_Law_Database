@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市城市建设档案管理规定
@@ -48,3 +49,4 @@
 　　第十九条　违反本规定第七条第一款规定的，由城乡建设主管部门责令限期改正；逾期不改正的，由城管执法部门处以一万元以上十万元以下罚款。
     第二十条　本规定自2014年10月1日起施行。
 
+— 1 —

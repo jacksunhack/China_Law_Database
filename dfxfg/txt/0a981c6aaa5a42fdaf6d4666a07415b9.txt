@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省国土保护和治理条例
@@ -179,3 +181,4 @@
 
 第六十四条　省人民政府根据本条例制定实施办法。
 第六十五条　本条例自2015年3月1日起施行。
+　— 1 —　

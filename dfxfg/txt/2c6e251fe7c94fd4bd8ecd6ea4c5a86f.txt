@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市古树名木保护管理条例
@@ -57,3 +58,4 @@
 第二十七条 本条例自2007年9月1日起施行。
 
 
+#

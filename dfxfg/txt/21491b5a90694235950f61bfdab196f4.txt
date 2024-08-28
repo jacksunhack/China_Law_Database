@@ -1,4 +1,5 @@
-﻿
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 江西省水利工程条例
 
@@ -110,3 +111,5 @@
 第六章  附则
 
     第四十条  本条例自2009年9月1日起施行。
+
+- 3 -

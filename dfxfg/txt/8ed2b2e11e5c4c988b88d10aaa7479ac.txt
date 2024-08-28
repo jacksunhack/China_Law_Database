@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黄南藏族自治州藏传佛教事务条例
@@ -171,3 +172,4 @@
 
 　　第四十九条　本条例的具体应用问题由自治州人民政府宗教事务部门负责解释。
 　　第五十条　本条例自公布之日起施行。
+- 1 -　

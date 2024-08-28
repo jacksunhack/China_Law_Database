@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 丽水市城市养犬管理规定
@@ -148,3 +149,4 @@
 （四）未按规定开展犬只捕捉、收容的；
 （五）其他不依法履行管理职责的。
 第三十九条  本规定自2020年11月1日起施行。
+— 1—

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省劳动保障监察若干规定
@@ -187,3 +188,4 @@
 第四十七条  本规定具体应用问题由省人民政府负责解释。
 第四十八条  本规定自2011年7月1日起施行。
 
+— 1 —

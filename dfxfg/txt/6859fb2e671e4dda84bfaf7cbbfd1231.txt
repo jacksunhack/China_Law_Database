@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市人民代表大会常务委员会
@@ -24,3 +25,4 @@
 第十三条  常务委员会作出的法规解释须由常务委员会全体组成人员的过半数通过，由常务委员会发布公告予以公布。
 第十四条  本规定自2000年1月1日起施行。
 
+— 3 —

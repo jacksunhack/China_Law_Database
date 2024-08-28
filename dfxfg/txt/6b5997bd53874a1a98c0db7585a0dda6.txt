@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 印江土家族苗族自治县自治条例
@@ -132,3 +133,5 @@
 
 第五十九条  每年11月20日为自治县成立纪念日，放假1天。
 第六十条  本条例自1990年5月1日起施行。
+— 15 —
+

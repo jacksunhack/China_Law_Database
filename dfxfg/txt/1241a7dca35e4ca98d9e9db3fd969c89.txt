@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门经济特区建设工程施工招标
@@ -163,3 +164,4 @@
 　　第五十条　本办法的具体应用问题由厦门市人民政府负责解释。
 　　第五十一条　本办法自１９９６年１０月１日起施行。
 
+— # —

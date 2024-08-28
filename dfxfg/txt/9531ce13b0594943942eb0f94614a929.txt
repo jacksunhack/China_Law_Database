@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区
@@ -100,3 +101,5 @@
 第五章  附则
 
 　　第三十四条　本条例自2015年10月1日起施行。
+1
+ 

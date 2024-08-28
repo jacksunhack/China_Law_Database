@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区促进民族团结进步条例
@@ -140,3 +142,4 @@
 
 
  
+#

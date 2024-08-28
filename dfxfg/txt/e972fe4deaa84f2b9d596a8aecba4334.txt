@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 盐城市黄海湿地保护条例
@@ -129,3 +131,4 @@
 第四十七条  本条例自2019年9月1日起施行。
 
 
+─ # ─  

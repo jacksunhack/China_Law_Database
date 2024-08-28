@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 天津市地方性法规制定条例
@@ -147,3 +148,4 @@
 第六章　附　　则
 ​
 第六十九条　本条例自公布之日起施行。1986年4月28日天津市第十届人民代表大会第五次会议通过的《天津市地方性法规制定程序若干规定》同时废止。
+－1－　

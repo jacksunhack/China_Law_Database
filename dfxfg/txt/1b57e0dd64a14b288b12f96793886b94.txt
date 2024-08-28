@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省公共文化服务促进条例
@@ -121,3 +123,4 @@
 
 第六十条  本条例自2016年3月1日起施行。
 
+─ 1 ─  

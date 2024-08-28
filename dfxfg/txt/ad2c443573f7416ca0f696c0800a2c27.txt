@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉林市城市市容和环境卫生管理条例
@@ -213,3 +214,4 @@
 
 第六十五条　本条例所称第三卫生间是指为方便异性人士陪同不能自理的亲属如厕所设立的卫生间。
 第六十六条　本条例自2017年3月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省见义勇为人员奖励和保障条例
@@ -99,3 +100,4 @@
 第三十四条  本省户籍人员在本省行政区域外实施见义勇为的，县级以上人民政府应当给予表彰、奖励。表彰、奖励的具体办法由省人民政府制定。
 第三十五条  本条例自2013年1月1日起施行。
 
+1

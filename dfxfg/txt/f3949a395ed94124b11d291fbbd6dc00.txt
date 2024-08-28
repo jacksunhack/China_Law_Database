@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省气象条例
@@ -112,3 +113,4 @@
 第八章　附　　则
 ​
 第四十一条　本条例自2001年9月1日起施行。
+－1－　

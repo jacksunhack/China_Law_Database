@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区专利促进与保护条例
@@ -134,3 +135,4 @@
 
     第四十七条  本条例自2012年12月1日起施行
 
+— 1 —

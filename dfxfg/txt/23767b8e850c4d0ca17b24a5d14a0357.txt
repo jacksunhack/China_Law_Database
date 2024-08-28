@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 上海市安置帮教工作规定
@@ -34,3 +35,4 @@
 （二）未按照规定为刑释解矫人员提供相关服务的；
 （三）有不履行或者违法履行法定职责的其他行为的。
 第十六条　本规定自2013年4月1日起施行。
+－1－　

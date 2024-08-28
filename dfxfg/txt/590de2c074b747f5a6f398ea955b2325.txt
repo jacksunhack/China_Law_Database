@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市促进旅游产业发展条例
@@ -53,3 +54,4 @@
 第三十三条  本条例自2010年1月1日起施行。
 
 
+— 1 —

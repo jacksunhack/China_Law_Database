@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省科技创新促进条例
@@ -152,3 +153,4 @@
 第七章  附则
 
 第五十二条  本条例自2013年11月1日起施行。
+- 1 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市船舶修理和地方船舶建造管理条例
@@ -66,3 +67,4 @@
 第二十八条  本条例自2005年9月1日起施行。
 
 
+— 1 —

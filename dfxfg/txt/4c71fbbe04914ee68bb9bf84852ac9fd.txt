@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广东省人民代表大会常务委员会
 关于广东省契税具体适用税率等事项的决定
@@ -13,3 +14,4 @@
 本决定自2021年9月1日起施行。
 
 
+	— 3 —

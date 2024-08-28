@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省商品交易市场管理条例
@@ -113,3 +114,4 @@
 第三十四条  本条例自2002年4月1日起施行。
 本条例修改前已取得市场登记证的，应当依法办理企业登记注册。
 
+1

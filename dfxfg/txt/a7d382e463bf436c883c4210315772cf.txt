@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省旅游条例
@@ -139,3 +140,4 @@
 第八章　附则
 
 　　第五十九条　本条例自2017年3月1日起施行。
+#　

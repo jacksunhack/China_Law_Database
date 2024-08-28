@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 齐齐哈尔市城镇燃气管理条例
@@ -52,3 +53,4 @@
 沼气、秸秆气用于城镇燃气经营，以及农村的燃气管理，参照本条例执行。
 第二十五条  法律、法规对燃气管理已有规定的，从其规定。
 第二十六条  本条例自2022年2月1日起施行。
+1

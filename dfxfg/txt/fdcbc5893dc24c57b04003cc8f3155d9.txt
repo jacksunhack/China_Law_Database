@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 通化市城市供热条例
@@ -150,5 +151,4 @@
 第八章  附  则
 第五十一条  各县（市）可以参照本条例执行。
 第五十二条  本条例自2023年9月1日起施行。
-
 

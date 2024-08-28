@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市消防条例
@@ -214,3 +216,4 @@
 第六十六条  本条例自2013年1月1日起施行。
 
 
+—— 20 ——

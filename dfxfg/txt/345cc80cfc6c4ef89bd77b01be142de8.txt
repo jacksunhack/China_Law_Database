@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 无锡市地名管理条例
@@ -197,3 +198,4 @@
 （二）通名，是指地名中表示地理实体类别属性的名称部分；
 （三）地名标志，是指标示地理实体标准地名及相关信息的设施。
 第五十九条　本条例自2010年6月1日起施行。
+－1－　

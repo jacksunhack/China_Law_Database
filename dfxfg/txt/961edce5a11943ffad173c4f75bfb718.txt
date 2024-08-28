@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 湖北省气象灾害防御条例
 
@@ -115,3 +116,4 @@
 第七章　附则
 
 第三十九条　本条例自2012年2月1日起施行。
+— # —

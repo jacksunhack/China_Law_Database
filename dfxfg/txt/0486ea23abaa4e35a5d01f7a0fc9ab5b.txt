@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 察布查尔锡伯自治县促进宗教和谐条例
@@ -92,3 +93,4 @@
 第三十九条  本条例自2015年7月1日起实施。
 
 
+— 1 —

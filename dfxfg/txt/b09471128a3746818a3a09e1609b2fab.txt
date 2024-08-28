@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海口市消防条例
@@ -252,3 +254,4 @@
 （五）其他发生火灾易造成群死群伤或者重大财产损失火灾事故的单位或者场所。
 第七十三条  本条例具体应用问题由市人民政府负责解释。
 第七十四条  本条例自2014年10月1日起施行。
+- 1 -

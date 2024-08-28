@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市妇女权益保障条例
@@ -117,3 +119,4 @@
 
 第四十三条  本条例自2020年10月1日起施行。
 
+─ # ─  

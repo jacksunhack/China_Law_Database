@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省沿海船舶边防治安管理条例
@@ -91,3 +93,4 @@
 第三十六条　本条例自2013年1月1日起施行。
 
 
+　— 1 —　

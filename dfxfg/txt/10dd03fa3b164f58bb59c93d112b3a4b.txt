@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 成都市非机动车管理条例
@@ -154,3 +155,4 @@
 第六章　附　　则
 ​
 第四十一条　本条例自2024年6月1日起施行。
+－1－　

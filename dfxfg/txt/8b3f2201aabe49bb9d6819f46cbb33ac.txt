@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 来宾市城市二次供水管理条例（试行）
@@ -87,3 +88,4 @@
 
 第三十条　本条例自2023年6月1日起施行。
 
+－1－　

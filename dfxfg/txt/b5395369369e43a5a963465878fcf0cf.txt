@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 	
 
 温州市气候资源保护和利用条例
@@ -59,3 +60,4 @@
 
 
 
+－5－　

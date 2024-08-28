@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 三亚市机动车停车场管理条例
@@ -225,3 +226,4 @@
 第四十九条 本条例自2022年2月1日起施行。
 
 
+#

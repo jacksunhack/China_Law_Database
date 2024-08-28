@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河池市立法条例
@@ -194,3 +195,5 @@
 第十章  附则
 
 　　第七十八条  本条例自公布之日起施行。
+1
+ 

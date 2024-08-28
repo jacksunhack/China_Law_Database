@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省实施《中华人民共和国
@@ -140,3 +141,4 @@
 第七章  附则
 
     第四十九条  本办法自2017年12月1日起施行。
+— # —

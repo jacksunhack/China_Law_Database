@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市商品房管理条例 
@@ -153,3 +154,4 @@
 　　第四十四条　本条例自2002年12月1日起施行。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

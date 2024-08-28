@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南经济特区渡口渡船安全管理规定
@@ -88,3 +89,4 @@
 第三十九条  本规定具体应用的问题，由省人民政府负责解释。
 第四十条  本规定自2016年12月1日起施行。
 
+8

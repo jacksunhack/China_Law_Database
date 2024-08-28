@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 海南经济特区农药管理若干规定
@@ -144,3 +146,4 @@
    第五十九条  本规定自2010年11月1日起施行。
 
 
+- 1 -

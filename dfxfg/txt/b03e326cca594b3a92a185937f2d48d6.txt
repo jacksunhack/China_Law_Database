@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市饮用水水源污染防治规定
@@ -73,3 +74,4 @@
 第三十四条　本规定自2011年5月1日起施行。1987年1月17日颁布的《广州市饮用水源污染防治条例》同时废止。
 
 
+- 1 - 

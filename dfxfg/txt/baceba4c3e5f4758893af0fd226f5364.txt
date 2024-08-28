@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省土壤污染防治条例
@@ -198,3 +199,4 @@
 第六十八条  济源产城融合示范区参照设区的市执行本条例。
 第六十九条  本条例自2021年10月1日起施行。
 
+—#—

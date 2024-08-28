@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市爱国卫生条例
@@ -86,3 +87,4 @@
 
 　　第三十二条　本条例自2003年8月1日起施行。1998年11月30日杭州市人民政府发布的《杭州市爱国卫生管理办法》（市政府令第135号）同时废止。
 
+— 9—

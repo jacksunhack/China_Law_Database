@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省民族自治地方
@@ -31,3 +33,4 @@
 第十六条　张家界市原属湘西土家族苗族自治州管辖的地方的科学技术进步工作可以参照本规定执行。
 第十七条　本规定自公布之日起施行。
 
+— # —

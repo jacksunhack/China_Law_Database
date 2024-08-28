@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市实施《中华人民共和国工会法》办法
@@ -124,3 +125,4 @@
 　　第四十五条　本办法适用于本市行政区域内的企业、事业单位和机关。
 　　第四十六条　本办法自公布之日起施行。
 
+— 2 —

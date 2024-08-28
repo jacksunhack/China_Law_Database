@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省企业工资集体协商条例  
@@ -126,3 +127,4 @@
 
 第四十六条  本条例所称企业代表组织，是指经依法成立的企业联合会、工商业联合会、行业协会、商会。 
 第四十七条  本条例自2012年5月1日起施行。 
+——2——

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 木垒哈萨克自治县鹰嘴豆产业促进条例
@@ -59,3 +61,4 @@
 第十九条  违反本条例规定，应当给予处罚的行为，依照《中华人民共和国农产品质量安全法》《中华人民共和国产品质量法》等法律法规执行。
 第二十条  本条例自2021年8月1日起施行。
 
+ #

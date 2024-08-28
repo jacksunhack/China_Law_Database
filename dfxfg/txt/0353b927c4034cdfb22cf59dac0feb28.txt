@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州500米口径球面
@@ -36,3 +38,4 @@
 第二十三条  本条例未规定处罚的其他违法行为，法律法规有规定的，从其规定。
 第二十四条  本条例自2016年9月25日起施行。
 
+— 1 —

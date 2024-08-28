@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省燃气管理条例
@@ -152,3 +154,4 @@
 第四十七条  本条例自2013年12月1日起施行。
 
 
+1

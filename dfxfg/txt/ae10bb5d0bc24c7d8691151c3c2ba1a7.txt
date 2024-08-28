@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省人民代表大会常务委员会关于修改
@@ -43,3 +44,4 @@
 （十四）删去第八十二条。
 本决定自公布之日起施行。
 上述地方性法规根据本决定作出相应修改，重新公布。
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省汉江流域水环境保护条例
@@ -224,3 +225,4 @@
     第七十六条  本条例自2020年12月1日起施行。1999年11月27日湖北省第九届人民代表大会常务委员会第十三次会议通过的《湖北省汉江流域水污染防治条例》同时废止。
 
 
+— # —

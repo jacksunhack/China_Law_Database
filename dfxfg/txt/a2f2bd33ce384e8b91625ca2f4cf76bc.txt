@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 陕西省科学技术进步条例
@@ -142,3 +143,4 @@
 第九章　附　　则
 ​
 第五十九条　本条例自2024年2月1日起施行。
+－1－　

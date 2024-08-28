@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江门市文明行为促进条例
@@ -213,4 +214,3 @@
 第五章   附  则
 
 　  第五十二条 本条例自2021年5月1日起施行。
-

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省保护和促进华侨投资条例
@@ -65,3 +67,4 @@
 第三十三条  华侨投资者本人国籍发生变化的，其在本省原投资的企业仍然按照本条例有关规定执行。
 第三十四条  本条例自2016年5月1日起施行。
 
+─ # ─

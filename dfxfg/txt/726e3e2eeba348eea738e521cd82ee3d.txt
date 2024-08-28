@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市劳动和社会保险监察条例
@@ -56,3 +57,4 @@
 第二十七条  本条例自2002年12月1日起施行。
 
 
+— 1 —

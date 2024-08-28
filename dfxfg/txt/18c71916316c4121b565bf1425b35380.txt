@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省红河哈尼族彝族自治州
@@ -101,3 +103,4 @@
 建水县人民政府可以根据本条例制定具体实施办法。
 第三十四条  本条例由自治州人民代表大会常务委员会负责解释。
 
+—— 1 ——

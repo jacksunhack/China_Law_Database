@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 齐齐哈尔市人民代表大会常务委员会关于
 修改《齐齐哈尔市水资源管理条例》等
@@ -43,4 +44,3 @@
 （七）将第六十条改为第五十九条，删去其中的“，通知相关单位暂停提供施工用水、用电”。
 同时，对个别条文顺序进行调整。
 本决定自公布之日起施行。
-

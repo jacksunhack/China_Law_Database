@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省非物质文化遗产条例
@@ -155,3 +156,4 @@
 
 第五十六条  本条例自2021年12月1日起施行。
 
+1  

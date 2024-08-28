@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 红河哈尼族彝族自治州人民代表大会常务委员会
@@ -29,3 +30,4 @@
 本决定自2022年6月20日起施行。
 《红河哈尼族彝族自治州蒙自城市管理条例》根据本决定作相应修改，并对条文序号作相应调整，重新公布。
 
+—— 1 ——

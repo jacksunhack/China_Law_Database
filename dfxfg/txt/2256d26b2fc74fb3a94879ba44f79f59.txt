@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省森林公园管理条例
@@ -134,3 +135,4 @@
 
 第五十一条　本条例施行前已设立的森林公园存在林权争议的，按照国家和省林权争议调解处理有关规定处理。
     第五十二条　本条例自2010年9月1日起施行。
+1

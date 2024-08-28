@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 河南省土地监察条例
@@ -113,3 +114,4 @@
 第六章　附　　则
 ​
 第三十四条　本条例自1997年5月1日起施行。
+－1－　

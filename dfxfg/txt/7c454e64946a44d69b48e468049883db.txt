@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 常州市制定地方性法规条例
@@ -203,3 +204,4 @@
 第七章　附　　则
 ​
 第七十六条　本条例自2016年6月1日起施行。
+－1－　

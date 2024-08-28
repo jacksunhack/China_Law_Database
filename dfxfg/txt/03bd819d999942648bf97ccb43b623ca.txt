@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 山西省湿地保护条例
@@ -94,3 +95,4 @@
 第六章　附　　则
 ​
 第三十九条　本条例自2023年6月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 常州市电梯安全管理条例
@@ -198,3 +200,4 @@
 
 第六十一条  本条例自2018年3月1日起施行。
 
+─ # ─  

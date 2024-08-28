@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市城市地下管线管理条例
@@ -139,3 +140,4 @@
 第五十六条 军事专用地下管线、工业企业内自备地下管线管理，按照国家有关规定执行。
 第五十七条 本条例自2016年11月1日起施行。
 
+1

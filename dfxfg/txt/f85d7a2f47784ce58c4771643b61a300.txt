@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广元市红色革命遗址遗迹保护条例
@@ -121,3 +122,4 @@
 第四十一条  本条例自2021年1月1日起施行。
 
 
+— 11 —  

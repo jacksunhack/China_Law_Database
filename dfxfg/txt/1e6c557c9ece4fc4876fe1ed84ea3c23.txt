@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 菏泽市非物质文化遗产条例
@@ -85,3 +86,4 @@
 对传统医药、传统技艺、传统美术等非物质文化遗产项目的保护、保存，法律、法规已有规定的，适用其规定。
 第二十五条  本条例自2018年12月 1日起施行。  
 
+1

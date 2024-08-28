@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省食品生产加工小作坊
@@ -186,3 +188,4 @@
 
     第六十一条  本条例自2015年10月1日起施行。
 
+1

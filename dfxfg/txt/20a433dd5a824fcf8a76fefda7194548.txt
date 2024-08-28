@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市城市快速路路政管理条例
@@ -52,3 +53,4 @@
 　　第二十一条　本条例自1999年7月1日起施行。
 
 
+- 1 - 

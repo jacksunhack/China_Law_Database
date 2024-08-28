@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 循化撒拉族自治县水利工程设施管护条例
@@ -64,3 +65,4 @@
 　　（八）不履行监督职责，发现违法行为不予查处或者查处不力的。
 　　第二十条　本条例实施中的具体应用问题由自治县人民政府负责解释。
 　　第二十一条　本条例自2007年7月1日起施行。
+- 1 -　

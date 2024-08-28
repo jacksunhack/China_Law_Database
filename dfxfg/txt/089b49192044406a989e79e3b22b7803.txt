@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莫力达瓦达斡尔族自治旗旅游条例
@@ -45,3 +46,4 @@
 (四)收缴罚款不开具统一发票的。
 第二十九条  本条例自2010年7月1日起实行。
 
+#

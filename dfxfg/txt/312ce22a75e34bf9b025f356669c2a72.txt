@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西北部湾经济区条例
@@ -46,3 +47,5 @@
 　　（三）未与其他单位或者个人恶意串通，损害公共利益。
 　　法律、行政法规另有规定的，从其规定。
 　　第三十条　本条例自2010年3月1日起施行。
+1
+ 

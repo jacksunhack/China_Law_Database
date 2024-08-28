@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省农业环境保护条例
@@ -57,3 +59,4 @@
 第二十四条　本条例具体应用的问题由省农业行政主管部门负责解释。
 第二十五条　本条例自1997年6月5日起施行。
 
+—— 1 ——

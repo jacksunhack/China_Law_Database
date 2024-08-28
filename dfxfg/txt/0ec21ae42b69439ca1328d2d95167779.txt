@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 甘肃省农作物种子条例
@@ -72,3 +73,4 @@
 （五）参与和从事种子生产经营活动的。
 第三十四条　违反本条例规定的行为，法律、行政法规已有处罚规定的，依照其规定执行。
 第三十五条　本条例自2024年1月1日起施行。
+－1－　

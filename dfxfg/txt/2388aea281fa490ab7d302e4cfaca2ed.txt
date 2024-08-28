@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 伊通满族自治县城乡道路管理条例
@@ -114,3 +115,4 @@
 ​
 第三十八条　自治县人民政府可以根据本条例制定实施办法。
 第三十九条　本条例自2021年1月1日起施行。
+－1－　

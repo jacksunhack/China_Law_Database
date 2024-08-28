@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大化瑶族自治县自治条例
@@ -185,3 +186,4 @@
     第五十一条　自治县人民政府可根据本条例对属于政府职权范围内的规定制定必要的实施办法。
     第五十二条　本条例的解释权属于自治县人民代表大会常务委员会。
 
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 松桃苗族自治县自治条例
@@ -94,3 +96,4 @@
 每年9月17日为自治县成立纪念日，放假1天。
 第五十条  本条例自1989年1月1日起施行。
 
+— 1 —

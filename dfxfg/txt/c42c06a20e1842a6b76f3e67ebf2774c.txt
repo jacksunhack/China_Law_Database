@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 成都市三岔湖水环境保护条例
@@ -121,3 +122,4 @@
 第三十九条  本条例自2020年12月1日起施行。
 
 
+— 11 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 桓仁满族自治县人参产业发展条例
 
 （2018年12月25日桓仁满族自治县第七届人民代表
@@ -106,4 +107,6 @@
 
 
 
+
+#
 

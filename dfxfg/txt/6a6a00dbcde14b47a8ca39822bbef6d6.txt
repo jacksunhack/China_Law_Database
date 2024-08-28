@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区电信设施建设和保护条例
 
@@ -108,3 +109,4 @@
 
 
 
+#

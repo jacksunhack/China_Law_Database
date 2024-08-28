@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津经济技术开发区劳动管理规定
@@ -40,3 +41,4 @@
 第二十四条　本规定自公布之日起施行。
 
 
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　#

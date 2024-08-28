@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和
@@ -61,3 +62,4 @@
 第二十五条  对转化科技成果有突出贡献的科技工作者的具体奖励办法以及从省外、国外引进科技人才和科技成果的待遇，由省人民政府制定。
 第二十六条  本规定自公布之日起施行。
 
+#

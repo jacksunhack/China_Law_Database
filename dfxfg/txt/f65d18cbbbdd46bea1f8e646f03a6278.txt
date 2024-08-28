@@ -1,4 +1,6 @@
 ﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
+
 
 江西省建筑管理条例
 
@@ -160,3 +162,5 @@
 第九章  附则
 
     第五十三条  本条例自2000年3月1日起施行。
+
+- 7 -

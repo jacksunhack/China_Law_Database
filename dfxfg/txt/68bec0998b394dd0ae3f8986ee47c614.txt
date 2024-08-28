@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 梅州市森林火源管理条例
@@ -83,3 +84,4 @@
 （六）未按照规定落实森林防火值班制度的；
 （七）不依法履行职责的其他行为。
 第二十九条　本条例自2017年3月1日起施行。
+－1－　

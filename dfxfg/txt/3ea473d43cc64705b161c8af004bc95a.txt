@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市餐厨垃圾管理条例
@@ -134,3 +135,4 @@
 
 
 
+#

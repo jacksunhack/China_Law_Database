@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州清江保护条例
@@ -61,3 +63,4 @@
 　　（三）水环境功能区是指根据水域环境保护目标确定的重点保护区域。
 　　第二十六条　自治州内其他主要河流，可以参照本条例执行。
 　　第二十七条　本条例自2003年1月1日起施行。
+1

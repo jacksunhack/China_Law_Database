@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市未成年人保护条例
@@ -229,3 +230,4 @@
 第七十八条　国家机关及其工作人员在未成年人保护工作中玩忽职守、滥用职权、徇私舞弊的，由有权机关依法处理。
 第八章　附　则
 第七十九条　本条例自2022年11月1日起施行。
+#

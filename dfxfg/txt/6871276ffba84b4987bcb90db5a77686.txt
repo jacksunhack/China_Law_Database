@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西仰天岗国家森林公园保护条例
@@ -50,3 +51,4 @@
 第二十条  本条例自2019年1月1日起实施。
  
 
+#

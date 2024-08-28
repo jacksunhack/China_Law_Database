@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市测绘管理条例
@@ -142,3 +144,4 @@
 
 　　第五十一条　军事测绘活动及其管理，执行国家有关规定。
 　　第五十二条　本条例自2012年2月1日起施行。
+1

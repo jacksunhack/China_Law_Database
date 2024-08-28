@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省科学技术普及条例
@@ -120,3 +121,4 @@
 第八章  附  则
 
 第四十五条  本条例自2010年1月1日起施行。
+- 28 -

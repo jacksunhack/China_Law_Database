@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省档案管理条例
@@ -112,3 +114,4 @@
 本条例所称部门档案馆是指地方某些专业主管部门所属的，收集管理本部门档案的气象、测绘等档案机构。
 第三十四条  本条例自1998年11月1日起施行。
 
+─ 1 ─  

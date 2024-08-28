@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区著作权管理条例
@@ -82,3 +83,5 @@
 第五章  附则
 
 　　第三十二条　本条例自1998年1月7日起施行。 
+1
+ 

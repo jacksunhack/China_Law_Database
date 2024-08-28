@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省计量监督条例
@@ -149,4 +150,6 @@
 第四十九条  本条例应用中的具体问题由省技术监督部门负责解释。
 第五十条  本条例自公布之日起施行。
 
+
+— 1 —
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 汕尾市文化旅游发展促进条例
@@ -118,3 +119,4 @@
 ​
 第四十四条　红海湾经济开发区管委会、华侨管理区管委会按照规定的职责做好文化旅游发展工作。
 第四十五条　本条例自2024年1月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 北京市禁止赌博条例
 
@@ -35,3 +36,4 @@
 第十八条  对禁止赌博有显著成绩的单位和个人，由各级人民政府给予表彰或者奖励。
 第十九条  本条例具体应用中的问题，由市公安局负责解释。
 第二十条  本条例自公布之日起施行。
+—1—  

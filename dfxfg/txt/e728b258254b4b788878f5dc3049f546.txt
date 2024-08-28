@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省地方志工作规定
@@ -66,3 +68,4 @@
 第二十四条  违反本规定，擅自将地方志书作为个人著作发表的，应当根据侵权情况，依法承担停止侵害、消除影响、赔礼道歉、赔偿损失等民事责任。
 第二十五条  本规定自2011年7月1日起施行。
 
+1

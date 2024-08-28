@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 榆林市文明行为促进条例
  
@@ -147,5 +148,4 @@
 第五章  附则 
 第三十七条 本条例自2022年6月1日起施行。
  
-
 

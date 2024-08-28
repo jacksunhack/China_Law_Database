@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区扶贫开发条例
@@ -44,3 +45,5 @@
 　　第三十条　自治区人民政府根据本条例规定，可制定实施办法。
 　　第三十一条　本条例具体应用中的问题，由自治区人民政府扶贫开发主管部门负责解释。
 　　第三十二条　本条例自公布之日起施行。
+1
+ 

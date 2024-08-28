@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省内部审计条例
@@ -116,3 +117,4 @@
 本条例所称权力机构，是指企业法人组织依法行使决策权的机构。
 本条例所称被审计对象，是指本单位内设机构、所属单位及个人。
 第三十三条  本条例自2012年1月1日起施行。
+- 28 -

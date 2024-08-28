@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省实施
@@ -59,3 +61,4 @@
 （四）截留、挪用防沙治沙资金的；
 （五）批准超采、超用水资源，乱开滥垦沙荒地，采伐防风固沙林带、林网以及林木和固沙植被的。
 第三十二条  本办法自2003年3月1日起施行。
+      — 1 —    

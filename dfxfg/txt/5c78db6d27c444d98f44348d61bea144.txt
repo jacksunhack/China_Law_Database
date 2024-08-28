@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省新旧动能转换促进条例
@@ -75,3 +76,4 @@
 第三十条  本条例自2019年10月1日起施行。
 
 
+1

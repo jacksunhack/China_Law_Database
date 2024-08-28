@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉木乃县萨吾尔山冰川水资源
@@ -74,3 +75,4 @@
 
 第三十五条  本条例自2016年9月1日起施行。
 
+— 1 —

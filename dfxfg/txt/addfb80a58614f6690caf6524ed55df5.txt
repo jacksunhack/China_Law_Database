@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市残疾人权益保障条例
@@ -187,3 +188,4 @@
 第六十二条　依照本条例第十四条、第十五条、第十八条第二款、第十九条、第三十八条规定扶助残疾人的具体实施办法，由市人民政府另行制定。
 第六十三条　本条例自2008年7月1日起施行。
 
+- 1 - 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省集体合同条例
@@ -120,3 +121,4 @@
     第三十八条  签订和履行行业性、区域性集体合同，依照本条例执行。
     第三十九条  本条例自2002年11月1日起施行。
 
+- 3 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市集会游行示威若干规定
@@ -71,3 +72,4 @@
     第二十三条  本规定具体应用中的问题由青岛市人民政府解释。
     第二十四条  本规定自公布之日起施行。
 
+1

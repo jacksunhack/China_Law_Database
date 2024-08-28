@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南京市国土空间规划条例
@@ -212,3 +214,4 @@
 
 第六十四条  本条例自2023年1月1日起施行。2012年8月30日南京市第十四届人民代表大会常务委员会第三十二次会议通过的《南京市城乡规划条例》同时废止。
 
+─ # ─  

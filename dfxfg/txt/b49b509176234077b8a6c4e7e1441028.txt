@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省物业管理条例
@@ -266,3 +267,4 @@
 第七十九条  本条例自2012年7月1日起施行。
 
 
+— 23 —  

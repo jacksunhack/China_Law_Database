@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西藏自治区实施《中华人民共和国水法》办法
@@ -128,3 +130,4 @@
 第五十五条  本办法自2013年10 月1日起施行。
 
 
+#

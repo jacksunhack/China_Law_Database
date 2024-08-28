@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市环境噪声管理规定
@@ -119,3 +120,4 @@
 第三十八条　本规定自1989年1月1日起施行。1984年11月14日青岛市人民政府公布的《青岛市环境噪声管理暂行规定》同时废止。
 
 
+1

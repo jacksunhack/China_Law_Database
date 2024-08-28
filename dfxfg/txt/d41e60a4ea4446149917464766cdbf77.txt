@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省价格监督检查条例
@@ -84,3 +85,5 @@
 
 第二十三条  行政执法证件和价格监督检查文书以及价格行政执法人员佩戴的标志样式，按照国家有关规定执行。
 第二十四条  本条例自公布之日起施行。
+— 1 —
+

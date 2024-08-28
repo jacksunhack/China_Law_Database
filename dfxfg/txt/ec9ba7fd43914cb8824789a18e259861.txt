@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 呼和浩特市城市供热管理条例
@@ -157,3 +158,4 @@
 第四十九条　市人民政府可以依据本条例制定相关规定。
 第五十条　旗、县供热管理可以参照本条例执行。
 第五十一条　本条例自2006年10月15日起施行。
+－1－　

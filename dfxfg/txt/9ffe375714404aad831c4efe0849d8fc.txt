@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区草原管理条例
@@ -164,3 +165,4 @@
 第九章  附  则
 
 第五十二条  本条例自2005年1月1日起施行。
+#

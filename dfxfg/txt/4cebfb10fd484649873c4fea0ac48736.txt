@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 济南市钢结构建筑应用促进条例
@@ -48,3 +49,4 @@
 第十九条 其他领域的钢结构应用促进应当参照本条例执行。
 第二十条 本条例自公布之日起施行。
 
+1

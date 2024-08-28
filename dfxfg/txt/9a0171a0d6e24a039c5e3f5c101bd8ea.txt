@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市寒冷季节室外劳动保护规定
@@ -23,3 +24,4 @@
 第十条 本规定自2021年10月1日起施行。
 
 
+一— # —一

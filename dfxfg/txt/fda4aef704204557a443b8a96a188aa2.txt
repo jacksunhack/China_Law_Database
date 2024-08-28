@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 哈尔滨市城市道路机动车
 停车泊位管理规定
@@ -73,3 +74,4 @@
 第二十三条 本规定自2023年3月1日起施行。
 
 
+一— # —一    

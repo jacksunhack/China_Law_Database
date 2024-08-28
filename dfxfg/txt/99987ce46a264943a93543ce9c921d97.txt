@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市档案管理条例
@@ -164,3 +165,4 @@
 第七章  附则
 
 第四十七条 本条例自1997年7月1日起施行。
+1

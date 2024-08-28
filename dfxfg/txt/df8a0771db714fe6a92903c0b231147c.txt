@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省农作物种子条例
@@ -80,3 +82,4 @@
 （四）对违法生产、经营种子的行为不予处理的；
 （五）参与和从事种子生产、经营活动的。
 第三十四条  本条例自2004年9月1日起施行。
+      — 1 —    

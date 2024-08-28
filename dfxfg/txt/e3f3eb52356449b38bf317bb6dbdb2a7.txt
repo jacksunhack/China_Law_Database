@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 博尔塔拉蒙古自治州温泉新疆北鲵自然保护区管理条例
@@ -64,4 +65,6 @@
 第五章  附  则
 
 第二十四条  本条例自发布之日起施行。
+
+#
 

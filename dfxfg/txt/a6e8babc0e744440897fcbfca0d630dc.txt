@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 厦门经济特区鼓励台湾青年来厦就业创业
@@ -80,3 +81,4 @@
 ​
 第二十九条　市人民政府及其有关部门根据本规定制定相应配套措施。
 第三十条　本规定自2024年3月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省消防条例
@@ -238,3 +239,4 @@
 第八章  附则
 
 第六十五条  本条例自2016年7月1日起施行。
+— 25—

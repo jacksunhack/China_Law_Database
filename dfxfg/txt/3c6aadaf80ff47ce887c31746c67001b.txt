@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省城市房地产交易管理条例
@@ -163,3 +165,4 @@
 第四十六条  本省行政区域内城市规划区以外的国有土地上的房地产交易，参照本条例的规定执行。
 第四十七条  本条例自2002年5月1日起施行。 
 
+─ 1 ─  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省渔业管理条例
@@ -147,3 +148,4 @@
 第七章　附则
 
 第五十三条　本条例自2005年12月1日起施行。
+— # —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市实施〈中华人民共和国
@@ -51,3 +52,4 @@
     第二十一条  红十字会工作人员玩忽职守、滥用职权、徇私舞弊的，由有关部门给予行政处分；构成犯罪的，依法追究刑事责任。
     第二十二条  本办法自2010年2月1日起施行。
 
+— # —

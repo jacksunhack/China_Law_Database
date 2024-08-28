@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省森林保护管理条例
@@ -75,3 +77,4 @@
 第三十七条　本条例具体应用的问题由省人民政府解释。
 第三十八条　本条例自1994年1月1日起施行。
 
+- 7 -

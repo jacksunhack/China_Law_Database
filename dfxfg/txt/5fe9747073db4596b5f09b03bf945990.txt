@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省反不正当竞争条例
@@ -111,4 +112,3 @@
 
 　　第四十一条　法律、行政法规另有规定的，从其规定。
 　　第四十二条　本条例自1998年12月1日起施行。 
-

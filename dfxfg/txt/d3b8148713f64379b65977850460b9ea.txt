@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省城市供热条例
@@ -216,3 +218,4 @@
 
   第六十一条　本条例自2011年10月1日起施行。2005年4月8日黑龙江省第十届人民代表大会常务委员会第十四次会议通过的《黑龙江省城市供热条例》同时废止。
 
+#

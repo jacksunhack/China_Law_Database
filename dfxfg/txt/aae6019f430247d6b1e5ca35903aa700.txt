@@ -1,8 +1,9 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市推进国际航运中心建设条例
 
-（上海市第十四届人民代表大会
+（2016年6月23日上海市第十四届人民代表大会
 常务委员会第三十次会议通过）
 
 目    录
@@ -127,3 +128,4 @@
 第六章  附则
 
 第四十六条  本条例自2016年8月1日起施行。
+- 13 -

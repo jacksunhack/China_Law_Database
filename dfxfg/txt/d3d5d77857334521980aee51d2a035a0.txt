@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省消费者权益保护条例
@@ -189,3 +190,4 @@
 第八章  附  则
 
 第六十五条  本条例自2016年3月15日起施行。
+1

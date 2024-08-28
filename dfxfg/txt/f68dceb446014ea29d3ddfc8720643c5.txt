@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 天津市人民代表大会常务委员会
@@ -65,3 +66,4 @@
 第二十八条　市人大常委会通过人事任免案后，以市人大常委会文件通知有关单位，并及时在市人大常委会公报、《天津日报》和天津人大网站上刊登。
 第二十九条　本办法自2014年1月1日起施行。
 
+#

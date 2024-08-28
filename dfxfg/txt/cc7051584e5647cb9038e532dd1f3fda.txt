@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省道路运输条例
@@ -125,3 +126,4 @@
 第六十条　出租车客运和城市公共汽车客运不适用本条例。
 第六十一条　本条例自2007年1月1日起实施。1997年吉林省第八届人民代表大会常务委员会公布的《吉林省道路运输管理条例》即行废止。
 
+— # —

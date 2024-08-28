@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广东省人民代表大会常务委员会关于省人民政府
 机构改革涉及省的地方性法规规定的

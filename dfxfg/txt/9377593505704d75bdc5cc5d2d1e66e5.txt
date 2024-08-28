@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 秦皇岛市国际一流旅游城市促进条例
@@ -123,3 +124,4 @@
 第九章　附　　则
 ​
 第五十八条　本条例自2024年5月1日起施行。
+－1－　

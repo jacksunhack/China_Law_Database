@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州实施
@@ -56,3 +58,4 @@
 第二十九条  本变通规定由自治州人民代表大会常务委员会负责解释。
 自治州人民政府可根据本变通规定制定实施办法。
 第三十条  本变通规定自2011年5月1日起施行。
+—7 —

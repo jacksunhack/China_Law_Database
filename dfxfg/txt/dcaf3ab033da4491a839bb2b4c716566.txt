@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省中医药发展条例
@@ -120,3 +121,4 @@
 第八章  附则
 
     第五十条  本条例自2021年1月1日开始施行。《吉林省发展中医条例》同时废止。
+#

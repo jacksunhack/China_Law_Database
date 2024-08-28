@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区建设工程监理条例
@@ -143,3 +144,4 @@
     第五十条  市人民政府可以依据本条例制定具体实施办法。
     第五十一条  本条例自2002年11月1日起施行。
 
+   #

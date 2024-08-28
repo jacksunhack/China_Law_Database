@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 辽宁省消防条例
@@ -219,3 +220,4 @@
 第八章　附　　则
 ​
 第六十七条　本条例自2022年11月9日起施行。
+－1－　

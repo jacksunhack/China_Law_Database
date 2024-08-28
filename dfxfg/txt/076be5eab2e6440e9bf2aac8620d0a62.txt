@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省历史文化名城名镇名村保护条例
@@ -145,3 +146,4 @@
 
 第五十三条　历史文化保护区和传统村落的保护与管理参照本条例执行。
 第五十四条　本条例自2018年 1月1日起施行。
+- 1 -　

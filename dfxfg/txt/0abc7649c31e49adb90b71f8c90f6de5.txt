@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 北海市城市绿化条例
@@ -123,4 +124,3 @@
 
 第三十六条  县、建制镇规划区范围内的绿化管理，可以参照本条例执行。
 第三十七条  本条例自2021年5月1日起施行。
-

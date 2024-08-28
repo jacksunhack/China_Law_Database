@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淄博市水土保持若干规定
@@ -73,3 +74,4 @@
 第二十八条　本规定自1995年12月1日起施行。
 
 
+1

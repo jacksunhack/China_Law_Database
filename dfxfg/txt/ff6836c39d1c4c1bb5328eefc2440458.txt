@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 朔州市农村自建房管理条例
@@ -77,3 +78,4 @@
 第二十八条  本条例自2022年5月1日起施行。
  
 
+— # —

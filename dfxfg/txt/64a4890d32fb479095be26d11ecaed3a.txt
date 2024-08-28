@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市社会医疗机构管理条例
@@ -96,3 +97,4 @@
 
 　　第三十五条　本条例具体应用中的问题由西宁市人民政府负责解释。
 　　第三十六条　本条例自1997年9月1日起施行。
+#　

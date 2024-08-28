@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡阳市文明行为促进条例
@@ -147,3 +148,4 @@
  
 第三十四条　各类工业园区、开发区管理机构开展文明行为促进工作，参照本条例执行。
 第三十五条　本条例自2022年3月1日起施行。
+－1－  

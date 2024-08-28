@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省罚没和扣押财物管理条例
@@ -94,3 +95,4 @@
 第七章　附则
 
 第三十一条　本条例自2003年7月1日起施行。
+— 7 —

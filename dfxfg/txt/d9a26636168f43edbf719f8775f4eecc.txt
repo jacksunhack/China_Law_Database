@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区公路工程质量监督条例
@@ -117,3 +118,4 @@
 第五十六条　农村牧区道路建设的质量监督参照本条例执行。
 第五十七条　本条例自2018年12月1日起施行。
 
+#

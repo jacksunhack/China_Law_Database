@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海北藏族自治州森林管护条例
@@ -60,3 +61,4 @@
 　　（十）有其他侵犯林地、林木权益人合法权益行为的。
 　　第十八条　本条例实施中的具体应用问题由自治州人民政府负责解释。
 　　第十九条　本条例自1994年8月1日起施行。
+- 3 -　

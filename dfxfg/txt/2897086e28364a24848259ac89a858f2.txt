@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西宁市城乡规划管理条例
@@ -117,3 +118,4 @@
 第六章　附则
 
 　　第四十九条　本条例自2015年9月1日起施行。
+#　

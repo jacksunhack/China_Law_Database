@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区食品小作坊小餐饮和
@@ -189,3 +190,4 @@
 第四十八条　本条例所称散装食品，指无预先定量包装，需称重销售的食品，包括无包装和非定量包装的食品。
 第四十九条　本条例自2017年7月1日起施行。
 
+1

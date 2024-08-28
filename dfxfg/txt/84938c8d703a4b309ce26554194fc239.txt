@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省燃气管理条例
@@ -143,3 +144,4 @@
 第三十七条  本条例自2004年1月1日起施行。
 
 
+— 1 —

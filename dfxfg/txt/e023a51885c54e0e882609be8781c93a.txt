@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省促进科技成果转化条例
@@ -138,3 +139,4 @@
 第七章  附  则
 
 第五十七条  本条例自2023年5月4日起施行。
+#

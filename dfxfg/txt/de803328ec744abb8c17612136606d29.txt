@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省集体合同条例
@@ -109,3 +111,4 @@
 签订行业性、区域性集体合同依照本条例执行。　
 第三十条　本条例自2002年1月1日起施行。
 
+—— 1 ——

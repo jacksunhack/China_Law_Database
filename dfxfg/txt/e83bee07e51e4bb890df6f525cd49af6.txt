@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省广告条例
@@ -198,3 +200,4 @@
 
 第六十二条  本条例自2019年3月1日起施行。
 
+─ # ─  

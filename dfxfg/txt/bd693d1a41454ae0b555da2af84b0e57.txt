@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省人民代表大会议事规则
@@ -194,3 +195,4 @@
 第十章  附  则
 
 第七十条  本规则自公布之日起施行。1990年2月25日贵州省第七届人民代表大会第三次会议通过的《贵州省人民代表大会议事规则》同时废止。
+— 1 —

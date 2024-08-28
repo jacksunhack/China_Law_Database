@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省保护公民举报条例
@@ -31,3 +32,4 @@
 第十九条　受理和保护公民对集体经济组织工作人员或者其他经手、管理公共财物的人员违纪、违法和犯罪行为的举报，适用本条例。
 第二十条　本条例自公布之日起施行。
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 甘孜藏族自治州文明行为促进条例
@@ -187,3 +188,4 @@
 第五章　附　　则
 ​
 第三十四条　本条例自2024年3月5日起施行。
+－1－　

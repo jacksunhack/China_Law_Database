@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 抚顺市人大常委会关于修改
@@ -29,3 +30,4 @@
 十二、将条文中劳动保障行政部门的表述统一修改为：“人力资源社会保障行政部门。”
 本决定自公布之日起施行。
 《抚顺市职工劳动权益保障条例》根据本决定作相应修改后，重新公布。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 厦门经济特区高新技术产业园区条例
@@ -87,3 +88,4 @@
 ​
 第三十条　市人民政府根据发展需要设立高新区政策园区。政策园区内设立的企业、项目依照本条例规定享受高新区有关优惠政策。
 第三十一条　本条例自2024年1月1日起施行。
+－1－　

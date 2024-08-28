@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海经济特区安全生产条例
@@ -136,3 +137,4 @@
 （四）从业人员包括生产经营单位从事生产经营活动的负责人、管理人员、技术人员、岗位工人和被派遣劳动者等人员。
 第四十七条  本条例自2017年2月1日起施行。
 
+- # -

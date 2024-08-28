@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 长治市城市绿化条例
@@ -116,3 +117,4 @@
 （三）城市绿化设施，是指亭、廊、花架、喷泉、假山、石桌、石凳、护栏、围墙、园路、雕塑、雕刻以及其他景观建筑。
 第三十四条  本条例自2020年7月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区新型墙体材料促进条例
@@ -69,3 +70,5 @@
 第五章  附则
 
 　　第三十一条　本条例自2008年1月1日起施行。
+1
+ 

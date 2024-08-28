@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 武汉市实施《中华人民共和国
 环境保护法》办法
@@ -192,3 +193,4 @@
 本办法所称午间是指十二时至十四时，夜间是指二十二时至次日六时。
 第五十八条  本办法自2019年9月1日起施行。
 
+— # —

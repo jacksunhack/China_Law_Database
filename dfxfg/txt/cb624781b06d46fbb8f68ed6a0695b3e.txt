@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州涟江流域保护条例
@@ -95,3 +96,4 @@
 第四十三条  违反本条例规定的其他行为，法律、法规有处罚规定的，从其规定。
 第五章  附  则
 第四十四条  本条例自2020年3月1日起施行。
+— 1 —

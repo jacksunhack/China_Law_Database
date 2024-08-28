@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省厂务公开条例
@@ -70,3 +71,4 @@
     第二十一条  事业单位的校务、院务、所务等事务公开活动，参照本条例执行。
     第二十二条  本条例自2014年5月1日起施行。
 
+1

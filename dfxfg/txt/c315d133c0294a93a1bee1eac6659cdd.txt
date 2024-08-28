@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省燃气管理条例
@@ -152,3 +153,4 @@
 （三）燃气供气站点包括液化石油气瓶装供气站点、汽车加气站和各类燃气气化站。
 第四十七条  本条例具体应用中的问题，由省人民政府负责解释。
 第四十八条  本条例自2001年1月1日起施行。
+#  

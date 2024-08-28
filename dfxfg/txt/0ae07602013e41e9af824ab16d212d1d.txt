@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省地方铁路条例
@@ -90,3 +91,4 @@
 
 第四十三条　连接地方铁路的专用铁路和铁路专用线依照本条例进行管理。
 第四十四条　本条例自2006年7月1日起施行。
+— 3 —

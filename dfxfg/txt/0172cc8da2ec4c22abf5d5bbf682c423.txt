@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市村务公开条例
@@ -60,3 +61,4 @@
 第二十一条  本条例具体应用中的问题，由市人民政府负责解释。
 第二十二条  本条例从2004年7月1日起施行。
 
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市生活垃圾分类管理条例
@@ -190,3 +192,4 @@
 
 第五十五条  本条例自2020年6月1日起施行。
 
+─ # ─  

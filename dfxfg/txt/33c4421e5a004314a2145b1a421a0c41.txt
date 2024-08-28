@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 镇江市节约用水条例
@@ -99,3 +101,4 @@
 第三十四条  本条例自2022年10月1日起施行。
 
 
+─ # ─  

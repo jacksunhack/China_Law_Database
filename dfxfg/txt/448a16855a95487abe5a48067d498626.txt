@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 海南省规章设定罚款限额规定
 
@@ -20,4 +21,3 @@
 社会公众或者组织认为规章制定机关行使有关罚款限额授权超越权限或者违反相关规定的，可以向规章备案审查机关提出审查建议。
 经审查发现规章设定罚款违法或者明显不合理的，规章备案审查机关应当依法予以纠正。
 第七条  本规定自公布之日起施行。javascript:void(0);
-

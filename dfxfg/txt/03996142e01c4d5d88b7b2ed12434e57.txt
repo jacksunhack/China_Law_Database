@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州生态环境保护条例
@@ -198,3 +199,4 @@
 
 第六十二条  自治州人民政府应当根据本条例制定实施办法。
 第六十三条  本条例自2018年2月1日起施行。
+— 3 —

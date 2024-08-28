@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区环境保护条例
@@ -106,3 +107,4 @@
 
 第四十五条　本条例自公布之日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌海市海勃湾生态涵养区保护条例
@@ -104,3 +105,4 @@
 第五章　附　则
 
 第四十二条  本条例自2017年3月1日起施行。
+#

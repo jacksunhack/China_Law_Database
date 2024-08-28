@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 林芝市生态公益林保护条例
 
@@ -95,4 +96,3 @@
 
 第三十八条  市人民政府可以根据本条例制定实施细则。
 第三十九条  本条例自2020年1月1日起施行。
-

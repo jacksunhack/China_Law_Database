@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省实施《中华人民共和国公益
@@ -50,3 +51,4 @@
 　　第三十二条　本办法自2002年2月1日起施行。 
 
 
+1

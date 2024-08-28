@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省新型墙体材料发展应用条例
@@ -78,5 +79,4 @@
 （三）收取认定、备案费用的；
 （四）其他玩忽职守、滥用职权、徇私舞弊的行为。
 第三十条 本条例自2012年1月1日起施行。
-
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 沈阳市防御雷电灾害条例
@@ -78,3 +79,4 @@
 第三十七条  本条例自2009年11月1日起施行。
 
 
+— 1 —

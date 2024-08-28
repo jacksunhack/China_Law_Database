@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省殡葬管理条例
@@ -65,3 +66,4 @@
 第二十九条  违反本条例其他规定的，按照国务院《殡葬管理条例》和有关法律、法规的规定处罚。
 
 
+— 1 —

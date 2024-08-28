@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省临夏回族自治州教育条例
@@ -138,4 +139,3 @@
 第八章  附则
 
     第四十六条  本条例自公布之日起施行。
-

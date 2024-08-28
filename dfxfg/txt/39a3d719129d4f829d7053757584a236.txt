@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省土地利用总体规划条例
@@ -133,3 +134,4 @@
 第八章  附则
 
     第三十九条  本条例自2009年3月1日起施行。
+1

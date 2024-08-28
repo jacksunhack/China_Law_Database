@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省企业工资集体协商条例
@@ -129,3 +130,4 @@
 第四十三条  个体经济组织、民办非企业单位、实行企业化管理的事业单位开展工资集体协商，参照本条例执行。
 第四十四条  本条例自2015年1月1日起施行。
 
+- 3 -

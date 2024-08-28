@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省实施《中华人民共和国节约能源法》
@@ -152,3 +153,4 @@
 　　第五十五条　本办法自2011年9月1日起施行。
 
 
+— 1—

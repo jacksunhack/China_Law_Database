@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市残疾人保障条例
@@ -156,3 +157,4 @@
 
 第五十二条　本条例自2016年9月1日起施行。2001年6月15日青岛市人民代表大会常务委员会公布的《青岛市保障残疾人合法权益规定》同时废止。
 
+1

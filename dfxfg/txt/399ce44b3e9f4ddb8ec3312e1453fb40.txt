@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省安全生产条例
@@ -169,3 +171,4 @@
 
 第五十六条  本条例自2016年10月1日起施行。2005年3月31日江苏省第十届人民代表大会常务委员会第十五次会议通过的《江苏省安全生产条例》同时废止。
 
+─ # ─

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区光明科学城发展促进条例
@@ -121,3 +122,4 @@
 
 第六十三条 市人民政府可以根据本条例制定具体实施办法。
 第六十四条 本条例自2023年6月1日起施行。
+#

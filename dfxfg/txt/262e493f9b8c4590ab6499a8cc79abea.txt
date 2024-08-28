@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 西安市流动人口计划生育条例
@@ -94,4 +95,3 @@
 第三十五条  对违反计划生育法律、法规生育子女的流动人口社会抚养费的征收，按照国务院《社会抚养费征收管理办法》及有关规定执行。
 第五章　附　则
 第三十六条  本条例自2008年1月1日起施行。
-

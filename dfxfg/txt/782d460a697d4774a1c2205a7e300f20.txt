@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省行政许可监督管理条例
@@ -114,3 +116,4 @@
 第六章　附则
 
 　　第三十二条　本条例自2018年1月1日起施行。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省植物园条例
@@ -45,3 +46,4 @@
 　　第十九条  国家工作人员在植物园的规划、建设、保护和管理工作中玩忽职守、滥用职权、徇私舞弊的，依法给予处分。
 第二十条  本条例自2013年1月1日起施行。
 
+－1－  

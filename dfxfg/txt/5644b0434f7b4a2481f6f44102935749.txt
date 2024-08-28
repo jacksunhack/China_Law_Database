@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省人口与计划生育条例
@@ -224,3 +225,4 @@
     第六十七条  本条例自2009年5月1日起施行。
 
 
+- 1 -

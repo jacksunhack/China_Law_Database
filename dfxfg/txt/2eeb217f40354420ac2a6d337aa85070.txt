@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市违法建设查处条例
@@ -104,3 +105,4 @@
 第六章  附则
 
 第二十九条  本条例自2014年9月1日起施行。
+- 1 -

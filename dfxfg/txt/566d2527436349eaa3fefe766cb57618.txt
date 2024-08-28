@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区实施
@@ -81,3 +82,5 @@
 　　（三）截留、挪用、侵占、贪污工会经费的；
 　　（四）玩忽职守、徇私舞弊的。
 　　第三十六条　本办法自2005年9月1日起施行。　　
+1
+ 

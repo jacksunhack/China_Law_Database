@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省全民健身条例
@@ -103,4 +104,6 @@
 
 第四十四条  本条例自2013年2月1日起施行。
 
+
+— 1 —
 

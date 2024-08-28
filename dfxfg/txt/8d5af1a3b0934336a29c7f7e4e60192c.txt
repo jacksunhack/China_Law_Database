@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 浙江省优化营商环境条例
@@ -239,3 +240,4 @@
 ​
 第九十五条　对优化营商环境相关工作，本条例未作规定的，依照相关法律、法规的已有规定执行。
 第九十六条　本条例自2024年3月1日起施行。
+－1－　

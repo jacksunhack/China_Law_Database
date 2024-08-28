@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区促进科技成果转化条例
@@ -113,4 +114,6 @@
 
 
 
+
+- 7 -
 

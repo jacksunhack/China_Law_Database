@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省母婴保健条例
@@ -96,3 +97,4 @@
 
 第四十二条  计划生育技术服务机构在其职责范围内开展技术服务，围绕生育、不育、节育开展有关的妇幼保健工作，应当依照法律、法规和国务院的有关规定执行。
 第四十三条  本条例自公布之日起施行。
+— 1 —

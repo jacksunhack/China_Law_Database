@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广西壮族自治区优化营商环境条例
 
@@ -218,3 +219,4 @@
 第七十五条  法律、法规授权的具有管理公共事务职能的组织，适用本条例关于行政机关的规定。
 第七十六条  本条例自2020年7月1日起施行。
 
+31

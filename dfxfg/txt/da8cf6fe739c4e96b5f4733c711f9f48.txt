@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市市政设施管理条例
@@ -123,3 +125,5 @@
 　　第四十一条　本条例自2000年1月1日起施行。
 
 
+  — 1 —    
+     

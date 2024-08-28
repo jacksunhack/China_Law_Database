@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省乡村振兴促进条例
@@ -174,3 +175,4 @@
 （二）两不愁三保障，是指不愁吃、不愁穿，义务教育、基本医疗和住房安全有保障。
 第七十二条  本条例自2023年1月1日起施行。
 
+— 13 —

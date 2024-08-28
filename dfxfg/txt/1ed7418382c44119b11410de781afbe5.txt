@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 湖北省优化营商环境条例
 
@@ -182,3 +183,4 @@
 第六章  附则
 
 第六十一条  本条例自2023年3月1日起施行。《湖北省优化经济发展环境条例》同时废止。
+— # —

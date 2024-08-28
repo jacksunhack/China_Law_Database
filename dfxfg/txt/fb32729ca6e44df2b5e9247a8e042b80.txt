@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 陕西省实施《中华人民共和国慈善法》办法
@@ -134,3 +136,4 @@
 （六）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第五十六条　本办法自2019年9月1日起施行。
 
+—1—　

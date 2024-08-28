@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 晋中市城市建筑垃圾管理条例
 
@@ -80,3 +82,4 @@
 第六章  附 则
 第三十一条  本市城市规划区以外的乡镇、农村区域的建筑垃圾管理，参照本条例执行。
 第三十二条  本条例自2022年5月1日起施行。
+- 13 -

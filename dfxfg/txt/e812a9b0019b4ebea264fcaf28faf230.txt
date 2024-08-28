@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省实施《中华人民共和国水法》办法
@@ -193,3 +194,4 @@
 
 第六十五条  本办法自2015年1月1日施行。2002年12月6日颁布的《广东省水资源管理条例》同时废止。
 
+- 1 - 

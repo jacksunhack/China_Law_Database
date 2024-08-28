@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市促进科技成果转化条例
@@ -48,3 +49,4 @@
 第二十四条  法律、法规对科技成果转化活动以及有关优惠和奖励等另有规定的，从其规定。
 第二十五条  本条例自1999年9月1日起施行。
 
+— 3 —

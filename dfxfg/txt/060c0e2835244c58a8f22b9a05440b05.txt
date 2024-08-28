@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省职业病防治条例
@@ -112,3 +114,4 @@
 第四十四条  本条例第二条规定的企业、事业单位和个体生产经营者以外的用人单位，产生职业病危害的，其职业病防治活动，可以参照本条例执行。
 第四十五条  本条例自1999年7月1日起施行。
 
+─ 1 ─  

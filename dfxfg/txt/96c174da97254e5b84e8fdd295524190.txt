@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 关岭布依族苗族自治县自治条例
@@ -123,3 +125,4 @@
 农历“六月初六”为自治县布依族传统节日，“四月初八”为自治县苗族传统节日。
 第五十四条  本条例自1990年1月1日起施行。
 
+— 1 —

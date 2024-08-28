@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省外商投资企业与来料加工企业直通
@@ -26,3 +27,4 @@
 　　第八条  省人民政府可根据本规定制订实施细则。
 　　第九条  本规定自公布之日起施行。
 
+1

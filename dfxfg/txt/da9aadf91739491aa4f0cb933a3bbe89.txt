@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 锦州市城市公园管理条例
@@ -97,3 +98,5 @@
 
 第二十三条  本条例自2021年2月1日起施行。
 
+                                                                                     #
+       

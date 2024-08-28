@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 大理白族自治州非物质文化遗产保护条例
@@ -175,3 +176,4 @@
 ​
 第四十一条　自治州人民政府可以根据本条例制定实施办法。
 第四十二条　本条例自2021年1月1日起施行。
+－1－　

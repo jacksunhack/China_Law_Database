@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省邮政条例
@@ -161,3 +162,4 @@
 
 　　第五十八条　本条例自2014年8月1日起施行。
 
+－ # －

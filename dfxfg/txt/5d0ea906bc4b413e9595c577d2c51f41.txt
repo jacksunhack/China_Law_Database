@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 河池市违法建设防控和查处条例
 
 （2020年8月28日河池市第四届人民代表大会常务委员会第三十三次会议通过
@@ -104,5 +105,4 @@
 第四章  附则
 
 　　第三十八条  本条例自2021年1月1日起施行
-
 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 杭州市城市国际化促进条例
@@ -139,3 +140,4 @@
 第六十条  本条例自2018年8月1日起施行。
 
 
+— 1—

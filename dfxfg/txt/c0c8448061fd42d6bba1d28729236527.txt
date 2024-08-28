@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳市实施《中华人民共和国
@@ -57,3 +58,4 @@
     第二十二条  本办法规定市政府以及市政府相关部门制定具体办法的，应当自本办法实施之日起六个月内制定并组织实施。
     第二十三条  本办法自2012年5月1日起施行。
 
+- 1 -

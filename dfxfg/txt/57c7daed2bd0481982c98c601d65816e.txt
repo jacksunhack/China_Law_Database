@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 察布查尔锡伯自治县促进民族团结条例
@@ -70,3 +71,4 @@
 第三十五条  本条例自2015年7月1日起实施。
 
 
+— 1 —

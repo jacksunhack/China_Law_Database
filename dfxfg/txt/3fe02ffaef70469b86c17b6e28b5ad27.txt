@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
  
 
 徐州市骆马湖水环境保护条例
@@ -122,3 +124,4 @@
 第四十四条  本条例自2022年11月1日起施行。
 
 
+─ # ─  

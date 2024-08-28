@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广西壮族自治区见义勇为人员奖励
 和保护条例
@@ -123,3 +124,4 @@
 第四十六条 本条例自2020年11月1日起施行。
 
 
+12

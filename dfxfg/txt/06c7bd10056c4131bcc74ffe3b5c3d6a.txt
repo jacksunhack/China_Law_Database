@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州促进中小企业发展条例
@@ -27,3 +28,4 @@
 第十五条  本条例自2012年7月1日起施行。
 
 
+— 1 —

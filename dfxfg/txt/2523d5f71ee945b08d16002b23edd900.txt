@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省私营企业工会条例
@@ -49,3 +50,4 @@
 　　第二十六条　本条例由省人民代表大会常务委员会负责解释。
 　　第二十七条　本条例自2002年2月1日起施行。
 
+1

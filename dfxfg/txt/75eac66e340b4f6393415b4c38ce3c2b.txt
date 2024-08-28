@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省供用电条例
@@ -93,3 +95,4 @@
 （三）在查处违章用电、窃电中，损害国家、企业和用户利益，获取好处的；
 （四）采取其他手段，获取不当利益的。
 第四十条  本条例自2006年10月1日起施行。
+      — 1 —    

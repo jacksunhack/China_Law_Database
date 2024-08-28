@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 巴彦淖尔市乌梁素海自治区级湿地水禽
 自然保护区条例
@@ -73,3 +74,4 @@
 第六章　附　则
 第三十三条　本条例自2018年1月1日起施行。
 
+#

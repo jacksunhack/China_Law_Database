@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 池州市古建筑保护条例
@@ -120,3 +121,4 @@
 ​
 第四十条　九华山风景名胜区古建筑涉及风景名胜区工程建设的，依照风景名胜区相关法律、法规的规定执行。
 第四十一条　本条例自2022年1月1日起施行。
+－1－　

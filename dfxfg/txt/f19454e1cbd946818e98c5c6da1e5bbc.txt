@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 唐山市志愿服务条例
@@ -117,3 +119,5 @@
 第三十六条  经市志愿服务指导委员会或者志愿者协会同意派往外地从事志愿服务的，参照国家和本条例有关规定执行。
 第三十七条  本条例自2010年9月15日起施行。
 
+　— 1 —　
+　

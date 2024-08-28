@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 广西壮族自治区税收保障条例
@@ -98,3 +99,4 @@
 ​
 第四十条　依法由税务机关负责征收的社会保险费以及各类非税收入，其征收的保障工作参照本条例有关规定执行。
 第四十一条　本条例自2017年10月1日起施行。
+－1－　

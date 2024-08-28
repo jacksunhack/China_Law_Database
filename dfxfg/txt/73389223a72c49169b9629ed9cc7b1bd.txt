@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 包头市科学技术普及条例
 
@@ -45,3 +47,5 @@
 第三十一条  本条例自2005年5月1日起施行。
 
 
+
+#

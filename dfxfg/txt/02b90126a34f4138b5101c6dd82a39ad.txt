@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 深圳经济特区政府采购条例
@@ -330,3 +331,4 @@
      第六十二条  市政府应当在本条例实施之日起六个月内制定实施细则。
      第六十三条  本条例自2012年3月1日起施行。
 
+- 1 -

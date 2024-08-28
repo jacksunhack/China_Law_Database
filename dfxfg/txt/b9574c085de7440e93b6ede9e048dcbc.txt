@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省实施《中华人民共和国农民
@@ -111,3 +112,4 @@
 
 第三十六条　国有农场、牧场、林场、渔场等企业事业单位实行承包经营的职工，可以参照本办法的规定设立农民专业合作社。
 第三十七条　本办法自2010年10月1日起施行。
+- 28 -

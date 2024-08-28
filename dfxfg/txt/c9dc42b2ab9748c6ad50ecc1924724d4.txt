@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 莫力达瓦达斡尔族自治旗市容和
@@ -73,3 +74,4 @@
 第三十条  自治旗人民政府可以根据本条例制定实施细则。
 第三十一条  本条例自2005年9月1日起施行。
 
+#

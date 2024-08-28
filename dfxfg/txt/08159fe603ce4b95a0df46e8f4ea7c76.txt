@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省县、乡两级人民代表大会
@@ -163,4 +164,3 @@
 
 第十章　附　则
 　　第六十一条　本细则自公布之日起施行。
-

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南蒙古族自治县生态环境保护条例
@@ -101,3 +102,4 @@
 
 　　第四十一条　本条例实施细则由自治县人民政府制定。
 　　第四十二条　本条例自2016年9月1日起施行。
+#　

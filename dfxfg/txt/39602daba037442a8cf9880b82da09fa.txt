@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南京市制定地方性法规条例
@@ -208,3 +209,4 @@
 第八章　附　　则
 ​
 第七十九条　本条例自2019年5月1日起施行。2001年2月10日南京市第十二届人民代表大会第四次会议通过的《南京市制定地方性法规条例》同时废止。
+－1－　

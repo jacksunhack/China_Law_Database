@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 娄底市湄江风景名胜区条例
@@ -163,3 +165,5 @@
 第六章  附 则
 
 第四十六条  本条例自2019年2月1日起施行。
+#      
+  

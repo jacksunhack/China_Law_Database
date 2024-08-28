@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 崇左市城市建筑垃圾管理条例
 
 （2019年9月30日崇左市第四届人大常委会第二十三次会议通过
@@ -105,4 +106,3 @@
 （四）包庇、纵容违法行为人的；
 （五）其他不依法履行监督管理职责的情形。
 第三十三条  本条例自2020年1月1日起施行。
-

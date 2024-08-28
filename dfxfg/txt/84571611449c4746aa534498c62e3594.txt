@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河南省防震减灾条例
@@ -208,3 +209,4 @@
 
     第六十六条  本条例自2011年7月1日起施行。2000年7月29日河南省第九届人民代表大会常务委员会第十七次会议通过的《河南省实施〈中华人民共和国防震减灾法〉办法》同时废止。
 
+－ 23 －

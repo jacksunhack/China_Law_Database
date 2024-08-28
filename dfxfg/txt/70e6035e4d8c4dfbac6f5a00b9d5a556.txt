@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 内蒙古自治区养老服务条例
 （2021年11月16日内蒙古自治区第十三届人民代表大会常务委员会第三十一次会议通过）
@@ -158,3 +160,4 @@
                     第十章  附  则
 第八十条  本条例自2022年1月1日起施行。
 
+#

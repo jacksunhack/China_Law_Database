@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市供水用水管理条例
@@ -139,3 +140,4 @@
 第七章  附则
 
 第六十四条  本条例自2007年3月1日起施行。
+- 1 - 

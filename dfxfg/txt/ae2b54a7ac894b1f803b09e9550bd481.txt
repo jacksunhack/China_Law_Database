@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 泰山风景名胜区保护管理条例
@@ -113,3 +114,4 @@
 第三十六条  本条例自2000年12月1日起施行。
 
  
+1

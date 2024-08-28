@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省实施《中华人民共和国水法》办法
@@ -142,3 +143,4 @@
 第六十六条　本办法自2011年1月1日起施行。
 
 
+－1－　

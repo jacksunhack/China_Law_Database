@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省信息化条例
@@ -162,3 +163,4 @@
 　　本条例所称具有公共管理和服务职能的企业事业单位包括但不限于邮政、通信、水务、电力、燃气、热力、公共交通、民航、铁路等。
 　　第六十二条　本条例自2021年5月1日起施行。
 
+1

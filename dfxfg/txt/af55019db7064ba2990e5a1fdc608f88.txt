@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -56,3 +57,4 @@
 　　外国人未经主管公安机关批准，不得参加本省公民举行的集会、游行、示威。
 　　第二十四条　本办法应用中的具体问题，由青海省公安厅负责解释。
 　　第二十五条　本办法自1991年5月1日起施行。
+#　

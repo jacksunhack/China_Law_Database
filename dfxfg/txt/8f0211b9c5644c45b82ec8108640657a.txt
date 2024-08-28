@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 迪庆藏族自治州古树名木保护管理条例
@@ -72,3 +73,4 @@
 古树名木树木价值由古树名木行政主管部门组织专家鉴定后确定。
 第二十七条　自治州人民政府可以依照本条例制定实施办法。
 第二十八条　本条例自2021年1月1日起施行。
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 玉树藏族自治州自治条例
@@ -153,3 +154,4 @@
 藏历新年、穆斯林开斋节、传统赛马节等少数民族习惯的节日，由自治州人民政府规定放假日期。
 第六十七条  本条例自2020年9月1日起施行。
 
+#  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省华侨权益保护条例
@@ -123,3 +124,4 @@
 第四十二条  本条例自2021年1月1日起施行。
 
 
+— # —

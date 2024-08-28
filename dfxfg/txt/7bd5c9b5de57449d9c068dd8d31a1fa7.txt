@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省石羊河流域水资源管理条例
@@ -95,3 +97,4 @@
 
 
 
+      — 1 —    

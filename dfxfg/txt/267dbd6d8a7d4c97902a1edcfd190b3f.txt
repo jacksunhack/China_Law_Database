@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市城市道路设施管理条例
@@ -106,3 +107,4 @@
 第四十二条  各旗、县建制镇的城市道路设施规划、建设和管理参照本条例执行。
 第四十三条  本条例自2006年6月1日起施行。
 
+#

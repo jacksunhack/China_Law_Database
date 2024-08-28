@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 武汉市鼓励和保护台湾同胞投资办法
@@ -93,3 +95,4 @@
 第五章　附则
 
 　　第三十八条　本办法自2011年8月1日起施行。
+1

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省核事故预防和应急管理条例
@@ -121,3 +123,4 @@
 （三）应急计划区，是指在核电厂周围建立的，制定有核事故应急计划并预计采取核事故应急对策和应急防护措施的区域。
 第四十条　本条例自2017年1月1日起施行。
 
+─ # ─

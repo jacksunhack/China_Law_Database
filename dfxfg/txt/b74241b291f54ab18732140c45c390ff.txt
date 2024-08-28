@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 辽阳市汤河水库饮用水水源保护条例
@@ -101,3 +102,4 @@
 （四）发现违法行为或者接到对违法行为的举报后不依法查处的；
 （五）其他滥用职权、玩忽职守、徇私舞弊的行为。
 第三十一条　本条例自公布之日起施行。
+－1－　

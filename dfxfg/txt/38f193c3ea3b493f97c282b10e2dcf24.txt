@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省古树名木保护管理规定
@@ -100,3 +102,4 @@
 第三十九条   本规定具体应用的问题由省人民政府负责解释。
 第四十条   本规定自2013年11月1日起施行。
 
+1

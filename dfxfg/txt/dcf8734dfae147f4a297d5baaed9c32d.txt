@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省实施
@@ -138,3 +139,4 @@
 
 　　第五十九条　民办学校实施义务教育的，适用民办教育法律、法规的规定；民办教育法律、法规未作规定的，适用义务教育法和本办法。
 　　第六十条　本办法自2009年12月1日起施行。
+1  

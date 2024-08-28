@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市人民代表大会常务委员会
@@ -34,3 +35,4 @@
 第二十二条  市人民代表大会法制委员会成立前，由市人民代表大会常务委员会法制工作委员会负责规章的备案审查工作。
 第二十三条  本规定自公布之日起施行。
 
+- 1 -

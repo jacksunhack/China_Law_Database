@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黔南布依族苗族自治州科学技术进步条例
@@ -68,3 +70,4 @@
 （六）侵占他人科学技术成果和擅自转让单位科学技术成果、职务科技成果的；
 （七）利用虚假技术或国家明令禁止技术造成危害社会后果的。
 
+— 1 —

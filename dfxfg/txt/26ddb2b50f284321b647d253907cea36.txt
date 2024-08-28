@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市机动车和非道路移动机械
@@ -92,3 +93,4 @@
 第六章  附则
 
 　　第三十一条  本条例自2019年7月1日起施行。
+#

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省珊瑚礁和砗磲保护规定
@@ -59,3 +61,4 @@
 第二十九条  本规定自2017年1月1日起施行。1998年9月24日海南省第二届人民代表大会常务委员会第三次会议通过的《海南省珊瑚礁保护规定》同时废止。
 
 
+1

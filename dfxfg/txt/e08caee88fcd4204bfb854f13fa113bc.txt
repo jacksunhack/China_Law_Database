@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市城市规划条例
@@ -130,3 +131,4 @@
 第八章　附则
 
 第五十一条　本条例自2004年1月1日起施行。
+#　

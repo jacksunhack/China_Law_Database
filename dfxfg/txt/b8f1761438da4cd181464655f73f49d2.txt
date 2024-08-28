@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省发展民营科技企业条例
@@ -72,3 +74,4 @@
 第三十三条　民营科技企业对有关行政管理部门及其工作人员的具体行政行为不服的，可以依法申请行政复议或者提起行政诉讼。
 第三十四条　本条例自1999年4月1日起施行。
 
+─ 1 ─  

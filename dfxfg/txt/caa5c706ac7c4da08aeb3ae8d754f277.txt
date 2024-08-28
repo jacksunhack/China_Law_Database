@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区乌海市及周边地区
@@ -78,3 +79,4 @@
 第六章　附　则
 第四十一条　本条例自2020年1月1日起施行。
 
+#

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 内蒙古自治区食品小作坊小餐饮店
@@ -184,3 +185,4 @@
 第六章　附　　则
 ​
 第五十六条　本条例自2024年3月1日起施行。
+－1－　

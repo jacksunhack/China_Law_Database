@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区义务植树条例
@@ -51,3 +52,4 @@
 (五)其他滥用职权、玩忽职守、徇私舞弊的行为。
 第二十三条  本条例自2010年2月1日起施行。1991年3月13日内蒙古自治区人民政府公布的《内蒙古自治区全民义务植树实施细则》同时废止。
 
+#

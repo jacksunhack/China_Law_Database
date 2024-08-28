@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省实施
@@ -166,3 +167,4 @@
 第九章　附则
 
 第六十四条　本办法自2011年10月1日起施行。
+— 13 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省企业权益保护条例
@@ -85,3 +86,4 @@
    实行企业化管理的事业单位、农民专业合作社、个体工商户合法权益的保护，参照本条例执行。
 第三十条  本条例自2014年1月1日起施行。
 
+- 1 -

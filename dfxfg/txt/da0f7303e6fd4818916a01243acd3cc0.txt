@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省人民代表大会常务委员会
@@ -158,3 +159,4 @@
 任免案、撤职案的提出和审议按照《黑龙江省人民代表大会常务委员会人事任免条例》的规定进行。
 第六十条　法律另有规定的，从其规定。
 第六十一条　本规则自公布之日起施行。
+－1－　

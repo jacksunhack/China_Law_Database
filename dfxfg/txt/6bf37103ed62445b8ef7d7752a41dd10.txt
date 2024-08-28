@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省外国人登山管理条例
@@ -49,3 +50,4 @@
 　　第二十二条　当事人对行政处罚不服的，可依法申请行政复议或者提起行政诉讼。
 　　第二十三条　本条例应用中的具体问题由省体育主管机构负责解释。
 　　第二十四条　本条例自2002年3月1日起施行。
+#　

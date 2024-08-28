@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门市人民代表大会常务委员会议事规则
@@ -90,3 +91,4 @@
 　　第三十三条　常务委员会通过的法规、决议、决定，应当及时予以公布，并依法报有关机关批准或者备案。
 　　第三十四条　本议事规则自通过之日起施行。
 
+— # —

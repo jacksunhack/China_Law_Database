@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山西省家庭教育促进条例
@@ -84,3 +85,4 @@
 第七章  附则
 
 第三十七条  本条例自2018年9月1日起施行。
+#  

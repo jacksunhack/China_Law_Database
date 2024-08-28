@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市水库工程管理条例
@@ -58,3 +59,4 @@
 第二十条  本条例自公布之日起施行。
 
 
+— 1 —

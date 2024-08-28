@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 德宏傣族景颇族自治州乡村清洁条例
@@ -81,3 +83,4 @@
 第三十条  自治州、县（市）人民政府应当根据本条例制定实施办法。
 第三十一条  本条例自2020年1月1日起施行。
 
+—— # ——

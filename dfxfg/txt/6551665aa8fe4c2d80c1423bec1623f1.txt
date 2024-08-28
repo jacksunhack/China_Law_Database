@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区科学技术进步条例
@@ -98,3 +99,4 @@
 第四十四条  本条例自2012年5月1日起施行。
 
 
+— 1 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市船舶污染防治条例
@@ -161,3 +162,4 @@
 
 第六十一条  军事船舶、体育运动船舶、渔业船舶的污染防治工作，按照国家有关规定执行。
 第六十二条  本条例自2023年3月1日起施行。
+- 1 -

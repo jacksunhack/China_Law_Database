@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘孜藏族自治州矿产资源管理条例
@@ -118,3 +120,4 @@
 第三十七条  自治州人民政府可根据本条例就实施中的问题作出规定。
 本条例具体运用中的问题由甘孜州地质矿产行政主管部门负责解释。
 第三十八条  本条例自公布之日起施行。
+—5—

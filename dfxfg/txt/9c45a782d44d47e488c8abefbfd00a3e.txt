@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 焦作市中小学校幼儿园安全条例
@@ -137,3 +138,4 @@
 ​
 第四十四条　本市行政区域内经批准设立的其他教育培训机构、托管机构的安全管理工作，参照本条例执行。
 第四十五条　本条例自2023年10月1日起施行。
+－1－　

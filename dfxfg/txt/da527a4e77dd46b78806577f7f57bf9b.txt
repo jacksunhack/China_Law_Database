@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省生活垃圾管理条例
@@ -129,3 +130,4 @@
 第四十五条  本条例自2022年3月1日起施行。
 
 
+1

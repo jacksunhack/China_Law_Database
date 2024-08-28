@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
   保亭黎族苗族自治县自治条例
@@ -169,3 +171,4 @@
 第五十二条  本条例由自治县人民代表大会常务委员会负责解释。
 第五十三条  本条例自公布之日起施行。
 
+1

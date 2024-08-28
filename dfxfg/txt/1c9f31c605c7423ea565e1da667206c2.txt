@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省医疗纠纷预防与处理条例
@@ -207,3 +208,4 @@
 第六十三条  本条例所称医疗机构，是指依照国务院《医疗机构管理条例》规定取得医疗机构执业许可证的机构。
     第六十四条  本条例自2014年5月1日起施行。
 
+- 1 -

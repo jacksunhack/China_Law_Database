@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 厦门市人民代表大会常务委员会关于发展
@@ -55,3 +56,4 @@
 　　第九条　市人民政府和相关行政主管部门根据本决定制定实施意见。
 　　第十条　本决定自公布之日起施行。
 
+— # —

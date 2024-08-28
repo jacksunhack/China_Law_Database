@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 滨州市海岸带生态保护与利用条例
@@ -121,3 +122,4 @@
 第七章  附则
 
 第四十二条  本条例自2020年3月1日起施行。
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南宁市民族教育条例
@@ -115,3 +116,4 @@
 第四十一条  贫困、边远的民族地区的划分由县（区）人民政府报市人民政府批准。
 第四十二条  本条例自2005年9月1日起施行。
 
+1

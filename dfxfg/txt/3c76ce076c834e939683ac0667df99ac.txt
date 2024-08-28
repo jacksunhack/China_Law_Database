@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 天津市物业管理条例
 
@@ -287,3 +288,4 @@
 第七十八条  业主自行管理物业、委托其他管理人管理物业和原有住宅区实施物业管理的，可以参照本条例执行。
 第七十九条  本条例自2008年12月1日起施行
 
+#

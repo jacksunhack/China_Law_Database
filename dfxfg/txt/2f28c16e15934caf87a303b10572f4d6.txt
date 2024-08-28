@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南通市制定地方性法规条例
@@ -168,3 +169,4 @@
 第九章　附　　则
 ​
 第六十九条　本条例自2016年5月1日起施行。
+－1－　

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘 肃 省 气 象 条 例
@@ -106,3 +108,4 @@
 第八章  附    则
 
 第三十七条  本条例自2022年8月1日起施行。
+      — 1 —    

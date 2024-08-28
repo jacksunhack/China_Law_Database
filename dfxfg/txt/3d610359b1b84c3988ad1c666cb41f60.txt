@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 云南省玉溪城市管理条例
@@ -174,3 +176,4 @@
 第五十二条  市、区人民政府可以根据本条例制定城市管理的具体实施办法。玉溪市各县的城市管理可以参照本条例执行。
 第五十三条  本条例自2012年1月1日起施行。
 
+—— 4 ——

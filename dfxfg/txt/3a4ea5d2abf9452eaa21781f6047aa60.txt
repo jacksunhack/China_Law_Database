@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 南通市房屋安全管理条例
@@ -109,3 +111,4 @@
 
 第三十一条  本条例自2023年3月1日起施行。
 
+─ # ─  

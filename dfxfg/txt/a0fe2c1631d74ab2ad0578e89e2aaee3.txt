@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省促进科技企业发展条例
@@ -65,3 +66,5 @@
 
 第二十一条　其他企业从事技术创新活动，参照本条例执行。
 第二十二条　本条例自2005年1月1日起施行。
+— # —
+

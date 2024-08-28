@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 扬州市河道管理条例
@@ -118,3 +120,4 @@
 第三十九条  本条例所称市中心城区以扬州市城市总体规划确定的范围为准。
 第四十条  本条例自2017年1月1日起施行。
 
+─ # ─

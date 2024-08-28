@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 河北省体育设施管理条例
@@ -66,3 +68,4 @@
 
 第二十八条　本条例具体应用中的问题，由河北省体育行政主管部门负责解释。
 　　第二十九条　本条例自公布之日起施行。
+　— 1 —　

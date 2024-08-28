@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省促进科学技术进步条例
@@ -102,3 +103,4 @@
 　　第三十八条  违反本条例的，由有关部门依照法律的规定处理。
 　　第三十九条  本条例自1995年12月1日起施行。
 
+- 1 - 

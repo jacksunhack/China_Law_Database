@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区宗教事务条例
@@ -164,3 +165,4 @@
 第六十六条  本条例自2015年 1月 1日起施行。1994年7月16日自治区第八届人民代表大会常务委员会第九次会议通过的《新疆维吾尔自治区宗教事务管理条例》同时废止。
 
 
+— 17 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州促进和保护
@@ -87,3 +88,4 @@
 第三十六条  本条例自二00二年十二月一日起施行。
 
 
+— 1 —

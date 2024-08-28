@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 贵州省地方立法条例
@@ -168,3 +169,4 @@
 第八章　附　　则
 ​
 第七十二条　本条例自公布之日起施行。1985年12月18日贵州省第六届人民代表大会常务委员会第十六次会议通过的《贵州省制定地方性法规的程序的暂行规定》同时废止。
+－1－　

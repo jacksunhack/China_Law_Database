@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 关岭布依族苗族自治县民族医药发展条例
@@ -101,3 +102,4 @@
 ​
 第四十一条　自治县人民政府可以根据本条例制定实施细则。
 第四十二条　本条例自2023年9月1日起施行。
+－1－　

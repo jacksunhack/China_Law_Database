@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市违法建设查处条例
@@ -127,3 +128,4 @@
 第四十一条　市人民政府可以根据实际情况制定本条例的实施细则。
     第四十二条　本条例自2013年3月1日起施行。
 
+- 1 - 

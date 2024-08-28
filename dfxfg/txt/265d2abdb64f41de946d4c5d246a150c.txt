@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市查处假冒巡游出租汽车若干规定
@@ -26,3 +27,4 @@
 第九条 本规定自2019年2月1日起施行。
 
 
+#

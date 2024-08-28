@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 包头市城市管理行政执法条例
@@ -202,3 +204,4 @@
 
 第六十四条  石拐区、白云矿区的城市管理行政执法和土默特右旗、固阳县、达尔罕茂明安联合旗的城镇管理行政执法可以参照本条例执行。
 第六十五条  本条例自2013年7月1日起施行。
+#

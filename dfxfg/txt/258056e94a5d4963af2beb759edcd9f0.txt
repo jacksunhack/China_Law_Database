@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 重庆市人民代表大会常务委员会关于保障和促进统筹城乡综合配套改革试验工作的决定
@@ -14,3 +15,4 @@
 四、本市各级国家机关应当积极参与统筹城乡综合配套改革，支持和保障改革创新措施的有效实施。
 本决定自公布之日起施行。
 
+— 3 —

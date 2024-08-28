@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青海省司法鉴定条例
@@ -244,3 +245,4 @@
 
 　　第五十八条　公民、法人或者其他组织因涉及调解、仲裁、行政复议、公证、保险服务等需要委托鉴定的，参照本条例执行。
 　　第五十九条　本条例自2014年10月1日起施行。
+#　

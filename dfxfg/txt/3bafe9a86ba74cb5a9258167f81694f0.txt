@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省临夏回族自治州食盐加碘消除
@@ -71,5 +72,4 @@
     第二十七条  州人民政府应制定本条例的实施办法。
     第二十八条  本条例由州人大常委会负责解释。
     第二十九条  本条例自公布之日起施行。
-
 

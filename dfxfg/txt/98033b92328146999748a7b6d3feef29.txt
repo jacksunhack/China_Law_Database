@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 东莞市制定地方性法规条例
@@ -150,3 +151,4 @@
 第八章  附则
 
     第七十二条  本条例自公布之日起施行。
+- 1 - 

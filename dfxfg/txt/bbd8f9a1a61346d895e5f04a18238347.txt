@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省人民代表大会代表议案和建议
@@ -26,3 +27,4 @@
 十五、条例中的“省高级人民法院”前增加“省监察委员会”；“督办件”统一修改为“督办建议”。
 十六、本修正案自2022年6月1日起施行。
 
+— 1 —

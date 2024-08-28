@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四平市市区住宅小区物业管理监督规定
@@ -46,4 +47,3 @@
 （五）法律法规禁止的其他行为。
 第十六条 违反本规定应当给予行政处罚的，依据《吉林省物业管理条例》等有关法律法规的规定执行。
 第十七条 本规定自2022年1月1日起施行。
-

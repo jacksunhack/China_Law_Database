@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大同市餐厨废弃物管理条例
@@ -98,3 +99,4 @@
 第二十九条  本条例自2016年1月1 日起施行。
 
 
+#

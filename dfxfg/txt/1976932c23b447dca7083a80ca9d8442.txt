@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省河长制规定
@@ -59,3 +60,4 @@
 （六）其他违反河长制相关规定的行为。
 第十八条  本规定自2017年10月1日起施行。
 
+— 1—

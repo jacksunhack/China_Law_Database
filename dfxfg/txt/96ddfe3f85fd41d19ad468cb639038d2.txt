@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 抚顺市烟花爆竹燃放管理条例
@@ -57,3 +58,4 @@
 第二十一条  本条例自2012年1月1日起施行。
 
 
+— 1 —

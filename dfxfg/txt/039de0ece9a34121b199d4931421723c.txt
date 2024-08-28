@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 甘肃省农村扶贫开发条例
 
 （2012年3月28日甘肃省第十一届人民代表大会常务委员会第二十六次会议通过）
@@ -103,4 +104,3 @@
 第九章  附则
 
 　　 第五十条  本条例自2012年5月1日起施行。
-

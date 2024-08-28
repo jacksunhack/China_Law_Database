@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 宁夏回族自治区实施《中华人民共和国
@@ -58,3 +60,4 @@
     第二十七条 本办法自1994年3月1日起施行。
 
 
+1

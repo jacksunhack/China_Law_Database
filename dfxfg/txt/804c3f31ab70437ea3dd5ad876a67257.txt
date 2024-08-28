@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 银川市荣誉市民称号授予办法
@@ -29,3 +30,4 @@
 第九条 本办法自批准之日起施行。 
 
 
+#

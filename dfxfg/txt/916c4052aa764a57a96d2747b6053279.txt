@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽源市室外公共体育设施管理条例
@@ -43,3 +45,4 @@
 （四）室外公共体育设施超出使用年限不及时报废拆除并更换的。
 第五章  附则
 第二十三条  本条例自2023年6月1日起施行。
+#

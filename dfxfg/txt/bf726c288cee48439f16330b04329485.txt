@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 中山市优化营商环境条例
@@ -133,3 +134,4 @@
 （五）未恶意串通损害公共利益和他人合法权益的；
 法律、法规另有规定的，从其规定。
 第五十七条　本条例自2024年1月1日起施行。
+－1－　

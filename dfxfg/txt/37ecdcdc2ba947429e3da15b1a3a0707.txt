@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡阳市南岳区综合管理条例
@@ -94,3 +95,4 @@
 第六章   附则
 
 第三十四条  本条例经湖南省人民代表大会常务委员会批准后，由衡阳市人民代表大会常务委员会公布，自2017年3月1日起施行。
+- 1 -

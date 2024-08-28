@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昭通市人民代表大会及其常务委员会
@@ -164,3 +166,4 @@
 
 第七十条　本条例自公布之日起施行。
  
+—— 18 ——

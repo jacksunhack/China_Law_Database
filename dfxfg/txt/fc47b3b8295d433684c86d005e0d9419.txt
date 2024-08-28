@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区农作物种子管理条例
@@ -134,3 +135,5 @@
 
 　　第四十九条　草种、食用菌种的种质资源管理和选育、生产、经营、使用、管理等活动，参照本条例执行。
 　　第五十条　本条例自2001年6月1日起施行。
+1
+ 

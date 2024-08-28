@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 哈尔滨市水生态监测条例
@@ -95,3 +96,4 @@
 第三十二条  水生态监测中所涉及的水文监测工作，按照国家和省的有关规定执行。
 第三十三条  法律、法规对水生态监测有规定的，从其规定。
 第三十四条  本条例自2012年2月1日起施行。
+— # —

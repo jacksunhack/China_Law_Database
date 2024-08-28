@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广西壮族自治区民族教育促进条例
@@ -83,4 +84,6 @@
 第六章 附则
 
 第三十三条 本条例自2019年1月1日起施行。
+
+- 9 -
 

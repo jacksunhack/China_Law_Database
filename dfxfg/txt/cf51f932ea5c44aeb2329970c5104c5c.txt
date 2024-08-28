@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 昆明市生活垃圾管理条例
@@ -183,3 +184,4 @@
 第八章　附　　则
 ​
 第四十七条　本条例自2023年6月1日起施行。
+－1－　

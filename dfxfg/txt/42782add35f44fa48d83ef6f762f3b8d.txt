@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省东乡族自治县水资源管理条例
@@ -68,3 +70,4 @@
     第三十三条  本条例由自治县人民代表大会常务委员会负责解释。
     第三十四条  本条例自公布之日起施行。
 
+      — 1 —      

@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 甘肃省甘南藏族自治州草原管理办法
@@ -111,3 +113,4 @@
 
 　　第三十七条  本办法由甘南藏族自治州人大常委会负责解释。
 　　第三十八条  本办法自公布之日起施行。　　
+      — 1 —    

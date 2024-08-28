@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 黑龙江省水利工程管理条例
@@ -92,3 +93,4 @@
 　　第四十条　本条例具体应用中的问题由黑龙江省水行政主管部门负责解释。
 　　第四十一条　本条例自1991年10月1日起施行。
 
+1

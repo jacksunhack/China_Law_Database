@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省文化设施条例
@@ -80,3 +81,4 @@
     第三十四条  本条例自2005年3月1日起施行。
 
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市规范城市客运行为若干规定
@@ -33,3 +34,4 @@
     县（市）、上街区范围内的客运行为及其管理活动，参照本规定执行。
 第十六条  本规定自2019年12月1日起施行。
 
+― 1 ―

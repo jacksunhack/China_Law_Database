@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市学前教育管理条例
@@ -105,3 +107,4 @@
 第四十一条　本条例自2004年11月1日起施行。《太原市幼儿教育管理条例》同时废止。
 
 
+- 9 -

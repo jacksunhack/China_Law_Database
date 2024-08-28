@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 内蒙古自治区地质环境保护条例
@@ -79,3 +81,4 @@
 第四十一条　本条例自2021年9月1日起施行。
 
 
+#

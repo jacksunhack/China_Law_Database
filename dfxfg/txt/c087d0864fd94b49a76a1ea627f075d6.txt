@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国教师法》
@@ -49,4 +50,6 @@
 第二十八条  有条件的乡（镇），应建立国家补助、集体支付工资的教师福利基金。
 第二十九条  本规定自公布之日起施行。
 
+
+— 1 —
 

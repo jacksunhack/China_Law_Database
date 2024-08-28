@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 恩施土家族苗族自治州
@@ -94,3 +95,4 @@
 
 　　第二十九条　本条例具体应用中的问题，由自治州人民政府负责解释。
 　　第三十条　本条例自1997年1月1日起施行。
+1

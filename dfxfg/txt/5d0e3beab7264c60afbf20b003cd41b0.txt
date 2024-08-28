@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 巴音郭楞蒙古自治州库尔勒香梨产业
@@ -120,3 +122,4 @@
 第四十六条  本条例自2022年6月13日起施行。
 
 
+#

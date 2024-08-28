@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 龙胜各族自治县龙脊梯田保护条例
@@ -105,3 +106,4 @@
 ​
 第三十三条　自治县行政区域内龙脊梯田风景名胜区保护范围以外区域的梯田保护，参照本条例执行。
 第三十四条　本条例自2024年10月1日起施行。
+－1－　

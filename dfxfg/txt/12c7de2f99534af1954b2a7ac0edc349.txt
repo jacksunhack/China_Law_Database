@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 汕头经济特区小公园开埠区保护条例
@@ -159,3 +160,4 @@
 第五十八条　市人民政府可以根据本条例制定配套措施。
 第五十九条　本条例自2014年6月1日起施行。
 
+1

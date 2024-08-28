@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省渔港管理条例
@@ -55,4 +56,6 @@
 第二十六条  全省内陆渔业水域可参照本条例执行。
 第二十七条  本条例自颁布之日起施行。
 
+
+— 1 —
 

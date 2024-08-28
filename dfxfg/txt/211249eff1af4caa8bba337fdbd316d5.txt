@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 吉林省标准化条例
@@ -128,3 +129,4 @@
 第七章　附　　则
 ​
 第五十六条　本条例自2023年7月1日起施行。
+－1－　

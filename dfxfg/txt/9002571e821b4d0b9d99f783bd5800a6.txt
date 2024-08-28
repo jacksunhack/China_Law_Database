@@ -1,4 +1,5 @@
-﻿ 
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
+ 
 
 江西省赣抚平原灌区管理条例
 
@@ -88,3 +89,5 @@
 第五章  附则
 
 第三十六条  本条例自2002年12月1日起施行。
+
+- 1 -

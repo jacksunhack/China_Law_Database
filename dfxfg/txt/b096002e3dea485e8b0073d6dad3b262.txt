@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 徐州市农业机械安全监督管理条例
@@ -89,3 +91,4 @@
 第六章  附则
 
 第二十三条  本条例自2009年3月1日起施行。
+─ 1 ─  

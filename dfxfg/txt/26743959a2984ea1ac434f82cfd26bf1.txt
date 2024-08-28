@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省《中华人民共和国中小企业
@@ -150,3 +151,4 @@
 第九章  附则
 
 第五十八条  本实施办法自2022年7月 1日起施行。
+— 19 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省预防和查处窃电行为条例
@@ -99,3 +100,4 @@
 
 　　第三十条　本条例所称电力企业是指电网经营企业和供电企业。
 　　第三十一条　本条例自2007年1月1日起施行。
+1

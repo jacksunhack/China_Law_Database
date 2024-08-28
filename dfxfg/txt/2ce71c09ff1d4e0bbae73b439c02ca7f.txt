@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 山东省铁路安全管理条例
@@ -180,3 +181,4 @@
 第六十五条  铁路专用线和专用铁路的安全管理，参照本条例执行。法律、行政法规另有规定的，适用其规定。
 第六十六条  本条例自2021年5月1日起施行。
 
+1

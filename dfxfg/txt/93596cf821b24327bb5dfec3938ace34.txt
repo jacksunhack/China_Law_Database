@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 三沙市西沙群岛水资源节约与保护规定
@@ -54,3 +55,4 @@
 第三十二条  三沙市其他岛礁水资源管理参照本规定执行。
 第三十三条  本规定具体应用问题由三沙市人民政府负责解释。
 第三十四条  本规定自2019年11月30日起施行。
+－7－  

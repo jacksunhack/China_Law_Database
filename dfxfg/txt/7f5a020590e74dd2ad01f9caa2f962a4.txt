@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 青岛市客运出租汽车管理条例
@@ -212,3 +213,4 @@
 
 
 
+- 7 -

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵阳市违法建设查处规定
@@ -72,3 +73,4 @@
 第二十三条　本规定自2023年7月15日起施行。
 
 
+－1－　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 新疆维吾尔自治区计量监督管理条例
@@ -115,3 +116,4 @@
 
 第三十四条　在自治区行政区域内的军队、武警及军工国防企事业单位面向社会从事的生产、经营服务活动中的计量行为适用本条例。
 第三十五条　本条例自2000年12月1日起施行。
+1

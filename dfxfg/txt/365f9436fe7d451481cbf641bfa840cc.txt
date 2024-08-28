@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 福州市环境噪声污染防治若干规定
@@ -66,3 +67,4 @@
 （四）“夜间”：是指二十二时至次日六时。
 第二十六条  本规定自2008年5月1日起施行。
 
+—1—

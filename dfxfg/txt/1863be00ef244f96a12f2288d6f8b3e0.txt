@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 昆明市村务公开条例
@@ -95,3 +96,4 @@
 第二十三条  未完成农村集体产权改制的社区居民委员会、居民小组的政务、财务、事务等事项公开，参照本条例执行。
 第二十四条  本条例自2011年5月1日起施行。
 
+—— 1 ——

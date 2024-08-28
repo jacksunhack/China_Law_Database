@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 淮南市城市建设档案管理条例
@@ -81,3 +82,4 @@
 每年第一季度县城市建设档案管理机构应当向市城市建设档案管理机构报送其上年度城市建设档案电子目录。
 第三十七条  本条例自2017年1月1日起施行。
 
+1

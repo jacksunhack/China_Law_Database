@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 郑州市农村财务管理条例
@@ -130,3 +131,4 @@
 
 第三十八条　市人民政府可根据本条例制定实施细则。
 第三十九条　本条例自1996年4月1日起施行。
+— 4 —

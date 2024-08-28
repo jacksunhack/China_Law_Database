@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江西省森林公园条例
@@ -127,3 +128,4 @@
 
 第四十八条  本条例自2011年1月1日起施行。
 
+- 1 -

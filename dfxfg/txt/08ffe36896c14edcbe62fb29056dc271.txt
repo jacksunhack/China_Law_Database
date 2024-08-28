@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 洛阳市法制宣传教育条例
@@ -51,3 +53,5 @@
 　　第二十三条　本条例自2003年12月4日起施行。
 
 
+  — 1 —   
+     

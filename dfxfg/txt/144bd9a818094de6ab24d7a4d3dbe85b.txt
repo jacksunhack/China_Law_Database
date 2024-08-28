@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 峨边彝族自治县矿产资源管理条例
@@ -115,3 +116,4 @@
 第七章  附  则
 
 第四十一条  本条例经峨边彝族自治县人民代表大会通过，报四川省人大常委会批准，自公布之日起施行。
+— 9 —  

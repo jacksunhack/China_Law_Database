@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 珠海市环境保护条例
@@ -231,3 +233,4 @@
     （二）夜间，是指北京时间晚二十二点以后至次日晨六点以前的期间；
     （三）环境保护主管部门，是指市、区人民政府环境保护主管部门。
     第一百一十七条  本条例自2009年5月1日起施行。
+	— 1 —  

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 广西壮族自治区电梯安全条例
 
@@ -191,4 +192,6 @@
 第八章  附  则
 
 第五十一条  本条例自2019年6月1日起施行。
+
+- 19 -
 

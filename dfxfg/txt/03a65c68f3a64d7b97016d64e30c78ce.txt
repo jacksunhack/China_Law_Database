@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 苏州市养犬管理条例
@@ -181,3 +183,4 @@
 第四十一条  本条例规定由公安机关作出行政处罚决定的，其中警告、五百元以下罚款的行政处罚可以由公安派出所决定。
 第四十二条  本条例自2019年1月1日起施行。 
 
+─ # ─  

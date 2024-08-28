@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 上海市浦东新区绿色金融发展若干规定
@@ -93,3 +94,4 @@
 本规定所称碳排放权，是指分配给重点排放单位的规定时期内的碳排放额度。
 第三十七条  本规定自2022年7月1日起施行。
 
+- 1 -

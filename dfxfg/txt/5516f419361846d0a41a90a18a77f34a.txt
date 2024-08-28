@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 阿拉尔经济技术开发区条例
@@ -46,3 +47,4 @@
 第二十五条  开发区从业人员在落户、子女入学入托、就业、社会保障等方面与阿拉尔市居民享受同等待遇。
 第二十六条  本条例自2016年11月1日起施行。
 
+— 1 —

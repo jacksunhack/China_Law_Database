@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 四川省公民献血条例
@@ -73,3 +75,4 @@
    
 第二十七条  本条例应用中的具体问题，由省卫生行政部门负责解释。
 第二十八条  本条例自1997年1月1日起施行。
+— 3 —

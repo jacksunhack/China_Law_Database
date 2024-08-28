@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 南通市科技创新促进条例
@@ -119,3 +120,4 @@
 第八章　附　　则
 ​
 第五十八条　本条例自2024年1月1日起施行。
+－1－　

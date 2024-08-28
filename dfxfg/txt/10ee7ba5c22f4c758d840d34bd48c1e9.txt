@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 乌鲁木齐市城市道路管理条例
@@ -65,3 +66,4 @@
 （五）徇私舞弊，玩忽职守，滥用职权的其他行为。
 第二十六条  当事人对行政处罚决定不服的，可依法申请行政复议或提起行政诉讼。
 第二十七条  本条例自2002年12月1日起施行。
+— 1 —

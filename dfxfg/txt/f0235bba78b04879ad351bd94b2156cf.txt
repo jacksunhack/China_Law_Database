@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 邢台市城市市容和环境卫生管理条例
@@ -151,3 +152,4 @@
 第七章　附　　则
 ​
 第六十二条　本条例自2023年5月1日起施行。
+－1－　

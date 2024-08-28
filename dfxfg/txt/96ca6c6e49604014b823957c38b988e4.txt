@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 绵阳市文明行为促进条例
@@ -216,3 +218,4 @@
 
 第四十七条 本条例自2021年6月1日起施行。
 
+— # —  

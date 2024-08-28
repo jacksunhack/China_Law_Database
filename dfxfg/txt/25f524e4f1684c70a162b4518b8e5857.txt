@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 海南省科学技术协会条例
@@ -50,3 +52,4 @@
 
 
 
+- 4 -

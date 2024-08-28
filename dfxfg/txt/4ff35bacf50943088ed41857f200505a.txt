@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 商丘市中小学校幼儿园规划建设条例
@@ -138,3 +139,4 @@
 ​
 第四十一条　商丘市城乡一体化示范区管委会根据市人民政府的授权，依照本条例做好本辖区内中小学校、幼儿园规划建设的相关工作。
 第四十二条　本条例自2024年3月1日起施行。
+－1－　

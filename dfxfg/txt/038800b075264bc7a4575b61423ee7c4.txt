@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广东省城市绿化条例
@@ -136,3 +137,4 @@
 
     第四十二条  本条例自2000年1月1日起施行。
 
+- 1 - 

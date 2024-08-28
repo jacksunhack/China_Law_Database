@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 广州市内部审计条例
@@ -75,3 +76,4 @@
 第二十七条　本条例自2002年7月1日起施行。
 
 
+- 1 - 

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 芜湖市优化营商环境条例
 
@@ -107,3 +108,4 @@
 第七章  附    则
 
 第三十四条  本条例自2023年7月1日起施行。
+— 1 —

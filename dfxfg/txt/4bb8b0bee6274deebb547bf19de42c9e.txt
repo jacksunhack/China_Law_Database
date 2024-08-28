@@ -1,3 +1,5 @@
+﻿
+Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 江苏省机动车排气污染防治条例
@@ -119,3 +121,4 @@
 第四十一条  本条例自2014年3月1日起施行。
 
 
+─ # ─  

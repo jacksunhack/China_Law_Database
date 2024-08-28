@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省散居少数民族工作条例
@@ -128,3 +129,4 @@
 第八章　附则
 
 　　第四十七条　本条例自公布之日起施行。
+1

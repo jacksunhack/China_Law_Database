@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吴忠市人民代表大会及其常务委员会
@@ -100,4 +101,6 @@
 第六章   附   则
 
 第四十二条  本规定自公布之日起施行。
+
+
 

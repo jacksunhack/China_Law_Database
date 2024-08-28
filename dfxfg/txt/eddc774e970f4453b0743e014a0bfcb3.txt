@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖北省分洪区安全建设与管理条例
@@ -96,3 +97,4 @@
 第七章　附则
 
 　　第三十八条　本条例自发布之日起施行。省内有关规定与本条例相抵触的，按本条例执行。
+1

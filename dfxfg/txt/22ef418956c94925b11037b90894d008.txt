@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 大连市建筑市场管理条例
@@ -102,3 +103,4 @@
 
 第三十五条  本条例自1996年4月1日起施行。
 
+1

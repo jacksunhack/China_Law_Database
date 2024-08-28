@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 浙江省鉴湖水域保护条例
@@ -44,3 +45,4 @@
 　　第十九条　本条例自1988年9月1日起施行。
 
 
+— 1—

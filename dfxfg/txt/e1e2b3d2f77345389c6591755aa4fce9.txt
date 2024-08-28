@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 贵州省优化营商环境条例
@@ -208,3 +209,4 @@
 第七章  附  则
 第八十条  本条例自2022年1月1日起施行。2017年9月30日贵州省第十二届人民代表大会常务委员会第三十一次会议通过的《贵州省外来投资服务和保障条例》同时废止。
 
+— 1 —

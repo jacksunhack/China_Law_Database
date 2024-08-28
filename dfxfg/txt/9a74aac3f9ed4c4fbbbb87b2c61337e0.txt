@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 太原市立法条例
@@ -163,3 +164,4 @@
 第九章　附则
 
 第七十二条　本条例自公布之日起施行。1988年12月29日市人民代表大会常务委员会通过1998年2月27日修正的《太原市人大常委会制定地方性法规的程序》同时废止。
+#　

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 临汾市农村环境卫生综合治理促进条例
 
@@ -135,3 +136,4 @@
 第五十二条  本条例自2020年7月1日起实施。
 
 
+1

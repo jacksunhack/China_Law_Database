@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 呼和浩特市殡葬管理条例
@@ -139,3 +140,4 @@
 第五十六条　市人民政府可以根据本条例制定相关规定。
 第五十七条　本条例自2008年8月10日起施行。
 
+#

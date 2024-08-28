@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 赣州市文明行为促进条例
@@ -209,4 +210,6 @@
 
 
 
+
+- 1 -
 

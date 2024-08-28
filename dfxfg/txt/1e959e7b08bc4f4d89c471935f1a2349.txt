@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 衡水市养犬管理条例
@@ -115,3 +116,4 @@
 第四十二条 本条例关于县（市、区）人民政府的规定，适用于高新技术开发区管委会和滨湖新区管委会。 
 第四十三条 本条例自2020年3月1日起施行。 
 
+- # -

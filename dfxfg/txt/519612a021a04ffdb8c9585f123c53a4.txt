@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 湖南省电力设施保护和供用电秩序维护条例
@@ -166,3 +167,4 @@
 
 第四十八条  本条例自2009年1月1日起施行。
 
+— 17 —

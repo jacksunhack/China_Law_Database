@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 辽宁省实施《中华人民共和国
@@ -84,4 +85,6 @@
 第二十一条  本办法由各级人民政府组织实施，民政部门负责具体工作。
 第二十二条  本办法自公布之日起施行。《辽宁省实施〈中华人民共和国村民委员会组织法（试行）〉办法》同时废止。
 
+
+— 1 —
 

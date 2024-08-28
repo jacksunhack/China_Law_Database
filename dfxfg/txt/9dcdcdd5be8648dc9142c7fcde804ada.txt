@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 菏泽市儿童友好城市建设促进条例
@@ -78,3 +79,4 @@
 
 
 
+1

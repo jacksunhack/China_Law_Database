@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 吉林省无规定动物疫病区建设管理条例
@@ -184,3 +185,4 @@
 第十章　附则
 
 第六十六条　本条例自2011年8月1日起施行。
+— 19 —

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 ​
 安徽省实施《中华人民共和国水法》办法
@@ -142,3 +143,4 @@
 ​
 第五十条　本办法所称中水，是指污水经处理后达到一定的水质标准，可在一定范围内重复使用的非饮用水。
 第五十一条　本办法自2004年3月22日起施行。
+－1－　

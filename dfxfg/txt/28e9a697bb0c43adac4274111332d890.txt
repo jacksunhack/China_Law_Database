@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 呼和浩特市大气污染防治管理条例
 
@@ -114,3 +115,4 @@
 第七章　附　则
 第四十七条　本条例自2001年2月1日起施行。1992年6月19日内蒙古自治区第七届人民代表大会常务委员会批准的《呼和浩特市大气污染防治管理办法》同时废止。
 
+#

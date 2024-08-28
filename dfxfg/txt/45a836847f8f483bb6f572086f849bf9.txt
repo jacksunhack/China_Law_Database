@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省中小企业促进条例
@@ -121,3 +122,4 @@
 
    第四十九条  本条例所称中小企业，是指在本省行政区域内依法设立，职工人数、销售额、资产总额等指标符合国家中小企业划分标准的各类企业。
 第五十条　本条例自2006年12月1日起施行。
+— 1 —

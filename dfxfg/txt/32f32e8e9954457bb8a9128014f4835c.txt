@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 安徽省大气污染防治条例
@@ -250,3 +251,4 @@
 
 第一百零二条  本条例自2015年3月1日起施行。
 
+1

@@ -1,3 +1,4 @@
+﻿Evaluation Warning: The document was created with Spire.Doc for Python.
 
 
 和布克赛尔蒙古自治县草原生态保护条例
@@ -70,3 +71,4 @@
 第三十四条  本条例自2007年9月1日起施行。
 
 
+- 1 -
