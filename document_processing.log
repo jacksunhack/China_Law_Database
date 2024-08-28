@@ -1,0 +1,48 @@
+2024-08-28 09:13:32,751 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0000f55e366447b795710df69f721f49.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:32,927 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000565242f2d4ea58b1b3380dba8e9c9.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:33,109 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00087fe10e7c45be8e383d025bc3f696.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:33,285 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0009ad627e2a442087924bcc3e9a59ed.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:33,452 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000b40a1063041f8b2234cf66909676d.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:33,587 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000eac7e9ee7461f94f90373fcdec945.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:33,759 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00165bbb80454e1aac99eeaab3f3d4b1.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:33,897 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0019ea58947541b89375f041c16b6dd4.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:34,043 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\001f049ecc76410a9189ebb32746e36e.doc, 错误: Open.ProtectionType
+2024-08-28 09:13:34,177 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0021eadbda5c4a20b1bb0f3f632e22a3.docx, 错误: Open.ProtectionType
+2024-08-28 09:13:34,177 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0000f55e366447b795710df69f721f49.docx
+2024-08-28 09:13:34,177 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000565242f2d4ea58b1b3380dba8e9c9.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00087fe10e7c45be8e383d025bc3f696.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0009ad627e2a442087924bcc3e9a59ed.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000b40a1063041f8b2234cf66909676d.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000eac7e9ee7461f94f90373fcdec945.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00165bbb80454e1aac99eeaab3f3d4b1.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0019ea58947541b89375f041c16b6dd4.docx
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\001f049ecc76410a9189ebb32746e36e.doc
+2024-08-28 09:13:34,178 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0021eadbda5c4a20b1bb0f3f632e22a3.docx
+2024-08-28 09:13:38,989 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00247548b19949f18e8611cd8e72601c.docx
+2024-08-28 09:13:39,263 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0024eeffa053457492ecbf29f99a0f98.doc
+2024-08-28 09:13:39,696 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\002620922d064f30bffe5495cb715e87.doc
+2024-08-28 09:13:40,015 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\003504ba0fcf4f4f9af2902fdf68f9cd.docx
+2024-08-28 09:14:28,240 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0000f55e366447b795710df69f721f49.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:28,410 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000565242f2d4ea58b1b3380dba8e9c9.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:28,557 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00087fe10e7c45be8e383d025bc3f696.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:28,710 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0009ad627e2a442087924bcc3e9a59ed.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:28,886 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000b40a1063041f8b2234cf66909676d.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:29,035 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000eac7e9ee7461f94f90373fcdec945.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:29,190 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00165bbb80454e1aac99eeaab3f3d4b1.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:29,322 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0019ea58947541b89375f041c16b6dd4.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:29,472 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\001f049ecc76410a9189ebb32746e36e.doc, 错误: Open.ProtectionType
+2024-08-28 09:14:29,581 - ERROR - 处理文档时出错: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0021eadbda5c4a20b1bb0f3f632e22a3.docx, 错误: Open.ProtectionType
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0000f55e366447b795710df69f721f49.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000565242f2d4ea58b1b3380dba8e9c9.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00087fe10e7c45be8e383d025bc3f696.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0009ad627e2a442087924bcc3e9a59ed.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000b40a1063041f8b2234cf66909676d.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\000eac7e9ee7461f94f90373fcdec945.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00165bbb80454e1aac99eeaab3f3d4b1.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0019ea58947541b89375f041c16b6dd4.docx
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\001f049ecc76410a9189ebb32746e36e.doc
+2024-08-28 09:14:29,582 - WARNING - 无法处理文档: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0021eadbda5c4a20b1bb0f3f632e22a3.docx
+2024-08-28 09:14:34,500 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\00247548b19949f18e8611cd8e72601c.docx
+2024-08-28 09:14:34,790 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\0024eeffa053457492ecbf29f99a0f98.doc
+2024-08-28 09:14:35,239 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\002620922d064f30bffe5495cb715e87.doc
+2024-08-28 09:14:35,540 - INFO - 文档未受保护，跳过: C:/Users/f1TZOF-/Downloads/China_Law_Database/dfxfg/word\003504ba0fcf4f4f9af2902fdf68f9cd.docx
