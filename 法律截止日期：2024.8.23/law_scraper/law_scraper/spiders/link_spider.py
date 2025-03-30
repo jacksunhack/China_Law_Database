@@ -164,7 +164,7 @@ class LinkSpider(scrapy.Spider):
         next_button_selector = 'a.layui-laypage-next'
         try:
             WebDriverWait(self.driver, 5).until(
-                 EC.presence_of_element_located((By.CSS_SELECTOR, next_button_selector))
+                EC.presence_of_element_located((By.CSS_SELECTOR, next_button_selector))
             )
             next_page_button = self.driver.find_element(By.CSS_SELECTOR, next_button_selector)
 
@@ -177,29 +177,32 @@ class LinkSpider(scrapy.Spider):
             try:
                 self.driver.execute_script("arguments[0].scrollIntoView(true);", next_page_button)
                 time.sleep(0.5)
-            except Exception as scroll_err: 
-                logger.warning(f"Could not scroll to next button: {scroll_err}")
-            
-            next_page_button.click()
-            logger.info(f"Clicked next page button for page {self.page_number}.")
+                next_page_button.click()
+            except StaleElementReferenceException as stale_err:
+                logger.warning(f"Next page button became stale: {stale_err}. Retrying...")
+                next_page_button = self.driver.find_element(By.CSS_SELECTOR, next_button_selector)
+                next_page_button.click()
+            except Exception as click_err:
+                logger.error(f"Error clicking next page button: {click_err}")
+                return
+
             self.page_number += 1  # Increment page number after click
 
             # Wait for the page to reload
             wait_timeout = 20
             logger.info(f"Waiting up to {wait_timeout}s for pagination controls to reload...")
-            wait_succeeded = False
             try:
                 WebDriverWait(self.driver, wait_timeout).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, next_button_selector))
                 )
                 logger.info("Pagination controls (next button) re-appeared in DOM.")
                 time.sleep(2)  # Increased wait time
-                
+
                 # Additional wait for table rows to load
                 WebDriverWait(self.driver, 10).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, "table.list-box"))
                 )
-                
+
                 # Check if next button is now disabled
                 current_next_button = self.driver.find_element(By.CSS_SELECTOR, next_button_selector)
                 current_classes = current_next_button.get_attribute('class') or ""
@@ -207,32 +210,30 @@ class LinkSpider(scrapy.Spider):
                     logger.info(f"Next page button re-appeared but is now disabled on page {self.page_number}. Reached the last page.")
                     return
                 else:
-                     logger.info(f"Next page button re-appeared and is not disabled on page {self.page_number}.")
-                     wait_succeeded = True
-            except TimeoutException: 
-                logger.warning(f"Timed out waiting for next button to re-appear after {wait_timeout}s. Assuming end."); 
+                    logger.info(f"Next page button re-appeared and is not disabled on page {self.page_number}.")
+            except TimeoutException:
+                logger.warning(f"Timed out waiting for next button to re-appear after {wait_timeout}s. Assuming end.")
                 return
-            except Exception as e: 
-                logger.error(f"Unexpected error during pagination presence wait: {e}"); 
+            except Exception as e:
+                logger.error(f"Unexpected error during pagination presence wait: {e}")
                 return
 
-            if wait_succeeded:
-                 # Give extra time for data to fully load
-                 additional_wait = 5  # Increased from 2s to 5s
-                 logger.info(f"Adding additional sleep of {additional_wait}s for data table to load...")
-                 time.sleep(additional_wait)
+            # Give extra time for data to fully load
+            additional_wait = 5  # Increased from 2s to 5s
+            logger.info(f"Adding additional sleep of {additional_wait}s for data table to load...")
+            time.sleep(additional_wait)
 
-                 # Check for visible data before continuing
-                 try:
-                     rows = self.driver.find_elements(By.CSS_SELECTOR, 'tr.list-b')
-                     visible_rows = [row for row in rows if row.is_displayed()]
-                     logger.info(f"Found {len(visible_rows)} visible rows after additional wait")
-                 except Exception as e:
-                     logger.warning(f"Error checking visible rows: {e}")
+            # Check for visible data before continuing
+            try:
+                rows = self.driver.find_elements(By.CSS_SELECTOR, 'tr.list-b')
+                visible_rows = [row for row in rows if row.is_displayed()]
+                logger.info(f"Found {len(visible_rows)} visible rows after additional wait")
+            except Exception as e:
+                logger.warning(f"Error checking visible rows: {e}")
 
-                 logger.info(f"Yielding request to re-parse URL after pagination to page {self.page_number}: {response.url}")
-                 new_meta = response.meta.copy()
-                 yield scrapy.Request(url=response.url, callback=self.parse, meta=new_meta, dont_filter=True)
+            logger.info(f"Yielding request to re-parse URL after pagination to page {self.page_number}: {response.url}")
+            new_meta = response.meta.copy()
+            yield scrapy.Request(url=response.url, callback=self.parse, meta=new_meta, dont_filter=True)
 
         except NoSuchElementException: 
             logger.info(f"Could not find the next page button on page {self.page_number}. Reached the end.")
